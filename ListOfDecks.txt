@@ -36,6 +36,10 @@ Eventide
 ShardsOfAlara
 Conflux
 AlaraReborn
+Seventh
+Eighth
+Ninth
+Tenth
 Zendikar
 Worldwake
 RiseOfTheEldrazi
@@ -43,7 +47,3 @@ ScarsOfMirrodin
 MirrodinBesieged
 NewPhyrexia
 Innistrad
-Seventh
-Eighth
-Ninth
-Tenth
