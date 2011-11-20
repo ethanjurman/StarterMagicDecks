@@ -27,6 +27,7 @@ def downloadURL(theme, url):
     #use wget to download file
     os.popen("wget "+url)
     #wait until file is downloaded (wget runs in background)
+    c = False
     while not (c):
         for i in os.listdir():
             c = c or theme in i
@@ -44,6 +45,8 @@ def writeDecks(theme, fileName):
     cFile = None
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
+            deckName = lines[(lines.index('>')+1):(lines.index('</a>'))]
+            print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
             cFile = open(theme+'_'+deckName+'.dek', 'w')
@@ -60,7 +63,7 @@ def writeDecks(theme, fileName):
     #loop until end of file
 
     #delete html file (fileName)
-    os.popen("rm "+fileName)
+    #os.popen("rm "+fileName)
 
 if(__name__=='__main__'):
     deckDownloader("ListOfThemes.txt")
