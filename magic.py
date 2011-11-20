@@ -1,18 +1,13 @@
 import os
 
-def deckUrl(theme, n):
+def deckUrl(theme):
     """ string, string -> string """
-    return('http://www.wizards.com/magic/displaythemedeck.asp?set=' + theme +'&decknum='+ n +'&lang=en')
+    return('http://www.wizards.com/magic/tcg/productarticle.aspx?x=mtg_tcg_'+theme+'_themedeck')
 
 def downloadDeck(url):
     """ string -> None """
     print("PRESS ENTER WHEN DOWNLOAD HAS FINISHED")
     os.popen("wget "+ url)
-
-def downloadTheme(theme):
-    """ string -> None """
-    for i in range(0, 4):
-        downloadDeck(deckUrl(theme, i))
 
 def convertDeck(file):
     """ file -> none """
