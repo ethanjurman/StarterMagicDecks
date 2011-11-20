@@ -12,7 +12,7 @@ Planeshift
 Apocalypse
 Odyssey
 Torment
-Judgement
+Judgment
 Onslaught
 Legions
 Scourage
