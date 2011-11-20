@@ -1,3 +1,5 @@
+import os
+
 def deckDownloader(listOfThemes):
     """ string -> None 
     pre-condition: listOfThemes is a fileName
@@ -19,8 +21,10 @@ def downloadURL(url):
     post-condition: creates a html file 
                     returns a fileName"""
     #use wget to download file
+    os.popen("wget "+url)
     #return fileName
-    pass
+    for i in os.listdir()
+        if("productarticle" in i): return i
 
 def writeDecks(theme, fileName):
     """ string, string -> None
