@@ -32,6 +32,8 @@ def downloadURL(theme, url):
         for i in os.listdir():
             c = c or theme in i
     print(os.listdir())
+    print("Waiting 2 seconds")
+    time.sleep(2)
     for i in os.listdir():
         #return fileName
         if("productarticle" in i): return i
@@ -43,6 +45,7 @@ def writeDecks(theme, fileName):
                     deletes html file"""
     #iterate through lines until we see a deck name
     cFile = None
+    print("FILE NAME :::::::::::::::::::::::" + fileName)
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
             deckName = lines[(lines.index('>')+1):(lines.index('</a>'))]
