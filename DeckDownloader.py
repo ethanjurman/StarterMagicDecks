@@ -1,19 +1,23 @@
 import os
+import time
 
 def deckDownloader(listOfThemes):
     """ string -> None 
     pre-condition: listOfThemes is a fileName
     post-condition: creates text files that can be read by Lackey """
     #iterate through the list of themes
-    for theme in listOfThemes:
-        writeDeck(theme, downloadURL(generateURL(theme)))
+    for theme in open(listOfThemes):
+        theme = theme.strip()
+        gURL = generateURL(theme)
+        dURL = downloadURL(gURL)
+        writeDecks(theme, dURL)
 
 def generateURL(theme):
     """ string -> string 
     pre-condition: theme is a magic theme
     post-condition: returns a valid URL """
     #append string to pre-existing string
-    pass
+    return str("http://wizards.com/magic/tcg/productarticle.aspx?x=mtg_tcg_"+ theme +"_themedeck")
 
 def downloadURL(url):
     """ string -> string
@@ -22,8 +26,15 @@ def downloadURL(url):
                     returns a fileName"""
     #use wget to download file
     os.popen("wget "+url)
-    #return fileName
-    for i in os.listdir()
+    c = False
+    #wait until file is downloaded (wget runs in background)
+    while not (c):
+        for i in os.listdir():
+            c = c or "productarticle" in i
+    print("waiting 2 seconds")
+    time.sleep(2)
+    for i in os.listdir():
+        #return fileName
         if("productarticle" in i): return i
 
 def writeDecks(theme, fileName):
@@ -33,15 +44,17 @@ def writeDecks(theme, fileName):
                     deletes html file"""
     #iterate through lines until we see a deck name
     cFile = None
-    for lines in fileName:
+    for lines in open(fileName):
         if ( '<a name="deck' in lines ):
-            deckName = lines[(lines.index('<a name="deck')+3):(lines.index('</a>'))]
+            deckName = lines[(lines.index('<a name="deck')+16):(lines.index('</a>'))]
+            print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
             cFile = open(theme+'_'+deckName+'.dek', 'w')
     #add cards to deck file until we see another deck name
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('<td class="col1">')):(lines.index('</td>'))]
+        elif ( '<a class="nodec" name="' in lines ):
             nameCard = lines[(lines.index('<a class="nodec" name="')):(lines.index('</a>'))]
             cFile.write(numbersCard+"\t"+nameCard+"\n")
     #loop until end of file
@@ -49,4 +62,5 @@ def writeDecks(theme, fileName):
     #delete html file (fileName)
     os.popen("rm "+fileName)
 
-
+if(__name__=='__main__'):
+    deckDownloader("ListOfThemes.txt")
