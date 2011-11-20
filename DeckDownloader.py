@@ -27,13 +27,14 @@ def downloadURL(theme, url):
     #use wget to download file
     os.popen("wget "+url)
     #wait until file is downloaded (wget runs in background)
+    c = False
     while not (c):
         for i in os.listdir():
             c = c or theme in i
     print(os.listdir())
     for i in os.listdir():
         #return fileName
-        if("productarticle" in i): return i
+        if(theme in i and 'productarticle' in i): return i
 
 def writeDecks(theme, fileName):
     """ string, string -> None
