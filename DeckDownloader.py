@@ -9,7 +9,7 @@ def deckDownloader(listOfThemes):
     for theme in open(listOfThemes):
         theme = theme.strip()
         gURL = generateURL(theme)
-        dURL = downloadURL(gURL)
+        dURL = downloadURL(theme, gURL)
         writeDecks(theme, dURL)
 
 def generateURL(theme):
@@ -19,20 +19,18 @@ def generateURL(theme):
     #append string to pre-existing string
     return str("http://wizards.com/magic/tcg/productarticle.aspx?x=mtg_tcg_"+ theme +"_themedeck")
 
-def downloadURL(url):
-    """ string -> string
+def downloadURL(theme, url):
+    """ string, string -> string
     pre-condition: url is a valid url
     post-condition: creates a html file 
                     returns a fileName"""
     #use wget to download file
     os.popen("wget "+url)
-    c = False
     #wait until file is downloaded (wget runs in background)
     while not (c):
         for i in os.listdir():
-            c = c or "productarticle" in i
-    print("waiting 2 seconds")
-    time.sleep(2)
+            c = c or theme in i
+    print(os.listdir())
     for i in os.listdir():
         #return fileName
         if("productarticle" in i): return i
