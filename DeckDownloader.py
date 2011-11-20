@@ -53,9 +53,13 @@ def writeDecks(theme, fileName):
             cFile = open(theme+'_'+deckName+'.dek', 'w')
     #add cards to deck file until we see another deck name
         elif ( '<td class="col1">' in lines ):
-            numbersCard = lines[(lines.index('<td class="col1">')):(lines.index('</td>'))]
+            numbersCard = lines[(lines.index('>')+2):(lines.index('<'))]
         elif ( '<a class="nodec" name="' in lines ):
-            nameCard = lines[(lines.index('<a class="nodec" name="')):(lines.index('</a>'))]
+            nameCard = lines[(lines.index('()">')):(lines.index('</a>'))]
+            cFile.write(numbersCard+"\t"+nameCard+"\n")
+        elif ( '</a><br />' in lines ):
+            numbersCard = lines[(lines.index('br />')):]
+            nameCard = lines[(lines.index('>')):(lines.index('<'))]
             cFile.write(numbersCard+"\t"+nameCard+"\n")
     #loop until end of file
 
