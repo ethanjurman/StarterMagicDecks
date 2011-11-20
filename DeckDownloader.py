@@ -63,7 +63,7 @@ def writeDecks(theme, fileName):
     #loop until end of file
 
     #delete html file (fileName)
-    #os.popen("rm "+fileName)
+    os.popen("rm "+fileName)
 
 if(__name__=='__main__'):
     deckDownloader("ListOfThemes.txt")
