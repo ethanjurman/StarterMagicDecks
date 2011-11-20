@@ -46,7 +46,6 @@ def writeDecks(theme, fileName):
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
             deckName = lines[(lines.index('<a name="deck')+16):(lines.index('</a>'))]
-            print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
             cFile = open(theme+'_'+deckName+'.dek', 'w')
