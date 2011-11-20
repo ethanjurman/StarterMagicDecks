@@ -1,3 +1,5 @@
+import os
+
 def deckDownloader(listOfThemes):
     """ string -> None 
     pre-condition: listOfThemes is a fileName
@@ -28,10 +30,16 @@ def writeDecks(theme, fileName):
     post-condition: creates LackeyCCG deck files
                     deletes html file"""
     #iterate through lines until we see a deck name
+    for lines in fileName:
+        if ( '<a name="deck' in lines ):
+            deckName = lines[(lines.index('<a name="deck')+3):(lines.index('</a>'))]
     #create a LackeyCCG deck file
     #add cards to deck file until we see another deck name
+        elif ( '<td class="col1">' in lines ):
+            numbersCard = lines[(lines.index('<td class="col1">')):(lines.index('</td>'))]
+            nameCard = lines[(lines.index('<a class="nodec" name="')):(lines.index('</a>'))]
     #loop until end of file
     #delete html file (fileName)
-    pass
+    
 
 
