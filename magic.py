@@ -9,4 +9,14 @@ def downloadDeck(url):
     print("PRESS ENTER WHEN DOWNLOAD HAS FINISHED")
     os.popen("wget "+ url)
 
-downloadDeck("http://i.imgur.com/VYY74.gif")
+def convertDeck(file):
+    """ file -> none """
+    for line in open(file):
+        if ( '<a name="deck' in line ):
+            print(line[line.index('>'):line.index('</a>')])
+        elif ( '<td class="col1">' in line ):
+            print( line[line.index('<td class="col1">'):line.index('</td>')] )
+        elif ( '<a class="nodec" name="' in line ):
+            print( line[line.index('<a class="nodec" name="'):line.index('" on')] )
+        else:
+            pass
