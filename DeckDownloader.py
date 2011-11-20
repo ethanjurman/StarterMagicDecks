@@ -32,6 +32,7 @@ def downloadURL(theme, url):
         for i in os.listdir():
             c = c or theme in i
     print(os.listdir())
+    time.sleep(2)
     for i in os.listdir():
         #return fileName
         if("productarticle" in i): return i
@@ -47,11 +48,11 @@ def writeDecks(theme, fileName):
     cFile = None
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
-            deckName = lines[(lines.index('>')+1):(lines.index('<'))]
+            deckName = lines[(lines.index('>')+1):(lines.index('</'))]
             print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
-            cFile = open(theme+'_'+deckName+'.dek', 'w')
+            cFile = open(theme+'_'+deckName+'.txt', 'w')
     #add cards to deck file until we see another deck name
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
@@ -59,10 +60,15 @@ def writeDecks(theme, fileName):
             nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))]
             nameCard = nameCard.replace('*', '')
             cFile.write(numbersCard+"\t"+nameCard+"\n")
-        elif ( '</a><br />' in lines ):
-            numbersCard = lines[(lines.index('br />')):]
-            nameCard = lines[(lines.index('>')):(lines.index('<'))]
+        elif ( '<td valign="top" width="185">' in lines ):
+            numbersCard = lines[(lines.index('>')+1):]
+        elif ( '</a><br />' in lines ):  
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))]
             cFile.write(numbersCard+"\t"+nameCard+"\n")
+            if ('<br /><br />' in lines):
+                numbersCard = lines[(lines.index('<br /><br />')+12):]
+            else:
+                numbersCard = lines[(lines.index('br />')+5):]
     #loop until end of file
 
     #delete html file (fileName)
