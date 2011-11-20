@@ -32,8 +32,6 @@ def downloadURL(theme, url):
         for i in os.listdir():
             c = c or theme in i
     print(os.listdir())
-    print("Waiting 2 seconds")
-    time.sleep(2)
     for i in os.listdir():
         #return fileName
         if("productarticle" in i): return i
@@ -47,7 +45,6 @@ def writeDecks(theme, fileName):
     print(theme)
     print(fileName)
     cFile = None
-    print("FILE NAME :::::::::::::::::::::::" + fileName)
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
             deckName = lines[(lines.index('>')+1):(lines.index('<'))]
@@ -59,7 +56,8 @@ def writeDecks(theme, fileName):
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
         elif ( '<a class="nodec" name="' in lines ):
-            nameCard = lines[(lines.index('()">')):(lines.index('</a>'))]
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))]
+            nameCard = nameCard.replace('*', '')
             cFile.write(numbersCard+"\t"+nameCard+"\n")
         elif ( '</a><br />' in lines ):
             numbersCard = lines[(lines.index('br />')):]
