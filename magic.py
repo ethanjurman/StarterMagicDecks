@@ -9,4 +9,8 @@ def downloadDeck(url):
     print("PRESS ENTER WHEN DOWNLOAD HAS FINISHED")
     os.popen("wget "+ url)
 
-downloadDeck("http://i.imgur.com/VYY74.gif")
+def downloadTheme(theme):
+    """ string -> None """
+    for i in range(0, 4):
+        downloadDeck(deckUrl(theme, i))
+
