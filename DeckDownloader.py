@@ -57,18 +57,18 @@ def writeDecks(theme, fileName):
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
         elif ( '<a class="nodec" name="' in lines ):
-            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))]
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip()
             nameCard = nameCard.replace('*', '')
             cFile.write(numbersCard+"\t"+nameCard+"\n")
         elif ( '<td valign="top" width="185">' in lines ):
-            numbersCard = lines[(lines.index('>')+1):]
+            numbersCard = lines[(lines.index('>')+1):].strip()
         elif ( '</a><br />' in lines ):  
-            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))]
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip()
             cFile.write(numbersCard+"\t"+nameCard+"\n")
             if ('<br /><br />' in lines):
-                numbersCard = lines[(lines.index('<br /><br />')+12):]
+                numbersCard = lines[(lines.index('<br /><br />')+12):].strip()
             else:
-                numbersCard = lines[(lines.index('br />')+5):]
+                numbersCard = lines[(lines.index('br />')+5):].strip()
     #loop until end of file
 
     #delete html file (fileName)
