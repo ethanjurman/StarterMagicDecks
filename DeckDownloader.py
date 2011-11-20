@@ -42,10 +42,12 @@ def writeDecks(theme, fileName):
     post-condition: creates LackeyCCG deck files
                     deletes html file"""
     #iterate through lines until we see a deck name
+    print(theme)
+    print(fileName)
     cFile = None
     for lines in open(fileName):
         if ( '<a name="deck' in lines ):
-            deckName = lines[(lines.index('>')+1):(lines.index('</a>'))]
+            deckName = lines[(lines.index('>')+1):(lines.index('<'))]
             print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
