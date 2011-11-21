@@ -43,6 +43,11 @@ Tenth
 Zendikar
 Worldwake
 RiseOfTheEldrazi
+Mirage
+Visions
+Weatherlight
+Planechase
+Archenemy
 ScarsOfMirrodin
 MirrodinBesieged
 NewPhyrexia
