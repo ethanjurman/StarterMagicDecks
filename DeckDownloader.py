@@ -61,7 +61,8 @@ def deckDownloader(listOfThemes):
         theme = theme.strip()
         gURL = generateURL(theme)
         dURL = downloadURL(theme, gURL)
-        writeDecks(theme, dURL)
+        listOfCards = makeListOfCards()
+        writeDecks(theme, dURL, listOfCards)
 
 def generateURL(theme):
     """ string -> string 
@@ -88,8 +89,8 @@ def downloadURL(theme, url):
         #return fileName
         if("productarticle" in i): return i
 
-def writeDecks(theme, fileName):
-    """ string, string -> None
+def writeDecks(theme, fileName, listOfCards):
+    """ string, string, list -> None
     pre-condition: an html file has been downloaded for the theme
     post-condition: creates LackeyCCG deck files
                     deletes html file"""
@@ -110,11 +111,13 @@ def writeDecks(theme, fileName):
         elif ( '<a class="nodec" name="' in lines ):
             nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
             nameCard = nameCard.replace('*', '') #changing the * postfix to null (indecates a non-new card)
+            nameCard = spellChecker(nameCard, listOfCards)
             cFile.write(numbersCard+"\t"+nameCard+"\n")
         elif ( '<td valign="top" width="185">' in lines ):
             numbersCard = lines[(lines.index('>')+1):].strip()
         elif ( '</a><br />' in lines ):  
             nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
+            nameCard = spellChecker(nameCard, listOfCards)
             cFile.write(numbersCard+"\t"+nameCard+"\n")
             if ('<br /><br />' in lines):
                 numbersCard = lines[(lines.index('<br /><br />')+12):].strip()
