@@ -1,3 +1,4 @@
+"""DeckDownloader, created by Ethanvampirehntr and JRJurman (mostly JRJurman) """
 import os
 import time
 
@@ -57,13 +58,13 @@ def writeDecks(theme, fileName):
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
         elif ( '<a class="nodec" name="' in lines ):
-            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip()
-            nameCard = nameCard.replace('*', '')
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
+            nameCard = nameCard.replace('*', '') #changing the * postfix to null (indecates a non-new card)
             cFile.write(numbersCard+"\t"+nameCard+"\n")
         elif ( '<td valign="top" width="185">' in lines ):
             numbersCard = lines[(lines.index('>')+1):].strip()
         elif ( '</a><br />' in lines ):  
-            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip()
+            nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
             cFile.write(numbersCard+"\t"+nameCard+"\n")
             if ('<br /><br />' in lines):
                 numbersCard = lines[(lines.index('<br /><br />')+12):].strip()
