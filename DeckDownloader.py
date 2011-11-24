@@ -1,6 +1,56 @@
-"""DeckDownloader, created by Ethanvampirehntr and JRJurman (mostly JRJurman) """
+"""DeckDownloader, created by Ethanvampirehntr and JRJurman (mostly JRJurman)
+This program assumes you have internet connection and that it resides in the LackeyCCG/plugins/magic folder alongside a 'decks' folder and a 'sets' folder"""
+
 import os
 import time
+
+def makeListOfCards():
+    """ None -> List
+    pre-condition: none
+    post-condition: Creates a list with the most updated LackeyCCG list of cards spelled correctly"""
+
+    listOfCards = []
+    for sets in os.listdir("sets/"):
+        for lines in open("sets/"+sets):
+            cardName = lines.split("\t")[0]
+            if cardName == "Name":
+                pass
+            elif cardName in ListOfCards:
+                pass
+            else:
+                listOfCards.append(cardName)
+
+    return listOfCards
+
+def spellChecker(cardName, listOfCards):
+    """ string, list -> string
+    pre-condition: None
+    post-condition: returns a correctly spelled cardName """
+    if( cardName in listOfCards ):
+        return cardName #card is spelled Correctly
+    else:
+        leftCounter = 0
+        while cardName[0:leftCounter] in listOfCards
+            leftCounter += 1 #add begining characters
+        leftCounter -= 1
+        likelike = []
+        for name in listOfCards:
+            if(cardName[0:leftCounter] in name):
+                likelike.append(name)
+        if(len(likelike) == 1): return likelike[0]
+        
+        rightCounter = 0
+        while cardName[len(cardName)-rightCounter:] in likelike:
+            rightCounter += 1
+        rightCounter -= 1
+        newLikelike = []
+        for name in likelike:
+            if(cardName[len(cardName)-rightCounter:] in name:
+                 newLikelike.append(name)
+        if(len(newLikelike) == 1): return newLikelike[0]
+
+        #If this all fails
+        return FAIL
 
 def deckDownloader(listOfThemes):
     """ string -> None 
@@ -53,7 +103,7 @@ def writeDecks(theme, fileName):
             print(deckName)
     #create a LackeyCCG deck file
             if(cFile != None): cFile.close()
-            cFile = open(theme+'_'+deckName+'.txt', 'w')
+            cFile = open("decks/"+theme+'_'+deckName+'.txt', 'w')
     #add cards to deck file until we see another deck name
         elif ( '<td class="col1">' in lines ):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
