@@ -11,14 +11,16 @@ def makeListOfCards():
 
     listOfCards = []
     for sets in os.listdir("sets/"):
-        for lines in open("sets/"+sets):
-            cardName = lines.split("\t")[0]
-            if cardName == "Name":
-                pass
-            elif cardName in ListOfCards:
-                pass
-            else:
-                listOfCards.append(cardName)
+        print("####################################################"+sets)
+        if('.txt' in sets):
+            for lines in open("sets/"+sets):
+                cardName = lines.split("\t")[0]
+                if cardName == "Name":
+                    pass
+                elif cardName in listOfCards:
+                    pass
+                else:
+                    listOfCards.append(cardName)
 
     return listOfCards
 
@@ -30,7 +32,7 @@ def spellChecker(cardName, listOfCards):
         return cardName #card is spelled Correctly
     else:
         leftCounter = 0
-        while cardName[0:leftCounter] in listOfCards
+        while cardName[0:leftCounter] in listOfCards:
             leftCounter += 1 #add begining characters
         leftCounter -= 1
         likelike = []
@@ -45,7 +47,7 @@ def spellChecker(cardName, listOfCards):
         rightCounter -= 1
         newLikelike = []
         for name in likelike:
-            if(cardName[len(cardName)-rightCounter:] in name:
+            if(cardName[len(cardName)-rightCounter:] in name):
                  newLikelike.append(name)
         if(len(newLikelike) == 1): return newLikelike[0]
 
@@ -57,11 +59,11 @@ def deckDownloader(listOfThemes):
     pre-condition: listOfThemes is a fileName
     post-condition: creates text files that can be read by Lackey """
     #iterate through the list of themes
+    listOfCards = makeListOfCards()
     for theme in open(listOfThemes):
         theme = theme.strip()
         gURL = generateURL(theme)
         dURL = downloadURL(theme, gURL)
-        listOfCards = makeListOfCards()
         writeDecks(theme, dURL, listOfCards)
 
 def generateURL(theme):
