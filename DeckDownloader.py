@@ -11,49 +11,124 @@ def makeListOfCards():
 
     listOfCards = []
     for sets in os.listdir("sets/"):
-        print("####################################################"+sets)
+        print("loading set: "+sets)
         if('.txt' in sets):
             for lines in open("sets/"+sets):
                 cardName = lines.split("\t")[0]
                 if cardName == "Name":
                     pass
-                elif cardName in listOfCards:
+                elif cardName.lower() in listOfCards:
                     pass
                 else:
-                    listOfCards.append(cardName)
+                    listOfCards.append(cardName.lower())
 
     return listOfCards
+
+def looksLike(string1, string2, tolerance):
+    """string, string, int -> boolean
+    pre-condition: none
+    post-condition: none """
+    #return len(string1) in range(len(string2)-tolerance, len(string2)+tolerance)
+    sameChar = 0
+    for i in string2:
+        sameChar += int(i in string1)
+    return ( tolerance >= (len(string2) - sameChar) )
 
 def spellChecker(cardName, listOfCards):
     """ string, list -> string
     pre-condition: None
     post-condition: returns a correctly spelled cardName """
+      
+    cardName = cardName.lower()
     if( cardName in listOfCards ):
         return cardName #card is spelled Correctly
     else:
+        occ = 0
+        for card in listOfCards:
+            if cardName in card:
+                occ += 1
+                cardX = card
+        if occ == 1:
+            return cardX
+
+        sList = []
+        for i in range(len(listOfCards)):
+            if(len(listOfCards[i]) in range(len(cardName)-4, len(cardName)+4)):
+                sList.append(listOfCards[i])
+        
+        print("Fixing Spelling Error for:"+str(cardName))
         leftCounter = 0
-        while cardName[0:leftCounter] in listOfCards:
+        while cardName[0:leftCounter] in str(sList):
             leftCounter += 1 #add begining characters
+            print("New left counter:", cardName[0:leftCounter])
+            if leftCounter == len(cardName):
+                break
         leftCounter -= 1
         likelike = []
-        for name in listOfCards:
+        for name in sList:
             if(cardName[0:leftCounter] in name):
                 likelike.append(name)
-        if(len(likelike) == 1): return likelike[0]
+        print(cardName, likelike[0]); print(looksLike(cardName, likelike[0], 1))
+        if((len(likelike) == 1) and (looksLike(cardName, likelike[0], 1))): 
+            print("Length of List:", len(likelike))
+            print("List:", likelike)
+            print("Original Spelling:",cardName)
+            print("Result:", likelike[0])
+            #input("Wait")
+            return likelike[0]
         
+        if(len(likelike)==1):
+            likelike = sList
+
         rightCounter = 0
-        while cardName[len(cardName)-rightCounter:] in likelike:
+        while cardName[len(cardName)-rightCounter:] in str(likelike):
             rightCounter += 1
+            print("New right counter:", cardName[0:leftCounter], cardName[len(cardName)-rightCounter:])
+            if (leftCounter + rightCounter) >= len(cardName):
+                break
         rightCounter -= 1
         newLikelike = []
         for name in likelike:
             if(cardName[len(cardName)-rightCounter:] in name):
                  newLikelike.append(name)
-        if(len(newLikelike) == 1): return newLikelike[0]
+        
+        print("List02", newLikelike)
+        #input("newLikelike isn't working well?")
+        if(len(newLikelike) == 1): 
+            print("Length of List:", len(newLikelike))
+            if(likelike != sList): print("List01:",likelike)
+            print("List02:",newLikelike)
+            print("Original Spelling:",cardName)
+            print("Result:",newLikelike[0])
+            #input("Wait")
+            return newLikelike[0]
+
+        #input("RESET CHECK, EXCEPT BACKWARDS")
+        likelike = sList
+ 
+        rightCounter = 0
+        while cardName[len(cardName)-rightCounter:] in str(likelike):
+            rightCounter += 1
+            print("New right counter:", cardName[len(cardName)-rightCounter:])
+        rightCounter -= 1
+        newLikelike = []
+        for name in likelike:
+            if(cardName[len(cardName)-rightCounter:] in name):
+                 newLikelike.append(name)
+        if(len(newLikelike) == 1): 
+            print("Length of List:", len(newLikelike))
+            print("List01:",likelike)
+            print("List02:",newLikelike)
+            print("Original Spelling:",cardName)
+            print("Result:",newLikelike[0])
+            #input("Wait")
+            return newLikelike[0]
+
 
         #If this all fails
-        return FAIL
-
+        print(likelike); print(newLikelike); print(cardName)
+        exit()
+        
 def deckDownloader(listOfThemes):
     """ string -> None 
     pre-condition: listOfThemes is a fileName
@@ -112,13 +187,22 @@ def writeDecks(theme, fileName, listOfCards):
             numbersCard = lines[(lines.index('>')+1):(lines.index('<',lines.index('</td>')))]
         elif ( '<a class="nodec" name="' in lines ):
             nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
-            nameCard = nameCard.replace('*', '') #changing the * postfix to null (indecates a non-new card)
+            nameCard = nameCard.replace('*', '') #changing the * postfix to null (indicates a non-new card)
+            if(nameCard == "_____"):
+                pass #incase name is just '_'s
+            else:
+                nameCard = nameCard.replace('_', ' ') #removes underscores
             nameCard = spellChecker(nameCard, listOfCards)
             cFile.write(numbersCard+"\t"+nameCard+"\n")
         elif ( '<td valign="top" width="185">' in lines ):
             numbersCard = lines[(lines.index('>')+1):].strip()
         elif ( '</a><br />' in lines ):  
             nameCard = lines[(lines.index('()">')+4):(lines.index('</a>'))].strip().replace("’","'")
+            nameCard = nameCard.replace('*', '') #changing the * postfix to null (indicates a non-new card)
+            if(nameCard == "_____"):
+                pass #incase name is just '_'s
+            else:
+                nameCard = nameCard.replace('_', ' ') #removes underscores
             nameCard = spellChecker(nameCard, listOfCards)
             cFile.write(numbersCard+"\t"+nameCard+"\n")
             if ('<br /><br />' in lines):
