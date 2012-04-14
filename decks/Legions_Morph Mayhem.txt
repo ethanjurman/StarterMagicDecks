@@ -1,0 +1,28 @@
+11	plains
+11	island
+2	lonely sandbar
+2	secluded steppe
+1	daru mender
+2	deftblade elite
+4	glory seeker
+1	whipcorder
+2	wingbeat warrior
+1	aven redeemer
+1	liege of the axe
+1	ironfist crusher
+1	daru lancer
+1	swooping talon
+1	imagecrafter
+2	voidmage apprentice
+1	wall of deceit
+2	willbender
+2	echo tracer
+2	ascending aven
+1	master of the veil
+1	chromeshell crab
+1	mistform mutant
+1	weaver of lies
+2	pacifism
+1	akroma's blessing
+1	improvised armor
+1	discombobulate

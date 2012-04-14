@@ -1,0 +1,38 @@
+2	mountain
+11	forest
+3	plains
+1	elfhame palace
+1	geothermal crevice
+1	irrigation ditch
+2	rith's grove
+1	shivan oasis
+1	slingshot goblin
+2	thunderscape battlemage
+1	viashino grappler
+1	ancient kavu
+1	thornscape apprentice
+1	nomadic elf
+1	quirion elves
+2	quirion explorer
+1	thornscape familiar
+1	amphibious kavu
+2	thornscape battlemage
+1	mirrorwood treefolk
+3	stone kavu
+2	sunscape battlemage
+1	aurora griffin
+1	rampant elephant
+1	horned kavu
+1	fleetfoot panther
+1	steel leaf paladin
+1	radiant kavu
+1	singe
+1	zap
+1	magma burst
+2	fertile ground
+1	harrow
+1	pollen remedy
+1	eladamri's call
+2	gerrard's command
+1	armadillo cloak
+1	rith's charm

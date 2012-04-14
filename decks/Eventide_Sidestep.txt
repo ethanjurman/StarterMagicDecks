@@ -1,0 +1,23 @@
+11	island
+14	mountain
+1	merrow levitator
+1	hatchet bully
+1	outrage shaman
+2	stream hopper
+3	riverfall mimic
+2	noggle hedge-mage
+3	noggle bandit
+1	crag puca
+3	shrewd hatchling
+2	noggle bridgebreaker
+1	dominus of fealty
+2	nucklavee
+1	mindwrack liege
+1	spell syphon
+1	oona's grace
+1	flame jab
+2	burn trail
+1	jaws of stone
+2	unwilling recruit
+3	clout of the dominus
+1	inside out

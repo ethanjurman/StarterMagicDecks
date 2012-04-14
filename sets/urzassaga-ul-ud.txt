@@ -1,0 +1,622 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Absolute Grace	uz	1	W	1W	2	Enchantment			U	All creatures have protection from black.
+Absolute Law	uz	2	W	1W	2	Enchantment			U	All creatures have protection from red.
+Angelic Chorus	uz	3	W	3WW	5	Enchantment			R	Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.
+Angelic Page	uz	4	W	1W	2	Creature - Angel Spirit	1	1	C	Flying {T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+Brilliant Halo	uz	5	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2. When Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand.
+Catastrophe	uz	6	W	4WW	6	Sorcery			R	Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
+Clear	uz	7	W	1W	2	Instant			U	Destroy target enchantment. Cycling {2} ({2}, Discard this card: Draw a card.)
+Congregate	uz	8	W	3W	4	Instant			C	Target player gains 2 life for each creature on the battlefield.
+Defensive Formation	uz	9	W	W	1	Enchantment			U	Instead of the attacking player, you assign the combat damage of creatures attacking you.
+Disciple of Grace	uz	10	W	1W	2	Creature - Human Cleric	1	2	C	Protection from black Cycling {2} ({2}, Discard this card: Draw a card.)
+Disciple of Law	uz	11	W	1W	2	Creature - Human Cleric	1	2	C	Protection from red Cycling {2} ({2}, Discard this card: Draw a card.)
+Disenchant	uz	12	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Elite Archers	uz	13	W	5W	6	Creature - Human Soldier Archer	3	3	R	{T}: Elite Archers deals 3 damage to target attacking or blocking creature.
+Faith Healer	uz	14	W	1W	2	Creature - Human Cleric	1	1	R	Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost.
+Glorious Anthem	uz	15	W	1WW	3	Enchantment			R	Creatures you control get +1/+1.
+Healing Salve	uz	16	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Herald of Serra	uz	17	W	2WW	4	Creature - Angel	3	4	R	Flying, vigilance Echo {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Humble	uz	18	W	1W	2	Instant			U	Target creature loses all abilities and becomes 0/1 until end of turn.
+Intrepid Hero	uz	19	W	2W	3	Creature - Human Soldier	1	1	R	{T}: Destroy target creature with power 4 or greater.
+Monk Idealist	uz	20	W	2W	3	Creature - Human Monk Cleric	2	2	U	When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.
+Monk Realist	uz	21	W	1W	2	Creature - Human Monk Cleric	1	1	C	When Monk Realist enters the battlefield, destroy target enchantment.
+Opal Acrolith	uz	22	W	2W	3	Enchantment			U	Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature. {0}: Opal Acrolith becomes an enchantment.
+Opal Archangel	uz	23	W	4W	5	Enchantment			R	When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.
+Opal Caryatid	uz	24	W	W	1	Enchantment			C	When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.
+Opal Gargoyle	uz	25	W	1W	2	Enchantment			C	When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying.
+Opal Titan	uz	26	W	2WW	4	Enchantment			R	When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors.
+Pacifism	uz	27	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Pariah	uz	28	W	2W	3	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) All damage that would be dealt to you is dealt to enchanted creature instead.
+Path of Peace	uz	29	W	3W	4	Sorcery			C	Destroy target creature. Its owner gains 4 life.
+Pegasus Charger	uz	30	W	2W	3	Creature - Pegasus	2	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.) First strike (This creature deals combat damage before creatures without first strike.)
+Planar Birth	uz	31	W	1W	2	Sorcery			R	Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.
+Presence of the Master	uz	32	W	3W	4	Enchantment			U	Whenever a player casts an enchantment spell, counter it.
+Redeem	uz	33	W	1W	2	Instant			U	Prevent all damage that would be dealt this turn to up to two target creatures.
+Remembrance	uz	34	W	3W	4	Enchantment			R	Whenever a nontoken creature you control is put into a graveyard from the battlefield, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library.
+Rune of Protection: Artifacts	uz	35	W	1W	2	Enchantment			U	{W}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: Black	uz	36	W	1W	2	Enchantment			C	{W}: The next time a black source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: Blue	uz	37	W	1W	2	Enchantment			C	{W}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: Green	uz	38	W	1W	2	Enchantment			C	{W}: The next time a green source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: Lands	uz	39	W	1W	2	Enchantment			R	{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: Red	uz	40	W	1W	2	Enchantment			C	{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rune of Protection: White	uz	41	W	1W	2	Enchantment			C	{W}: The next time a white source of your choice would deal damage to you this turn, prevent that damage. Cycling {2} ({2}, Discard this card: Draw a card.)
+Sanctum Custodian	uz	42	W	2W	3	Creature - Human Cleric	1	2	C	{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Sanctum Guardian	uz	43	W	1WW	3	Creature - Human Cleric	1	4	U	Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+Seasoned Marshal	uz	44	W	2WW	4	Creature - Human Soldier	2	2	U	Whenever Seasoned Marshal attacks, you may tap target creature.
+Serra Avatar	uz	45	W	4WWW	7	Creature - Avatar	*	*	R	Serra Avatar's power and toughness are each equal to your life total. When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.
+Serra Zealot	uz	46	W	W	1	Creature - Human Soldier	1	1	C	First strike
+Serra's Embrace	uz	47	W	2WW	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 and has flying and vigilance.
+Serra's Hymn	uz	48	W	W	1	Enchantment			U	At the beginning of your upkeep, you may put a verse counter on Serra's Hymn. Sacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose, where X is the number of verse counters on Serra's Hymn.
+Serra's Liturgy	uz	49	W	2WW	4	Enchantment			R	At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy. {W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy.
+Shimmering Barrier	uz	50	W	1W	2	Creature - Wall	1	3	U	Defender (This creature can't attack.) First strike Cycling {2} ({2}, Discard this card: Draw a card.)
+Silent Attendant	uz	51	W	2W	3	Creature - Human Cleric	0	2	C	{T}: You gain 1 life.
+Songstitcher	uz	52	W	W	1	Creature - Human Cleric	1	1	U	{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
+Soul Sculptor	uz	53	W	2W	3	Creature - Human	1	1	R	{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell.
+Voice of Grace	uz	54	W	3W	4	Creature - Angel	2	2	U	Flying, protection from black
+Voice of Law	uz	55	W	3W	4	Creature - Angel	2	2	U	Flying, protection from red
+Waylay	uz	56	W	2W	3	Instant			U	Put three 2/2 white Knight creature tokens onto the battlefield. Exile them at the beginning of the next cleanup step.
+Worship	uz	57	W	3W	4	Enchantment			R	If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Academy Researchers	uz	58	U	1UU	3	Creature - Human Wizard	2	2	U	When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.
+Annul	uz	59	U	U	1	Instant			C	Counter target artifact or enchantment spell.
+Arcane Laboratory	uz	60	U	2U	3	Enchantment			U	Each player can't cast more than one spell each turn.
+Attunement	uz	61	U	2U	3	Enchantment			R	Return Attunement to its owner's hand: Draw three cards, then discard four cards.
+Back to Basics	uz	62	U	2U	3	Enchantment			R	Nonbasic lands don't untap during their controllers' untap steps.
+Barrin, Master Wizard	uz	63	U	1UU	3	Legendary Creature - Human Wizard	1	1	R	{2}, Sacrifice a permanent: Return target creature to its owner's hand.
+Catalog	uz	64	U	2U	3	Instant			C	Draw two cards, then discard a card.
+Cloak of Mists	uz	65	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature is unblockable.
+Confiscate	uz	66	U	4UU	6	Enchantment - Aura			U	Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.) You control enchanted permanent.
+Coral Merfolk	uz	67	U	1U	2	Creature - Merfolk	2	1	C	
+Curfew	uz	68	U	U	1	Instant			C	Each player returns a creature he or she controls to its owner's hand.
+Disruptive Student	uz	69	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Counter target spell unless its controller pays {1}.
+Douse	uz	70	U	2U	3	Enchantment			U	{1}{U}: Counter target red spell.
+Drifting Djinn	uz	71	U	4UU	6	Creature - Djinn	5	5	R	Flying At the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}. Cycling {2} ({2}, Discard this card: Draw a card.)
+Enchantment Alteration	uz	72	U	U	1	Instant			U	Attach target Aura attached to a creature or land to another permanent of that type.
+Energy Field	uz	73	U	1U	2	Enchantment			R	Prevent all damage that would be dealt to you by sources you don't control. When a card is put into your graveyard from anywhere, sacrifice Energy Field.
+Exhaustion	uz	74	U	2U	3	Sorcery			U	Creatures and lands target opponent controls don't untap during his or her next untap step.
+Fog Bank	uz	75	U	1U	2	Creature - Wall	0	2	U	Defender (This creature can't attack.) Flying Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+Gilded Drake	uz	76	U	1U	2	Creature - Drake	3	3	R	Flying When Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't make an exchange, sacrifice Gilded Drake. This ability can't be countered except by spells and abilities. (This effect lasts indefinitely.)
+Great Whale	uz	77	U	5UU	7	Creature - Whale	5	5	R	When Great Whale enters the battlefield, untap up to seven lands.
+Hermetic Study	uz	78	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+Hibernation	uz	79	U	2U	3	Instant			U	Return all green permanents to their owners' hands.
+Horseshoe Crab	uz	80	U	2U	3	Creature - Crab	1	3	C	{U}: Untap Horseshoe Crab.
+Imaginary Pet	uz	81	U	1U	2	Creature - Illusion	4	4	R	At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.
+Launch	uz	82	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. When Launch is put into a graveyard from the battlefield, return Launch to its owner's hand.
+Lilting Refrain	uz	83	U	1U	2	Enchantment			U	At the beginning of your upkeep, you may put a verse counter on Lilting Refrain. Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.
+Lingering Mirage	uz	84	U	1U	2	Enchantment - Aura			U	Enchant land Enchanted land is an Island. Cycling {2} ({2}, Discard this card: Draw a card.)
+Morphling	uz	85	U	3UU	5	Creature - Shapeshifter	3	3	R	{U}: Untap Morphling. {U}: Morphling gains flying until end of turn. {U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.) {1}: Morphling gets +1/-1 until end of turn. {1}: Morphling gets -1/+1 until end of turn.
+Pendrell Drake	uz	86	U	3U	4	Creature - Drake	2	3	C	Flying Cycling {2} ({2}, Discard this card: Draw a card.)
+Pendrell Flux	uz	87	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost."
+Peregrine Drake	uz	88	U	4U	5	Creature - Drake	2	3	U	Flying When Peregrine Drake enters the battlefield, untap up to five lands.
+Power Sink	uz	89	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Power Taint	uz	90	U	1U	2	Enchantment - Aura			C	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, that player pays {2} or loses 2 life. Cycling {2} ({2}, Discard this card: Draw a card.)
+Recantation	uz	91	U	3UU	5	Enchantment			R	At the beginning of your upkeep, you may put a verse counter on Recantation. {U}, Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation.
+Rescind	uz	92	U	1UU	3	Instant			C	Return target permanent to its owner's hand. Cycling {2} ({2}, Discard this card: Draw a card.)
+Rewind	uz	93	U	2UU	4	Instant			C	Counter target spell, then untap up to four lands.
+Sandbar Merfolk	uz	94	U	U	1	Creature - Merfolk	1	1	C	Cycling {2} ({2}, Discard this card: Draw a card.)
+Sandbar Serpent	uz	95	U	4U	5	Creature - Serpent	3	4	U	Cycling {2} ({2}, Discard this card: Draw a card.)
+Show and Tell	uz	96	U	2U	3	Sorcery			R	Each player may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.
+Somnophore	uz	97	U	2UU	4	Creature - Illusion	2	2	R	Flying Whenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield.
+Spire Owl	uz	98	U	1U	2	Creature - Bird	1	1	C	Flying When Spire Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+Stern Proctor	uz	99	U	UU	2	Creature - Human Wizard	1	2	U	When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand.
+Stroke of Genius	uz	100	U	X2U	3	Instant			R	Target player draws X cards.
+Sunder	uz	101	U	3UU	5	Instant			R	Return all lands to their owners' hands.
+Telepathy	uz	102	U	U	1	Enchantment			U	Your opponents play with their hands revealed.
+Time Spiral	uz	103	U	4UU	6	Sorcery			R	Exile Time Spiral. Each player shuffles his or her graveyard and hand into his or her library, then draws seven cards. You untap up to six lands.
+Tolarian Winds	uz	104	U	1U	2	Instant			C	Discard all the cards in your hand, then draw that many cards.
+Turnabout	uz	105	U	2UU	4	Instant			U	Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.
+Veil of Birds	uz	106	U	U	1	Enchantment			C	When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying.
+Veiled Apparition	uz	107	U	1U	2	Enchantment			U	When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying. That creature has "At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}."
+Veiled Crocodile	uz	108	U	2U	3	Enchantment			R	When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature.
+Veiled Sentry	uz	109	U	U	1	Enchantment			U	When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost.
+Veiled Serpent	uz	110	U	2U	3	Enchantment			C	When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature. It can't attack unless defending player controls an Island. Cycling {2} ({2}, Discard this card: Draw a card.)
+Windfall	uz	111	U	2U	3	Sorcery			U	Each player discards his or her hand, then draws cards equal to the greatest number a player discarded this way.
+Wizard Mentor	uz	112	U	2U	3	Creature - Human Wizard	2	2	C	{T}: Return Wizard Mentor and target creature you control to their owner's hand.
+Zephid	uz	113	U	4UU	6	Creature - Illusion	3	4	R	Flying; shroud (This permanent can't be the target of spells or abilities.)
+Zephid's Embrace	uz	114	U	2UU	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 and has flying and shroud. (It can't be the target of spells or abilities.)
+Abyssal Horror	uz	115	B	4BB	6	Creature - Horror	2	2	R	Flying When Abyssal Horror enters the battlefield, target player discards two cards.
+Befoul	uz	116	B	2BB	4	Sorcery			C	Destroy target land or nonblack creature. It can't be regenerated.
+Bereavement	uz	117	B	1B	2	Enchantment			U	Whenever a green creature is put into a graveyard from the battlefield, its controller discards a card.
+Blood Vassal	uz	118	B	2B	3	Creature - Thrull	2	2	C	Sacrifice Blood Vassal: Add {B}{B} to your mana pool.
+Bog Raiders	uz	119	B	2B	3	Creature - Zombie	2	2	C	Swampwalk
+Breach	uz	120	B	2B	3	Instant			C	Target creature gets +2/+0 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Cackling Fiend	uz	121	B	2BB	4	Creature - Zombie	2	1	C	When Cackling Fiend enters the battlefield, each opponent discards a card.
+Carrion Beetles	uz	122	B	B	1	Creature - Insect	1	1	C	{2}{B}, {T}: Exile up to three target cards from a single graveyard.
+Contamination	uz	123	B	2B	3	Enchantment			R	At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature. If a land is tapped for mana, it produces {B} instead of any other type and amount.
+Corrupt	uz	124	B	5B	6	Sorcery			C	Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+Crazed Skirge	uz	125	B	3B	4	Creature - Imp	2	2	U	Flying, haste
+Dark Hatchling	uz	126	B	4BB	6	Creature - Horror	3	3	R	Flying When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
+Dark Ritual	uz	127	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkest Hour	uz	128	B	B	1	Enchantment			R	All creatures are black.
+Despondency	uz	129	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-0. When Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand.
+Diabolic Servitude	uz	130	B	3B	4	Enchantment			U	When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield. When the returned creature is put into a graveyard, exile that creature and return Diabolic Servitude to its owner's hand. When Diabolic Servitude leaves the battlefield, exile that creature.
+Discordant Dirge	uz	131	B	3BB	5	Enchantment			R	At the beginning of your upkeep, you may put a verse counter on Discordant Dirge. {B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards.
+Duress	uz	132	B	B	1	Sorcery			C	Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Eastern Paladin	uz	133	B	2BB	4	Creature - Zombie Knight	3	3	R	{B}{B}, {T}: Destroy target green creature.
+Exhume	uz	134	B	1B	2	Sorcery			C	Each player puts a creature card from his or her graveyard onto the battlefield.
+Expunge	uz	135	B	2B	3	Instant			C	Destroy target nonartifact, nonblack creature. It can't be regenerated. Cycling {2} ({2}, Discard this card: Draw a card.)
+Flesh Reaver	uz	136	B	1B	2	Creature - Horror	4	4	U	Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you.
+Hollow Dogs	uz	137	B	4B	5	Creature - Zombie Hound	3	3	C	Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+Ill-Gotten Gains	uz	138	B	2BB	4	Sorcery			R	Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.
+Looming Shade	uz	139	B	2B	3	Creature - Shade	1	1	C	{B}: Looming Shade gets +1/+1 until end of turn.
+Lurking Evil	uz	140	B	BBB	3	Enchantment			R	Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.
+Mana Leech	uz	141	B	2B	3	Creature - Leech	1	1	U	You may choose not to untap Mana Leech during your untap step. {T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.
+No Rest for the Wicked	uz	142	B	1B	2	Enchantment			U	Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.
+Oppression	uz	143	B	1BB	3	Enchantment			R	Whenever a player casts a spell, that player discards a card.
+Order of Yawgmoth	uz	144	B	2BB	4	Creature - Zombie Knight	2	2	U	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Whenever Order of Yawgmoth deals damage to a player, that player discards a card.
+Parasitic Bond	uz	145	B	3B	4	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, Parasitic Bond deals 2 damage to that player.
+Persecute	uz	146	B	2BB	4	Sorcery			R	Choose a color. Target player reveals his or her hand and discards all cards of that color.
+Pestilence	uz	147	B	2BB	4	Enchantment			C	At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. {B}: Pestilence deals 1 damage to each creature and each player.
+Phyrexian Ghoul	uz	148	B	2B	3	Creature - Zombie	2	2	C	Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+Planar Void	uz	149	B	B	1	Enchantment			U	Whenever another card is put into a graveyard from anywhere, exile that card.
+Priest of Gix	uz	150	B	2B	3	Creature - Human Cleric Minion	2	1	U	When Priest of Gix enters the battlefield, add {B}{B}{B} to your mana pool.
+Rain of Filth	uz	151	B	B	1	Instant			U	Until end of turn, lands you control gain "Sacrifice this land: Add {B} to your mana pool."
+Ravenous Skirge	uz	152	B	2B	3	Creature - Imp	1	1	C	Flying Whenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.
+Reclusive Wight	uz	153	B	3B	4	Creature - Zombie Minion	4	4	U	At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight.
+Reprocess	uz	154	B	2BB	4	Sorcery			R	Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way.
+Sanguine Guard	uz	155	B	1BB	3	Creature - Zombie Knight	2	2	U	First strike {1}{B}: Regenerate Sanguine Guard.
+Sicken	uz	156	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/-1. Cycling {2} ({2}, Discard this card: Draw a card.)
+Skirge Familiar	uz	157	B	4B	5	Creature - Imp	3	2	U	Flying Discard a card: Add {B} to your mana pool.
+Skittering Skirge	uz	158	B	BB	2	Creature - Imp	3	2	C	Flying When you cast a creature spell, sacrifice Skittering Skirge.
+Sleeper Agent	uz	159	B	B	1	Creature - Minion	3	3	R	When Sleeper Agent enters the battlefield, target opponent gains control of it. At the beginning of your upkeep, Sleeper Agent deals 2 damage to you.
+Spined Fluke	uz	160	B	2B	3	Creature - Worm Horror	5	1	U	When Spined Fluke enters the battlefield, sacrifice a creature. {B}: Regenerate Spined Fluke.
+Tainted Aether	uz	161	B	2BB	4	Enchantment			R	Whenever a creature enters the battlefield, its controller sacrifices a creature or land.
+Unnerve	uz	162	B	3B	4	Sorcery			C	Each opponent discards two cards.
+Unworthy Dead	uz	163	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Unworthy Dead.
+Vampiric Embrace	uz	164	B	2BB	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 and has flying. Whenever a creature dealt damage by enchanted creature this turn is put into a graveyard, put a +1/+1 counter on that creature.
+Vebulid	uz	165	B	B	1	Creature - Horror	0	0	R	Vebulid enters the battlefield with a +1/+1 counter on it. At the beginning of your upkeep, you may put a +1/+1 counter on Vebulid. When Vebulid attacks or blocks, destroy it at end of combat.
+Victimize	uz	166	B	2B	3	Sorcery			U	As an additional cost to cast Victimize, sacrifice a creature. Return two target creature cards from your graveyard to the battlefield tapped.
+Vile Requiem	uz	167	B	2BB	4	Enchantment			U	At the beginning of your upkeep, you may put a verse counter on Vile Requiem. {1}{B}, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated.
+Western Paladin	uz	168	B	2BB	4	Creature - Zombie Knight	3	3	R	{B}{B}, {T}: Destroy target white creature.
+Witch Engine	uz	169	B	5B	6	Creature - Horror	4	4	R	Swampwalk {T}: Add {B}{B}{B}{B} to your mana pool. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.)
+Yawgmoth's Edict	uz	170	B	1B	2	Enchantment			U	Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life.
+Yawgmoth's Will	uz	171	B	2B	3	Sorcery			R	Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard this turn, exile that card instead.
+Acidic Soil	uz	172	R	2R	3	Sorcery			U	Acidic Soil deals damage to each player equal to the number of lands he or she controls.
+Antagonism	uz	173	R	3R	4	Enchantment			R	At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of his or her opponents was dealt damage this turn.
+Arc Lightning	uz	174	R	2R	3	Sorcery			C	Arc Lightning deals 3 damage divided as you choose among any number of target creatures and/or players.
+Bedlam	uz	175	R	2RR	4	Enchantment			R	Creatures can't block.
+Brand	uz	176	R	R	1	Instant			R	Gain control of all permanents you own. (This effect lasts indefinitely.) Cycling {2} ({2}, Discard this card: Draw a card.)
+Bravado	uz	177	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 for each other creature you control.
+Bulwark	uz	178	R	3RR	5	Enchantment			R	At the beginning of your upkeep, Bulwark deals damage to target opponent equal to the number of cards in your hand greater than the number of cards in his or her hand.
+Crater Hellion	uz	179	R	4RR	6	Creature - Hellion Beast	6	6	R	Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.
+Destructive Urge	uz	180	R	1RR	3	Enchantment - Aura			U	Enchant creature Whenever enchanted creature deals combat damage to a player, that player sacrifices a land.
+Disorder	uz	181	R	1R	2	Sorcery			U	Disorder deals 2 damage to each white creature and each player who controls a white creature.
+Dromosaur	uz	182	R	2R	3	Creature - Lizard	2	3	C	Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn.
+Electryte	uz	183	R	3RR	5	Creature - Beast	3	3	R	Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.
+Falter	uz	184	R	1R	2	Instant			C	Creatures without flying can't block this turn.
+Fault Line	uz	185	R	XRR	2	Instant			R	Fault Line deals X damage to each creature without flying and each player.
+Fiery Mantle	uz	186	R	1R	2	Enchantment - Aura			C	Enchant creature When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand. {R}: Enchanted creature gets +1/+0 until end of turn.
+Fire Ants	uz	187	R	2R	3	Creature - Insect	2	1	U	{T}: Fire Ants deals 1 damage to each other creature without flying.
+Gamble	uz	188	R	R	1	Sorcery			R	Search your library for a card, put that card into your hand, then discard a card at random. Then shuffle your library.
+Goblin Cadets	uz	189	R	R	1	Creature - Goblin	2	1	U	Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)
+Goblin Lackey	uz	190	R	R	1	Creature - Goblin	1	1	U	Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.
+Goblin Matron	uz	191	R	2R	3	Creature - Goblin	1	1	C	When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+Goblin Offensive	uz	192	R	X1RR	3	Sorcery			U	Put X 1/1 red Goblin creature tokens onto the battlefield.
+Goblin Patrol	uz	193	R	R	1	Creature - Goblin	2	1	C	Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Goblin Raider	uz	194	R	1R	2	Creature - Goblin Warrior	2	2	C	Goblin Raider can't block.
+Goblin Spelunkers	uz	195	R	2R	3	Creature - Goblin Warrior	2	2	C	Mountainwalk
+Goblin War Buggy	uz	196	R	1R	2	Creature - Goblin	2	2	C	Haste Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Guma	uz	197	R	2R	3	Creature - Cat	2	2	U	Protection from blue
+Headlong Rush	uz	198	R	1R	2	Instant			C	Attacking creatures gain first strike until end of turn.
+Heat Ray	uz	199	R	XR	1	Instant			C	Heat Ray deals X damage to target creature.
+Jagged Lightning	uz	200	R	3RR	5	Sorcery			U	Jagged Lightning deals 3 damage to target creature and 3 damage to another target creature.
+Lay Waste	uz	201	R	3R	4	Sorcery			C	Destroy target land. Cycling {2} ({2}, Discard this card: Draw a card.)
+Lightning Dragon	uz	202	R	2RR	4	Creature - Dragon	4	4	R	Flying Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) {R}: Lightning Dragon gets +1/+0 until end of turn.
+Meltdown	uz	203	R	XR	1	Sorcery			U	Destroy each artifact with converted mana cost X or less.
+Okk	uz	204	R	1R	2	Creature - Goblin	4	4	R	Okk can't attack unless a creature with greater power also attacks. Okk can't block unless a creature with greater power also blocks.
+Outmaneuver	uz	205	R	XR	1	Instant			U	X target blocked creatures assign their combat damage this turn as though they weren't blocked.
+Rain of Salt	uz	206	R	4RR	6	Sorcery			U	Destroy two target lands.
+Raze	uz	207	R	R	1	Sorcery			C	As an additional cost to cast Raze, sacrifice a land. Destroy target land.
+Reflexes	uz	208	R	R	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has first strike. (It deals combat damage before creatures without first strike.)
+Retromancer	uz	209	R	2RR	4	Creature - Viashino Shaman	3	3	C	Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.
+Rumbling Crescendo	uz	210	R	3RR	5	Enchantment			R	At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo. {R}, Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo.
+Scald	uz	211	R	1R	2	Enchantment			U	Whenever a player taps an Island for mana, Scald deals 1 damage to that player.
+Scoria Wurm	uz	212	R	4R	5	Creature - Wurm	7	7	R	At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.
+Scrap	uz	213	R	2R	3	Instant			C	Destroy target artifact. Cycling {2} ({2}, Discard this card: Draw a card.)
+Shivan Hellkite	uz	214	R	5RR	7	Creature - Dragon	5	5	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {1}{R}: Shivan Hellkite deals 1 damage to target creature or player.
+Shivan Raptor	uz	215	R	2R	3	Creature - Lizard	3	1	U	First strike, haste Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Shiv's Embrace	uz	216	R	2RR	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 and has flying. {R}: Enchanted creature gets +1/+0 until end of turn.
+Shower of Sparks	uz	217	R	R	1	Instant			C	Shower of Sparks deals 1 damage to target creature and 1 damage to target player.
+Sneak Attack	uz	218	R	3R	4	Enchantment			R	{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice the creature at the beginning of the next end step.
+Steam Blast	uz	219	R	2R	3	Sorcery			U	Steam Blast deals 2 damage to each creature and each player.
+Sulfuric Vapors	uz	220	R	3R	4	Enchantment			R	If a red spell would deal damage to a creature or player, it deals that much damage plus 1 to that creature or player instead.
+Thundering Giant	uz	221	R	3RR	5	Creature - Giant	4	3	U	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Torch Song	uz	222	R	2R	3	Enchantment			U	At the beginning of your upkeep, you may put a verse counter on Torch Song. {2}{R}, Sacrifice Torch Song: Torch Song deals X damage to target creature or player, where X is the number of verse counters on Torch Song.
+Viashino Outrider	uz	223	R	2R	3	Creature - Viashino	4	3	C	Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Viashino Runner	uz	224	R	3R	4	Creature - Viashino	3	2	C	Viashino Runner can't be blocked except by two or more creatures.
+Viashino Sandswimmer	uz	225	R	2RR	4	Creature - Viashino	3	2	R	{R}: Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer.
+Viashino Weaponsmith	uz	226	R	3R	4	Creature - Viashino	2	2	C	Whenever Viashino Weaponsmith becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+Vug Lizard	uz	227	R	1RR	3	Creature - Lizard	3	4	U	Mountainwalk Echo {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Wildfire	uz	228	R	4RR	6	Sorcery			R	Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+Abundance	uz	229	G	2GG	4	Enchantment			R	If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.
+Acridian	uz	230	G	1G	2	Creature - Insect	2	4	C	Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Albino Troll	uz	231	G	1G	2	Creature - Troll	3	3	U	Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) {1}{G}: Regenerate Albino Troll.
+Anaconda	uz	232	G	3G	4	Creature - Snake	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Argothian Elder	uz	233	G	3G	4	Creature - Elf Druid	2	2	U	{T}: Untap two target lands.
+Argothian Enchantress	uz	234	G	1G	2	Creature - Human Druid	0	1	R	Shroud (This permanent can't be the target of spells or abilities.) Whenever you cast an enchantment spell, draw a card.
+Argothian Swine	uz	235	G	3G	4	Creature - Boar	3	3	C	Trample
+Argothian Wurm	uz	236	G	3G	4	Creature - Wurm	6	6	R	Trample When Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.
+Blanchwood Armor	uz	237	G	2G	3	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +1/+1 for each Forest you control.
+Blanchwood Treefolk	uz	238	G	4G	5	Creature - Treefolk	4	5	C	
+Bull Hippo	uz	239	G	3G	4	Creature - Hippo	3	3	U	Islandwalk
+Carpet of Flowers	uz	240	G	G	1	Enchantment			U	At the beginning of your precombat main phase, you may add up to X mana of any one color to your mana pool, where X is the number of Islands target opponent controls.
+Cave Tiger	uz	241	G	2G	3	Creature - Cat	2	2	C	Whenever Cave Tiger becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Child of Gaea	uz	242	G	3GGG	6	Creature - Elemental	7	7	R	Trample At the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}. {1}{G}: Regenerate Child of Gaea.
+Citanul Centaurs	uz	243	G	3G	4	Creature - Centaur	6	3	R	Shroud (This permanent can't be the target of spells or abilities.) Echo {3}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Citanul Hierophants	uz	244	G	3G	4	Creature - Human Druid	3	2	R	Creatures you control have "{T}: Add {G} to your mana pool."
+Cradle Guard	uz	245	G	1GG	3	Creature - Treefolk	4	4	U	Trample Echo {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Crosswinds	uz	246	G	1G	2	Enchantment			U	Creatures with flying get -2/-0.
+Elvish Herder	uz	247	G	G	1	Creature - Elf	1	1	C	{G}: Target creature gains trample until end of turn.
+Elvish Lyrist	uz	248	G	G	1	Creature - Elf	1	1	C	{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.
+Endless Wurm	uz	249	G	3GG	5	Creature - Wurm	9	9	R	Trample At the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment.
+Exploration	uz	250	G	G	1	Enchantment			R	You may play an additional land on each of your turns.
+Fecundity	uz	251	G	2G	3	Enchantment			U	Whenever a creature is put into a graveyard from the battlefield, that creature's controller may draw a card.
+Fertile Ground	uz	252	G	1G	2	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).
+Fortitude	uz	253	G	1G	2	Enchantment - Aura			C	Enchant creature When Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand. Sacrifice a Forest: Regenerate enchanted creature.
+Gaea's Bounty	uz	254	G	2G	3	Sorcery			C	Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.
+Gaea's Embrace	uz	255	G	2GG	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3 and has trample. {G}: Regenerate enchanted creature.
+Gorilla Warrior	uz	256	G	2G	3	Creature - Ape Warrior	3	2	C	
+Greater Good	uz	257	G	2GG	4	Enchantment			R	Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.
+Greener Pastures	uz	258	G	2G	3	Enchantment			R	At the beginning of each player's upkeep, if that player controls more lands than any other, the player puts a 1/1 green Saproling creature token onto the battlefield.
+Hawkeater Moth	uz	259	G	3G	4	Creature - Insect	1	2	U	Flying; shroud (This permanent can't be the target of spells or abilities.)
+Hidden Ancients	uz	260	G	1G	2	Enchantment			U	When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.
+Hidden Guerrillas	uz	261	G	G	1	Enchantment			U	When an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample.
+Hidden Herd	uz	262	G	G	1	Enchantment			R	When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature.
+Hidden Predators	uz	263	G	G	1	Enchantment			R	When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature.
+Hidden Spider	uz	264	G	G	1	Enchantment			C	When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)
+Hidden Stag	uz	265	G	1G	2	Enchantment			R	Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature. Whenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment.
+Hush	uz	266	G	3G	4	Sorcery			C	Destroy all enchantments. Cycling {2} ({2}, Discard this card: Draw a card.)
+Lull	uz	267	G	1G	2	Instant			C	Prevent all combat damage that would be dealt this turn. Cycling {2} ({2}, Discard this card: Draw a card.)
+Midsummer Revel	uz	268	G	3GG	5	Enchantment			R	At the beginning of your upkeep, you may put a verse counter on Midsummer Revel. {G}, Sacrifice Midsummer Revel: Put X 3/3 green Beast creature tokens onto the battlefield, where X is the number of verse counters on Midsummer Revel.
+Pouncing Jaguar	uz	269	G	G	1	Creature - Cat	2	2	C	Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Priest of Titania	uz	270	G	1G	2	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool for each Elf on the battlefield.
+Rejuvenate	uz	271	G	3G	4	Sorcery			C	You gain 6 life. Cycling {2} ({2}, Discard this card: Draw a card.)
+Retaliation	uz	272	G	2G	3	Enchantment			U	Creatures you control have "Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it."
+Sporogenesis	uz	273	G	3G	4	Enchantment			R	At the beginning of your upkeep, you may put a fungus counter on target nontoken creature. Whenever a creature is put into a graveyard from the battlefield, put a 1/1 green Saproling creature token onto the battlefield for each fungus counter on that creature. When Sporogenesis leaves the battlefield, remove all fungus counters from all creatures.
+Spreading Algae	uz	274	G	G	1	Enchantment - Aura			U	Enchant Swamp When enchanted land becomes tapped, destroy it. When Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.
+Symbiosis	uz	275	G	1G	2	Instant			C	Two target creatures each get +2/+2 until end of turn.
+Titania's Boon	uz	276	G	3G	4	Sorcery			U	Put a +1/+1 counter on each creature you control.
+Titania's Chosen	uz	277	G	2G	3	Creature - Elf Archer	1	1	U	Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen.
+Treefolk Seedlings	uz	278	G	2G	3	Creature - Treefolk	2	*	U	Treefolk Seedlings's toughness is equal to the number of Forests you control.
+Treetop Rangers	uz	279	G	2G	3	Creature - Elf	2	2	C	Treetop Rangers can't be blocked except by creatures with flying.
+Venomous Fangs	uz	280	G	2G	3	Enchantment - Aura			C	Enchant creature Whenever enchanted creature deals damage to a creature, destroy the other creature.
+Vernal Bloom	uz	281	G	3G	4	Enchantment			R	Whenever a Forest is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).
+War Dance	uz	282	G	G	1	Enchantment			U	At the beginning of your upkeep, you may put a verse counter on War Dance. Sacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance.
+Whirlwind	uz	283	G	2GG	4	Sorcery			R	Destroy all creatures with flying.
+Wild Dogs	uz	284	G	G	1	Creature - Hound	2	1	C	At the beginning of your upkeep, if a player has more life than any other, that player gains control of Wild Dogs. Cycling {2} ({2}, Discard this card: Draw a card.)
+Winding Wurm	uz	285	G	4G	5	Creature - Wurm	6	6	C	Echo {4}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Barrin's Codex	uz	286	A	4	4	Artifact			R	At the beginning of your upkeep, you may put a page counter on Barrin's Codex. {4}, {T}, Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex.
+Cathodion	uz	287	A	3	3	Artifact Creature - Construct	3	3	U	When Cathodion is put into a graveyard from the battlefield, add {3} to your mana pool.
+Chimeric Staff	uz	288	A	4	4	Artifact			R	{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.
+Citanul Flute	uz	289	A	5	5	Artifact			R	{X}, {T}: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.
+Claws of Gix	uz	290	A	0	0	Artifact			U	{1}, Sacrifice a permanent: You gain 1 life.
+Copper Gnomes	uz	291	A	2	2	Artifact Creature - Gnome	1	1	R	{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.
+Crystal Chimes	uz	292	A	3	3	Artifact			U	{3}, {T}, Sacrifice Crystal Chimes: Return all enchantment cards from your graveyard to your hand.
+Dragon Blood	uz	293	A	3	3	Artifact			U	{3}, {T}: Put a +1/+1 counter on target creature.
+Endoskeleton	uz	294	A	2	2	Artifact			U	You may choose not to untap Endoskeleton during your untap step. {2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped.
+Fluctuator	uz	295	A	2	2	Artifact			R	Cycling costs you pay cost up to {2} less.
+Grafted Skullcap	uz	296	A	4	4	Artifact			R	At the beginning of your draw step, draw an additional card. At the beginning of your end step, discard your hand.
+Hopping Automaton	uz	297	A	3	3	Artifact Creature - Construct	2	2	U	{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.
+Karn, Silver Golem	uz	298	A	5	5	Legendary Artifact Creature - Golem	4	4	R	Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn. {1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (That artifact retains its abilities.)
+Lifeline	uz	299	A	5	5	Artifact			R	Whenever a creature is put into a graveyard from the battlefield and another creature is on the battlefield, return the first creature from that graveyard to the battlefield under its owner's control at the beginning of the next end step.
+Lotus Blossom	uz	300	A	2	2	Artifact			R	At the beginning of your upkeep, you may put a petal counter on Lotus Blossom. {T}, Sacrifice Lotus Blossom: Add X mana of any one color to your mana pool, where X is the number of petal counters on Lotus Blossom.
+Metrognome	uz	301	A	4	4	Artifact			R	When a spell or ability an opponent controls causes you to discard Metrognome, put four 1/1 colorless Gnome artifact creature tokens onto the battlefield. {4}, {T}: Put a 1/1 colorless Gnome artifact creature token onto the battlefield.
+Mishra's Helix	uz	302	A	5	5	Artifact			R	{X}, {T}: Tap X target lands.
+Mobile Fort	uz	303	A	4	4	Artifact Creature - Wall	0	6	U	Defender (This creature can't attack.) {3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.
+Noetic Scales	uz	304	A	4	4	Artifact			R	At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in his or her hand.
+Phyrexian Colossus	uz	305	A	7	7	Artifact Creature - Golem	8	8	R	Phyrexian Colossus doesn't untap during your untap step. Pay 8 life: Untap Phyrexian Colossus. Phyrexian Colossus can't be blocked except by three or more creatures.
+Phyrexian Processor	uz	306	A	4	4	Artifact			R	As Phyrexian Processor enters the battlefield, pay any amount of life. {4}, {T}: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield.
+Pit Trap	uz	307	A	2	2	Artifact			U	{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.
+Purging Scythe	uz	308	A	5	5	Artifact			R	At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them.
+Smokestack	uz	309	A	4	4	Artifact			R	At the beginning of your upkeep, you may put a soot counter on Smokestack. At the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.
+Temporal Aperture	uz	310	A	2	2	Artifact			R	{5}, {T}: Shuffle your library and reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)
+Thran Turbine	uz	311	A	1	1	Artifact			U	At the beginning of your upkeep, you may add up to {2} to your mana pool. You can't spend this mana to cast spells.
+Umbilicus	uz	312	A	4	4	Artifact			R	At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.
+Urza's Armor	uz	313	A	6	6	Artifact			U	If a source would deal damage to you, prevent 1 of that damage.
+Voltaic Key	uz	314	A	1	1	Artifact			U	{1}, {T}: Untap target artifact.
+Wall of Junk	uz	315	A	2	2	Artifact Creature - Wall	0	7	U	Defender (This creature can't attack.) Whenever Wall of Junk blocks, return it to its owner's hand at end of combat.
+Whetstone	uz	316	A	3	3	Artifact			R	{3}: Each player puts the top two cards of his or her library into his or her graveyard.
+Wirecat	uz	317	A	4	4	Artifact Creature - Cat	4	3	U	Wirecat can't attack or block if an enchantment is on the battlefield.
+Worn Powerstone	uz	318	A	3	3	Artifact			U	Worn Powerstone enters the battlefield tapped. {T}: Add {2} to your mana pool.
+Blasted Landscape	uz	319	L		0	Land			U	{T}: Add {1} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Drifting Meadow	uz	320	L		0	Land			C	Drifting Meadow enters the battlefield tapped. {T}: Add {W} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Gaea's Cradle	uz	321	L		0	Legendary Land			R	{T}: Add {G} to your mana pool for each creature you control.
+Phyrexian Tower	uz	322	L		0	Legendary Land			R	{T}: Add {1} to your mana pool. {T}, Sacrifice a creature: Add {B}{B} to your mana pool.
+Polluted Mire	uz	323	L		0	Land			C	Polluted Mire enters the battlefield tapped. {T}: Add {B} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Remote Isle	uz	324	L		0	Land			C	Remote Isle enters the battlefield tapped. {T}: Add {U} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Serra's Sanctum	uz	325	L		0	Legendary Land			R	{T}: Add {W} to your mana pool for each enchantment you control.
+Shivan Gorge	uz	326	L		0	Legendary Land			R	{T}: Add {1} to your mana pool. {2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.
+Slippery Karst	uz	327	L		0	Land			C	Slippery Karst enters the battlefield tapped. {T}: Add {G} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Smoldering Crater	uz	328	L		0	Land			C	Smoldering Crater enters the battlefield tapped. {T}: Add {R} to your mana pool. Cycling {2} ({2}, Discard this card: Draw a card.)
+Thran Quarry	uz	329	L		0	Land			R	At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry. {T}: Add one mana of any color to your mana pool.
+Tolarian Academy	uz	330	L		0	Legendary Land			R	{T}: Add {U} to your mana pool for each artifact you control.
+Plains	uz	331	L		0	Basic Land - Plains			L	W
+Island	uz	335	L		0	Basic Land - Island			L	U
+Swamp	uz	339	L		0	Basic Land - Swamp			L	B
+Mountain	uz	343	L		0	Basic Land - Mountain			L	R
+Forest	uz	348	L		0	Basic Land - Forest			L	G
+Angelic Curator	ul	1	W	1W	2	Creature - Angel Spirit	1	1	C	Flying, protection from artifacts
+Blessed Reversal	ul	2	W	1W	2	Instant			R	You gain 3 life for each creature attacking you.
+Burst of Energy	ul	3	W	W	1	Instant			C	Untap target permanent.
+Cessation	ul	4	W	2W	3	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack. When Cessation is put into a graveyard from the battlefield, return Cessation to its owner's hand.
+Defender of Law	ul	5	W	2W	3	Creature - Human Knight	2	1	C	Flash Protection from red
+Devout Harpist	ul	6	W	W	1	Creature - Human	1	1	C	{T}: Destroy target Aura attached to a creature.
+Erase	ul	7	W	W	1	Instant			C	Exile target enchantment.
+Expendable Troops	ul	8	W	1W	2	Creature - Human Soldier	2	1	C	{T}, Sacrifice Expendable Troops: Expendable Troops deals 2 damage to target attacking or blocking creature.
+Hope and Glory	ul	9	W	1W	2	Instant			U	Untap two target creatures. Each of them gets +1/+1 until end of turn.
+Iron Will	ul	10	W	W	1	Instant			C	Target creature gets +0/+4 until end of turn. Cycling {2} ({2}, Discard this card: Draw a card.)
+Karmic Guide	ul	11	W	3WW	5	Creature - Angel Spirit	2	2	R	Flying, protection from black Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.
+Knighthood	ul	12	W	2W	3	Enchantment			U	Creatures you control have first strike.
+Martyr's Cause	ul	13	W	2W	3	Enchantment			U	Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+Mother of Runes	ul	14	W	W	1	Creature - Human Cleric	1	1	U	{T}: Target creature you control gains protection from the color of your choice until end of turn.
+Opal Avenger	ul	15	W	2W	3	Enchantment			R	When you have 10 or less life, if Opal Avenger is an enchantment, Opal Avenger becomes a 3/5 Soldier creature.
+Opal Champion	ul	16	W	2W	3	Enchantment			C	When an opponent casts a creature spell, if Opal Champion is an enchantment, Opal Champion becomes a 3/3 Knight creature with first strike.
+Peace and Quiet	ul	17	W	1W	2	Instant			U	Destroy two target enchantments.
+Planar Collapse	ul	18	W	1W	2	Enchantment			R	At the beginning of your upkeep, if there are four or more creatures on the battlefield, sacrifice Planar Collapse. If you do, destroy all creatures. They can't be regenerated.
+Purify	ul	19	W	3WW	5	Sorcery			R	Destroy all artifacts and enchantments.
+Radiant, Archangel	ul	20	W	3WW	5	Legendary Creature - Angel	3	3	R	Flying, vigilance Radiant, Archangel gets +1/+1 for each other creature with flying on the battlefield.
+Radiant's Dragoons	ul	21	W	3W	4	Creature - Human Soldier	2	5	U	Echo {3}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Radiant's Dragoons enters the battlefield, you gain 5 life.
+Radiant's Judgment	ul	22	W	2W	3	Instant			C	Destroy target creature with power 4 or greater. Cycling {2} ({2}, Discard this card: Draw a card.)
+Sustainer of the Realm	ul	23	W	2WW	4	Creature - Angel	2	3	U	Flying Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.
+Tragic Poet	ul	24	W	W	1	Creature - Human	1	1	C	{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.
+Anthroplasm	ul	25	U	2UU	4	Creature - Shapeshifter	0	0	R	Anthroplasm enters the battlefield with two +1/+1 counters on it. {X}, {T}: Remove all +1/+1 counters from Anthroplasm and put X +1/+1 counters on it.
+Archivist	ul	26	U	2UU	4	Creature - Human Wizard	1	1	R	{T}: Draw a card.
+Aura Flux	ul	27	U	2U	3	Enchantment			C	Other enchantments have "At the beginning of your upkeep, sacrifice this enchantment unless you pay {2}."
+Bouncing Beebles	ul	28	U	2U	3	Creature - Beeble	2	2	C	Bouncing Beebles is unblockable as long as defending player controls an artifact.
+Cloud of Faeries	ul	29	U	1U	2	Creature - Faerie	1	1	C	Flying When Cloud of Faeries enters the battlefield, untap up to two lands. Cycling {2} ({2}, Discard this card: Draw a card.)
+Delusions of Mediocrity	ul	30	U	3U	4	Enchantment			R	When Delusions of Mediocrity enters the battlefield, you gain 10 life. When Delusions of Mediocrity leaves the battlefield, you lose 10 life.
+Fleeting Image	ul	31	U	2U	3	Creature - Illusion	2	1	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {1}{U}: Return Fleeting Image to its owner's hand.
+Frantic Search	ul	32	U	2U	3	Instant			C	Draw two cards, then discard two cards. Untap up to three lands.
+Intervene	ul	33	U	U	1	Instant			C	Counter target spell that targets a creature.
+King Crab	ul	34	U	4UU	6	Creature - Crab	4	5	U	{1}{U}, {T}: Put target green creature on top of its owner's library.
+Levitation	ul	35	U	2UU	4	Enchantment			U	Creatures you control have flying.
+Miscalculation	ul	36	U	1U	2	Instant			C	Counter target spell unless its controller pays {2}. Cycling {2} ({2}, Discard this card: Draw a card.)
+Opportunity	ul	37	U	4UU	6	Instant			U	Target player draws four cards.
+Palinchron	ul	38	U	5UU	7	Creature - Illusion	4	5	R	Flying When Palinchron enters the battlefield, untap up to seven lands. {2}{U}{U}: Return Palinchron to its owner's hand.
+Raven Familiar	ul	39	U	2U	3	Creature - Bird	1	2	U	Flying Echo {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Rebuild	ul	40	U	2U	3	Instant			U	Return all artifacts to their owners' hands. Cycling {2} ({2}, Discard this card: Draw a card.)
+Second Chance	ul	41	U	2U	3	Enchantment			R	At the beginning of your upkeep, if you have 5 or less life, sacrifice Second Chance. If you do, take an extra turn after this one.
+Slow Motion	ul	42	U	2U	3	Enchantment - Aura			C	Enchant creature At the beginning of the upkeep of enchanted creature's controller, that player sacrifices that creature unless he or she pays {2}. When Slow Motion is put into a graveyard from the battlefield, return Slow Motion to its owner's hand.
+Snap	ul	43	U	1U	2	Instant			C	Return target creature to its owner's hand. Untap up to two lands.
+Thornwind Faeries	ul	44	U	1UU	3	Creature - Faerie	1	1	C	Flying {T}: Thornwind Faeries deals 1 damage to target creature or player.
+Tinker	ul	45	U	2U	3	Sorcery			U	As an additional cost to cast Tinker, sacrifice an artifact. Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.
+Vigilant Drake	ul	46	U	4U	5	Creature - Drake	3	3	C	Flying {2}{U}: Untap Vigilant Drake.
+Walking Sponge	ul	47	U	1U	2	Creature - Sponge	1	1	U	{T}: Target creature loses flying, first strike, or trample until end of turn.
+Weatherseed Faeries	ul	48	U	2U	3	Creature - Faerie	2	1	C	Flying, protection from red
+Bone Shredder	ul	49	B	2B	3	Creature - Minion	1	1	U	Flying Echo {2}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Bone Shredder enters the battlefield, destroy target nonartifact, nonblack creature.
+Brink of Madness	ul	50	B	2BB	4	Enchantment			R	At the beginning of your upkeep, if you have no cards in hand, sacrifice Brink of Madness. If you do, target opponent discards his or her hand.
+Engineered Plague	ul	51	B	2B	3	Enchantment			U	As Engineered Plague enters the battlefield, choose a creature type. All creatures of the chosen type get -1/-1.
+Eviscerator	ul	52	B	3BB	5	Creature - Horror	5	5	R	Protection from white When Eviscerator enters the battlefield, you lose 5 life.
+Fog of Gnats	ul	53	B	BB	2	Creature - Insect	1	1	C	Flying {B}: Regenerate Fog of Gnats.
+Giant Cockroach	ul	54	B	3B	4	Creature - Insect	4	2	C	
+Lurking Skirge	ul	55	B	1B	2	Enchantment			R	When a creature is put into an opponent's graveyard from the battlefield, if Lurking Skirge is an enchantment, Lurking Skirge becomes a 3/2 Imp creature with flying.
+No Mercy	ul	56	B	2BB	4	Enchantment			R	Whenever a creature deals damage to you, destroy it.
+Ostracize	ul	57	B	B	1	Sorcery			C	Target opponent reveals his or her hand. You choose a creature card from it. That player discards that card.
+Phyrexian Broodlings	ul	58	B	1BB	3	Creature - Minion	2	2	C	{1}, Sacrifice a creature: Put a +1/+1 counter on Phyrexian Broodlings.
+Phyrexian Debaser	ul	59	B	3B	4	Creature - Carrier	2	2	C	Flying {T}, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.
+Phyrexian Defiler	ul	60	B	2BB	4	Creature - Carrier	3	3	U	{T}, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn.
+Phyrexian Denouncer	ul	61	B	1B	2	Creature - Carrier	1	1	C	{T}, Sacrifice Phyrexian Denouncer: Target creature gets -1/-1 until end of turn.
+Phyrexian Plaguelord	ul	62	B	3BB	5	Creature - Carrier	4	4	R	{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn. Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+Phyrexian Reclamation	ul	63	B	B	1	Enchantment			U	{1}{B}, Pay 2 life: Return target creature card from your graveyard to your hand.
+Plague Beetle	ul	64	B	B	1	Creature - Insect	1	1	C	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Rank and File	ul	65	B	2BB	4	Creature - Zombie	3	3	U	When Rank and File enters the battlefield, all green creatures get -1/-1 until end of turn.
+Sick and Tired	ul	66	B	2B	3	Instant			C	Two target creatures each get -1/-1 until end of turn.
+Sleeper's Guile	ul	67	B	2B	3	Enchantment - Aura			C	Enchant creature Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.) When Sleeper's Guile is put into a graveyard from the battlefield, return Sleeper's Guile to its owner's hand.
+Subversion	ul	68	B	3BB	5	Enchantment			R	At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+Swat	ul	69	B	1BB	3	Instant			C	Destroy target creature with power 2 or less. Cycling {2} ({2}, Discard this card: Draw a card.)
+Tethered Skirge	ul	70	B	2B	3	Creature - Imp	2	2	U	Flying Whenever Tethered Skirge becomes the target of a spell or ability, you lose 1 life.
+Treacherous Link	ul	71	B	1B	2	Enchantment - Aura			U	Enchant creature All damage that would be dealt to enchanted creature is dealt to its controller instead.
+Unearth	ul	72	B	B	1	Sorcery			C	Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. Cycling {2} ({2}, Discard this card: Draw a card.)
+About Face	ul	73	R	R	1	Instant			C	Switch target creature's power and toughness until end of turn.
+Avalanche Riders	ul	74	R	3R	4	Creature - Human Nomad	2	2	U	Haste Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Avalanche Riders enters the battlefield, destroy target land.
+Defender of Chaos	ul	75	R	2R	3	Creature - Human Knight	2	1	C	Flash Protection from white
+Ghitu Fire-Eater	ul	76	R	2R	3	Creature - Human Nomad	2	2	U	{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.
+Ghitu Slinger	ul	77	R	2R	3	Creature - Human Nomad	2	2	C	Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Ghitu Slinger enters the battlefield, it deals 2 damage to target creature or player.
+Ghitu War Cry	ul	78	R	2R	3	Enchantment			U	{R}: Target creature gets +1/+0 until end of turn.
+Goblin Medics	ul	79	R	2R	3	Creature - Goblin Shaman	1	1	C	Whenever Goblin Medics becomes tapped, it deals 1 damage to target creature or player.
+Goblin Welder	ul	80	R	R	1	Creature - Goblin Artificer	1	1	R	{T}: Choose target artifact a player controls and target artifact card in that player's graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.
+Granite Grip	ul	81	R	2R	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0 for each Mountain you control.
+Impending Disaster	ul	82	R	1R	2	Enchantment			R	At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster. If you do, destroy all lands.
+Last-Ditch Effort	ul	83	R	R	1	Instant			U	Sacrifice any number of creatures. Last-Ditch Effort deals X damage to target creature or player, where X is the number of creatures sacrificed this way.
+Lava Axe	ul	84	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Molten Hydra	ul	85	R	1R	2	Creature - Hydra	1	1	R	{1}{R}{R}: Put a +1/+1 counter on Molten Hydra. {T}, Remove all +1/+1 counters from Molten Hydra: Molten Hydra deals X damage to target creature or player, where X is the number of counters removed this way.
+Parch	ul	86	R	1R	2	Instant			C	Choose one - Parch deals 2 damage to target creature or player; or Parch deals 4 damage to target blue creature.
+Pygmy Pyrosaur	ul	87	R	1R	2	Creature - Lizard	1	1	C	Pygmy Pyrosaur can't block. {R}: Pygmy Pyrosaur gets +1/+0 until end of turn.
+Pyromancy	ul	88	R	2RR	4	Enchantment			R	{3}, Discard a card at random: Pyromancy deals damage to target creature or player equal to the converted mana cost of the discarded card.
+Rack and Ruin	ul	89	R	2R	3	Instant			U	Destroy two target artifacts.
+Rivalry	ul	90	R	2R	3	Enchantment			R	At the beginning of each player's upkeep, if that player controls more lands than any other, Rivalry deals 2 damage to him or her.
+Shivan Phoenix	ul	91	R	4RR	6	Creature - Phoenix	3	4	R	Flying When Shivan Phoenix is put into a graveyard from the battlefield, return Shivan Phoenix to its owner's hand.
+Sluggishness	ul	92	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't block. When Sluggishness is put into a graveyard from the battlefield, return Sluggishness to its owner's hand.
+Viashino Bey	ul	93	R	2RR	4	Creature - Viashino	4	3	C	If Viashino Bey attacks, all creatures you control attack if able.
+Viashino Cutthroat	ul	94	R	2RR	4	Creature - Viashino	5	3	U	Haste At the beginning of the end step, return Viashino Cutthroat to its owner's hand.
+Viashino Heretic	ul	95	R	2R	3	Creature - Viashino	1	3	U	{1}{R}, {T}: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.
+Viashino Sandscout	ul	96	R	1R	2	Creature - Viashino Scout	2	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.) At the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)
+Bloated Toad	ul	97	G	2G	3	Creature - Frog	2	2	U	Protection from blue Cycling {2} ({2}, Discard this card: Draw a card.)
+Crop Rotation	ul	98	G	G	1	Instant			C	As an additional cost to cast Crop Rotation, sacrifice a land. Search your library for a land card and put that card onto the battlefield. Then shuffle your library.
+Darkwatch Elves	ul	99	G	2G	3	Creature - Elf	2	2	U	Protection from black Cycling {2} ({2}, Discard this card: Draw a card.)
+Defense of the Heart	ul	100	G	3G	4	Enchantment			R	At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart. If you do, search your library for up to two creature cards and put those creatures onto the battlefield. Then shuffle your library.
+Deranged Hermit	ul	101	G	3GG	5	Creature - Elf	1	1	R	Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Deranged Hermit enters the battlefield, put four 1/1 green Squirrel creature tokens onto the battlefield. Squirrel creatures get +1/+1.
+Gang of Elk	ul	102	G	5G	6	Creature - Elk Beast	5	4	U	Whenever Gang of Elk becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+Harmonic Convergence	ul	103	G	2G	3	Instant			U	Put all enchantments on top of their owners' libraries.
+Hidden Gibbons	ul	104	G	G	1	Enchantment			R	When an opponent casts an instant spell, if Hidden Gibbons is an enchantment, Hidden Gibbons becomes a 4/4 Ape creature.
+Lone Wolf	ul	105	G	2G	3	Creature - Wolf	2	2	U	You may have Lone Wolf assign its combat damage as though it weren't blocked.
+Might of Oaks	ul	106	G	3G	4	Instant			R	Target creature gets +7/+7 until end of turn.
+Multani, Maro-Sorcerer	ul	107	G	4GG	6	Legendary Creature - Elemental	*	*	R	Shroud (This permanent can't be the target of spells or abilities.) Multani's power and toughness are each equal to the total number of cards in all players' hands.
+Multani's Acolyte	ul	108	G	GG	2	Creature - Elf	2	1	C	Echo {G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Multani's Acolyte enters the battlefield, draw a card.
+Multani's Presence	ul	109	G	G	1	Enchantment			U	Whenever a spell you've cast is countered, draw a card.
+Rancor	ul	110	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+0 and has trample. When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+Repopulate	ul	111	G	1G	2	Instant			C	Shuffle all creature cards from target player's graveyard into that player's library. Cycling {2} ({2}, Discard this card: Draw a card.)
+Silk Net	ul	112	G	G	1	Instant			C	Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)
+Simian Grunts	ul	113	G	2G	3	Creature - Ape	3	4	C	Flash Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Treefolk Mystic	ul	114	G	3G	4	Creature - Treefolk	2	4	C	Whenever a creature blocks or becomes blocked by Treefolk Mystic, destroy all Auras attached to that creature.
+Weatherseed Elf	ul	115	G	G	1	Creature - Elf	1	1	C	{T}: Target creature gains forestwalk until end of turn.
+Weatherseed Treefolk	ul	116	G	2GGG	5	Creature - Treefolk	5	3	R	Trample When Weatherseed Treefolk is put into a graveyard from the battlefield, return Weatherseed Treefolk to its owner's hand.
+Wing Snare	ul	117	G	2G	3	Sorcery			U	Destroy target creature with flying.
+Yavimaya Granger	ul	118	G	2G	3	Creature - Elf	2	2	C	Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+Yavimaya Scion	ul	119	G	4G	5	Creature - Treefolk	4	4	C	Protection from artifacts
+Yavimaya Wurm	ul	120	G	4GG	6	Creature - Wurm	6	4	C	Trample
+Angel's Trumpet	ul	121	A	3	3	Artifact			U	All creatures have vigilance. At the beginning of each player's end step, tap all untapped creatures that player controls that didn't attack this turn. Angel's Trumpet deals damage to the player equal to the number of creatures tapped this way.
+Beast of Burden	ul	122	A	6	6	Artifact Creature - Golem	*	*	R	Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+Crawlspace	ul	123	A	3	3	Artifact			R	No more than two creatures can attack you each combat.
+Damping Engine	ul	124	A	4	4	Artifact			R	A player who controls more permanents than any other can't play lands or cast artifact, creature, or enchantment spells. That player may sacrifice a permanent to ignore this effect until end of turn.
+Defense Grid	ul	125	A	2	2	Artifact			R	Each spell costs {3} more to cast except during its controller's turn.
+Grim Monolith	ul	126	A	2	2	Artifact			R	Grim Monolith doesn't untap during your untap step. {T}: Add {3} to your mana pool. {4}: Untap Grim Monolith.
+Iron Maiden	ul	127	A	3	3	Artifact			R	At the beginning of each opponent's upkeep, Iron Maiden deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+Jhoira's Toolbox	ul	128	A	2	2	Artifact Creature - Insect	1	1	U	{2}: Regenerate target artifact creature.
+Memory Jar	ul	129	A	5	5	Artifact			R	{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.
+Quicksilver Amulet	ul	130	A	4	4	Artifact			R	{4}, {T}: You may put a creature card from your hand onto the battlefield.
+Ring of Gix	ul	131	A	3	3	Artifact			R	Echo {3} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) {1}, {T}: Tap target artifact, creature, or land.
+Scrapheap	ul	132	A	3	3	Artifact			R	Whenever an artifact or enchantment is put into your graveyard from the battlefield, you gain 1 life.
+Thran Lens	ul	133	A	2	2	Artifact			R	All permanents are colorless.
+Thran War Machine	ul	134	A	4	4	Artifact Creature - Construct	4	5	U	Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) Thran War Machine attacks each turn if able.
+Thran Weaponry	ul	135	A	4	4	Artifact			R	Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) You may choose not to untap Thran Weaponry during your untap step. {2}, {T}: All creatures get +2/+2 for as long as Thran Weaponry remains tapped.
+Ticking Gnomes	ul	136	A	3	3	Artifact Creature - Gnome	3	3	U	Echo {3} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) Sacrifice Ticking Gnomes: Ticking Gnomes deals 1 damage to target creature or player.
+Urza's Blueprints	ul	137	A	6	6	Artifact			R	Echo {6} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) {T}: Draw a card.
+Wheel of Torture	ul	138	A	3	3	Artifact			R	At the beginning of each opponent's upkeep, Wheel of Torture deals X damage to that player, where X is 3 minus the number of cards in his or her hand.
+Faerie Conclave	ul	139	L		0	Land			U	Faerie Conclave enters the battlefield tapped. {T}: Add {U} to your mana pool. {1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land. (It can't be blocked except by creatures with flying or reach.)
+Forbidding Watchtower	ul	140	L		0	Land			U	Forbidding Watchtower enters the battlefield tapped. {T}: Add {W} to your mana pool. {1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
+Ghitu Encampment	ul	141	L		0	Land			U	Ghitu Encampment enters the battlefield tapped. {T}: Add {R} to your mana pool. {1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)
+Spawning Pool	ul	142	L		0	Land			U	Spawning Pool enters the battlefield tapped. {T}: Add {B} to your mana pool. {1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with "{B}: Regenerate this creature" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Treetop Village	ul	143	L		0	Land			U	Treetop Village enters the battlefield tapped. {T}: Add {G} to your mana pool. {1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Academy Rector	ud	1	W	3W	4	Creature - Human Cleric	1	2	R	When Academy Rector is put into a graveyard from the battlefield, you may exile it. If you do, search your library for an enchantment card and put that card onto the battlefield. Then shuffle your library.
+Archery Training	ud	2	W	W	1	Enchantment - Aura			U	Enchant creature At the beginning of your upkeep, you may put an arrow counter on Archery Training. Enchanted creature has "{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training."
+Capashen Knight	ud	3	W	1W	2	Creature - Human Knight	1	1	C	First strike {1}{W}: Capashen Knight gets +1/+0 until end of turn.
+Capashen Standard	ud	4	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1. {2}, Sacrifice Capashen Standard: Draw a card.
+Capashen Templar	ud	5	W	2W	3	Creature - Human Knight	2	2	C	{W}: Capashen Templar gets +0/+1 until end of turn.
+False Prophet	ud	6	W	2WW	4	Creature - Human Cleric	2	2	R	When False Prophet is put into a graveyard from the battlefield, exile all creatures.
+Fend Off	ud	7	W	1W	2	Instant			C	Prevent all combat damage that would be dealt by target creature this turn. Cycling {2} ({2}, Discard this card: Draw a card.)
+Field Surgeon	ud	8	W	1W	2	Creature - Human Cleric	1	1	C	Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.
+Flicker	ud	9	W	1W	2	Sorcery			R	Exile target nontoken permanent, then return it to the battlefield under its owner's control.
+Jasmine Seer	ud	10	W	3W	4	Creature - Human Wizard	1	1	U	{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.
+Mask of Law and Grace	ud	11	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has protection from black and from red.
+Master Healer	ud	12	W	4W	5	Creature - Human Cleric	1	4	R	{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.
+Opalescence	ud	13	W	2WW	4	Enchantment			R	Each other non-Aura enchantment is a creature with power and toughness each equal to its converted mana cost. It's still an enchantment.
+Reliquary Monk	ud	14	W	2W	3	Creature - Human Monk Cleric	2	2	C	When Reliquary Monk is put into a graveyard from the battlefield, destroy target artifact or enchantment.
+Replenish	ud	15	W	3W	4	Sorcery			R	Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)
+Sanctimony	ud	16	W	1W	2	Enchantment			U	Whenever an opponent taps a Mountain for mana, you may gain 1 life.
+Scent of Jasmine	ud	17	W	W	1	Instant			C	Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.
+Scour	ud	18	W	2WW	4	Instant			U	Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. That player then shuffles his or her library.
+Serra Advocate	ud	19	W	3W	4	Creature - Angel	2	2	U	Flying {T}: Target attacking or blocking creature gets +2/+2 until end of turn.
+Solidarity	ud	20	W	3W	4	Instant			C	Creatures you control get +0/+5 until end of turn.
+Tethered Griffin	ud	21	W	W	1	Creature - Griffin	2	3	R	Flying When you control no enchantments, sacrifice Tethered Griffin.
+Tormented Angel	ud	22	W	3W	4	Creature - Angel	1	5	C	Flying
+Voice of Duty	ud	23	W	3W	4	Creature - Angel	2	2	U	Flying, protection from green
+Voice of Reason	ud	24	W	3W	4	Creature - Angel	2	2	U	Flying, protection from blue
+Wall of Glare	ud	25	W	1W	2	Creature - Wall	0	5	C	Defender (This creature can't attack.) Wall of Glare can block any number of creatures.
+Aura Thief	ud	26	U	3U	4	Creature - Illusion	2	2	R	Flying When Aura Thief is put into a graveyard from the battlefield, you gain control of all enchantments. (You don't get to move Auras.)
+Blizzard Elemental	ud	27	U	5UU	7	Creature - Elemental	5	5	R	Flying {3}{U}: Untap Blizzard Elemental.
+Brine Seer	ud	28	U	3U	4	Creature - Human Wizard	1	1	U	{2}{U}, {T}: Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.
+Bubbling Beebles	ud	29	U	4U	5	Creature - Beeble	3	3	C	Bubbling Beebles is unblockable as long as defending player controls an enchantment.
+Disappear	ud	30	U	2UU	4	Enchantment - Aura			U	Enchant creature {U}: Return enchanted creature and Disappear to their owners' hands.
+Donate	ud	31	U	2U	3	Sorcery			R	Target player gains control of target permanent you control.
+Fatigue	ud	32	U	1U	2	Sorcery			C	Target player skips his or her next draw step.
+Fledgling Osprey	ud	33	U	U	1	Creature - Bird	1	1	C	Fledgling Osprey has flying as long as it's enchanted.
+Illuminated Wings	ud	34	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. {2}, Sacrifice Illuminated Wings: Draw a card.
+Iridescent Drake	ud	35	U	3U	4	Creature - Drake	2	2	U	Flying When Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield attached to Iridescent Drake. (You control that Aura.)
+Kingfisher	ud	36	U	3U	4	Creature - Bird	2	2	C	Flying When Kingfisher is put into a graveyard from the battlefield, draw a card.
+Mental Discipline	ud	37	U	1UU	3	Enchantment			C	{1}{U}, Discard a card: Draw a card.
+Metathran Elite	ud	38	U	1UU	3	Creature - Metathran Soldier	2	3	U	Metathran Elite is unblockable as long as it's enchanted.
+Metathran Soldier	ud	39	U	1U	2	Creature - Metathran Soldier	1	1	C	Metathran Soldier is unblockable.
+Opposition	ud	40	U	2UU	4	Enchantment			R	Tap an untapped creature you control: Tap target artifact, creature, or land.
+Private Research	ud	41	U	U	1	Enchantment - Aura			U	Enchant creature At the beginning of your upkeep, you may put a page counter on Private Research. When enchanted creature is put into a graveyard, draw a card for each page counter on Private Research.
+Quash	ud	42	U	2UU	4	Instant			U	Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. That player then shuffles his or her library.
+Rayne, Academy Chancellor	ud	43	U	2U	3	Legendary Creature - Human Wizard	1	1	R	Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card, and if Rayne, Academy Chancellor is enchanted, you may draw another card.
+Rescue	ud	44	U	U	1	Instant			C	Return target permanent you control to its owner's hand.
+Scent of Brine	ud	45	U	1U	2	Instant			C	Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.
+Sigil of Sleep	ud	46	U	U	1	Enchantment - Aura			C	Enchant creature Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.
+Telepathic Spies	ud	47	U	2U	3	Creature - Human Wizard	2	2	C	When Telepathic Spies enters the battlefield, look at target opponent's hand.
+Temporal Adept	ud	48	U	1UU	3	Creature - Human Wizard	1	1	R	{U}{U}{U}, {T}: Return target permanent to its owner's hand.
+Thieving Magpie	ud	49	U	2UU	4	Creature - Bird	1	3	U	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever Thieving Magpie deals damage to an opponent, you draw a card.
+Treachery	ud	50	U	3UU	5	Enchantment - Aura			R	Enchant creature When Treachery enters the battlefield, untap up to five lands. You control enchanted creature.
+Apprentice Necromancer	ud	51	B	1B	2	Creature - Zombie Wizard	1	1	R	{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.
+Attrition	ud	52	B	1BB	3	Enchantment			R	{B}, Sacrifice a creature: Destroy target nonblack creature.
+Body Snatcher	ud	53	B	2BB	4	Creature - Minion	2	2	R	When Body Snatcher enters the battlefield, you may discard a creature card. If you don't, exile Body Snatcher. When Body Snatcher is put into a graveyard from the battlefield, exile Body Snatcher and return target creature card from your graveyard to the battlefield.
+Bubbling Muck	ud	54	B	B	1	Sorcery			C	Until end of turn, whenever a player taps a Swamp for mana, that player adds {B} to his or her mana pool (in addition to the mana the land produces).
+Carnival of Souls	ud	55	B	1B	2	Enchantment			R	Whenever a creature enters the battlefield, you lose 1 life and add {B} to your mana pool.
+Chime of Night	ud	56	B	1B	2	Enchantment - Aura			C	Enchant creature When Chime of Night is put into a graveyard from the battlefield, destroy target nonblack creature.
+Disease Carriers	ud	57	B	2BB	4	Creature - Rat	2	2	C	When Disease Carriers is put into a graveyard from the battlefield, target creature gets -2/-2 until end of turn.
+Dying Wail	ud	58	B	1B	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, target player discards two cards.
+Encroach	ud	59	B	B	1	Sorcery			U	Target player reveals his or her hand. You choose a nonbasic land card from it. That player discards that card.
+Eradicate	ud	60	B	2BB	4	Sorcery			U	Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. That player then shuffles his or her library.
+Festering Wound	ud	61	B	1B	2	Enchantment - Aura			U	Enchant creature At the beginning of your upkeep, you may put an infection counter on Festering Wound. At the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.
+Lurking Jackals	ud	62	B	B	1	Enchantment			U	When an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.
+Nightshade Seer	ud	63	B	3B	4	Creature - Human Wizard	1	1	U	{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.
+Phyrexian Monitor	ud	64	B	3B	4	Creature - Skeleton	2	2	C	{B}: Regenerate Phyrexian Monitor.
+Phyrexian Negator	ud	65	B	2B	3	Creature - Horror	5	5	R	Trample Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents.
+Plague Dogs	ud	66	B	4B	5	Creature - Zombie Hound	3	3	U	When Plague Dogs is put into a graveyard from the battlefield, all creatures get -1/-1 until end of turn. {2}, Sacrifice Plague Dogs: Draw a card.
+Rapid Decay	ud	67	B	1B	2	Instant			R	Exile up to three target cards from a single graveyard. Cycling {2} ({2}, Discard this card: Draw a card.)
+Ravenous Rats	ud	68	B	1B	2	Creature - Rat	1	1	C	When Ravenous Rats enters the battlefield, target opponent discards a card.
+Scent of Nightshade	ud	69	B	1B	2	Instant			C	Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.
+Skittering Horror	ud	70	B	2B	3	Creature - Horror	4	3	C	When you cast a creature spell, sacrifice Skittering Horror.
+Slinking Skirge	ud	71	B	3B	4	Creature - Imp	2	1	C	Flying {2}, Sacrifice Slinking Skirge: Draw a card.
+Soul Feast	ud	72	B	3BB	5	Sorcery			U	Target player loses 4 life and you gain 4 life.
+Squirming Mass	ud	73	B	1B	2	Creature - Horror	1	1	C	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Twisted Experiment	ud	74	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/-1.
+Yawgmoth's Bargain	ud	75	B	4BB	6	Enchantment			R	Skip your draw step. Pay 1 life: Draw a card.
+Aether Sting	ud	76	R	3R	4	Enchantment			U	Whenever an opponent casts a creature spell, Aether Sting deals 1 damage to that player.
+Bloodshot Cyclops	ud	77	R	5R	6	Creature - Cyclops Giant	4	4	R	{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to target creature or player.
+Cinder Seer	ud	78	R	3R	4	Creature - Human Wizard	1	1	U	{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to target creature or player, where X is the number of cards revealed this way.
+Colos Yearling	ud	79	R	2R	3	Creature - Goat Beast	1	1	C	Mountainwalk {R}: Colos Yearling gets +1/+0 until end of turn.
+Covetous Dragon	ud	80	R	4R	5	Creature - Dragon	6	5	R	Flying When you control no artifacts, sacrifice Covetous Dragon.
+Flame Jet	ud	81	R	1R	2	Sorcery			C	Flame Jet deals 3 damage to target player. Cycling {2} ({2}, Discard this card: Draw a card.)
+Goblin Berserker	ud	82	R	3R	4	Creature - Goblin Berserker	2	2	U	First strike, haste
+Goblin Festival	ud	83	R	1R	2	Enchantment			R	{2}: Goblin Festival deals 1 damage to target creature or player. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival.
+Goblin Gardener	ud	84	R	3R	4	Creature - Goblin	2	1	C	When Goblin Gardener is put into a graveyard from the battlefield, destroy target land.
+Goblin Marshal	ud	85	R	4RR	6	Creature - Goblin Warrior	3	3	R	Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Goblin Marshal enters the battlefield or is put into a graveyard from the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+Goblin Masons	ud	86	R	1R	2	Creature - Goblin	2	1	C	When Goblin Masons is put into a graveyard from the battlefield, destroy target Wall.
+Hulking Ogre	ud	87	R	2R	3	Creature - Ogre	3	3	C	Hulking Ogre can't block.
+Impatience	ud	88	R	2R	3	Enchantment			R	At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.
+Incendiary	ud	89	R	R	1	Enchantment - Aura			U	Enchant creature At the beginning of your upkeep, you may put a fuse counter on Incendiary. When enchanted creature is put into a graveyard, Incendiary deals X damage to target creature or player, where X is the number of fuse counters on Incendiary.
+Keldon Champion	ud	90	R	2RR	4	Creature - Human Barbarian	3	2	U	Haste Echo {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Keldon Champion enters the battlefield, it deals 3 damage to target player.
+Keldon Vandals	ud	91	R	2R	3	Creature - Human Rogue	4	1	C	Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Keldon Vandals enters the battlefield, destroy target artifact.
+Landslide	ud	92	R	R	1	Sorcery			U	Sacrifice any number of Mountains. Landslide deals that much damage to target player.
+Mark of Fury	ud	93	R	R	1	Enchantment - Aura			C	Enchant creature Enchanted creature has haste. At the beginning of the end step, return Mark of Fury to its owner's hand.
+Reckless Abandon	ud	94	R	R	1	Sorcery			C	As an additional cost to cast Reckless Abandon, sacrifice a creature. Reckless Abandon deals 4 damage to target creature or player.
+Repercussion	ud	95	R	1RR	3	Enchantment			R	Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller.
+Scent of Cinder	ud	96	R	1R	2	Sorcery			C	Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.
+Sowing Salt	ud	97	R	2RR	4	Sorcery			U	Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. That player then shuffles his or her library.
+Trumpet Blast	ud	98	R	2R	3	Instant			C	Attacking creatures get +2/+0 until end of turn.
+Wake of Destruction	ud	99	R	3RRR	6	Sorcery			R	Destroy target land and all other lands with the same name as that land.
+Wild Colos	ud	100	R	2R	3	Creature - Goat Beast	2	2	C	Haste
+Ancient Silverback	ud	101	G	4GG	6	Creature - Ape	6	5	R	{G}: Regenerate Ancient Silverback. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Compost	ud	102	G	1G	2	Enchantment			U	Whenever a black card is put into an opponent's graveyard from anywhere, you may draw a card.
+Elvish Lookout	ud	103	G	G	1	Creature - Elf	1	1	C	Shroud (This permanent can't be the target of spells or abilities.)
+Elvish Piper	ud	104	G	3G	4	Creature - Elf Shaman	1	1	R	{G}, {T}: You may put a creature card from your hand onto the battlefield.
+Emperor Crocodile	ud	105	G	3G	4	Creature - Crocodile	5	5	R	When you control no other creatures, sacrifice Emperor Crocodile.
+Gamekeeper	ud	106	G	3G	4	Creature - Elf	2	2	U	When Gamekeeper is put into a graveyard from the battlefield, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.
+Goliath Beetle	ud	107	G	2G	3	Creature - Insect	3	1	C	Trample
+Heart Warden	ud	108	G	1G	2	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool. {2}, Sacrifice Heart Warden: Draw a card.
+Hunting Moa	ud	109	G	2G	3	Creature - Bird Beast	3	2	U	Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Hunting Moa enters the battlefield or is put into a graveyard from the battlefield, put a +1/+1 counter on target creature.
+Ivy Seer	ud	110	G	3G	4	Creature - Elf Wizard	1	1	U	{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
+Magnify	ud	111	G	G	1	Instant			C	All creatures get +1/+1 until end of turn.
+Marker Beetles	ud	112	G	1GG	3	Creature - Insect	2	3	C	When Marker Beetles is put into a graveyard from the battlefield, target creature gets +1/+1 until end of turn. {2}, Sacrifice Marker Beetles: Draw a card.
+Momentum	ud	113	G	2G	3	Enchantment - Aura			U	Enchant creature At the beginning of your upkeep, you may put a growth counter on Momentum. Enchanted creature gets +1/+1 for each growth counter on Momentum.
+Multani's Decree	ud	114	G	3G	4	Sorcery			C	Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.
+Pattern of Rebirth	ud	115	G	3G	4	Enchantment - Aura			R	Enchant creature When enchanted creature is put into a graveyard, that creature's controller may search his or her library for a creature card and put that card onto the battlefield. If that player does, he or she then shuffles his or her library.
+Plated Spider	ud	116	G	4G	5	Creature - Spider	4	4	C	Reach (This creature can block creatures with flying.)
+Plow Under	ud	117	G	3GG	5	Sorcery			R	Put two target lands on top of their owners' libraries.
+Rofellos, Llanowar Emissary	ud	118	G	GG	2	Legendary Creature - Elf Druid	2	1	R	{T}: Add {G} to your mana pool for each Forest you control.
+Rofellos's Gift	ud	119	G	G	1	Sorcery			C	Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.
+Scent of Ivy	ud	120	G	G	1	Instant			C	Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.
+Splinter	ud	121	G	2GG	4	Sorcery			U	Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. That player then shuffles his or her library.
+Taunting Elf	ud	122	G	G	1	Creature - Elf	0	1	C	All creatures able to block Taunting Elf do so.
+Thorn Elemental	ud	123	G	5GG	7	Creature - Elemental	7	7	R	You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+Yavimaya Elder	ud	124	G	1GG	3	Creature - Human Druid	2	1	C	When Yavimaya Elder is put into a graveyard from the battlefield, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library. {2}, Sacrifice Yavimaya Elder: Draw a card.
+Yavimaya Enchantress	ud	125	G	2G	3	Creature - Human Druid	2	2	U	Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.
+Braidwood Cup	ud	126	A	3	3	Artifact			U	{T}: You gain 1 life.
+Braidwood Sextant	ud	127	A	1	1	Artifact			U	{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+Brass Secretary	ud	128	A	3	3	Artifact Creature - Construct	2	1	U	{2}, Sacrifice Brass Secretary: Draw a card.
+Caltrops	ud	129	A	3	3	Artifact			U	Whenever a creature attacks, Caltrops deals 1 damage to it.
+Extruder	ud	130	A	4	4	Artifact Creature - Juggernaut	4	3	U	Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) Sacrifice an artifact: Put a +1/+1 counter on target creature.
+Fodder Cannon	ud	131	A	4	4	Artifact			U	{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.
+Junk Diver	ud	132	A	3	3	Artifact Creature - Bird	1	1	R	Flying When Junk Diver is put into a graveyard from the battlefield, return another target artifact card from your graveyard to your hand.
+Mantis Engine	ud	133	A	5	5	Artifact Creature - Insect	3	3	U	{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.) {2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Masticore	ud	134	A	4	4	Artifact Creature - Masticore	4	4	R	At the beginning of your upkeep, you may discard a card. If you don't, sacrifice Masticore. {2}: Masticore deals 1 damage to target creature. {2}: Regenerate Masticore.
+Metalworker	ud	135	A	3	3	Artifact Creature - Construct	1	2	R	{T}: Reveal any number of artifact cards in your hand. Add {2} to your mana pool for each card revealed this way.
+Powder Keg	ud	136	A	2	2	Artifact			R	At the beginning of your upkeep, you may put a fuse counter on Powder Keg. {T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.
+Scrying Glass	ud	137	A	2	2	Artifact			R	{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals his or her hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card.
+Storage Matrix	ud	138	A	3	3	Artifact			R	As long as Storage Matrix is untapped, each player chooses artifact, creature, or land during his or her untap step. That player can untap only permanents of the chosen type this step.
+Thran Dynamo	ud	139	A	4	4	Artifact			U	{T}: Add {3} to your mana pool.
+Thran Foundry	ud	140	A	1	1	Artifact			U	{1}, {T}, Exile Thran Foundry: Target player shuffles his or her graveyard into his or her library.
+Thran Golem	ud	141	A	5	5	Artifact Creature - Golem	3	3	R	As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
+Urza's Incubator	ud	142	A	3	3	Artifact			R	As Urza's Incubator enters the battlefield, choose a creature type. Creature spells of the chosen type cost {2} less to cast.
+Yavimaya Hollow	ud	143	L		0	Legendary Land			R	{T}: Add {1} to your mana pool. {G}, {T}: Regenerate target creature.

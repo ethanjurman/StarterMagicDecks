@@ -1,0 +1,25 @@
+10	mountain
+11	plains
+3	terramorphic expanse
+1	keldon marauders
+2	mogg war marshal
+2	lavacore elemental
+1	avalanche riders
+1	children of korlis
+2	icatian javelineers
+2	errant doomsayers
+3	whitemane lion
+1	soltari priest
+3	aven riftwatcher
+2	stonecloaker
+1	riftmarked knight
+2	calciderm
+1	dust elemental
+2	stormfront riders
+2	jhoira's timebug
+2	brute force
+1	fatal frenzy
+2	timecrafting
+1	dead // gone
+1	sunlance
+1	dawn charm

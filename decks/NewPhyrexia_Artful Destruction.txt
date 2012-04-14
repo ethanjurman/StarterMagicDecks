@@ -1,0 +1,25 @@
+12	forest
+12	plains
+1	blade splicer
+1	brutalizer exarch
+3	copper myr
+1	garruk's packleader
+3	gold myr
+1	golem artisan
+3	master splicer
+1	maul splicer
+2	palladium myr
+1	phyrexian hulk
+1	precursor golem
+2	sensor splicer
+1	stone golem
+2	suture priest
+2	vital splicer
+1	conversion chamber
+2	cultivate
+2	forced worship
+1	giant growth
+1	glissa's scorn
+1	mighty leap
+1	viridian harvest
+2	war report

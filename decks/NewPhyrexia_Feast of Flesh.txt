@@ -1,0 +1,26 @@
+11	mountain
+13	swamp
+2	blistergrub
+2	blisterstick shaman
+2	caustic hound 
+1	chancellor of the dross
+2	entomber exarch
+2	flameborn viron
+2	furnace scamp
+2	phyrexian rager
+1	prodigal pyromancer
+1	scoria elemental
+2	tormentor exarch
+2	artillerize
+1	despise
+1	disentomb
+1	enslave
+1	fling
+2	geth's verdict
+1	go for the throat
+1	ichor explosion
+1	morbid plunder
+2	parasitic implant
+2	shrine of burning rage
+1	tower of calamities
+1	whipflare

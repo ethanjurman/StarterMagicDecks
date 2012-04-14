@@ -1,0 +1,25 @@
+3	bay falcon
+2	azimaet drake
+1	dream fighter
+3	teferi's drake
+1	suq'ata firewalker
+1	harmattan efreet
+1	vaporous djinn
+1	mist dragon
+3	pyric salamander
+2	wildfire emissary
+1	burning palm efreet
+2	flame elemental
+2	talruum minotaur
+1	subterranean spirit
+1	mystical tutor
+2	meddle
+2	boomerang
+2	dream cache
+1	dissipate
+1	power sink
+1	incinerate
+1	goblin scouts
+1	kaervek's torch
+12	island
+12	mountain

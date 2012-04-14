@@ -1,0 +1,24 @@
+12	island
+11	mountain
+1	dreadship reef
+1	sage of epityr
+2	giant oyster
+3	viscerid deepwalker
+3	riftwing cloudskate
+1	errant ephemeron
+1	deep-sea kraken
+2	coal stoker
+2	keldon halberdier
+1	pardic dragon
+1	jhoira's timebug
+1	clockwork hydra
+2	clockspinning
+1	whispers of the muse
+1	careful consideration
+1	ground rift
+4	grapeshot
+1	rift bolt
+3	empty the warrens
+2	ignite memories
+2	claws of gix
+1	serrated arrows

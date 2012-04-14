@@ -1,0 +1,4 @@
+13	Island
+11	Plains
+2	Master Decoy
+2	Soltari Lancer

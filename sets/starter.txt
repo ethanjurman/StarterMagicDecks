@@ -1,0 +1,159 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Angel of Light	starter	1	W	4W	5	Creature - Angel	3	3	U	Flying, vigilance
+Angel of Mercy	starter	2	W	4W	5	Creature - Angel	3	3	U	Flying When Angel of Mercy enters the battlefield, you gain 3 life.
+Angelic Blessing	starter	3	W	2W	3	Sorcery			C	Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Archangel	starter	4	W	5WW	7	Creature - Angel	5	5	R	Flying, vigilance
+Ardent Militia	starter	5	W	4W	5	Creature - Human Soldier	2	5	U	Vigilance
+Armageddon	starter	6	W	3W	4	Sorcery			R	Destroy all lands.
+Bargain	starter	7	W	2W	3	Sorcery			U	Target opponent draws a card. You gain 7 life.
+Blinding Light	starter	8	W	2W	3	Sorcery			R	Tap all nonwhite creatures.
+Border Guard	starter	9	W	2W	3	Creature - Human Soldier	1	4	C	
+Breath of Life	starter	10	W	3W	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Champion Lancer	starter	11	W	4WW	6	Creature - Human Knight	3	3	R	Prevent all damage that would be dealt to Champion Lancer by creatures.
+Charging Paladin	starter	12	W	2W	3	Creature - Human Knight	2	2	U	Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+Devoted Hero	starter	13	W	W	1	Creature - Elf Soldier	1	2	C	
+Devout Monk	starter	14	W	W	1	Creature - Human Monk Cleric	1	1	C	When Devout Monk enters the battlefield, you gain 1 life.
+Eager Cadet	starter	15	W	W	1	Creature - Human Soldier	1	1	C	
+False Peace	starter	16	W	W	1	Sorcery			U	Target player skips all combat phases of his or her next turn.
+Foot Soldiers	starter	17	W	3W	4	Creature - Human Soldier	2	4	C	
+Gerrard's Wisdom	starter	18	W	2WW	4	Sorcery			R	You gain 2 life for each card in your hand.
+Knight Errant	starter	19	W	1W	2	Creature - Human Knight	2	2	C	
+Loyal Sentry	starter	20	W	W	1	Creature - Human Soldier	1	1	R	When Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.
+Path of Peace	starter	21	W	3W	4	Sorcery			C	Destroy target creature. Its owner gains 4 life.
+Righteous Charge	starter	22	W	1WW	3	Sorcery			U	Creatures you control get +2/+2 until end of turn.
+Righteous Fury	starter	23	W	4WW	6	Sorcery			R	Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+Royal Falcon	starter	24	W	1W	2	Creature - Bird	1	1	C	Flying
+Royal Trooper	starter	25	W	2W	3	Creature - Human Soldier	2	2	U	Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.
+Sacred Nectar	starter	26	W	1W	2	Sorcery			C	You gain 4 life.
+Steadfastness	starter	27	W	1W	2	Sorcery			C	Creatures you control get +0/+3 until end of turn.
+Venerable Monk	starter	28	W	2W	3	Creature - Human Monk Cleric	2	2	C	When Venerable Monk enters the battlefield, you gain 2 life.
+Vengeance	starter	29	W	3W	4	Sorcery			U	Destroy target tapped creature.
+Veteran Cavalier	starter	30	W	WW	2	Creature - Human Knight	2	2	U	Vigilance (Attacking doesn't cause this creature to tap.)
+Wild Griffin	starter	31	W	2W	3	Creature - Griffin	2	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Air Elemental	starter	32	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Coral Eel	starter	33	U	1U	2	Creature - Fish	2	1	C	
+Counterspell	starter	34	U	UU	2	Instant			U	Counter target spell.
+Denizen of the Deep	starter	35	U	6UU	8	Creature - Serpent	11	11	R	When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+Exhaustion	starter	36	U	2U	3	Sorcery			U	Creatures and lands target opponent controls don't untap during his or her next untap step.
+Extinguish	starter	37	U	1U	2	Instant			C	Counter target sorcery spell.
+Eye Spy	starter	38	U	U	1	Sorcery			U	Look at the top card of target player's library. You may put that card into his or her graveyard.
+Giant Octopus	starter	39	U	3U	4	Creature - Octopus	3	3	C	
+Ingenious Thief	starter	40	U	1U	2	Creature - Human Rogue	1	1	C	Flying When Ingenious Thief enters the battlefield, look at target player's hand.
+Man-o'-War	starter	41	U	2U	3	Creature - Jellyfish	2	2	U	When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+Merfolk of the Pearl Trident	starter	42	U	U	1	Creature - Merfolk	1	1	C	
+Owl Familiar	starter	43	U	1U	2	Creature - Bird	1	1	U	Flying When Owl Familiar enters the battlefield, draw a card, then discard a card.
+Phantom Warrior	starter	44	U	1UU	3	Creature - Illusion Warrior	2	2	R	Phantom Warrior is unblockable.
+Piracy	starter	45	U	UU	2	Sorcery			R	Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+Psychic Transfer	starter	46	U	4U	5	Sorcery			R	If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.
+Ransack	starter	47	U	3U	4	Sorcery			R	Look at the top five cards of target player's library. Put any number of them on the bottom of that library in any order and the rest on top of the library in any order.
+Relearn	starter	48	U	1UU	3	Sorcery			U	Return target instant or sorcery card from your graveyard to your hand.
+Remove Soul	starter	49	U	1U	2	Instant			C	Counter target creature spell.
+Sea Eagle	starter	50	U	1U	2	Creature - Bird	1	1	C	Flying
+Sleight of Hand	starter	51	U	U	1	Sorcery			C	Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Snapping Drake	starter	52	U	3U	4	Creature - Drake	3	2	C	Flying
+Storm Crow	starter	53	U	1U	2	Creature - Bird	1	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Tidings	starter	54	U	3UU	5	Sorcery			U	Draw four cards.
+Time Ebb	starter	55	U	2U	3	Sorcery			C	Put target creature on top of its owner's library.
+Time Warp	starter	56	U	3UU	5	Sorcery			R	Target player takes an extra turn after this one.
+Touch of Brilliance	starter	57	U	3U	4	Sorcery			C	Draw two cards.
+Undo	starter	58	U	1UU	3	Sorcery			U	Return two target creatures to their owners' hands.
+Vizzerdrix	starter	59	U	6U	7	Creature - Rabbit Beast	6	6	R	
+Water Elemental	starter	60	U	3UU	5	Creature - Elemental	5	4	U	
+Wind Drake	starter	61	U	2U	3	Creature - Drake	2	2	C	Flying
+Wind Sail	starter	62	U	1U	2	Sorcery			U	One or two target creatures gain flying until end of turn.
+Abyssal Horror	starter	63	B	4BB	6	Creature - Horror	2	2	R	Flying When Abyssal Horror enters the battlefield, target player discards two cards.
+Ancient Craving	starter	64	B	3B	4	Sorcery			R	You draw three cards and you lose 3 life.
+Bog Imp	starter	65	B	1B	2	Creature - Imp	1	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Bog Raiders	starter	66	B	2B	3	Creature - Zombie	2	2	C	Swampwalk
+Bog Wraith	starter	67	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Chorus of Woe	starter	68	B	B	1	Sorcery			C	Creatures you control get +1/+0 until end of turn.
+Coercion	starter	69	B	2B	3	Sorcery			U	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Dakmor Ghoul	starter	70	B	2BB	4	Creature - Zombie	2	2	U	When Dakmor Ghoul enters the battlefield, target opponent loses 2 life and you gain 2 life.
+Dakmor Lancer	starter	71	B	4BB	6	Creature - Human Knight	3	3	R	When Dakmor Lancer enters the battlefield, destroy target nonblack creature.
+Dakmor Plague	starter	72	B	3BB	5	Sorcery			U	Dakmor Plague deals 3 damage to each creature and each player.
+Dakmor Scorpion	starter	73	B	1B	2	Creature - Scorpion	2	1	C	
+Dakmor Sorceress	starter	74	B	5B	6	Creature - Human Wizard	*	4	R	Dakmor Sorceress's power is equal to the number of Swamps you control.
+Dark Offering	starter	75	B	4BB	6	Sorcery			U	Destroy target nonblack creature. You gain 3 life.
+Dread Reaper	starter	76	B	3BBB	6	Creature - Horror	6	5	R	Flying When Dread Reaper enters the battlefield, you lose 5 life.
+Feral Shadow	starter	77	B	2B	3	Creature - Nightstalker	2	1	C	Flying
+Gravedigger	starter	78	B	3B	4	Creature - Zombie	2	2	U	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Grim Tutor	starter	79	B	1BB	3	Sorcery			R	Search your library for a card and put that card into your hand, then shuffle your library. You lose 3 life.
+Hand of Death	starter	80	B	2B	3	Sorcery			C	Destroy target nonblack creature.
+Hollow Dogs	starter	81	B	4B	5	Creature - Zombie Hound	3	3	C	Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.
+Howling Fury	starter	82	B	2B	3	Sorcery			U	Target creature gets +4/+0 until end of turn.
+Mind Rot	starter	83	B	2B	3	Sorcery			C	Target player discards two cards.
+Muck Rats	starter	84	B	B	1	Creature - Rat	1	1	C	
+Raise Dead	starter	85	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Ravenous Rats	starter	86	B	1B	2	Creature - Rat	1	1	U	When Ravenous Rats enters the battlefield, target opponent discards a card.
+Scathe Zombies	starter	87	B	2B	3	Creature - Zombie	2	2	C	
+Serpent Warrior	starter	88	B	2B	3	Creature - Snake Warrior	3	3	C	When Serpent Warrior enters the battlefield, you lose 3 life.
+Shrieking Specter	starter	89	B	5B	6	Creature - Specter	2	2	U	Flying Whenever Shrieking Specter attacks, defending player discards a card.
+Soul Feast	starter	90	B	3BB	5	Sorcery			U	Target player loses 4 life and you gain 4 life.
+Stream of Acid	starter	91	B	2BB	4	Sorcery			U	Destroy target land or nonblack creature.
+Wicked Pact	starter	92	B	1BB	3	Sorcery			R	Destroy two target nonblack creatures. You lose 5 life.
+Cinder Storm	starter	93	R	6R	7	Sorcery			U	Cinder Storm deals 7 damage to target creature or player.
+Devastation	starter	94	R	5RR	7	Sorcery			R	Destroy all creatures and lands.
+Earth Elemental	starter	95	R	3RR	5	Creature - Elemental	4	5	U	
+Fire Elemental	starter	96	R	3RR	5	Creature - Elemental	5	4	U	
+Fire Tempest	starter	97	R	5RR	7	Sorcery			R	Fire Tempest deals 6 damage to each creature and each player.
+Goblin Cavaliers	starter	98	R	2R	3	Creature - Goblin	3	2	C	
+Goblin Chariot	starter	99	R	2R	3	Creature - Goblin Warrior	2	2	C	Haste (This creature can attack the turn it comes under your control.)
+Goblin Commando	starter	100	R	4R	5	Creature - Goblin	2	2	U	When Goblin Commando enters the battlefield, it deals 2 damage to target creature.
+Goblin General	starter	101	R	1RR	3	Creature - Goblin Warrior	1	1	U	Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.
+Goblin Glider	starter	102	R	1R	2	Creature - Goblin	1	1	U	Flying Goblin Glider can't block.
+Goblin Hero	starter	103	R	2R	3	Creature - Goblin	2	2	R	
+Goblin Lore	starter	104	R	1R	2	Sorcery			U	Draw four cards, then discard three cards at random.
+Goblin Mountaineer	starter	105	R	R	1	Creature - Goblin Scout	1	1	C	Mountainwalk
+Goblin Settler	starter	106	R	3R	4	Creature - Goblin	1	1	U	When Goblin Settler enters the battlefield, destroy target land.
+Hulking Goblin	starter	107	R	1R	2	Creature - Goblin	2	2	C	Hulking Goblin can't block.
+Hulking Ogre	starter	108	R	2R	3	Creature - Ogre	3	3	U	Hulking Ogre can't block.
+Jagged Lightning	starter	109	R	3RR	5	Sorcery			U	Jagged Lightning deals 3 damage to target creature and 3 damage to another target creature.
+Last Chance	starter	110	R	RR	2	Sorcery			R	Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+Lava Axe	starter	111	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Mons's Goblin Raiders	starter	112	R	R	1	Creature - Goblin	1	1	R	
+Ogre Warrior	starter	113	R	3R	4	Creature - Ogre Warrior	3	3	C	
+Raging Goblin	starter	114	R	R	1	Creature - Goblin Berserker	1	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Relentless Assault	starter	115	R	2RR	4	Sorcery			R	Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Scorching Spear	starter	116	R	R	1	Sorcery			C	Scorching Spear deals 1 damage to target creature or player.
+Spitting Earth	starter	117	R	1R	2	Sorcery			U	Spitting Earth deals damage equal to the number of Mountains you control to target creature.
+Stone Rain	starter	118	R	2R	3	Sorcery			C	Destroy target land.
+Thunder Dragon	starter	119	R	5RR	7	Creature - Dragon	5	5	R	Flying When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.
+Trained Orgg	starter	120	R	6R	7	Creature - Orgg	6	6	R	
+Tremor	starter	121	R	R	1	Sorcery			C	Tremor deals 1 damage to each creature without flying.
+Volcanic Dragon	starter	122	R	4RR	6	Creature - Dragon	4	4	R	Flying, haste
+Volcanic Hammer	starter	123	R	1R	2	Sorcery			C	Volcanic Hammer deals 3 damage to target creature or player.
+Alluring Scent	starter	124	G	1GG	3	Sorcery			R	All creatures able to block target creature this turn do so.
+Barbtooth Wurm	starter	125	G	5G	6	Creature - Wurm	6	4	C	
+Bull Hippo	starter	126	G	3G	4	Creature - Hippo	3	3	U	Islandwalk
+Durkwood Boars	starter	127	G	4G	5	Creature - Boar	4	4	C	
+Gorilla Warrior	starter	128	G	2G	3	Creature - Ape Warrior	3	2	C	
+Grizzly Bears	starter	129	G	1G	2	Creature - Bear	2	2	C	
+Lone Wolf	starter	130	G	2G	3	Creature - Wolf	2	2	C	You may have Lone Wolf assign its combat damage as though it weren't blocked.
+Lynx	starter	131	G	1G	2	Creature - Cat	2	1	U	Forestwalk
+Monstrous Growth	starter	132	G	1G	2	Sorcery			C	Target creature gets +4/+4 until end of turn.
+Moon Sprite	starter	133	G	1G	2	Creature - Faerie	1	1	U	Flying
+Natural Spring	starter	134	G	3GG	5	Sorcery			U	Target player gains 8 life.
+Nature's Cloak	starter	135	G	2G	3	Sorcery			R	Green creatures you control gain forestwalk until end of turn.
+Nature's Lore	starter	136	G	1G	2	Sorcery			C	Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Norwood Archers	starter	137	G	3G	4	Creature - Elf Archer	3	3	C	Reach (This creature can block creatures with flying.)
+Norwood Ranger	starter	138	G	G	1	Creature - Elf Scout	1	2	C	
+Pride of Lions	starter	139	G	3GG	5	Creature - Cat	4	4	U	You may have Pride of Lions assign its combat damage as though it weren't blocked.
+Renewing Touch	starter	140	G	G	1	Sorcery			U	Shuffle any number of target creature cards from your graveyard into your library.
+Silverback Ape	starter	141	G	3GG	5	Creature - Ape	5	5	U	
+Southern Elephant	starter	142	G	3G	4	Creature - Elephant	3	4	C	
+Squall	starter	143	G	2G	3	Sorcery			C	Squall deals 2 damage to each creature with flying.
+Summer Bloom	starter	144	G	1G	2	Sorcery			R	You may play up to three additional lands this turn.
+Sylvan Basilisk	starter	145	G	3GG	5	Creature - Basilisk	2	4	R	Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+Sylvan Yeti	starter	146	G	2GG	4	Creature - Yeti	*	4	R	Sylvan Yeti's power is equal to the number of cards in your hand.
+Thorn Elemental	starter	147	G	5GG	7	Creature - Elemental	7	7	R	You may have Thorn Elemental assign its combat damage as though it weren't blocked.
+Untamed Wilds	starter	148	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Whiptail Wurm	starter	149	G	6G	7	Creature - Wurm	8	5	U	
+Whirlwind	starter	150	G	2GG	4	Sorcery			R	Destroy all creatures with flying.
+Wild Ox	starter	151	G	3G	4	Creature - Ox	3	3	U	Swampwalk
+Willow Elf	starter	152	G	G	1	Creature - Elf	1	1	C	
+Wood Elves	starter	153	G	2G	3	Creature - Elf Scout	1	1	U	When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Plains	starter	154	L		0	Basic Land - Plains			L	W
+Island	starter	158	L		0	Basic Land - Island			L	U
+Swamp	starter	162	L		0	Basic Land - Swamp			L	B
+Mountain	starter	167	L		0	Basic Land - Mountain			L	R
+Forest	starter	170	L		0	Basic Land - Forest			L	G

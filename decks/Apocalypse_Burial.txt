@@ -1,0 +1,24 @@
+3	plains
+10	swamp
+5	forest
+3	elfhame palace
+3	maggot carrier
+2	mournful zombie
+2	quagmire druid
+3	grave defiler
+2	phyrexian reaper
+2	zombie boa
+1	phyrexian gargantua
+4	putrid warrior
+4	llanowar dead
+1	foul presence
+2	dead ringers
+1	phyrexian arena
+1	annihilate
+3	strength of night
+1	soul link
+1	death grasp
+2	consume strength
+1	wax // wane
+2	chromatic sphere
+1	tigereye cameo

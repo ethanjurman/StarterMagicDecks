@@ -1,0 +1,27 @@
+13	forest
+9	island
+2	ana disciple
+2	urborg elf
+1	pincer spider
+2	glade gnarr
+1	rooting kavu
+2	kavu chameleon
+1	tidal visionary
+2	coastal drake
+2	living airship
+1	rainbow crow
+3	gaea's skyfolk
+2	jungle barrier
+1	mystic snake
+1	lay of the land
+1	fertile ground
+1	confound
+1	jaded response
+2	ceta sanctuary
+1	repulse
+1	rushing river
+1	wash out
+2	temporal spring
+2	aether mutation
+1	yavimaya's embrace
+2	chromatic sphere

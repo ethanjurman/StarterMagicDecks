@@ -1,0 +1,25 @@
+12	forest
+12	mountain
+1	acid web spider
+2	barrage ogre
+2	copper myr
+1	cudgel troll
+2	flameborn hellion
+1	hoard-smelter dragon
+2	oxidda scrapmelter
+2	iron myr
+2	molder beast
+1	prodigal pyromancer
+2	sylvok replica
+2	vulshok heartstoker
+3	vulshok replica
+2	arc trail
+1	asceticism
+1	barbed battlegear
+1	fireball
+1	horizon spellbomb
+1	panic spellbomb
+2	shatter
+1	turn to slag
+2	untamed might
+1	viridian revel

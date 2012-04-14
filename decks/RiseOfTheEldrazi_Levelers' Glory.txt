@@ -1,0 +1,22 @@
+8	island
+10	plains
+1	affa guard hound
+1	alluring siren
+2	caravan escort
+1	glory seeker
+1	hedron-field purists
+1	lone missionary
+2	makindi griffin
+1	soulbound guardians
+1	student of warfare
+1	venerated teacher
+1	wall of frost
+1	angel's mercy
+1	domestication
+1	fleeting distraction
+1	luminous wake
+2	narcolepsy
+1	negate
+1	see beyond
+1	sleep
+1	unsummon

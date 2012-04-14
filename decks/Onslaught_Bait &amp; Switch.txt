@@ -1,0 +1,26 @@
+11	island
+9	swamp
+2	barren moor
+2	lonely sandbar
+4	imagecrafter
+1	information dealer
+2	mistform stalker
+1	ghosthelm courier
+3	mistform dreamer
+4	mistform wall
+2	mistform shrieker
+1	mistform mutant
+2	boneknitter
+2	cabal slaver
+1	frightshroud courier
+1	fallen cleric
+1	trickery charm
+1	mage's guile
+1	ixidor's will
+1	peer pressure
+1	misery charm
+1	crown of suspicion
+1	smother
+1	feeding frenzy
+3	swat
+1	endemic plague

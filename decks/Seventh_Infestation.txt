@@ -1,0 +1,17 @@
+16	mountain
+2	goblin digging team
+2	raging goblin
+1	goblin glider
+2	goblin raider
+2	goblin chariot
+1	goblin matron
+1	goblin king
+2	goblin gardener
+1	fire elemental
+1	trained orgg
+1	patagia golem
+2	shock
+2	spitting earth
+2	pillage
+1	lightning blast
+1	blaze

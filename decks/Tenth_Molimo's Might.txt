@@ -1,0 +1,18 @@
+16	forest
+2	canopy spider
+2	civic wayfinder
+2	rootwalla
+1	stampeding wildebeests
+2	spined wurm
+1	kavu climber
+1	craw wurm
+1	enormous baloth
+1	molimo, maro-sorcerer
+1	mantis engine
+2	commune with nature
+1	giant growth
+2	rampant growth
+2	blanchwood armor
+1	overrun
+1	hurricane
+1	wurm's tooth

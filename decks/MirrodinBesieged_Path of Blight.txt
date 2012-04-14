@@ -1,0 +1,24 @@
+14	forest
+11	plains
+2	blight mamba
+1	blightwidow
+1	core prowler
+1	corpse cur
+2	phyrexian digester
+1	phyrexian hydra
+2	phyrexian juggernaut
+2	plague myr
+2	priests of norn
+2	rot wolf
+2	tangle angler
+2	tine shrike
+1	viridian corrupter
+2	banishment decree
+2	choking fumes
+1	decimator web
+2	hunters' feast
+1	mighty leap
+1	pistus strike
+1	safe passage
+2	trigon of infestation
+2	unnatural predation

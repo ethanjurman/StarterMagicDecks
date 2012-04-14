@@ -1,0 +1,18 @@
+15	plains
+2	eager cadet
+1	angelic page
+1	crossbow infantry
+2	knight errant
+2	samite healer
+2	longbow archer
+2	standing troops
+1	heavy ballista
+1	razorfoot griffin
+1	serra advocate
+1	master healer
+2	healing salve
+1	spirit link
+1	disenchant
+2	pacifism
+1	glorious anthem
+2	serra's embrace

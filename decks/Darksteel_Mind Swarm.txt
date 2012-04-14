@@ -1,0 +1,24 @@
+17	swamp
+4	vault of whispers
+3	grimclaw bats
+1	slith bloodletter
+3	chittering rats
+2	emissary of despair
+1	scavenging scarab
+1	mephitic ooze
+4	leaden myr
+1	nim replica
+1	clockwork vorrac
+3	dross golem
+2	terror
+3	wrench mind
+1	pulse of the dross
+2	relic bane
+1	essence drain
+2	murderous spoils
+1	bonesplitter
+1	leonin bola
+1	leonin scimitar
+2	specter's shroud
+1	skeleton shard
+2	geth's grimoire

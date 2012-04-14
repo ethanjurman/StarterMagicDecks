@@ -1,0 +1,25 @@
+11	island
+11	swamp
+2	tainted isle
+3	aquamoeba
+1	cephalid illusionist
+1	cephalid vandal
+2	cephalid looter
+1	skywing aven
+1	balshan collaborator
+1	cephalid broker
+1	cephalid aristocrat
+2	crypt creeper
+4	organ grinder
+1	painbringer
+1	zombie assassin
+2	psychatog
+2	careful study
+2	obsessive search
+2	compulsion
+1	false memories
+2	churning eddy
+1	breakthrough
+2	chainer's edict
+1	morgue theft
+2	afflict

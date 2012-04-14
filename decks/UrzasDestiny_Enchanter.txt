@@ -1,0 +1,31 @@
+2	drifting meadow
+2	remote isle
+7	plains
+13	island
+1	mother of runes
+1	monk realist
+1	wall of glare
+2	tormented angel
+3	fledgling osprey
+1	horseshoe crab
+1	rayne, academy chancellor
+3	metathran elite
+2	thornwind faeries
+2	thieving magpie
+1	vigilant drake
+1	thran golem
+1	archery training
+1	capashen standard
+1	mask of law and grace
+2	brilliant halo
+1	disenchant
+1	humble
+1	radiant's judgment
+1	private research
+1	sigil of sleep
+1	hermetic study
+2	miscalculation
+1	quash
+1	zephid's embrace
+1	confiscate
+1	opportunity

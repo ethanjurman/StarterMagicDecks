@@ -1,0 +1,31 @@
+1	subterranean hangar
+12	swamp
+8	mountain
+2	molting harpy
+1	cackling witch
+1	undertaker
+1	silent assassin
+1	bog witch
+2	deepwood ghoul
+1	alley grifters
+1	enslaved horror
+2	wall of distortion
+1	primeval shambler
+1	cateran enforcer
+1	thrashing wumpus
+1	cinder elemental
+1	ogre taskmaster
+1	shock troops
+1	gerrard's irregulars
+1	henge guardian
+2	dark ritual
+1	vendetta
+3	specter's wail
+1	maggot therapy
+2	rain of tears
+2	snuff out
+1	larceny
+1	sever soul
+1	lunge
+3	stone rain
+2	thunderclap

@@ -1,0 +1,25 @@
+21	island
+2	seat of the synod
+3	neurok familiar
+2	vedalken engineer
+1	neurok transmuter
+4	arcbound worker
+2	arcbound stinger
+1	spincrusher
+2	arcbound crusher
+2	arcbound hybrid
+1	arcbound reclaimer
+2	cobalt golem
+1	dross scorpion
+1	juggernaut
+2	rust elemental
+1	voltaic construct
+2	arcbound bruiser
+1	arcbound fiend
+1	spire golem
+1	arcbound lancer
+2	echoing truth
+1	reshape
+2	skullclamp
+1	dragon blood
+1	ur-golem's eye

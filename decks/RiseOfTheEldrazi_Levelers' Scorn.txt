@@ -1,0 +1,23 @@
+11	island
+7	swamp
+1	coral merfolk
+1	echo mage
+1	enatu golem
+1	hada spy patrol
+1	phantasmal abomination
+1	phantom warrior
+1	sea gate oracle
+2	skywatcher adept
+1	snapping drake
+1	sphinx of magosi
+1	venerated teacher
+1	wall of bone
+1	zombie goliath
+1	domestication
+1	doom blade
+1	fleeting distraction
+2	last kiss
+1	negate
+1	see beyond
+1	telepathy
+1	unsummon

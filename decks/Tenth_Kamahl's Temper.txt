@@ -1,0 +1,18 @@
+17	mountain
+1	raging goblin
+1	viashino sandscout
+2	bloodrock cyclops
+2	bogardan firefiend
+1	prodigal pyromancer
+2	lightning elemental
+1	furnace whelp
+2	thundering giant
+1	kamahl, pit fighter
+1	shock
+2	incinerate
+2	spitting earth
+1	threaten
+1	beacon of destruction
+1	blaze
+1	dragon's claw
+1	phyrexian vault

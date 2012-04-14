@@ -1,0 +1,21 @@
+2	piranha marsh
+16	swamp
+1	anowon, the ruin sage
+1	bloodhusk ritualist
+1	butcher of malakir
+2	child of night
+1	jagwasp swarm
+2	pulse tracker
+2	ruthless cullblade
+1	vampire aristocrat
+1	vampire nighthawk
+1	zombie goliath
+1	brink of disaster
+1	consume spirit
+1	dead reckoning
+1	diabolic tutor
+1	feast of blood
+1	hideous end
+2	mire's toll
+1	rise from the grave
+1	urge to feed

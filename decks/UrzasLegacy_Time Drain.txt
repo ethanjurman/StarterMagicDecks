@@ -1,0 +1,28 @@
+11	island
+8	forest
+2	remote isle
+2	slippery karst
+3	cloud of faeries
+1	weatherseed faeries
+2	thornwind faeries
+2	acridian
+3	simian grunts
+2	intervene
+2	miscalculation
+2	snap
+2	frantic search
+1	rewind
+2	hush
+1	faerie conclave
+1	treetop village
+1	walking sponge
+2	peregrine drake
+1	bloated toad
+1	darkwatch elves
+1	thran war machine
+2	exhaustion
+1	zephid's embrace
+1	confiscate
+1	opportunity
+1	archivist
+1	anthroplasm

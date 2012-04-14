@@ -1,0 +1,28 @@
+11	plains
+11	forest
+2	elfhame palace
+1	llanowar elite
+2	llanowar cavalry
+1	pincer spider
+1	treefolk healer
+1	rooting kavu
+2	kavu chameleon
+1	kavu climber
+1	thicket elemental
+1	ardent soldier
+1	benalish trapper
+1	capashen unicorn
+1	crimson acolyte
+1	obsidian acolyte
+1	benalish emissary
+1	benalish lancer
+2	rampant elephant
+2	razorfoot griffin
+2	angel of mercy
+2	llanowar knight
+1	noble panther
+2	charging troll
+2	explosive growth
+2	shackles
+2	wax // wane
+2	armadillo cloak

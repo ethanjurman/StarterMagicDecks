@@ -1,0 +1,24 @@
+8	mountain
+7	swamp
+4	great furnace
+4	vault of whispers
+3	disciple of the vault
+2	atog
+2	krark-clan grunt
+1	megatog
+2	iron myr
+2	leaden myr
+2	myr retriever
+2	cathodion
+3	goblin replica
+3	nim replica
+1	dross scorpion
+2	rust elemental
+1	pentavus
+2	irradiate
+1	shrapnel blast
+2	necrogen spellbomb
+2	pyrite spellbomb
+2	talisman of indulgence
+1	nuisance engine
+1	skeleton shard

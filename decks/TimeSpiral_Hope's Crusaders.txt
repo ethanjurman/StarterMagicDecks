@@ -1,0 +1,22 @@
+23	plains
+3	icatian javelineers
+3	benalish cavalry
+2	errant doomsayers
+3	knight of the holy nimbus
+1	icatian crier
+2	outrider en-kor
+2	zhalfirin commander
+1	cloudchaser kestrel
+2	d'avenant healer
+2	foriysian interceptor
+2	cavalry master
+1	celestial crusader
+1	gustcloak cavalier
+1	pentarch paladin
+1	ivory giant
+2	brass gnat
+3	gaze of justice
+1	fortify
+1	divine congregation
+1	sarpadian empires, vol. vii
+2	thunder totem

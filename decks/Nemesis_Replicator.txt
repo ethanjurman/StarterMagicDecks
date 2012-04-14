@@ -1,0 +1,20 @@
+17	forest
+7	swamp
+1	subterranean hangar
+2	cackling witch
+2	plague witch
+1	bog witch
+2	stampede driver
+2	deepwood drummer
+1	coiling woodworm
+4	skyshroud sentinel
+1	hunted wumpus
+1	squallmonger
+4	blastoderm
+4	howling wolf
+4	nesting wurm
+2	seal of doom
+1	saproling cluster
+2	invigorate
+1	saproling burst
+1	flowstone armor

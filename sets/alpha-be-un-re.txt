@@ -1,0 +1,1171 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Animate Dead	alpha	1	B	1B	2	Enchantment - Aura			U	Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Bad Moon	alpha	2	B	1B	2	Enchantment			R	Black creatures get +1/+1.
+Black Knight	alpha	3	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Bog Wraith	alpha	4	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Contract from Below	alpha	5	B	B	1	Sorcery			R	Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+Cursed Land	alpha	6	B	2BB	4	Enchantment - Aura			U	Enchant land At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+Dark Ritual	alpha	7	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkpact	alpha	8	B	BBB	3	Sorcery			R	Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+Deathgrip	alpha	9	B	BB	2	Enchantment			U	{B}{B}: Counter target green spell.
+Deathlace	alpha	10	B	B	1	Instant			R	Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+Demonic Attorney	alpha	11	B	1BB	3	Sorcery			R	Remove Demonic Attorney from your deck before playing if you're not playing for ante. Each player antes the top card of his or her library.
+Demonic Hordes	alpha	12	B	3BBB	6	Creature - Demon	5	5	R	{T}: Destroy target land. At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.
+Demonic Tutor	alpha	13	B	1B	2	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Drain Life	alpha	14	B	X1B	2	Sorcery			C	Spend only black mana on X. Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.
+Drudge Skeletons	alpha	15	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Evil Presence	alpha	16	B	B	1	Enchantment - Aura			U	Enchant land Enchanted land is a Swamp.
+Fear	alpha	17	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Frozen Shade	alpha	18	B	2B	3	Creature - Shade	0	1	C	{B}: Frozen Shade gets +1/+1 until end of turn.
+Gloom	alpha	19	B	2B	3	Enchantment			U	White spells cost {3} more to cast. Activated abilities of white enchantments cost {3} more to activate.
+Howl from Beyond	alpha	20	B	XB	1	Instant			C	Target creature gets +X/+0 until end of turn.
+Hypnotic Specter	alpha	21	B	1BB	3	Creature - Specter	2	2	U	Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Lich	alpha	22	B	BBBB	4	Enchantment			R	As Lich enters the battlefield, your life total becomes 0. You don't lose the game for having 0 or less life. If you would gain life, draw that many cards instead. Whenever you're dealt damage, sacrifice that many permanents. When Lich leaves the battlefield, you lose the game.
+Lord of the Pit	alpha	23	B	4BBB	7	Creature - Demon	7	7	R	Flying, trample At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+Mind Twist	alpha	24	B	XB	1	Sorcery			R	Target player discards X cards at random.
+Nether Shadow	alpha	25	B	BB	2	Creature - Spirit	1	1	R	Haste At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+Nettling Imp	alpha	26	B	2B	3	Creature - Imp	1	1	U	{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+Nightmare	alpha	27	B	5B	6	Creature - Nightmare Horse	*	*	R	Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+Paralyze	alpha	28	B	B	1	Enchantment - Aura			C	Enchant creature When Paralyze enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+Pestilence	alpha	29	B	2BB	4	Enchantment			C	At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. {B}: Pestilence deals 1 damage to each creature and each player.
+Plague Rats	alpha	30	B	2B	3	Creature - Rat	*	*	C	Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+Raise Dead	alpha	31	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Royal Assassin	alpha	32	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sacrifice	alpha	33	B	B	1	Instant			U	As an additional cost to cast Sacrifice, sacrifice a creature. Add to your mana pool an amount of black mana equal to the sacrificed creature's converted mana cost.
+Scathe Zombies	alpha	34	B	2B	3	Creature - Zombie	2	2	C	
+Scavenging Ghoul	alpha	35	B	3B	4	Creature - Zombie	2	2	U	At the beginning of the end step, put a corpse counter on Scavenging Ghoul for each creature put into a graveyard from the battlefield this turn. Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+Sengir Vampire	alpha	36	B	3BB	5	Creature - Vampire	4	4	U	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Simulacrum	alpha	37	B	1B	2	Instant			U	You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Sinkhole	alpha	38	B	BB	2	Sorcery			C	Destroy target land.
+Terror	alpha	39	B	1B	2	Instant			C	Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Unholy Strength	alpha	40	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Wall of Bone	alpha	41	B	2B	3	Creature - Skeleton Wall	1	4	U	Defender (This creature can't attack.) {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Warp Artifact	alpha	42	B	BB	2	Enchantment - Aura			R	Enchant artifact At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+Weakness	alpha	43	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-1.
+Will-o'-the-Wisp	alpha	44	B	B	1	Creature - Spirit	0	1	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Word of Command	alpha	45	B	BB	2	Instant			R	Look at target opponent's hand and choose a card from it. That player plays that card with his or her own mana, but you make all decisions it calls for. The player is required only to spend mana in his or her mana pool and/or mana that can be produced by lands.
+Zombie Master	alpha	46	B	1BB	3	Creature - Zombie	2	3	R	Other Zombie creatures have swampwalk. Other Zombies have "{B}: Regenerate this permanent."
+Air Elemental	alpha	47	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Ancestral Recall	alpha	48	U	U	1	Instant			R	Target player draws three cards.
+Animate Artifact	alpha	49	U	3U	4	Enchantment - Aura			U	Enchant artifact As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+Blue Elemental Blast	alpha	50	U	U	1	Instant			C	Choose one - Counter target red spell; or destroy target red permanent.
+Braingeyser	alpha	51	U	XUU	2	Sorcery			R	Target player draws X cards.
+Clone	alpha	52	U	3U	4	Creature - Shapeshifter	0	0	U	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Control Magic	alpha	53	U	2UU	4	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Copy Artifact	alpha	54	U	1U	2	Enchantment			R	You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield. It's still an enchantment.
+Counterspell	alpha	55	U	UU	2	Instant			U	Counter target spell.
+Creature Bond	alpha	56	U	1U	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, Creature Bond deals damage equal to that creature's toughness to the creature's controller.
+Drain Power	alpha	57	U	UU	2	Sorcery			R	Target player activates a mana ability of each land he or she controls, then empties his or her mana pool. Add mana to your mana pool equal to the type and amount emptied from that player's mana pool this way.
+Feedback	alpha	58	U	2U	3	Enchantment - Aura			U	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+Flight	alpha	59	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+Invisibility	alpha	60	U	UU	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't be blocked except by Walls.
+Jump	alpha	61	U	U	1	Instant			C	Target creature gains flying until end of turn.
+Lifetap	alpha	62	U	UU	2	Enchantment			U	Whenever a Forest an opponent controls becomes tapped, you gain 1 life.
+Lord of Atlantis	alpha	63	U	UU	2	Creature - Merfolk	2	2	R	Other Merfolk creatures get +1/+1 and have islandwalk.
+Magical Hack	alpha	64	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+Mahamoti Djinn	alpha	65	U	4UU	6	Creature - Djinn	5	6	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Mana Short	alpha	66	U	2U	3	Instant			R	Tap all lands target player controls and empty his or her mana pool.
+Merfolk of the Pearl Trident	alpha	67	U	U	1	Creature - Merfolk	1	1	C	
+Phantasmal Forces	alpha	68	U	3U	4	Creature - Illusion	4	1	U	Flying At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+Phantasmal Terrain	alpha	69	U	UU	2	Enchantment - Aura			C	Enchant land As Phantasmal Terrain enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Phantom Monster	alpha	70	U	3U	4	Creature - Illusion	3	3	U	Flying
+Pirate Ship	alpha	71	U	4U	5	Creature - Human Pirate	4	3	R	Pirate Ship can't attack unless defending player controls an Island. {T}: Pirate Ship deals 1 damage to target creature or player. When you control no Islands, sacrifice Pirate Ship.
+Power Leak	alpha	72	U	1U	2	Enchantment - Aura			C	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, that player may pay up to {2}. For each one mana less than {2} he or she pays this way, Power Leak deals 1 damage to him or her.
+Power Sink	alpha	73	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Prodigal Sorcerer	alpha	74	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+Psionic Blast	alpha	75	U	2U	3	Instant			U	Psionic Blast deals 4 damage to target creature or player and 2 damage to you.
+Psychic Venom	alpha	76	U	1U	2	Enchantment - Aura			C	Enchant land Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+Sea Serpent	alpha	77	U	5U	6	Creature - Serpent	5	5	C	Sea Serpent can't attack unless defending player controls an Island. When you control no Islands, sacrifice Sea Serpent.
+Siren's Call	alpha	78	U	U	1	Instant			U	Cast Siren's Call only during an opponent's turn, before attackers are declared. Creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.
+Sleight of Mind	alpha	79	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+Spell Blast	alpha	80	U	XU	1	Instant			C	Counter target spell with converted mana cost X.
+Stasis	alpha	81	U	1U	2	Enchantment			R	Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.
+Steal Artifact	alpha	82	U	2UU	4	Enchantment - Aura			U	Enchant artifact You control enchanted artifact.
+Thoughtlace	alpha	83	U	U	1	Instant			R	Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+Time Walk	alpha	84	U	1U	2	Sorcery			R	Take an extra turn after this one.
+Timetwister	alpha	85	U	2U	3	Sorcery			R	Each player shuffles his or her hand and graveyard into his or her library and then draws seven cards. (Then put Timetwister into its owner's graveyard.)
+Twiddle	alpha	86	U	U	1	Instant			C	You may tap or untap target artifact, creature, or land.
+Unsummon	alpha	87	U	U	1	Instant			C	Return target creature to its owner's hand.
+Vesuvan Doppelganger	alpha	88	U	3UU	5	Creature - Shapeshifter	0	0	R	You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
+Volcanic Eruption	alpha	89	U	XUUU	3	Sorcery			R	Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.
+Wall of Air	alpha	90	U	1UU	3	Creature - Wall	1	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Wall of Water	alpha	91	U	1UU	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {U}: Wall of Water gets +1/+0 until end of turn.
+Water Elemental	alpha	92	U	3UU	5	Creature - Elemental	5	4	U	
+Aspect of Wolf	alpha	93	G	1G	2	Enchantment - Aura			R	Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+Berserk	alpha	94	G	G	1	Instant			U	Cast Berserk only before the combat damage step. Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.
+Birds of Paradise	alpha	95	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Camouflage	alpha	96	G	G	1	Instant			U	Cast Camouflage only during the declare attackers step. This turn, instead of declaring blockers, the defending player chooses any number of creatures he or she controls and divides them into a number of piles equal to the number of attacking creatures. Assign each pile to a different attacking creature at random, and any creatures in that pile that can block the creature do so. (Piles can be empty.)
+Channel	alpha	97	G	GG	2	Sorcery			U	Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.
+Cockatrice	alpha	98	G	3GG	5	Creature - Cockatrice	2	4	R	Flying Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Craw Wurm	alpha	99	G	4GG	6	Creature - Wurm	6	4	C	
+Elvish Archers	alpha	100	G	1G	2	Creature - Elf Archer	2	1	R	First strike
+Fastbond	alpha	101	G	G	1	Enchantment			R	You may play any number of additional lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+Fog	alpha	102	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Force of Nature	alpha	103	G	2GGGG	6	Creature - Elemental	8	8	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+Fungusaur	alpha	104	G	3G	4	Creature - Fungus Lizard	2	2	R	Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+Gaea's Liege	alpha	105	G	3GGG	6	Creature - Avatar	*	*	R	As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+Giant Growth	alpha	106	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	alpha	107	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Grizzly Bears	alpha	108	G	1G	2	Creature - Bear	2	2	C	
+Hurricane	alpha	109	G	XG	1	Sorcery			U	Hurricane deals X damage to each creature with flying and each player.
+Ice Storm	alpha	110	G	2G	3	Sorcery			U	Destroy target land.
+Instill Energy	alpha	111	G	G	1	Enchantment - Aura			U	Enchant creature Enchanted creature has haste. {0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+Ironroot Treefolk	alpha	112	G	4G	5	Creature - Treefolk	3	5	C	
+Kudzu	alpha	113	G	1GG	3	Enchantment - Aura			R	Enchant land When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+Ley Druid	alpha	114	G	2G	3	Creature - Human Druid	1	1	U	{T}: Untap target land.
+Lifeforce	alpha	115	G	GG	2	Enchantment			U	{G}{G}: Counter target black spell.
+Lifelace	alpha	116	G	G	1	Instant			R	Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+Living Artifact	alpha	117	G	G	1	Enchantment - Aura			R	Enchant artifact Whenever you're dealt damage, put that many vitality counters on Living Artifact. At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+Living Lands	alpha	118	G	3G	4	Enchantment			R	All Forests are 1/1 creatures that are still lands.
+Llanowar Elves	alpha	119	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Lure	alpha	120	G	1GG	3	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) All creatures able to block enchanted creature do so.
+Natural Selection	alpha	121	G	G	1	Instant			R	Look at the top three cards of target player's library and put them back in any order. You may have that player shuffle his or her library.
+Regeneration	alpha	122	G	1G	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Regrowth	alpha	123	G	1G	2	Sorcery			U	Return target card from your graveyard to your hand.
+Scryb Sprites	alpha	124	G	G	1	Creature - Faerie	1	1	C	Flying
+Shanodin Dryads	alpha	125	G	G	1	Creature - Dryad	1	1	C	Forestwalk
+Stream of Life	alpha	126	G	XG	1	Sorcery			C	Target player gains X life.
+Thicket Basilisk	alpha	127	G	3GG	5	Creature - Basilisk	2	4	U	Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Timber Wolves	alpha	128	G	G	1	Creature - Wolf	1	1	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Tranquility	alpha	129	G	2G	3	Sorcery			C	Destroy all enchantments.
+Tsunami	alpha	130	G	3G	4	Sorcery			U	Destroy all Islands.
+Verduran Enchantress	alpha	131	G	1GG	3	Creature - Human Druid	0	2	R	Whenever you cast an enchantment spell, you may draw a card.
+Wall of Brambles	alpha	132	G	2G	3	Creature - Plant Wall	2	3	U	Defender (This creature can't attack.) {G}: Regenerate Wall of Brambles.
+Wall of Ice	alpha	133	G	2G	3	Creature - Wall	0	7	U	Defender (This creature can't attack.)
+Wall of Wood	alpha	134	G	G	1	Creature - Wall	0	3	C	Defender (This creature can't attack.)
+Wanderlust	alpha	135	G	2G	3	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+War Mammoth	alpha	136	G	3G	4	Creature - Elephant	3	3	C	Trample
+Web	alpha	137	G	G	1	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Wild Growth	alpha	138	G	G	1	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).
+Burrowing	alpha	139	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has mountainwalk.
+Chaoslace	alpha	140	R	R	1	Instant			R	Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+Disintegrate	alpha	141	R	XR	1	Sorcery			C	Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Dragon Whelp	alpha	142	R	2RR	4	Creature - Dragon	2	3	U	Flying {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Dwarven Demolition Team	alpha	143	R	2R	3	Creature - Dwarf	1	1	U	{T}: Destroy target Wall.
+Dwarven Warriors	alpha	144	R	2R	3	Creature - Dwarf Warrior	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Earth Elemental	alpha	145	R	3RR	5	Creature - Elemental	4	5	U	
+Earthbind	alpha	146	R	R	1	Enchantment - Aura			C	Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+Earthquake	alpha	147	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+False Orders	alpha	148	R	R	1	Instant			C	Cast False Orders only during the declare blockers step. Remove target creature defending player controls from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked. You may have it block an attacking creature of your choice.
+Fire Elemental	alpha	149	R	3RR	5	Creature - Elemental	5	4	U	
+Fireball	alpha	150	R	XR	1	Sorcery			C	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Firebreathing	alpha	151	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Flashfires	alpha	152	R	3R	4	Sorcery			U	Destroy all Plains.
+Fork	alpha	153	R	RR	2	Instant			R	Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+Goblin Balloon Brigade	alpha	154	R	R	1	Creature - Goblin Warrior	1	1	U	{R}: Goblin Balloon Brigade gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Goblin King	alpha	155	R	1RR	3	Creature - Goblin	2	2	R	Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+Granite Gargoyle	alpha	156	R	2R	3	Creature - Gargoyle	2	2	R	Flying {R}: Granite Gargoyle gets +0/+1 until end of turn.
+Gray Ogre	alpha	157	R	2R	3	Creature - Ogre	2	2	C	
+Hill Giant	alpha	158	R	3R	4	Creature - Giant	3	3	C	
+Hurloon Minotaur	alpha	159	R	1RR	3	Creature - Minotaur	2	3	C	
+Ironclaw Orcs	alpha	160	R	1R	2	Creature - Orc	2	2	C	Ironclaw Orcs can't block creatures with power 2 or greater.
+Keldon Warlord	alpha	161	R	2RR	4	Creature - Human Barbarian	*	*	U	Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+Lightning Bolt	alpha	162	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Mana Flare	alpha	163	R	2R	3	Enchantment			R	Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Manabarbs	alpha	164	R	3R	4	Enchantment			R	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Mons's Goblin Raiders	alpha	165	R	R	1	Creature - Goblin	1	1	C	
+Orcish Artillery	alpha	166	R	1RR	3	Creature - Orc Warrior	1	3	U	{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Orcish Oriflamme	alpha	167	R	3R	4	Enchantment			U	Attacking creatures you control get +1/+0.
+Power Surge	alpha	168	R	RR	2	Enchantment			R	At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+Raging River	alpha	169	R	RR	2	Enchantment			R	Whenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.
+Red Elemental Blast	alpha	170	R	R	1	Instant			C	Choose one - Counter target blue spell; or destroy target blue permanent.
+Roc of Kher Ridges	alpha	171	R	3R	4	Creature - Bird	3	3	R	Flying
+Rock Hydra	alpha	172	R	XRR	2	Creature - Hydra	0	0	R	Rock Hydra enters the battlefield with X +1/+1 counters on it. For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage. {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn. {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+Sedge Troll	alpha	173	R	2R	3	Creature - Troll	2	2	R	Sedge Troll gets +1/+1 as long as you control a Swamp. {B}: Regenerate Sedge Troll.
+Shatter	alpha	174	R	1R	2	Instant			C	Destroy target artifact.
+Shivan Dragon	alpha	175	R	4RR	6	Creature - Dragon	5	5	R	Flying {R}: Shivan Dragon gets +1/+0 until end of turn.
+Smoke	alpha	176	R	RR	2	Enchantment			R	Players can't untap more than one creature during their untap steps.
+Stone Giant	alpha	177	R	2RR	4	Creature - Giant	3	4	U	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Stone Rain	alpha	178	R	2R	3	Sorcery			C	Destroy target land.
+Tunnel	alpha	179	R	R	1	Instant			U	Destroy target Wall. It can't be regenerated.
+Two-Headed Giant of Foriys	alpha	180	R	4R	5	Creature - Giant	4	4	R	Trample Two-Headed Giant of Foriys can block an additional creature.
+Uthden Troll	alpha	181	R	2R	3	Creature - Troll	2	2	U	{R}: Regenerate Uthden Troll.
+Wall of Fire	alpha	182	R	1RR	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {R}: Wall of Fire gets +1/+0 until end of turn.
+Wall of Stone	alpha	183	R	1RR	3	Creature - Wall	0	8	U	Defender (This creature can't attack.)
+Wheel of Fortune	alpha	184	R	2R	3	Sorcery			R	Each player discards his or her hand and draws seven cards.
+Animate Wall	alpha	185	W	W	1	Enchantment - Aura			R	Enchant Wall Enchanted Wall can attack as though it didn't have defender.
+Armageddon	alpha	186	W	3W	4	Sorcery			R	Destroy all lands.
+Balance	alpha	187	W	1W	2	Sorcery			R	Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+Benalish Hero	alpha	188	W	W	1	Creature - Human Soldier	1	1	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Black Ward	alpha	189	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+Blaze of Glory	alpha	190	W	W	1	Instant			R	Target creature can block any number of creatures this turn. It must block each attacking creature this turn if able.
+Blessing	alpha	191	W	WW	2	Enchantment - Aura			R	Enchant creature {W}: Enchanted creature gets +1/+1 until end of turn.
+Blue Ward	alpha	192	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+Castle	alpha	193	W	3W	4	Enchantment			U	Untapped creatures you control get +0/+2.
+Circle of Protection: Blue	alpha	194	W	1W	2	Enchantment			C	{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Green	alpha	195	W	1W	2	Enchantment			C	{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Red	alpha	196	W	1W	2	Enchantment			C	{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: White	alpha	197	W	1W	2	Enchantment			C	{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+Consecrate Land	alpha	198	W	W	1	Enchantment - Aura			U	Enchant land Enchanted land is indestructible and can't be enchanted by other Auras.
+Conversion	alpha	199	W	2WW	4	Enchantment			U	At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}. All Mountains are Plains.
+Crusade	alpha	200	W	WW	2	Enchantment			R	White creatures get +1/+1.
+Death Ward	alpha	201	W	W	1	Instant			C	Regenerate target creature.
+Disenchant	alpha	202	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Farmstead	alpha	203	W	WWW	3	Enchantment - Aura			R	Enchant land Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+Green Ward	alpha	204	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+Guardian Angel	alpha	205	W	XW	1	Instant			C	Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn.
+Healing Salve	alpha	206	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Holy Armor	alpha	207	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +0/+2. {W}: Enchanted creature gets +0/+1 until end of turn.
+Holy Strength	alpha	208	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Island Sanctuary	alpha	209	W	1W	2	Enchantment			R	If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+Karma	alpha	210	W	2WW	4	Enchantment			U	At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+Lance	alpha	211	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has first strike.
+Mesa Pegasus	alpha	212	W	1W	2	Creature - Pegasus	1	1	C	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Northern Paladin	alpha	213	W	2WW	4	Creature - Human Knight	3	3	R	{W}{W}, {T}: Destroy target black permanent.
+Pearled Unicorn	alpha	214	W	2W	3	Creature - Unicorn	2	2	C	
+Personal Incarnation	alpha	215	W	3WWW	6	Creature - Avatar Incarnation	6	6	R	{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation. When Personal Incarnation is put into a graveyard from the battlefield, its owner loses half his or her life, rounded up.
+Purelace	alpha	216	W	W	1	Instant			R	Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+Red Ward	alpha	217	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+Resurrection	alpha	218	W	2WW	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Reverse Damage	alpha	219	W	1WW	3	Instant			R	The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+Righteousness	alpha	220	W	W	1	Instant			R	Target blocking creature gets +7/+7 until end of turn.
+Samite Healer	alpha	221	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Savannah Lions	alpha	222	W	W	1	Creature - Cat	2	1	R	
+Serra Angel	alpha	223	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Swords to Plowshares	alpha	224	W	W	1	Instant			U	Exile target creature. Its controller gains life equal to its power.
+Veteran Bodyguard	alpha	225	W	3WW	5	Creature - Human	2	5	R	As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+Wall of Swords	alpha	226	W	3W	4	Creature - Wall	3	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+White Knight	alpha	227	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+White Ward	alpha	228	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from white. This effect doesn't remove White Ward.
+Wrath of God	alpha	229	W	2WW	4	Sorcery			R	Destroy all creatures. They can't be regenerated.
+Ankh of Mishra	alpha	230	A	2	2	Artifact			R	Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+Basalt Monolith	alpha	231	A	3	3	Artifact			U	Basalt Monolith doesn't untap during your untap step. {3}: Untap Basalt Monolith. {T}: Add {3} to your mana pool.
+Black Lotus	alpha	232	A	0	0	Artifact			R	{T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool.
+Black Vise	alpha	233	A	1	1	Artifact			U	As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+Celestial Prism	alpha	234	A	3	3	Artifact			U	{2}, {T}: Add one mana of any color to your mana pool.
+Chaos Orb	alpha	235	A	2	2	Artifact			R	{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all permanents it touches. Then destroy Chaos Orb.
+Clockwork Beast	alpha	236	A	6	6	Artifact Creature - Beast	0	4	R	Clockwork Beast enters the battlefield with seven +1/+0 counters on it. At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it. {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+Conservator	alpha	237	A	4	4	Artifact			U	{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+Copper Tablet	alpha	238	A	2	2	Artifact			U	At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.
+Crystal Rod	alpha	239	A	1	1	Artifact			U	Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.
+Cyclopean Tomb	alpha	240	A	4	4	Artifact			R	{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep. When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
+Dingus Egg	alpha	241	A	4	4	Artifact			R	Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+Disrupting Scepter	alpha	242	A	3	3	Artifact			R	{3}, {T}: Target player discards a card. Activate this ability only during your turn.
+Forcefield	alpha	243	A	3	3	Artifact			R	{1}: The next time target unblocked creature would deal combat damage to you this turn, prevent all but 1 of that damage.
+Gauntlet of Might	alpha	244	A	4	4	Artifact			R	Red creatures get +1/+1. Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).
+Glasses of Urza	alpha	245	A	1	1	Artifact			U	{T}: Look at target player's hand.
+Helm of Chatzuk	alpha	246	A	1	1	Artifact			R	{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Howling Mine	alpha	247	A	2	2	Artifact			R	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Icy Manipulator	alpha	248	A	4	4	Artifact			U	{1}, {T}: Tap target artifact, creature, or land.
+Illusionary Mask	alpha	249	A	2	2	Artifact			R	{X}: You may put a creature card with converted mana cost X or less from your hand onto the battlefield face down as a 0/1 creature. Put X mask counters on that creature. Activate this ability only any time you could cast a sorcery. The creature's controller may turn the creature face up any time he or she could cast an instant by removing all mask counters from it. This effect ends if the creature is turned face up.
+Iron Star	alpha	250	A	1	1	Artifact			U	Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+Ivory Cup	alpha	251	A	1	1	Artifact			U	Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+Jade Monolith	alpha	252	A	4	4	Artifact			R	{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+Jade Statue	alpha	253	A	4	4	Artifact			U	{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+Jayemdae Tome	alpha	254	A	4	4	Artifact			R	{4}, {T}: Draw a card.
+Juggernaut	alpha	255	A	4	4	Artifact Creature - Juggernaut	5	3	U	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Kormus Bell	alpha	256	A	4	4	Artifact			R	All Swamps are 1/1 creatures that are still lands.
+Library of Leng	alpha	257	A	1	1	Artifact			U	You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+Living Wall	alpha	258	A	4	4	Artifact Creature - Wall	0	6	U	Defender (This creature can't attack.) {1}: Regenerate Living Wall.
+Mana Vault	alpha	259	A	1	1	Artifact			R	Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. {T}: Add {3} to your mana pool.
+Meekstone	alpha	260	A	1	1	Artifact			R	Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Mox Emerald	alpha	261	A	0	0	Artifact			R	{T}: Add {G} to your mana pool.
+Mox Jet	alpha	262	A	0	0	Artifact			R	{T}: Add {B} to your mana pool.
+Mox Pearl	alpha	263	A	0	0	Artifact			R	{T}: Add {W} to your mana pool.
+Mox Ruby	alpha	264	A	0	0	Artifact			R	{T}: Add {R} to your mana pool.
+Mox Sapphire	alpha	265	A	0	0	Artifact			R	{T}: Add {U} to your mana pool.
+Nevinyrral's Disk	alpha	266	A	4	4	Artifact			R	Nevinyrral's Disk enters the battlefield tapped. {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+Obsianus Golem	alpha	267	A	6	6	Artifact Creature - Golem	4	6	U	
+Rod of Ruin	alpha	268	A	4	4	Artifact			U	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Sol Ring	alpha	269	A	1	1	Artifact			U	{T}: Add {2} to your mana pool.
+Soul Net	alpha	270	A	1	1	Artifact			U	Whenever a creature is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.
+Sunglasses of Urza	alpha	271	A	3	3	Artifact			R	You may spend white mana as though it were red mana.
+The Hive	alpha	272	A	5	5	Artifact			R	{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)
+Throne of Bone	alpha	273	A	1	1	Artifact			U	Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.
+Time Vault	alpha	274	A	2	2	Artifact			R	Time Vault enters the battlefield tapped. Time Vault doesn't untap during your untap step. If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault. {T}: Take an extra turn after this one.
+Winter Orb	alpha	275	A	2	2	Artifact			R	As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
+Wooden Sphere	alpha	276	A	1	1	Artifact			U	Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+Badlands	alpha	277	L		0	Land - Swamp Mountain			R	
+Bayou	alpha	278	L		0	Land - Swamp Forest			R	
+Forest	alpha	279	L		0	Basic Land - Forest			L	G
+Island	alpha	281	L		0	Basic Land - Island			L	U
+Mountain	alpha	283	L		0	Basic Land - Mountain			L	R
+Plains	alpha	285	L		0	Basic Land - Plains			L	W
+Plateau	alpha	287	L		0	Land - Mountain Plains			R	
+Savannah	alpha	288	L		0	Land - Forest Plains			R	
+Scrubland	alpha	289	L		0	Land - Plains Swamp			R	
+Swamp	alpha	290	L		0	Basic Land - Swamp			L	B
+Taiga	alpha	292	L		0	Land - Mountain Forest			R	
+Tropical Island	alpha	293	L		0	Land - Forest Island			R	
+Tundra	alpha	294	L		0	Land - Plains Island			R	
+Underground Sea	alpha	295	L		0	Land - Island Swamp			R	
+Animate Dead	beta	1	B	1B	2	Enchantment - Aura			U	Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Bad Moon	beta	2	B	1B	2	Enchantment			R	Black creatures get +1/+1.
+Black Knight	beta	3	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Bog Wraith	beta	4	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Contract from Below	beta	5	B	B	1	Sorcery			R	Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+Cursed Land	beta	6	B	2BB	4	Enchantment - Aura			U	Enchant land At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+Dark Ritual	beta	7	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkpact	beta	8	B	BBB	3	Sorcery			R	Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+Deathgrip	beta	9	B	BB	2	Enchantment			U	{B}{B}: Counter target green spell.
+Deathlace	beta	10	B	B	1	Instant			R	Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+Demonic Attorney	beta	11	B	1BB	3	Sorcery			R	Remove Demonic Attorney from your deck before playing if you're not playing for ante. Each player antes the top card of his or her library.
+Demonic Hordes	beta	12	B	3BBB	6	Creature - Demon	5	5	R	{T}: Destroy target land. At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.
+Demonic Tutor	beta	13	B	1B	2	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Drain Life	beta	14	B	X1B	2	Sorcery			C	Spend only black mana on X. Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.
+Drudge Skeletons	beta	15	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Evil Presence	beta	16	B	B	1	Enchantment - Aura			U	Enchant land Enchanted land is a Swamp.
+Fear	beta	17	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Frozen Shade	beta	18	B	2B	3	Creature - Shade	0	1	C	{B}: Frozen Shade gets +1/+1 until end of turn.
+Gloom	beta	19	B	2B	3	Enchantment			U	White spells cost {3} more to cast. Activated abilities of white enchantments cost {3} more to activate.
+Howl from Beyond	beta	20	B	XB	1	Instant			C	Target creature gets +X/+0 until end of turn.
+Hypnotic Specter	beta	21	B	1BB	3	Creature - Specter	2	2	U	Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Lich	beta	22	B	BBBB	4	Enchantment			R	As Lich enters the battlefield, your life total becomes 0. You don't lose the game for having 0 or less life. If you would gain life, draw that many cards instead. Whenever you're dealt damage, sacrifice that many permanents. When Lich leaves the battlefield, you lose the game.
+Lord of the Pit	beta	23	B	4BBB	7	Creature - Demon	7	7	R	Flying, trample At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+Mind Twist	beta	24	B	XB	1	Sorcery			R	Target player discards X cards at random.
+Nether Shadow	beta	25	B	BB	2	Creature - Spirit	1	1	R	Haste At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+Nettling Imp	beta	26	B	2B	3	Creature - Imp	1	1	U	{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+Nightmare	beta	27	B	5B	6	Creature - Nightmare Horse	*	*	R	Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+Paralyze	beta	28	B	B	1	Enchantment - Aura			C	Enchant creature When Paralyze enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+Pestilence	beta	29	B	2BB	4	Enchantment			C	At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. {B}: Pestilence deals 1 damage to each creature and each player.
+Plague Rats	beta	30	B	2B	3	Creature - Rat	*	*	C	Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+Raise Dead	beta	31	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Royal Assassin	beta	32	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sacrifice	beta	33	B	B	1	Instant			U	As an additional cost to cast Sacrifice, sacrifice a creature. Add to your mana pool an amount of black mana equal to the sacrificed creature's converted mana cost.
+Scathe Zombies	beta	34	B	2B	3	Creature - Zombie	2	2	C	
+Scavenging Ghoul	beta	35	B	3B	4	Creature - Zombie	2	2	U	At the beginning of the end step, put a corpse counter on Scavenging Ghoul for each creature put into a graveyard from the battlefield this turn. Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+Sengir Vampire	beta	36	B	3BB	5	Creature - Vampire	4	4	U	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Simulacrum	beta	37	B	1B	2	Instant			U	You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Sinkhole	beta	38	B	BB	2	Sorcery			C	Destroy target land.
+Terror	beta	39	B	1B	2	Instant			C	Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Unholy Strength	beta	40	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Wall of Bone	beta	41	B	2B	3	Creature - Skeleton Wall	1	4	U	Defender (This creature can't attack.) {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Warp Artifact	beta	42	B	BB	2	Enchantment - Aura			R	Enchant artifact At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+Weakness	beta	43	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-1.
+Will-o'-the-Wisp	beta	44	B	B	1	Creature - Spirit	0	1	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Word of Command	beta	45	B	BB	2	Instant			R	Look at target opponent's hand and choose a card from it. That player plays that card with his or her own mana, but you make all decisions it calls for. The player is required only to spend mana in his or her mana pool and/or mana that can be produced by lands.
+Zombie Master	beta	46	B	1BB	3	Creature - Zombie	2	3	R	Other Zombie creatures have swampwalk. Other Zombies have "{B}: Regenerate this permanent."
+Air Elemental	beta	47	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Ancestral Recall	beta	48	U	U	1	Instant			R	Target player draws three cards.
+Animate Artifact	beta	49	U	3U	4	Enchantment - Aura			U	Enchant artifact As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+Blue Elemental Blast	beta	50	U	U	1	Instant			C	Choose one - Counter target red spell; or destroy target red permanent.
+Braingeyser	beta	51	U	XUU	2	Sorcery			R	Target player draws X cards.
+Clone	beta	52	U	3U	4	Creature - Shapeshifter	0	0	U	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Control Magic	beta	53	U	2UU	4	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Copy Artifact	beta	54	U	1U	2	Enchantment			R	You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield. It's still an enchantment.
+Counterspell	beta	55	U	UU	2	Instant			U	Counter target spell.
+Creature Bond	beta	56	U	1U	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, Creature Bond deals damage equal to that creature's toughness to the creature's controller.
+Drain Power	beta	57	U	UU	2	Sorcery			R	Target player activates a mana ability of each land he or she controls, then empties his or her mana pool. Add mana to your mana pool equal to the type and amount emptied from that player's mana pool this way.
+Feedback	beta	58	U	2U	3	Enchantment - Aura			U	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+Flight	beta	59	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+Invisibility	beta	60	U	UU	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't be blocked except by Walls.
+Jump	beta	61	U	U	1	Instant			C	Target creature gains flying until end of turn.
+Lifetap	beta	62	U	UU	2	Enchantment			U	Whenever a Forest an opponent controls becomes tapped, you gain 1 life.
+Lord of Atlantis	beta	63	U	UU	2	Creature - Merfolk	2	2	R	Other Merfolk creatures get +1/+1 and have islandwalk.
+Magical Hack	beta	64	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+Mahamoti Djinn	beta	65	U	4UU	6	Creature - Djinn	5	6	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Mana Short	beta	66	U	2U	3	Instant			R	Tap all lands target player controls and empty his or her mana pool.
+Merfolk of the Pearl Trident	beta	67	U	U	1	Creature - Merfolk	1	1	C	
+Phantasmal Forces	beta	68	U	3U	4	Creature - Illusion	4	1	U	Flying At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+Phantasmal Terrain	beta	69	U	UU	2	Enchantment - Aura			C	Enchant land As Phantasmal Terrain enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Phantom Monster	beta	70	U	3U	4	Creature - Illusion	3	3	U	Flying
+Pirate Ship	beta	71	U	4U	5	Creature - Human Pirate	4	3	R	Pirate Ship can't attack unless defending player controls an Island. {T}: Pirate Ship deals 1 damage to target creature or player. When you control no Islands, sacrifice Pirate Ship.
+Power Leak	beta	72	U	1U	2	Enchantment - Aura			C	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, that player may pay up to {2}. For each one mana less than {2} he or she pays this way, Power Leak deals 1 damage to him or her.
+Power Sink	beta	73	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Prodigal Sorcerer	beta	74	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+Psionic Blast	beta	75	U	2U	3	Instant			U	Psionic Blast deals 4 damage to target creature or player and 2 damage to you.
+Psychic Venom	beta	76	U	1U	2	Enchantment - Aura			C	Enchant land Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+Sea Serpent	beta	77	U	5U	6	Creature - Serpent	5	5	C	Sea Serpent can't attack unless defending player controls an Island. When you control no Islands, sacrifice Sea Serpent.
+Siren's Call	beta	78	U	U	1	Instant			U	Cast Siren's Call only during an opponent's turn, before attackers are declared. Creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.
+Sleight of Mind	beta	79	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+Spell Blast	beta	80	U	XU	1	Instant			C	Counter target spell with converted mana cost X.
+Stasis	beta	81	U	1U	2	Enchantment			R	Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.
+Steal Artifact	beta	82	U	2UU	4	Enchantment - Aura			U	Enchant artifact You control enchanted artifact.
+Thoughtlace	beta	83	U	U	1	Instant			R	Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+Time Walk	beta	84	U	1U	2	Sorcery			R	Take an extra turn after this one.
+Timetwister	beta	85	U	2U	3	Sorcery			R	Each player shuffles his or her hand and graveyard into his or her library and then draws seven cards. (Then put Timetwister into its owner's graveyard.)
+Twiddle	beta	86	U	U	1	Instant			C	You may tap or untap target artifact, creature, or land.
+Unsummon	beta	87	U	U	1	Instant			C	Return target creature to its owner's hand.
+Vesuvan Doppelganger	beta	88	U	3UU	5	Creature - Shapeshifter	0	0	R	You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
+Volcanic Eruption	beta	89	U	XUUU	3	Sorcery			R	Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.
+Wall of Air	beta	90	U	1UU	3	Creature - Wall	1	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Wall of Water	beta	91	U	1UU	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {U}: Wall of Water gets +1/+0 until end of turn.
+Water Elemental	beta	92	U	3UU	5	Creature - Elemental	5	4	U	
+Aspect of Wolf	beta	93	G	1G	2	Enchantment - Aura			R	Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+Berserk	beta	94	G	G	1	Instant			U	Cast Berserk only before the combat damage step. Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.
+Birds of Paradise	beta	95	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Camouflage	beta	96	G	G	1	Instant			U	Cast Camouflage only during the declare attackers step. This turn, instead of declaring blockers, the defending player chooses any number of creatures he or she controls and divides them into a number of piles equal to the number of attacking creatures. Assign each pile to a different attacking creature at random, and any creatures in that pile that can block the creature do so. (Piles can be empty.)
+Channel	beta	97	G	GG	2	Sorcery			U	Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.
+Cockatrice	beta	98	G	3GG	5	Creature - Cockatrice	2	4	R	Flying Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Craw Wurm	beta	99	G	4GG	6	Creature - Wurm	6	4	C	
+Elvish Archers	beta	100	G	1G	2	Creature - Elf Archer	2	1	R	First strike
+Fastbond	beta	101	G	G	1	Enchantment			R	You may play any number of additional lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+Fog	beta	102	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Force of Nature	beta	103	G	2GGGG	6	Creature - Elemental	8	8	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+Fungusaur	beta	104	G	3G	4	Creature - Fungus Lizard	2	2	R	Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+Gaea's Liege	beta	105	G	3GGG	6	Creature - Avatar	*	*	R	As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+Giant Growth	beta	106	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	beta	107	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Grizzly Bears	beta	108	G	1G	2	Creature - Bear	2	2	C	
+Hurricane	beta	109	G	XG	1	Sorcery			U	Hurricane deals X damage to each creature with flying and each player.
+Ice Storm	beta	110	G	2G	3	Sorcery			U	Destroy target land.
+Instill Energy	beta	111	G	G	1	Enchantment - Aura			U	Enchant creature Enchanted creature has haste. {0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+Ironroot Treefolk	beta	112	G	4G	5	Creature - Treefolk	3	5	C	
+Kudzu	beta	113	G	1GG	3	Enchantment - Aura			R	Enchant land When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+Ley Druid	beta	114	G	2G	3	Creature - Human Druid	1	1	U	{T}: Untap target land.
+Lifeforce	beta	115	G	GG	2	Enchantment			U	{G}{G}: Counter target black spell.
+Lifelace	beta	116	G	G	1	Instant			R	Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+Living Artifact	beta	117	G	G	1	Enchantment - Aura			R	Enchant artifact Whenever you're dealt damage, put that many vitality counters on Living Artifact. At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+Living Lands	beta	118	G	3G	4	Enchantment			R	All Forests are 1/1 creatures that are still lands.
+Llanowar Elves	beta	119	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Lure	beta	120	G	1GG	3	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) All creatures able to block enchanted creature do so.
+Natural Selection	beta	121	G	G	1	Instant			R	Look at the top three cards of target player's library and put them back in any order. You may have that player shuffle his or her library.
+Regeneration	beta	122	G	1G	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Regrowth	beta	123	G	1G	2	Sorcery			U	Return target card from your graveyard to your hand.
+Scryb Sprites	beta	124	G	G	1	Creature - Faerie	1	1	C	Flying
+Shanodin Dryads	beta	125	G	G	1	Creature - Dryad	1	1	C	Forestwalk
+Stream of Life	beta	126	G	XG	1	Sorcery			C	Target player gains X life.
+Thicket Basilisk	beta	127	G	3GG	5	Creature - Basilisk	2	4	U	Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Timber Wolves	beta	128	G	G	1	Creature - Wolf	1	1	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Tranquility	beta	129	G	2G	3	Sorcery			C	Destroy all enchantments.
+Tsunami	beta	130	G	3G	4	Sorcery			U	Destroy all Islands.
+Verduran Enchantress	beta	131	G	1GG	3	Creature - Human Druid	0	2	R	Whenever you cast an enchantment spell, you may draw a card.
+Wall of Brambles	beta	132	G	2G	3	Creature - Plant Wall	2	3	U	Defender (This creature can't attack.) {G}: Regenerate Wall of Brambles.
+Wall of Ice	beta	133	G	2G	3	Creature - Wall	0	7	U	Defender (This creature can't attack.)
+Wall of Wood	beta	134	G	G	1	Creature - Wall	0	3	C	Defender (This creature can't attack.)
+Wanderlust	beta	135	G	2G	3	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+War Mammoth	beta	136	G	3G	4	Creature - Elephant	3	3	C	Trample
+Web	beta	137	G	G	1	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Wild Growth	beta	138	G	G	1	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).
+Badlands	beta	139	L		0	Land - Swamp Mountain			R	
+Burrowing	beta	140	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has mountainwalk.
+Chaoslace	beta	141	R	R	1	Instant			R	Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+Disintegrate	beta	142	R	XR	1	Sorcery			C	Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Dragon Whelp	beta	143	R	2RR	4	Creature - Dragon	2	3	U	Flying {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Dwarven Demolition Team	beta	144	R	2R	3	Creature - Dwarf	1	1	U	{T}: Destroy target Wall.
+Dwarven Warriors	beta	145	R	2R	3	Creature - Dwarf Warrior	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Earth Elemental	beta	146	R	3RR	5	Creature - Elemental	4	5	U	
+Earthbind	beta	147	R	R	1	Enchantment - Aura			C	Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+Earthquake	beta	148	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+False Orders	beta	149	R	R	1	Instant			C	Cast False Orders only during the declare blockers step. Remove target creature defending player controls from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked. You may have it block an attacking creature of your choice.
+Fire Elemental	beta	150	R	3RR	5	Creature - Elemental	5	4	U	
+Fireball	beta	151	R	XR	1	Sorcery			C	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Firebreathing	beta	152	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Flashfires	beta	153	R	3R	4	Sorcery			U	Destroy all Plains.
+Fork	beta	154	R	RR	2	Instant			R	Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+Goblin Balloon Brigade	beta	155	R	R	1	Creature - Goblin Warrior	1	1	U	{R}: Goblin Balloon Brigade gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Goblin King	beta	156	R	1RR	3	Creature - Goblin	2	2	R	Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+Granite Gargoyle	beta	157	R	2R	3	Creature - Gargoyle	2	2	R	Flying {R}: Granite Gargoyle gets +0/+1 until end of turn.
+Gray Ogre	beta	158	R	2R	3	Creature - Ogre	2	2	C	
+Hill Giant	beta	159	R	3R	4	Creature - Giant	3	3	C	
+Hurloon Minotaur	beta	160	R	1RR	3	Creature - Minotaur	2	3	C	
+Ironclaw Orcs	beta	161	R	1R	2	Creature - Orc	2	2	C	Ironclaw Orcs can't block creatures with power 2 or greater.
+Keldon Warlord	beta	162	R	2RR	4	Creature - Human Barbarian	*	*	U	Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+Lightning Bolt	beta	163	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Mana Flare	beta	164	R	2R	3	Enchantment			R	Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Manabarbs	beta	165	R	3R	4	Enchantment			R	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Mons's Goblin Raiders	beta	166	R	R	1	Creature - Goblin	1	1	C	
+Orcish Artillery	beta	167	R	1RR	3	Creature - Orc Warrior	1	3	U	{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Orcish Oriflamme	beta	168	R	3R	4	Enchantment			U	Attacking creatures you control get +1/+0.
+Power Surge	beta	169	R	RR	2	Enchantment			R	At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+Raging River	beta	170	R	RR	2	Enchantment			R	Whenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.
+Red Elemental Blast	beta	171	R	R	1	Instant			C	Choose one - Counter target blue spell; or destroy target blue permanent.
+Roc of Kher Ridges	beta	172	R	3R	4	Creature - Bird	3	3	R	Flying
+Rock Hydra	beta	173	R	XRR	2	Creature - Hydra	0	0	R	Rock Hydra enters the battlefield with X +1/+1 counters on it. For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage. {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn. {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+Sedge Troll	beta	174	R	2R	3	Creature - Troll	2	2	R	Sedge Troll gets +1/+1 as long as you control a Swamp. {B}: Regenerate Sedge Troll.
+Shatter	beta	175	R	1R	2	Instant			C	Destroy target artifact.
+Shivan Dragon	beta	176	R	4RR	6	Creature - Dragon	5	5	R	Flying {R}: Shivan Dragon gets +1/+0 until end of turn.
+Smoke	beta	177	R	RR	2	Enchantment			R	Players can't untap more than one creature during their untap steps.
+Stone Giant	beta	178	R	2RR	4	Creature - Giant	3	4	U	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Stone Rain	beta	179	R	2R	3	Sorcery			C	Destroy target land.
+Tunnel	beta	180	R	R	1	Instant			U	Destroy target Wall. It can't be regenerated.
+Two-Headed Giant of Foriys	beta	181	R	4R	5	Creature - Giant	4	4	R	Trample Two-Headed Giant of Foriys can block an additional creature.
+Uthden Troll	beta	182	R	2R	3	Creature - Troll	2	2	U	{R}: Regenerate Uthden Troll.
+Wall of Fire	beta	183	R	1RR	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {R}: Wall of Fire gets +1/+0 until end of turn.
+Wall of Stone	beta	184	R	1RR	3	Creature - Wall	0	8	U	Defender (This creature can't attack.)
+Wheel of Fortune	beta	185	R	2R	3	Sorcery			R	Each player discards his or her hand and draws seven cards.
+Animate Wall	beta	186	W	W	1	Enchantment - Aura			R	Enchant Wall Enchanted Wall can attack as though it didn't have defender.
+Armageddon	beta	187	W	3W	4	Sorcery			R	Destroy all lands.
+Balance	beta	188	W	1W	2	Sorcery			R	Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+Benalish Hero	beta	189	W	W	1	Creature - Human Soldier	1	1	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Black Ward	beta	190	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+Blaze of Glory	beta	191	W	W	1	Instant			R	Target creature can block any number of creatures this turn. It must block each attacking creature this turn if able.
+Blessing	beta	192	W	WW	2	Enchantment - Aura			R	Enchant creature {W}: Enchanted creature gets +1/+1 until end of turn.
+Blue Ward	beta	193	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+Castle	beta	194	W	3W	4	Enchantment			U	Untapped creatures you control get +0/+2.
+Circle of Protection: Black	beta	195	W	1W	2	Enchantment			C	{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Blue	beta	196	W	1W	2	Enchantment			C	{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Green	beta	197	W	1W	2	Enchantment			C	{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Red	beta	198	W	1W	2	Enchantment			C	{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: White	beta	199	W	1W	2	Enchantment			C	{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+Consecrate Land	beta	200	W	W	1	Enchantment - Aura			U	Enchant land Enchanted land is indestructible and can't be enchanted by other Auras.
+Conversion	beta	201	W	2WW	4	Enchantment			U	At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}. All Mountains are Plains.
+Crusade	beta	202	W	WW	2	Enchantment			R	White creatures get +1/+1.
+Death Ward	beta	203	W	W	1	Instant			C	Regenerate target creature.
+Disenchant	beta	204	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Farmstead	beta	205	W	WWW	3	Enchantment - Aura			R	Enchant land Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+Green Ward	beta	206	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+Guardian Angel	beta	207	W	XW	1	Instant			C	Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn.
+Healing Salve	beta	208	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Holy Armor	beta	209	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +0/+2. {W}: Enchanted creature gets +0/+1 until end of turn.
+Holy Strength	beta	210	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Island Sanctuary	beta	211	W	1W	2	Enchantment			R	If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+Karma	beta	212	W	2WW	4	Enchantment			U	At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+Lance	beta	213	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has first strike.
+Mesa Pegasus	beta	214	W	1W	2	Creature - Pegasus	1	1	C	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Northern Paladin	beta	215	W	2WW	4	Creature - Human Knight	3	3	R	{W}{W}, {T}: Destroy target black permanent.
+Pearled Unicorn	beta	216	W	2W	3	Creature - Unicorn	2	2	C	
+Personal Incarnation	beta	217	W	3WWW	6	Creature - Avatar Incarnation	6	6	R	{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation. When Personal Incarnation is put into a graveyard from the battlefield, its owner loses half his or her life, rounded up.
+Purelace	beta	218	W	W	1	Instant			R	Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+Red Ward	beta	219	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+Resurrection	beta	220	W	2WW	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Reverse Damage	beta	221	W	1WW	3	Instant			R	The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+Righteousness	beta	222	W	W	1	Instant			R	Target blocking creature gets +7/+7 until end of turn.
+Samite Healer	beta	223	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Savannah Lions	beta	224	W	W	1	Creature - Cat	2	1	R	
+Serra Angel	beta	225	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Swords to Plowshares	beta	226	W	W	1	Instant			U	Exile target creature. Its controller gains life equal to its power.
+Veteran Bodyguard	beta	227	W	3WW	5	Creature - Human	2	5	R	As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+Wall of Swords	beta	228	W	3W	4	Creature - Wall	3	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+White Knight	beta	229	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+White Ward	beta	230	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from white. This effect doesn't remove White Ward.
+Wrath of God	beta	231	W	2WW	4	Sorcery			R	Destroy all creatures. They can't be regenerated.
+Ankh of Mishra	beta	232	A	2	2	Artifact			R	Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+Basalt Monolith	beta	233	A	3	3	Artifact			U	Basalt Monolith doesn't untap during your untap step. {3}: Untap Basalt Monolith. {T}: Add {3} to your mana pool.
+Black Lotus	beta	234	A	0	0	Artifact			R	{T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool.
+Black Vise	beta	235	A	1	1	Artifact			U	As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+Celestial Prism	beta	236	A	3	3	Artifact			U	{2}, {T}: Add one mana of any color to your mana pool.
+Chaos Orb	beta	237	A	2	2	Artifact			R	{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all permanents it touches. Then destroy Chaos Orb.
+Clockwork Beast	beta	238	A	6	6	Artifact Creature - Beast	0	4	R	Clockwork Beast enters the battlefield with seven +1/+0 counters on it. At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it. {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+Conservator	beta	239	A	4	4	Artifact			U	{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+Copper Tablet	beta	240	A	2	2	Artifact			U	At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.
+Crystal Rod	beta	241	A	1	1	Artifact			U	Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.
+Cyclopean Tomb	beta	242	A	4	4	Artifact			R	{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep. When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
+Dingus Egg	beta	243	A	4	4	Artifact			R	Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+Disrupting Scepter	beta	244	A	3	3	Artifact			R	{3}, {T}: Target player discards a card. Activate this ability only during your turn.
+Forcefield	beta	245	A	3	3	Artifact			R	{1}: The next time target unblocked creature would deal combat damage to you this turn, prevent all but 1 of that damage.
+Gauntlet of Might	beta	246	A	4	4	Artifact			R	Red creatures get +1/+1. Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).
+Glasses of Urza	beta	247	A	1	1	Artifact			U	{T}: Look at target player's hand.
+Helm of Chatzuk	beta	248	A	1	1	Artifact			R	{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Howling Mine	beta	249	A	2	2	Artifact			R	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Icy Manipulator	beta	250	A	4	4	Artifact			U	{1}, {T}: Tap target artifact, creature, or land.
+Illusionary Mask	beta	251	A	2	2	Artifact			R	{X}: You may put a creature card with converted mana cost X or less from your hand onto the battlefield face down as a 0/1 creature. Put X mask counters on that creature. Activate this ability only any time you could cast a sorcery. The creature's controller may turn the creature face up any time he or she could cast an instant by removing all mask counters from it. This effect ends if the creature is turned face up.
+Iron Star	beta	252	A	1	1	Artifact			U	Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+Ivory Cup	beta	253	A	1	1	Artifact			U	Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+Jade Monolith	beta	254	A	4	4	Artifact			R	{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+Jade Statue	beta	255	A	4	4	Artifact			U	{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+Jayemdae Tome	beta	256	A	4	4	Artifact			R	{4}, {T}: Draw a card.
+Juggernaut	beta	257	A	4	4	Artifact Creature - Juggernaut	5	3	U	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Kormus Bell	beta	258	A	4	4	Artifact			R	All Swamps are 1/1 creatures that are still lands.
+Library of Leng	beta	259	A	1	1	Artifact			U	You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+Living Wall	beta	260	A	4	4	Artifact Creature - Wall	0	6	U	Defender (This creature can't attack.) {1}: Regenerate Living Wall.
+Mana Vault	beta	261	A	1	1	Artifact			R	Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. {T}: Add {3} to your mana pool.
+Meekstone	beta	262	A	1	1	Artifact			R	Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Mox Emerald	beta	263	A	0	0	Artifact			R	{T}: Add {G} to your mana pool.
+Mox Jet	beta	264	A	0	0	Artifact			R	{T}: Add {B} to your mana pool.
+Mox Pearl	beta	265	A	0	0	Artifact			R	{T}: Add {W} to your mana pool.
+Mox Ruby	beta	266	A	0	0	Artifact			R	{T}: Add {R} to your mana pool.
+Mox Sapphire	beta	267	A	0	0	Artifact			R	{T}: Add {U} to your mana pool.
+Nevinyrral's Disk	beta	268	A	4	4	Artifact			R	Nevinyrral's Disk enters the battlefield tapped. {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+Obsianus Golem	beta	269	A	6	6	Artifact Creature - Golem	4	6	U	
+Rod of Ruin	beta	270	A	4	4	Artifact			U	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Sol Ring	beta	271	A	1	1	Artifact			U	{T}: Add {2} to your mana pool.
+Soul Net	beta	272	A	1	1	Artifact			U	Whenever a creature is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.
+Sunglasses of Urza	beta	273	A	3	3	Artifact			R	You may spend white mana as though it were red mana.
+The Hive	beta	274	A	5	5	Artifact			R	{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)
+Throne of Bone	beta	275	A	1	1	Artifact			U	Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.
+Time Vault	beta	276	A	2	2	Artifact			R	Time Vault enters the battlefield tapped. Time Vault doesn't untap during your untap step. If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault. {T}: Take an extra turn after this one.
+Winter Orb	beta	277	A	2	2	Artifact			R	As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
+Wooden Sphere	beta	278	A	1	1	Artifact			U	Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+Bayou	beta	279	L		0	Land - Swamp Forest			R	
+Forest	beta	281	L		0	Basic Land - Forest			L	G
+Island	beta	285	L		0	Basic Land - Island			L	U
+Mountain	beta	286	L		0	Basic Land - Mountain			L	R
+Plains	beta	289	L		0	Basic Land - Plains			L	W
+Plateau	beta	292	L		0	Land - Mountain Plains			R	
+Savannah	beta	293	L		0	Land - Forest Plains			R	
+Scrubland	beta	294	L		0	Land - Plains Swamp			R	
+Swamp	beta	295	L		0	Basic Land - Swamp			L	B
+Taiga	beta	298	L		0	Land - Mountain Forest			R	
+Tropical Island	beta	299	L		0	Land - Forest Island			R	
+Tundra	beta	300	L		0	Land - Plains Island			R	
+Underground Sea	beta	301	L		0	Land - Island Swamp			R	
+Volcanic Island	beta	302	L		0	Land - Island Mountain			R	
+Animate Dead	revised	1	B	1B	2	Enchantment - Aura			U	Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Bad Moon	revised	2	B	1B	2	Enchantment			R	Black creatures get +1/+1.
+Black Knight	revised	3	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Bog Wraith	revised	4	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Contract from Below	revised	5	B	B	1	Sorcery			R	Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+Cursed Land	revised	6	B	2BB	4	Enchantment - Aura			U	Enchant land At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+Dark Ritual	revised	7	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkpact	revised	8	B	BBB	3	Sorcery			R	Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+Deathgrip	revised	9	B	BB	2	Enchantment			U	{B}{B}: Counter target green spell.
+Deathlace	revised	10	B	B	1	Instant			R	Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+Demonic Attorney	revised	11	B	1BB	3	Sorcery			R	Remove Demonic Attorney from your deck before playing if you're not playing for ante. Each player antes the top card of his or her library.
+Demonic Hordes	revised	12	B	3BBB	6	Creature - Demon	5	5	R	{T}: Destroy target land. At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.
+Demonic Tutor	revised	13	B	1B	2	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Drain Life	revised	14	B	X1B	2	Sorcery			C	Spend only black mana on X. Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.
+Drudge Skeletons	revised	15	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+El-Hajjaj	revised	16	B	1BB	3	Creature - Human Wizard	1	1	R	Whenever El-Hajjj deals damage, you gain that much life.
+Erg Raiders	revised	17	B	1B	2	Creature - Human Warrior	2	3	C	At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+Evil Presence	revised	18	B	B	1	Enchantment - Aura			U	Enchant land Enchanted land is a Swamp.
+Fear	revised	19	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Frozen Shade	revised	20	B	2B	3	Creature - Shade	0	1	C	{B}: Frozen Shade gets +1/+1 until end of turn.
+Gloom	revised	21	B	2B	3	Enchantment			U	White spells cost {3} more to cast. Activated abilities of white enchantments cost {3} more to activate.
+Howl from Beyond	revised	22	B	XB	1	Instant			C	Target creature gets +X/+0 until end of turn.
+Hypnotic Specter	revised	23	B	1BB	3	Creature - Specter	2	2	U	Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Lord of the Pit	revised	24	B	4BBB	7	Creature - Demon	7	7	R	Flying, trample At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+Mind Twist	revised	25	B	XB	1	Sorcery			R	Target player discards X cards at random.
+Nether Shadow	revised	26	B	BB	2	Creature - Spirit	1	1	R	Haste At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+Nettling Imp	revised	27	B	2B	3	Creature - Imp	1	1	U	{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+Nightmare	revised	28	B	5B	6	Creature - Nightmare Horse	*	*	R	Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+Paralyze	revised	29	B	B	1	Enchantment - Aura			C	Enchant creature When Paralyze enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+Pestilence	revised	30	B	2BB	4	Enchantment			C	At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. {B}: Pestilence deals 1 damage to each creature and each player.
+Plague Rats	revised	31	B	2B	3	Creature - Rat	*	*	C	Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+Raise Dead	revised	32	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Royal Assassin	revised	33	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sacrifice	revised	34	B	B	1	Instant			U	As an additional cost to cast Sacrifice, sacrifice a creature. Add to your mana pool an amount of black mana equal to the sacrificed creature's converted mana cost.
+Scathe Zombies	revised	35	B	2B	3	Creature - Zombie	2	2	C	
+Scavenging Ghoul	revised	36	B	3B	4	Creature - Zombie	2	2	U	At the beginning of the end step, put a corpse counter on Scavenging Ghoul for each creature put into a graveyard from the battlefield this turn. Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+Sengir Vampire	revised	37	B	3BB	5	Creature - Vampire	4	4	U	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Simulacrum	revised	38	B	1B	2	Instant			U	You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Sorceress Queen	revised	39	B	1BB	3	Creature - Human Wizard	1	1	R	{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.
+Terror	revised	40	B	1B	2	Instant			C	Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Unholy Strength	revised	41	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Wall of Bone	revised	42	B	2B	3	Creature - Skeleton Wall	1	4	U	Defender (This creature can't attack.) {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Warp Artifact	revised	43	B	BB	2	Enchantment - Aura			R	Enchant artifact At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+Weakness	revised	44	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-1.
+Will-o'-the-Wisp	revised	45	B	B	1	Creature - Spirit	0	1	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Zombie Master	revised	46	B	1BB	3	Creature - Zombie	2	3	R	Other Zombie creatures have swampwalk. Other Zombies have "{B}: Regenerate this permanent."
+Air Elemental	revised	47	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Animate Artifact	revised	48	U	3U	4	Enchantment - Aura			U	Enchant artifact As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+Blue Elemental Blast	revised	49	U	U	1	Instant			C	Choose one - Counter target red spell; or destroy target red permanent.
+Braingeyser	revised	50	U	XUU	2	Sorcery			R	Target player draws X cards.
+Clone	revised	51	U	3U	4	Creature - Shapeshifter	0	0	U	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Control Magic	revised	52	U	2UU	4	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Copy Artifact	revised	53	U	1U	2	Enchantment			R	You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield. It's still an enchantment.
+Counterspell	revised	54	U	UU	2	Instant			U	Counter target spell.
+Creature Bond	revised	55	U	1U	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, Creature Bond deals damage equal to that creature's toughness to the creature's controller.
+Drain Power	revised	56	U	UU	2	Sorcery			R	Target player activates a mana ability of each land he or she controls, then empties his or her mana pool. Add mana to your mana pool equal to the type and amount emptied from that player's mana pool this way.
+Energy Flux	revised	57	U	2U	3	Enchantment			U	All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."
+Feedback	revised	58	U	2U	3	Enchantment - Aura			U	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+Flight	revised	59	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+Hurkyl's Recall	revised	60	U	1U	2	Instant			R	Return all artifacts target player owns to his or her hand.
+Island Fish Jasconius	revised	61	U	4UUU	7	Creature - Fish	6	8	R	Island Fish Jasconius can't attack unless defending player controls an Island. Island Fish Jasconius doesn't untap during your untap step. At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius. When you control no Islands, sacrifice Island Fish Jasconius.
+Jump	revised	62	U	U	1	Instant			C	Target creature gains flying until end of turn.
+Lifetap	revised	63	U	UU	2	Enchantment			U	Whenever a Forest an opponent controls becomes tapped, you gain 1 life.
+Lord of Atlantis	revised	64	U	UU	2	Creature - Merfolk	2	2	R	Other Merfolk creatures get +1/+1 and have islandwalk.
+Magical Hack	revised	65	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+Mahamoti Djinn	revised	66	U	4UU	6	Creature - Djinn	5	6	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Mana Short	revised	67	U	2U	3	Instant			R	Tap all lands target player controls and empty his or her mana pool.
+Merfolk of the Pearl Trident	revised	68	U	U	1	Creature - Merfolk	1	1	C	
+Phantasmal Forces	revised	69	U	3U	4	Creature - Illusion	4	1	U	Flying At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+Phantasmal Terrain	revised	70	U	UU	2	Enchantment - Aura			C	Enchant land As Phantasmal Terrain enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Phantom Monster	revised	71	U	3U	4	Creature - Illusion	3	3	U	Flying
+Pirate Ship	revised	72	U	4U	5	Creature - Human Pirate	4	3	R	Pirate Ship can't attack unless defending player controls an Island. {T}: Pirate Ship deals 1 damage to target creature or player. When you control no Islands, sacrifice Pirate Ship.
+Power Leak	revised	73	U	1U	2	Enchantment - Aura			C	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, that player may pay up to {2}. For each one mana less than {2} he or she pays this way, Power Leak deals 1 damage to him or her.
+Power Sink	revised	74	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Prodigal Sorcerer	revised	75	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+Psychic Venom	revised	76	U	1U	2	Enchantment - Aura			C	Enchant land Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+Reconstruction	revised	77	U	U	1	Sorcery			C	Return target artifact card from your graveyard to your hand.
+Sea Serpent	revised	78	U	5U	6	Creature - Serpent	5	5	C	Sea Serpent can't attack unless defending player controls an Island. When you control no Islands, sacrifice Sea Serpent.
+Serendib Efreet	revised	79	U	2U	3	Creature - Efreet	3	4	R	Flying At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+Siren's Call	revised	80	U	U	1	Instant			U	Cast Siren's Call only during an opponent's turn, before attackers are declared. Creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.
+Sleight of Mind	revised	81	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+Spell Blast	revised	82	U	XU	1	Instant			C	Counter target spell with converted mana cost X.
+Stasis	revised	83	U	1U	2	Enchantment			R	Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.
+Steal Artifact	revised	84	U	2UU	4	Enchantment - Aura			U	Enchant artifact You control enchanted artifact.
+Thoughtlace	revised	85	U	U	1	Instant			R	Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+Unstable Mutation	revised	86	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3. At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.
+Unsummon	revised	87	U	U	1	Instant			C	Return target creature to its owner's hand.
+Vesuvan Doppelganger	revised	88	U	3UU	5	Creature - Shapeshifter	0	0	R	You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
+Volcanic Eruption	revised	89	U	XUUU	3	Sorcery			R	Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.
+Wall of Air	revised	90	U	1UU	3	Creature - Wall	1	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Wall of Water	revised	91	U	1UU	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {U}: Wall of Water gets +1/+0 until end of turn.
+Water Elemental	revised	92	U	3UU	5	Creature - Elemental	5	4	U	
+Aspect of Wolf	revised	93	G	1G	2	Enchantment - Aura			R	Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+Birds of Paradise	revised	94	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Channel	revised	95	G	GG	2	Sorcery			U	Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.
+Cockatrice	revised	96	G	3GG	5	Creature - Cockatrice	2	4	R	Flying Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Craw Wurm	revised	97	G	4GG	6	Creature - Wurm	6	4	C	
+Crumble	revised	98	G	G	1	Instant			U	Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+Desert Twister	revised	99	G	4GG	6	Sorcery			U	Destroy target permanent.
+Elvish Archers	revised	100	G	1G	2	Creature - Elf Archer	2	1	R	First strike
+Fastbond	revised	101	G	G	1	Enchantment			R	You may play any number of additional lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+Fog	revised	102	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Force of Nature	revised	103	G	2GGGG	6	Creature - Elemental	8	8	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+Fungusaur	revised	104	G	3G	4	Creature - Fungus Lizard	2	2	R	Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+Gaea's Liege	revised	105	G	3GGG	6	Creature - Avatar	*	*	R	As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+Giant Growth	revised	106	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	revised	107	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Grizzly Bears	revised	108	G	1G	2	Creature - Bear	2	2	C	
+Hurricane	revised	109	G	XG	1	Sorcery			U	Hurricane deals X damage to each creature with flying and each player.
+Instill Energy	revised	110	G	G	1	Enchantment - Aura			U	Enchant creature Enchanted creature has haste. {0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+Ironroot Treefolk	revised	111	G	4G	5	Creature - Treefolk	3	5	C	
+Kudzu	revised	112	G	1GG	3	Enchantment - Aura			R	Enchant land When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+Ley Druid	revised	113	G	2G	3	Creature - Human Druid	1	1	U	{T}: Untap target land.
+Lifeforce	revised	114	G	GG	2	Enchantment			U	{G}{G}: Counter target black spell.
+Lifelace	revised	115	G	G	1	Instant			R	Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+Living Artifact	revised	116	G	G	1	Enchantment - Aura			R	Enchant artifact Whenever you're dealt damage, put that many vitality counters on Living Artifact. At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+Living Lands	revised	117	G	3G	4	Enchantment			R	All Forests are 1/1 creatures that are still lands.
+Llanowar Elves	revised	118	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Lure	revised	119	G	1GG	3	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) All creatures able to block enchanted creature do so.
+Regeneration	revised	120	G	1G	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Regrowth	revised	121	G	1G	2	Sorcery			U	Return target card from your graveyard to your hand.
+Scryb Sprites	revised	122	G	G	1	Creature - Faerie	1	1	C	Flying
+Shanodin Dryads	revised	123	G	G	1	Creature - Dryad	1	1	C	Forestwalk
+Stream of Life	revised	124	G	XG	1	Sorcery			C	Target player gains X life.
+Thicket Basilisk	revised	125	G	3GG	5	Creature - Basilisk	2	4	U	Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Timber Wolves	revised	126	G	G	1	Creature - Wolf	1	1	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Titania's Song	revised	127	G	3G	4	Enchantment			R	Each noncreature artifact loses its abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+Tranquility	revised	128	G	2G	3	Sorcery			C	Destroy all enchantments.
+Tsunami	revised	129	G	3G	4	Sorcery			U	Destroy all Islands.
+Verduran Enchantress	revised	130	G	1GG	3	Creature - Human Druid	0	2	R	Whenever you cast an enchantment spell, you may draw a card.
+Wall of Brambles	revised	131	G	2G	3	Creature - Plant Wall	2	3	U	Defender (This creature can't attack.) {G}: Regenerate Wall of Brambles.
+Wall of Ice	revised	132	G	2G	3	Creature - Wall	0	7	U	Defender (This creature can't attack.)
+Wall of Wood	revised	133	G	G	1	Creature - Wall	0	3	C	Defender (This creature can't attack.)
+Wanderlust	revised	134	G	2G	3	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+War Mammoth	revised	135	G	3G	4	Creature - Elephant	3	3	C	Trample
+Web	revised	136	G	G	1	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Wild Growth	revised	137	G	G	1	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).
+Atog	revised	138	R	1R	2	Creature - Atog	1	2	C	Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+Burrowing	revised	139	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has mountainwalk.
+Chaoslace	revised	140	R	R	1	Instant			R	Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+Disintegrate	revised	141	R	XR	1	Sorcery			C	Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Dragon Whelp	revised	142	R	2RR	4	Creature - Dragon	2	3	U	Flying {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Dwarven Warriors	revised	143	R	2R	3	Creature - Dwarf Warrior	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Dwarven Weaponsmith	revised	144	R	1R	2	Creature - Dwarf Artificer	1	1	U	{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+Earth Elemental	revised	145	R	3RR	5	Creature - Elemental	4	5	U	
+Earthbind	revised	146	R	R	1	Enchantment - Aura			C	Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+Earthquake	revised	147	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+Fire Elemental	revised	148	R	3RR	5	Creature - Elemental	5	4	U	
+Fireball	revised	149	R	XR	1	Sorcery			C	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Firebreathing	revised	150	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Flashfires	revised	151	R	3R	4	Sorcery			U	Destroy all Plains.
+Fork	revised	152	R	RR	2	Instant			R	Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+Goblin Balloon Brigade	revised	153	R	R	1	Creature - Goblin Warrior	1	1	U	{R}: Goblin Balloon Brigade gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Goblin King	revised	154	R	1RR	3	Creature - Goblin	2	2	R	Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+Granite Gargoyle	revised	155	R	2R	3	Creature - Gargoyle	2	2	R	Flying {R}: Granite Gargoyle gets +0/+1 until end of turn.
+Gray Ogre	revised	156	R	2R	3	Creature - Ogre	2	2	C	
+Hill Giant	revised	157	R	3R	4	Creature - Giant	3	3	C	
+Hurloon Minotaur	revised	158	R	1RR	3	Creature - Minotaur	2	3	C	
+Keldon Warlord	revised	159	R	2RR	4	Creature - Human Barbarian	*	*	U	Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+Kird Ape	revised	160	R	R	1	Creature - Ape	1	1	C	Kird Ape gets +1/+2 as long as you control a Forest.
+Lightning Bolt	revised	161	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Magnetic Mountain	revised	162	R	1RR	3	Enchantment			R	Blue creatures don't untap during their controllers' untap steps. At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {4} for each creature chosen this way. If the player does, untap those creatures.
+Mana Flare	revised	163	R	2R	3	Enchantment			R	Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Manabarbs	revised	164	R	3R	4	Enchantment			R	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Mijae Djinn	revised	165	R	RRR	3	Creature - Djinn	6	3	R	Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+Mons's Goblin Raiders	revised	166	R	R	1	Creature - Goblin	1	1	C	
+Orcish Artillery	revised	167	R	1RR	3	Creature - Orc Warrior	1	3	U	{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Orcish Oriflamme	revised	168	R	3R	4	Enchantment			U	Attacking creatures you control get +1/+0.
+Power Surge	revised	169	R	RR	2	Enchantment			R	At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+Red Elemental Blast	revised	170	R	R	1	Instant			C	Choose one - Counter target blue spell; or destroy target blue permanent.
+Roc of Kher Ridges	revised	171	R	3R	4	Creature - Bird	3	3	R	Flying
+Rock Hydra	revised	172	R	XRR	2	Creature - Hydra	0	0	R	Rock Hydra enters the battlefield with X +1/+1 counters on it. For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage. {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn. {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+Sedge Troll	revised	173	R	2R	3	Creature - Troll	2	2	R	Sedge Troll gets +1/+1 as long as you control a Swamp. {B}: Regenerate Sedge Troll.
+Shatter	revised	174	R	1R	2	Instant			C	Destroy target artifact.
+Shatterstorm	revised	175	R	2RR	4	Sorcery			U	Destroy all artifacts. They can't be regenerated.
+Shivan Dragon	revised	176	R	4RR	6	Creature - Dragon	5	5	R	Flying {R}: Shivan Dragon gets +1/+0 until end of turn.
+Smoke	revised	177	R	RR	2	Enchantment			R	Players can't untap more than one creature during their untap steps.
+Stone Giant	revised	178	R	2RR	4	Creature - Giant	3	4	U	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Stone Rain	revised	179	R	2R	3	Sorcery			C	Destroy target land.
+Tunnel	revised	180	R	R	1	Instant			U	Destroy target Wall. It can't be regenerated.
+Uthden Troll	revised	181	R	2R	3	Creature - Troll	2	2	U	{R}: Regenerate Uthden Troll.
+Wall of Fire	revised	182	R	1RR	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {R}: Wall of Fire gets +1/+0 until end of turn.
+Wall of Stone	revised	183	R	1RR	3	Creature - Wall	0	8	U	Defender (This creature can't attack.)
+Wheel of Fortune	revised	184	R	2R	3	Sorcery			R	Each player discards his or her hand and draws seven cards.
+Animate Wall	revised	185	W	W	1	Enchantment - Aura			R	Enchant Wall Enchanted Wall can attack as though it didn't have defender.
+Armageddon	revised	186	W	3W	4	Sorcery			R	Destroy all lands.
+Balance	revised	187	W	1W	2	Sorcery			R	Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+Benalish Hero	revised	188	W	W	1	Creature - Human Soldier	1	1	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Black Ward	revised	189	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+Blessing	revised	190	W	WW	2	Enchantment - Aura			R	Enchant creature {W}: Enchanted creature gets +1/+1 until end of turn.
+Blue Ward	revised	191	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+Castle	revised	192	W	3W	4	Enchantment			U	Untapped creatures you control get +0/+2.
+Circle of Protection: Black	revised	193	W	1W	2	Enchantment			C	{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Blue	revised	194	W	1W	2	Enchantment			C	{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Green	revised	195	W	1W	2	Enchantment			C	{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Red	revised	196	W	1W	2	Enchantment			C	{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: White	revised	197	W	1W	2	Enchantment			C	{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+Conversion	revised	198	W	2WW	4	Enchantment			U	At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}. All Mountains are Plains.
+Crusade	revised	199	W	WW	2	Enchantment			R	White creatures get +1/+1.
+Death Ward	revised	200	W	W	1	Instant			C	Regenerate target creature.
+Disenchant	revised	201	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Eye for an Eye	revised	202	W	WW	2	Instant			R	The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
+Farmstead	revised	203	W	WWW	3	Enchantment - Aura			R	Enchant land Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+Green Ward	revised	204	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+Guardian Angel	revised	205	W	XW	1	Instant			C	Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn.
+Healing Salve	revised	206	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Holy Armor	revised	207	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +0/+2. {W}: Enchanted creature gets +0/+1 until end of turn.
+Holy Strength	revised	208	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Island Sanctuary	revised	209	W	1W	2	Enchantment			R	If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+Karma	revised	210	W	2WW	4	Enchantment			U	At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+Lance	revised	211	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has first strike.
+Mesa Pegasus	revised	212	W	1W	2	Creature - Pegasus	1	1	C	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Northern Paladin	revised	213	W	2WW	4	Creature - Human Knight	3	3	R	{W}{W}, {T}: Destroy target black permanent.
+Pearled Unicorn	revised	214	W	2W	3	Creature - Unicorn	2	2	C	
+Personal Incarnation	revised	215	W	3WWW	6	Creature - Avatar Incarnation	6	6	R	{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation. When Personal Incarnation is put into a graveyard from the battlefield, its owner loses half his or her life, rounded up.
+Purelace	revised	216	W	W	1	Instant			R	Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+Red Ward	revised	217	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+Resurrection	revised	218	W	2WW	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Reverse Damage	revised	219	W	1WW	3	Instant			R	The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+Reverse Polarity	revised	220	W	WW	2	Instant			U	You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.
+Righteousness	revised	221	W	W	1	Instant			R	Target blocking creature gets +7/+7 until end of turn.
+Samite Healer	revised	222	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Savannah Lions	revised	223	W	W	1	Creature - Cat	2	1	R	
+Serra Angel	revised	224	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Swords to Plowshares	revised	225	W	W	1	Instant			U	Exile target creature. Its controller gains life equal to its power.
+Veteran Bodyguard	revised	226	W	3WW	5	Creature - Human	2	5	R	As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+Wall of Swords	revised	227	W	3W	4	Creature - Wall	3	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+White Knight	revised	228	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+White Ward	revised	229	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from white. This effect doesn't remove White Ward.
+Wrath of God	revised	230	W	2WW	4	Sorcery			R	Destroy all creatures. They can't be regenerated.
+Aladdin's Lamp	revised	231	A	10	1	Artifact			R	{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, shuffle all but one of them, put the shuffled cards on the bottom of your library, then draw a card. X can't be 0.
+Aladdin's Ring	revised	232	A	8	8	Artifact			R	{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.
+Ankh of Mishra	revised	233	A	2	2	Artifact			R	Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+Armageddon Clock	revised	234	A	6	6	Artifact			R	At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. {4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+Basalt Monolith	revised	235	A	3	3	Artifact			U	Basalt Monolith doesn't untap during your untap step. {3}: Untap Basalt Monolith. {T}: Add {3} to your mana pool.
+Black Vise	revised	236	A	1	1	Artifact			U	As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+Bottle of Suleiman	revised	237	A	4	4	Artifact			R	{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+Brass Man	revised	238	A	1	1	Artifact Creature - Construct	1	3	U	Brass Man doesn't untap during your untap step. At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.
+Celestial Prism	revised	239	A	3	3	Artifact			U	{2}, {T}: Add one mana of any color to your mana pool.
+Clockwork Beast	revised	240	A	6	6	Artifact Creature - Beast	0	4	R	Clockwork Beast enters the battlefield with seven +1/+0 counters on it. At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it. {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+Conservator	revised	241	A	4	4	Artifact			U	{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+Crystal Rod	revised	242	A	1	1	Artifact			U	Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.
+Dancing Scimitar	revised	243	A	4	4	Artifact Creature - Spirit	1	5	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Dingus Egg	revised	244	A	4	4	Artifact			R	Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+Disrupting Scepter	revised	245	A	3	3	Artifact			R	{3}, {T}: Target player discards a card. Activate this ability only during your turn.
+Dragon Engine	revised	246	A	3	3	Artifact Creature - Construct	1	3	R	{2}: Dragon Engine gets +1/+0 until end of turn.
+Ebony Horse	revised	247	A	3	3	Artifact			R	{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Flying Carpet	revised	248	A	4	4	Artifact			R	{2}, {T}: Target creature gains flying until end of turn.
+Glasses of Urza	revised	249	A	1	1	Artifact			U	{T}: Look at target player's hand.
+Helm of Chatzuk	revised	250	A	1	1	Artifact			R	{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Howling Mine	revised	251	A	2	2	Artifact			R	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Iron Star	revised	252	A	1	1	Artifact			U	Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+Ivory Cup	revised	253	A	1	1	Artifact			U	Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+Ivory Tower	revised	254	A	1	1	Artifact			R	At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.
+Jade Monolith	revised	255	A	4	4	Artifact			R	{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+Jandor's Ring	revised	256	A	6	6	Artifact			R	{2}, {T}, Discard the last card you drew this turn: Draw a card.
+Jandor's Saddlebags	revised	257	A	2	2	Artifact			R	{3}, {T}: Untap target creature.
+Jayemdae Tome	revised	258	A	4	4	Artifact			R	{4}, {T}: Draw a card.
+Juggernaut	revised	259	A	4	4	Artifact Creature - Juggernaut	5	3	U	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Kormus Bell	revised	260	A	4	4	Artifact			R	All Swamps are 1/1 creatures that are still lands.
+Library of Leng	revised	261	A	1	1	Artifact			U	You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+Living Wall	revised	262	A	4	4	Artifact Creature - Wall	0	6	U	Defender (This creature can't attack.) {1}: Regenerate Living Wall.
+Mana Vault	revised	263	A	1	1	Artifact			R	Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. {T}: Add {3} to your mana pool.
+Meekstone	revised	264	A	1	1	Artifact			R	Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Millstone	revised	265	A	2	2	Artifact			R	{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+Mishra's War Machine	revised	266	A	7	7	Artifact Creature - Juggernaut	5	5	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) At the beginning of your upkeep, unless you discard a card, tap Mishra's War Machine and it deals 3 damage to you.
+Nevinyrral's Disk	revised	267	A	4	4	Artifact			R	Nevinyrral's Disk enters the battlefield tapped. {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+Obsianus Golem	revised	268	A	6	6	Artifact Creature - Golem	4	6	U	
+Onulet	revised	269	A	3	3	Artifact Creature - Construct	2	2	R	When Onulet is put into a graveyard from the battlefield, you gain 2 life.
+Ornithopter	revised	270	A	0	0	Artifact Creature - Thopter	0	2	U	Flying
+Primal Clay	revised	271	A	4	4	Artifact Creature - Shapeshifter	*	*	R	As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Shapeshifter Wall artifact creature with defender.
+Rocket Launcher	revised	272	A	4	4	Artifact			R	{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+Rod of Ruin	revised	273	A	4	4	Artifact			U	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Sol Ring	revised	274	A	1	1	Artifact			U	{T}: Add {2} to your mana pool.
+Soul Net	revised	275	A	1	1	Artifact			U	Whenever a creature is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.
+Sunglasses of Urza	revised	276	A	3	3	Artifact			R	You may spend white mana as though it were red mana.
+The Hive	revised	277	A	5	5	Artifact			R	{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)
+The Rack	revised	278	A	1	1	Artifact			U	As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.
+Throne of Bone	revised	279	A	1	1	Artifact			U	Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.
+Winter Orb	revised	280	A	2	2	Artifact			R	As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
+Wooden Sphere	revised	281	A	1	1	Artifact			U	Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+Badlands	revised	282	L		0	Land - Swamp Mountain			R	
+Bayou	revised	283	L		0	Land - Swamp Forest			R	
+Forest	revised	284	L		0	Basic Land - Forest			L	G
+Island	revised	287	L		0	Basic Land - Island			L	U
+Mountain	revised	290	L		0	Basic Land - Mountain			L	R
+Plains	revised	293	L		0	Basic Land - Plains			L	W
+Plateau	revised	296	L		0	Land - Mountain Plains			R	
+Savannah	revised	297	L		0	Land - Forest Plains			R	
+Scrubland	revised	298	L		0	Land - Plains Swamp			R	
+Swamp	revised	299	L		0	Basic Land - Swamp			L	B
+Taiga	revised	302	L		0	Land - Mountain Forest			R	
+Tropical Island	revised	303	L		0	Land - Forest Island			R	
+Tundra	revised	304	L		0	Land - Plains Island			R	
+Underground Sea	revised	305	L		0	Land - Island Swamp			R	
+Volcanic Island	revised	306	L		0	Land - Island Mountain			R	
+Animate Dead	unlimited	1	B	1B	2	Enchantment - Aura			U	Enchant creature card in a graveyard When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it. Enchanted creature gets -1/-0.
+Bad Moon	unlimited	2	B	1B	2	Enchantment			R	Black creatures get +1/+1.
+Black Knight	unlimited	3	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Bog Wraith	unlimited	4	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Contract from Below	unlimited	5	B	B	1	Sorcery			R	Remove Contract from Below from your deck before playing if you're not playing for ante. Discard your hand, add the top card of your library to the ante, then draw seven cards.
+Cursed Land	unlimited	6	B	2BB	4	Enchantment - Aura			U	Enchant land At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+Dark Ritual	unlimited	7	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkpact	unlimited	8	B	BBB	3	Sorcery			R	Remove Darkpact from your deck before playing if you're not playing for ante. You own target card in the ante. Exchange that card with the top card of your library.
+Deathgrip	unlimited	9	B	BB	2	Enchantment			U	{B}{B}: Counter target green spell.
+Deathlace	unlimited	10	B	B	1	Instant			R	Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+Demonic Attorney	unlimited	11	B	1BB	3	Sorcery			R	Remove Demonic Attorney from your deck before playing if you're not playing for ante. Each player antes the top card of his or her library.
+Demonic Hordes	unlimited	12	B	3BBB	6	Creature - Demon	5	5	R	{T}: Destroy target land. At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.
+Demonic Tutor	unlimited	13	B	1B	2	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Drain Life	unlimited	14	B	X1B	2	Sorcery			C	Spend only black mana on X. Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.
+Drudge Skeletons	unlimited	15	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Evil Presence	unlimited	16	B	B	1	Enchantment - Aura			U	Enchant land Enchanted land is a Swamp.
+Fear	unlimited	17	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Frozen Shade	unlimited	18	B	2B	3	Creature - Shade	0	1	C	{B}: Frozen Shade gets +1/+1 until end of turn.
+Gloom	unlimited	19	B	2B	3	Enchantment			U	White spells cost {3} more to cast. Activated abilities of white enchantments cost {3} more to activate.
+Howl from Beyond	unlimited	20	B	XB	1	Instant			C	Target creature gets +X/+0 until end of turn.
+Hypnotic Specter	unlimited	21	B	1BB	3	Creature - Specter	2	2	U	Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Lich	unlimited	22	B	BBBB	4	Enchantment			R	As Lich enters the battlefield, your life total becomes 0. You don't lose the game for having 0 or less life. If you would gain life, draw that many cards instead. Whenever you're dealt damage, sacrifice that many permanents. When Lich leaves the battlefield, you lose the game.
+Lord of the Pit	unlimited	23	B	4BBB	7	Creature - Demon	7	7	R	Flying, trample At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+Mind Twist	unlimited	24	B	XB	1	Sorcery			R	Target player discards X cards at random.
+Nether Shadow	unlimited	25	B	BB	2	Creature - Spirit	1	1	R	Haste At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+Nettling Imp	unlimited	26	B	2B	3	Creature - Imp	1	1	U	{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared.
+Nightmare	unlimited	27	B	5B	6	Creature - Nightmare Horse	*	*	R	Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+Paralyze	unlimited	28	B	B	1	Enchantment - Aura			C	Enchant creature When Paralyze enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature.
+Pestilence	unlimited	29	B	2BB	4	Enchantment			C	At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence. {B}: Pestilence deals 1 damage to each creature and each player.
+Plague Rats	unlimited	30	B	2B	3	Creature - Rat	*	*	C	Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+Raise Dead	unlimited	31	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Royal Assassin	unlimited	32	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sacrifice	unlimited	33	B	B	1	Instant			U	As an additional cost to cast Sacrifice, sacrifice a creature. Add to your mana pool an amount of black mana equal to the sacrificed creature's converted mana cost.
+Scathe Zombies	unlimited	34	B	2B	3	Creature - Zombie	2	2	C	
+Scavenging Ghoul	unlimited	35	B	3B	4	Creature - Zombie	2	2	U	At the beginning of the end step, put a corpse counter on Scavenging Ghoul for each creature put into a graveyard from the battlefield this turn. Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+Sengir Vampire	unlimited	36	B	3BB	5	Creature - Vampire	4	4	U	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Simulacrum	unlimited	37	B	1B	2	Instant			U	You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Sinkhole	unlimited	38	B	BB	2	Sorcery			C	Destroy target land.
+Terror	unlimited	39	B	1B	2	Instant			C	Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Unholy Strength	unlimited	40	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Wall of Bone	unlimited	41	B	2B	3	Creature - Skeleton Wall	1	4	U	Defender (This creature can't attack.) {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Warp Artifact	unlimited	42	B	BB	2	Enchantment - Aura			R	Enchant artifact At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+Weakness	unlimited	43	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-1.
+Will-o'-the-Wisp	unlimited	44	B	B	1	Creature - Spirit	0	1	R	Flying (This creature can't be blocked except by creatures with flying or reach.) {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Word of Command	unlimited	45	B	BB	2	Instant			R	Look at target opponent's hand and choose a card from it. That player plays that card with his or her own mana, but you make all decisions it calls for. The player is required only to spend mana in his or her mana pool and/or mana that can be produced by lands.
+Zombie Master	unlimited	46	B	1BB	3	Creature - Zombie	2	3	R	Other Zombie creatures have swampwalk. Other Zombies have "{B}: Regenerate this permanent."
+Air Elemental	unlimited	47	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Ancestral Recall	unlimited	48	U	U	1	Instant			R	Target player draws three cards.
+Animate Artifact	unlimited	49	U	3U	4	Enchantment - Aura			U	Enchant artifact As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost.
+Blue Elemental Blast	unlimited	50	U	U	1	Instant			C	Choose one - Counter target red spell; or destroy target red permanent.
+Braingeyser	unlimited	51	U	XUU	2	Sorcery			R	Target player draws X cards.
+Clone	unlimited	52	U	3U	4	Creature - Shapeshifter	0	0	U	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Control Magic	unlimited	53	U	2UU	4	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Copy Artifact	unlimited	54	U	1U	2	Enchantment			R	You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield. It's still an enchantment.
+Counterspell	unlimited	55	U	UU	2	Instant			U	Counter target spell.
+Creature Bond	unlimited	56	U	1U	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, Creature Bond deals damage equal to that creature's toughness to the creature's controller.
+Drain Power	unlimited	57	U	UU	2	Sorcery			R	Target player activates a mana ability of each land he or she controls, then empties his or her mana pool. Add mana to your mana pool equal to the type and amount emptied from that player's mana pool this way.
+Feedback	unlimited	58	U	2U	3	Enchantment - Aura			U	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+Flight	unlimited	59	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+Invisibility	unlimited	60	U	UU	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't be blocked except by Walls.
+Jump	unlimited	61	U	U	1	Instant			C	Target creature gains flying until end of turn.
+Lifetap	unlimited	62	U	UU	2	Enchantment			U	Whenever a Forest an opponent controls becomes tapped, you gain 1 life.
+Lord of Atlantis	unlimited	63	U	UU	2	Creature - Merfolk	2	2	R	Other Merfolk creatures get +1/+1 and have islandwalk.
+Magical Hack	unlimited	64	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+Mahamoti Djinn	unlimited	65	U	4UU	6	Creature - Djinn	5	6	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Mana Short	unlimited	66	U	2U	3	Instant			R	Tap all lands target player controls and empty his or her mana pool.
+Merfolk of the Pearl Trident	unlimited	67	U	U	1	Creature - Merfolk	1	1	C	
+Phantasmal Forces	unlimited	68	U	3U	4	Creature - Illusion	4	1	U	Flying At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}.
+Phantasmal Terrain	unlimited	69	U	UU	2	Enchantment - Aura			C	Enchant land As Phantasmal Terrain enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Phantom Monster	unlimited	70	U	3U	4	Creature - Illusion	3	3	U	Flying
+Pirate Ship	unlimited	71	U	4U	5	Creature - Human Pirate	4	3	R	Pirate Ship can't attack unless defending player controls an Island. {T}: Pirate Ship deals 1 damage to target creature or player. When you control no Islands, sacrifice Pirate Ship.
+Power Leak	unlimited	72	U	1U	2	Enchantment - Aura			C	Enchant enchantment At the beginning of the upkeep of enchanted enchantment's controller, that player may pay up to {2}. For each one mana less than {2} he or she pays this way, Power Leak deals 1 damage to him or her.
+Power Sink	unlimited	73	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Prodigal Sorcerer	unlimited	74	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+Psionic Blast	unlimited	75	U	2U	3	Instant			U	Psionic Blast deals 4 damage to target creature or player and 2 damage to you.
+Psychic Venom	unlimited	76	U	1U	2	Enchantment - Aura			C	Enchant land Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+Sea Serpent	unlimited	77	U	5U	6	Creature - Serpent	5	5	C	Sea Serpent can't attack unless defending player controls an Island. When you control no Islands, sacrifice Sea Serpent.
+Siren's Call	unlimited	78	U	U	1	Instant			U	Cast Siren's Call only during an opponent's turn, before attackers are declared. Creatures the active player controls attack this turn if able. At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.
+Sleight of Mind	unlimited	79	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+Spell Blast	unlimited	80	U	XU	1	Instant			C	Counter target spell with converted mana cost X.
+Stasis	unlimited	81	U	1U	2	Enchantment			R	Players skip their untap steps. At the beginning of your upkeep, sacrifice Stasis unless you pay {U}.
+Steal Artifact	unlimited	82	U	2UU	4	Enchantment - Aura			U	Enchant artifact You control enchanted artifact.
+Thoughtlace	unlimited	83	U	U	1	Instant			R	Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+Time Walk	unlimited	84	U	1U	2	Sorcery			R	Take an extra turn after this one.
+Timetwister	unlimited	85	U	2U	3	Sorcery			R	Each player shuffles his or her hand and graveyard into his or her library and then draws seven cards. (Then put Timetwister into its owner's graveyard.)
+Twiddle	unlimited	86	U	U	1	Instant			C	You may tap or untap target artifact, creature, or land.
+Unsummon	unlimited	87	U	U	1	Instant			C	Return target creature to its owner's hand.
+Vesuvan Doppelganger	unlimited	88	U	3UU	5	Creature - Shapeshifter	0	0	R	You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability."
+Volcanic Eruption	unlimited	89	U	XUUU	3	Sorcery			R	Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains destroyed this way.
+Wall of Air	unlimited	90	U	1UU	3	Creature - Wall	1	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Wall of Water	unlimited	91	U	1UU	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {U}: Wall of Water gets +1/+0 until end of turn.
+Water Elemental	unlimited	92	U	3UU	5	Creature - Elemental	5	4	U	
+Aspect of Wolf	unlimited	93	G	1G	2	Enchantment - Aura			R	Enchant creature Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+Berserk	unlimited	94	G	G	1	Instant			U	Cast Berserk only before the combat damage step. Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.
+Birds of Paradise	unlimited	95	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Camouflage	unlimited	96	G	G	1	Instant			U	Cast Camouflage only during the declare attackers step. This turn, instead of declaring blockers, the defending player chooses any number of creatures he or she controls and divides them into a number of piles equal to the number of attacking creatures. Assign each pile to a different attacking creature at random, and any creatures in that pile that can block the creature do so. (Piles can be empty.)
+Channel	unlimited	97	G	GG	2	Sorcery			U	Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.
+Cockatrice	unlimited	98	G	3GG	5	Creature - Cockatrice	2	4	R	Flying Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Craw Wurm	unlimited	99	G	4GG	6	Creature - Wurm	6	4	C	
+Elvish Archers	unlimited	100	G	1G	2	Creature - Elf Archer	2	1	R	First strike
+Fastbond	unlimited	101	G	G	1	Enchantment			R	You may play any number of additional lands on each of your turns. Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+Fog	unlimited	102	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Force of Nature	unlimited	103	G	2GGGG	6	Creature - Elemental	8	8	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.
+Fungusaur	unlimited	104	G	3G	4	Creature - Fungus Lizard	2	2	R	Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+Gaea's Liege	unlimited	105	G	3GGG	6	Creature - Avatar	*	*	R	As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls. {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+Giant Growth	unlimited	106	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	unlimited	107	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Grizzly Bears	unlimited	108	G	1G	2	Creature - Bear	2	2	C	
+Hurricane	unlimited	109	G	XG	1	Sorcery			U	Hurricane deals X damage to each creature with flying and each player.
+Ice Storm	unlimited	110	G	2G	3	Sorcery			U	Destroy target land.
+Instill Energy	unlimited	111	G	G	1	Enchantment - Aura			U	Enchant creature Enchanted creature has haste. {0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+Ironroot Treefolk	unlimited	112	G	4G	5	Creature - Treefolk	3	5	C	
+Kudzu	unlimited	113	G	1GG	3	Enchantment - Aura			R	Enchant land When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.
+Ley Druid	unlimited	114	G	2G	3	Creature - Human Druid	1	1	U	{T}: Untap target land.
+Lifeforce	unlimited	115	G	GG	2	Enchantment			U	{G}{G}: Counter target black spell.
+Lifelace	unlimited	116	G	G	1	Instant			R	Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+Living Artifact	unlimited	117	G	G	1	Enchantment - Aura			R	Enchant artifact Whenever you're dealt damage, put that many vitality counters on Living Artifact. At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+Living Lands	unlimited	118	G	3G	4	Enchantment			R	All Forests are 1/1 creatures that are still lands.
+Llanowar Elves	unlimited	119	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Lure	unlimited	120	G	1GG	3	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) All creatures able to block enchanted creature do so.
+Natural Selection	unlimited	121	G	G	1	Instant			R	Look at the top three cards of target player's library and put them back in any order. You may have that player shuffle his or her library.
+Regeneration	unlimited	122	G	1G	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Regrowth	unlimited	123	G	1G	2	Sorcery			U	Return target card from your graveyard to your hand.
+Scryb Sprites	unlimited	124	G	G	1	Creature - Faerie	1	1	C	Flying
+Shanodin Dryads	unlimited	125	G	G	1	Creature - Dryad	1	1	C	Forestwalk
+Stream of Life	unlimited	126	G	XG	1	Sorcery			C	Target player gains X life.
+Thicket Basilisk	unlimited	127	G	3GG	5	Creature - Basilisk	2	4	U	Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Timber Wolves	unlimited	128	G	G	1	Creature - Wolf	1	1	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Tranquility	unlimited	129	G	2G	3	Sorcery			C	Destroy all enchantments.
+Tsunami	unlimited	130	G	3G	4	Sorcery			U	Destroy all Islands.
+Verduran Enchantress	unlimited	131	G	1GG	3	Creature - Human Druid	0	2	R	Whenever you cast an enchantment spell, you may draw a card.
+Wall of Brambles	unlimited	132	G	2G	3	Creature - Plant Wall	2	3	U	Defender (This creature can't attack.) {G}: Regenerate Wall of Brambles.
+Wall of Ice	unlimited	133	G	2G	3	Creature - Wall	0	7	U	Defender (This creature can't attack.)
+Wall of Wood	unlimited	134	G	G	1	Creature - Wall	0	3	C	Defender (This creature can't attack.)
+Wanderlust	unlimited	135	G	2G	3	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+War Mammoth	unlimited	136	G	3G	4	Creature - Elephant	3	3	C	Trample
+Web	unlimited	137	G	G	1	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Wild Growth	unlimited	138	G	G	1	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).
+Burrowing	unlimited	139	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has mountainwalk.
+Chaoslace	unlimited	140	R	R	1	Instant			R	Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+Disintegrate	unlimited	141	R	XR	1	Sorcery			C	Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Dragon Whelp	unlimited	142	R	2RR	4	Creature - Dragon	2	3	U	Flying {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Dwarven Demolition Team	unlimited	143	R	2R	3	Creature - Dwarf	1	1	U	{T}: Destroy target Wall.
+Dwarven Warriors	unlimited	144	R	2R	3	Creature - Dwarf Warrior	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Earth Elemental	unlimited	145	R	3RR	5	Creature - Elemental	4	5	U	
+Earthbind	unlimited	146	R	R	1	Enchantment - Aura			C	Enchant creature When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+Earthquake	unlimited	147	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+False Orders	unlimited	148	R	R	1	Instant			C	Cast False Orders only during the declare blockers step. Remove target creature defending player controls from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked. You may have it block an attacking creature of your choice.
+Fire Elemental	unlimited	149	R	3RR	5	Creature - Elemental	5	4	U	
+Fireball	unlimited	150	R	XR	1	Sorcery			C	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Firebreathing	unlimited	151	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Flashfires	unlimited	152	R	3R	4	Sorcery			U	Destroy all Plains.
+Fork	unlimited	153	R	RR	2	Instant			R	Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+Goblin Balloon Brigade	unlimited	154	R	R	1	Creature - Goblin Warrior	1	1	U	{R}: Goblin Balloon Brigade gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Goblin King	unlimited	155	R	1RR	3	Creature - Goblin	2	2	R	Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+Granite Gargoyle	unlimited	156	R	2R	3	Creature - Gargoyle	2	2	R	Flying {R}: Granite Gargoyle gets +0/+1 until end of turn.
+Gray Ogre	unlimited	157	R	2R	3	Creature - Ogre	2	2	C	
+Hill Giant	unlimited	158	R	3R	4	Creature - Giant	3	3	C	
+Hurloon Minotaur	unlimited	159	R	1RR	3	Creature - Minotaur	2	3	C	
+Ironclaw Orcs	unlimited	160	R	1R	2	Creature - Orc	2	2	C	Ironclaw Orcs can't block creatures with power 2 or greater.
+Keldon Warlord	unlimited	161	R	2RR	4	Creature - Human Barbarian	*	*	U	Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+Lightning Bolt	unlimited	162	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Mana Flare	unlimited	163	R	2R	3	Enchantment			R	Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Manabarbs	unlimited	164	R	3R	4	Enchantment			R	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Mons's Goblin Raiders	unlimited	165	R	R	1	Creature - Goblin	1	1	C	
+Orcish Artillery	unlimited	166	R	1RR	3	Creature - Orc Warrior	1	3	U	{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Orcish Oriflamme	unlimited	167	R	3R	4	Enchantment			U	Attacking creatures you control get +1/+0.
+Power Surge	unlimited	168	R	RR	2	Enchantment			R	At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+Raging River	unlimited	169	R	RR	2	Enchantment			R	Whenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.
+Red Elemental Blast	unlimited	170	R	R	1	Instant			C	Choose one - Counter target blue spell; or destroy target blue permanent.
+Roc of Kher Ridges	unlimited	171	R	3R	4	Creature - Bird	3	3	R	Flying
+Rock Hydra	unlimited	172	R	XRR	2	Creature - Hydra	0	0	R	Rock Hydra enters the battlefield with X +1/+1 counters on it. For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage. {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn. {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+Sedge Troll	unlimited	173	R	2R	3	Creature - Troll	2	2	R	Sedge Troll gets +1/+1 as long as you control a Swamp. {B}: Regenerate Sedge Troll.
+Shatter	unlimited	174	R	1R	2	Instant			C	Destroy target artifact.
+Shivan Dragon	unlimited	175	R	4RR	6	Creature - Dragon	5	5	R	Flying {R}: Shivan Dragon gets +1/+0 until end of turn.
+Smoke	unlimited	176	R	RR	2	Enchantment			R	Players can't untap more than one creature during their untap steps.
+Stone Giant	unlimited	177	R	2RR	4	Creature - Giant	3	4	U	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Stone Rain	unlimited	178	R	2R	3	Sorcery			C	Destroy target land.
+Tunnel	unlimited	179	R	R	1	Instant			U	Destroy target Wall. It can't be regenerated.
+Two-Headed Giant of Foriys	unlimited	180	R	4R	5	Creature - Giant	4	4	R	Trample Two-Headed Giant of Foriys can block an additional creature.
+Uthden Troll	unlimited	181	R	2R	3	Creature - Troll	2	2	U	{R}: Regenerate Uthden Troll.
+Wall of Fire	unlimited	182	R	1RR	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {R}: Wall of Fire gets +1/+0 until end of turn.
+Wall of Stone	unlimited	183	R	1RR	3	Creature - Wall	0	8	U	Defender (This creature can't attack.)
+Wheel of Fortune	unlimited	184	R	2R	3	Sorcery			R	Each player discards his or her hand and draws seven cards.
+Animate Wall	unlimited	185	W	W	1	Enchantment - Aura			R	Enchant Wall Enchanted Wall can attack as though it didn't have defender.
+Armageddon	unlimited	186	W	3W	4	Sorcery			R	Destroy all lands.
+Balance	unlimited	187	W	1W	2	Sorcery			R	Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+Benalish Hero	unlimited	188	W	W	1	Creature - Human Soldier	1	1	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Black Ward	unlimited	189	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+Blaze of Glory	unlimited	190	W	W	1	Instant			R	Target creature can block any number of creatures this turn. It must block each attacking creature this turn if able.
+Blessing	unlimited	191	W	WW	2	Enchantment - Aura			R	Enchant creature {W}: Enchanted creature gets +1/+1 until end of turn.
+Blue Ward	unlimited	192	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+Castle	unlimited	193	W	3W	4	Enchantment			U	Untapped creatures you control get +0/+2.
+Circle of Protection: Black	unlimited	194	W	1W	2	Enchantment			C	{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Blue	unlimited	195	W	1W	2	Enchantment			C	{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Green	unlimited	196	W	1W	2	Enchantment			C	{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Red	unlimited	197	W	1W	2	Enchantment			C	{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: White	unlimited	198	W	1W	2	Enchantment			C	{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+Consecrate Land	unlimited	199	W	W	1	Enchantment - Aura			U	Enchant land Enchanted land is indestructible and can't be enchanted by other Auras.
+Conversion	unlimited	200	W	2WW	4	Enchantment			U	At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}. All Mountains are Plains.
+Crusade	unlimited	201	W	WW	2	Enchantment			R	White creatures get +1/+1.
+Death Ward	unlimited	202	W	W	1	Instant			C	Regenerate target creature.
+Disenchant	unlimited	203	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Farmstead	unlimited	204	W	WWW	3	Enchantment - Aura			R	Enchant land Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."
+Green Ward	unlimited	205	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+Guardian Angel	unlimited	206	W	XW	1	Instant			C	Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn.
+Healing Salve	unlimited	207	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Holy Armor	unlimited	208	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +0/+2. {W}: Enchanted creature gets +0/+1 until end of turn.
+Holy Strength	unlimited	209	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Island Sanctuary	unlimited	210	W	1W	2	Enchantment			R	If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+Karma	unlimited	211	W	2WW	4	Enchantment			U	At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls.
+Lance	unlimited	212	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has first strike.
+Mesa Pegasus	unlimited	213	W	1W	2	Creature - Pegasus	1	1	C	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Northern Paladin	unlimited	214	W	2WW	4	Creature - Human Knight	3	3	R	{W}{W}, {T}: Destroy target black permanent.
+Pearled Unicorn	unlimited	215	W	2W	3	Creature - Unicorn	2	2	C	
+Personal Incarnation	unlimited	216	W	3WWW	6	Creature - Avatar Incarnation	6	6	R	{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation. When Personal Incarnation is put into a graveyard from the battlefield, its owner loses half his or her life, rounded up.
+Purelace	unlimited	217	W	W	1	Instant			R	Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+Red Ward	unlimited	218	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+Resurrection	unlimited	219	W	2WW	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Reverse Damage	unlimited	220	W	1WW	3	Instant			R	The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+Righteousness	unlimited	221	W	W	1	Instant			R	Target blocking creature gets +7/+7 until end of turn.
+Samite Healer	unlimited	222	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Savannah Lions	unlimited	223	W	W	1	Creature - Cat	2	1	R	
+Serra Angel	unlimited	224	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Swords to Plowshares	unlimited	225	W	W	1	Instant			U	Exile target creature. Its controller gains life equal to its power.
+Veteran Bodyguard	unlimited	226	W	3WW	5	Creature - Human	2	5	R	As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+Wall of Swords	unlimited	227	W	3W	4	Creature - Wall	3	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+White Knight	unlimited	228	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+White Ward	unlimited	229	W	W	1	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from white. This effect doesn't remove White Ward.
+Wrath of God	unlimited	230	W	2WW	4	Sorcery			R	Destroy all creatures. They can't be regenerated.
+Ankh of Mishra	unlimited	231	A	2	2	Artifact			R	Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+Basalt Monolith	unlimited	232	A	3	3	Artifact			U	Basalt Monolith doesn't untap during your untap step. {3}: Untap Basalt Monolith. {T}: Add {3} to your mana pool.
+Black Lotus	unlimited	233	A	0	0	Artifact			R	{T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool.
+Black Vise	unlimited	234	A	1	1	Artifact			U	As Black Vise enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+Celestial Prism	unlimited	235	A	3	3	Artifact			U	{2}, {T}: Add one mana of any color to your mana pool.
+Chaos Orb	unlimited	236	A	2	2	Artifact			R	{1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all permanents it touches. Then destroy Chaos Orb.
+Clockwork Beast	unlimited	237	A	6	6	Artifact Creature - Beast	0	4	R	Clockwork Beast enters the battlefield with seven +1/+0 counters on it. At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it. {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.
+Conservator	unlimited	238	A	4	4	Artifact			U	{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn.
+Copper Tablet	unlimited	239	A	2	2	Artifact			U	At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.
+Crystal Rod	unlimited	240	A	1	1	Artifact			U	Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life.
+Cyclopean Tomb	unlimited	241	A	4	4	Artifact			R	{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep. When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
+Dingus Egg	unlimited	242	A	4	4	Artifact			R	Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+Disrupting Scepter	unlimited	243	A	3	3	Artifact			R	{3}, {T}: Target player discards a card. Activate this ability only during your turn.
+Forcefield	unlimited	244	A	3	3	Artifact			R	{1}: The next time target unblocked creature would deal combat damage to you this turn, prevent all but 1 of that damage.
+Gauntlet of Might	unlimited	245	A	4	4	Artifact			R	Red creatures get +1/+1. Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).
+Glasses of Urza	unlimited	246	A	1	1	Artifact			U	{T}: Look at target player's hand.
+Helm of Chatzuk	unlimited	247	A	1	1	Artifact			R	{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Howling Mine	unlimited	248	A	2	2	Artifact			R	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Icy Manipulator	unlimited	249	A	4	4	Artifact			U	{1}, {T}: Tap target artifact, creature, or land.
+Illusionary Mask	unlimited	250	A	2	2	Artifact			R	{X}: You may put a creature card with converted mana cost X or less from your hand onto the battlefield face down as a 0/1 creature. Put X mask counters on that creature. Activate this ability only any time you could cast a sorcery. The creature's controller may turn the creature face up any time he or she could cast an instant by removing all mask counters from it. This effect ends if the creature is turned face up.
+Iron Star	unlimited	251	A	1	1	Artifact			U	Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life.
+Ivory Cup	unlimited	252	A	1	1	Artifact			U	Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+Jade Monolith	unlimited	253	A	4	4	Artifact			R	{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+Jade Statue	unlimited	254	A	4	4	Artifact			U	{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.
+Jayemdae Tome	unlimited	255	A	4	4	Artifact			R	{4}, {T}: Draw a card.
+Juggernaut	unlimited	256	A	4	4	Artifact Creature - Juggernaut	5	3	U	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Kormus Bell	unlimited	257	A	4	4	Artifact			R	All Swamps are 1/1 creatures that are still lands.
+Library of Leng	unlimited	258	A	1	1	Artifact			U	You have no maximum hand size. If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+Living Wall	unlimited	259	A	4	4	Artifact Creature - Wall	0	6	U	Defender (This creature can't attack.) {1}: Regenerate Living Wall.
+Mana Vault	unlimited	260	A	1	1	Artifact			R	Mana Vault doesn't untap during your untap step. At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault. At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you. {T}: Add {3} to your mana pool.
+Meekstone	unlimited	261	A	1	1	Artifact			R	Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Mox Emerald	unlimited	262	A	0	0	Artifact			R	{T}: Add {G} to your mana pool.
+Mox Jet	unlimited	263	A	0	0	Artifact			R	{T}: Add {B} to your mana pool.
+Mox Pearl	unlimited	264	A	0	0	Artifact			R	{T}: Add {W} to your mana pool.
+Mox Ruby	unlimited	265	A	0	0	Artifact			R	{T}: Add {R} to your mana pool.
+Mox Sapphire	unlimited	266	A	0	0	Artifact			R	{T}: Add {U} to your mana pool.
+Nevinyrral's Disk	unlimited	267	A	4	4	Artifact			R	Nevinyrral's Disk enters the battlefield tapped. {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+Obsianus Golem	unlimited	268	A	6	6	Artifact Creature - Golem	4	6	U	
+Rod of Ruin	unlimited	269	A	4	4	Artifact			U	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Sol Ring	unlimited	270	A	1	1	Artifact			U	{T}: Add {2} to your mana pool.
+Soul Net	unlimited	271	A	1	1	Artifact			U	Whenever a creature is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.
+Sunglasses of Urza	unlimited	272	A	3	3	Artifact			R	You may spend white mana as though it were red mana.
+The Hive	unlimited	273	A	5	5	Artifact			R	{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)
+Throne of Bone	unlimited	274	A	1	1	Artifact			U	Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life.
+Time Vault	unlimited	275	A	2	2	Artifact			R	Time Vault enters the battlefield tapped. Time Vault doesn't untap during your untap step. If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault. {T}: Take an extra turn after this one.
+Winter Orb	unlimited	276	A	2	2	Artifact			R	As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
+Wooden Sphere	unlimited	277	A	1	1	Artifact			U	Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life.
+Badlands	unlimited	278	L		0	Land - Swamp Mountain			R	
+Bayou	unlimited	279	L		0	Land - Swamp Forest			R	
+Forest	unlimited	280	L		0	Basic Land - Forest			L	G
+Island	unlimited	283	L		0	Basic Land - Island			L	U
+Mountain	unlimited	286	L		0	Basic Land - Mountain			L	R
+Plains	unlimited	289	L		0	Basic Land - Plains			L	W
+Plateau	unlimited	292	L		0	Land - Mountain Plains			R	
+Savannah	unlimited	293	L		0	Land - Forest Plains			R	
+Scrubland	unlimited	294	L		0	Land - Plains Swamp			R	
+Swamp	unlimited	295	L		0	Basic Land - Swamp			L	B
+Taiga	unlimited	298	L		0	Land - Mountain Forest			R	
+Tropical Island	unlimited	299	L		0	Land - Forest Island			R	
+Tundra	unlimited	300	L		0	Land - Plains Island			R
+Underground Sea	unlimited	301	L		0	Land - Island Swamp			R
+Volcanic Island	unlimited	302	L		0	Land - Island Mountain			R

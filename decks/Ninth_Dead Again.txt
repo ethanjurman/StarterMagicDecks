@@ -1,0 +1,19 @@
+17	swamp
+1	drudge skeletons
+2	foul imp
+2	serpent warrior
+1	deathgazer
+2	gravedigger
+2	highway robber
+1	nekrataal
+2	hollow dogs
+1	nightmare
+1	phyrexian gargantua
+1	raise dead
+1	unholy strength
+1	contaminated bond
+1	dark banishing
+1	underworld dreams
+1	consume spirit
+1	tanglebloom
+1	demon's horn

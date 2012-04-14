@@ -1,0 +1,22 @@
+20	plains
+3	benevolent bodyguard
+1	dedicated martyr
+2	mystic penitent
+2	spurnmage advocate
+4	suntail hawk
+1	tireless tribe
+2	beloved chaplain
+3	patrol hound
+2	nomad decoy
+1	shieldmage advocate
+3	militant monk
+2	aven cloudchaser
+1	valor
+1	commander eesha
+1	selfless exorcist
+3	guided strike
+2	shelter
+1	embolden
+1	prismatic strands
+2	unquestioned authority
+2	battle screech

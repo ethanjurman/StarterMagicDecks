@@ -1,0 +1,42 @@
+1	ancient den
+1	forest
+1	great furnace
+8	island
+2	mountain
+3	plains
+2	seat of the synod
+3	swamp
+1	tree of tales
+1	vault of whispers
+1	arcbound crusher
+1	arcbound slith
+1	arsenal thresher
+1	bosh, iron golem
+1	broodstar
+1	copper myr
+2	etched oracle
+1	gold myr
+1	iron myr
+1	leaden myr
+1	lodestone myr
+1	master of etherium
+2	myr enforcer
+1	pentavus
+1	qumulox
+1	sarcomite myr
+1	silver myr
+1	sludge strider
+1	suntouched myr
+1	vedalken engineer
+1	wizard replica
+1	cranial plating
+1	darksteel forge
+1	door to nothingness
+1	fabricate
+1	keep watch
+1	loxodon warhammer
+1	nuisance engine
+2	pentad prism
+1	serum tank
+2	skeleton shard
+1	thirst for knowledge

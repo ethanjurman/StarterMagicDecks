@@ -1,0 +1,27 @@
+14	plains
+10	island
+1	crossbow infantry
+1	sword dancer
+1	defiant vanguard
+2	glittering lion
+2	mine bearer
+3	shield dancer
+1	chieftain en-dal
+2	diving griffin
+1	reveille squad
+2	trap runner
+1	mageta the lion
+3	spiketail hatchling
+2	waterfront bouncer
+1	stronghold machinist
+3	ribbon snake
+1	disenchant
+1	rhystic shield
+1	seal of cleansing
+1	topple
+1	rhystic circle
+1	daze
+1	rethink
+1	rhystic study
+1	foil
+1	heightened awareness

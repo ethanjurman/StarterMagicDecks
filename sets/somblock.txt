@@ -1,0 +1,555 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Abuna Acolyte	som	1	W	1W	2	Creature - Cat Cleric	1	1	U	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. {T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.
+Arrest	som	2	W	2W	3	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Auriok Edgewright	som	3	W	WW	2	Creature - Human Soldier	2	2	U	Metalcraft - Auriok Edgewright has double strike as long as you control three or more artifacts.
+Auriok Sunchaser	som	4	W	1W	2	Creature - Human Soldier	1	1	C	Metalcraft - As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.
+Dispense Justice	som	5	W	2W	3	Instant			U	Target player sacrifices an attacking creature. Metalcraft - That player sacrifices two attacking creatures instead if you control three or more artifacts.
+Elspeth Tirel	som	6	W	3WW	5	Planeswalker - Elspeth	4		M	+2: You gain 1 life for each creature you control. -2: Put three 1/1 white Soldier creature tokens onto the battlefield. -5: Destroy all other permanents except for lands and tokens.
+Fulgent Distraction	som	7	W	2W	3	Instant			C	Choose two target creatures. Tap those creatures, then unattach all Equipment from them.
+Ghalma's Warden	som	8	W	3W	4	Creature - Elephant Soldier	2	4	C	Metalcraft - Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.
+Glimmerpoint Stag	som	9	W	2WW	4	Creature - Elk	3	3	U	Vigilance When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Glint Hawk	som	10	W	W	1	Creature - Bird	2	2	C	Flying When Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.
+Indomitable Archangel	som	11	W	2WW	4	Creature - Angel	4	4	M	Flying Metalcraft - Artifacts you control have shroud as long as you control three or more artifacts.
+Kemba, Kha Regent	som	12	W	1WW	3	Legendary Creature - Cat Cleric	2	4	R	At the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.
+Kemba's Skyguard	som	13	W	1WW	3	Creature - Cat Knight	2	2	C	Flying When Kemba's Skyguard enters the battlefield, you gain 2 life.
+Leonin Arbiter	som	14	W	1W	2	Creature - Cat Cleric	2	2	R	Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.
+Loxodon Wayfarer	som	15	W	2W	3	Creature - Elephant Monk	1	5	C	
+Myrsmith	som	16	W	1W	2	Creature - Human Artificer	2	1	U	Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+Razor Hippogriff	som	17	W	3WW	5	Creature - Hippogriff	3	3	U	Flying When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.
+Revoke Existence	som	18	W	1W	2	Sorcery			C	Exile target artifact or enchantment.
+Salvage Scout	som	19	W	W	1	Creature - Human Scout	1	1	C	{W}, Sacrifice Salvage Scout: Return target artifact card from your graveyard to your hand.
+Seize the Initiative	som	20	W	W	1	Instant			C	Target creature gets +1/+1 and gains first strike until end of turn.
+Soul Parry	som	21	W	1W	2	Instant			C	Prevent all damage one or two target creatures would deal this turn.
+Sunblast Angel	som	22	W	4WW	6	Creature - Angel	4	5	R	Flying When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+Sunspear Shikari	som	23	W	1W	2	Creature - Cat Soldier	2	2	C	As long as Sunspear Shikari is equipped, it has first strike and lifelink.
+Tempered Steel	som	24	W	1WW	3	Enchantment			R	Artifact creatures you control get +2/+2.
+True Conviction	som	25	W	3WWW	6	Enchantment			R	Creatures you control have double strike and lifelink.
+Vigil for the Lost	som	26	W	3W	4	Enchantment			U	Whenever a creature you control is put into a graveyard from the battlefield, you may pay {X}. If you do, you gain X life.
+Whitesun's Passage	som	27	W	1W	2	Instant			C	You gain 5 life.
+Argent Sphinx	som	28	U	2UU	4	Creature - Sphinx	4	3	R	Flying Metalcraft - {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.
+Bonds of Quicksilver	som	29	U	3U	4	Enchantment - Aura			C	Flash (You may cast this spell any time you could cast an instant.) Enchant creature Enchanted creature doesn't untap during its controller's untap step.
+Darkslick Drake	som	30	U	2UU	4	Creature - Drake	2	4	U	Flying When Darkslick Drake is put into a graveyard from the battlefield, draw a card.
+Disperse	som	31	U	1U	2	Instant			C	Return target nonland permanent to its owner's hand.
+Dissipation Field	som	32	U	2UU	4	Enchantment			R	Whenever a permanent deals damage to you, return it to its owner's hand.
+Grand Architect	som	33	U	1UU	3	Creature - Vedalken Artificer	1	3	R	Other blue creatures you control get +1/+1. {U}: Target artifact creature becomes blue until end of turn. Tap an untapped blue creature you control: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Halt Order	som	34	U	2U	3	Instant			U	Counter target artifact spell. Draw a card.
+Inexorable Tide	som	35	U	3UU	5	Enchantment			R	Whenever you cast a spell, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Lumengrid Drake	som	36	U	3U	4	Creature - Drake	2	2	C	Flying Metalcraft - When Lumengrid Drake enters the battlefield, if you control three or more artifacts, return target creature to its owner's hand.
+Neurok Invisimancer	som	37	U	1UU	3	Creature - Human Wizard	2	1	C	Neurok Invisimancer is unblockable. When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.
+Plated Seastrider	som	38	U	UU	2	Creature - Beast	1	4	C	
+Quicksilver Gargantuan	som	39	U	5UU	7	Creature - Shapeshifter	7	7	M	You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.
+Riddlesmith	som	40	U	1U	2	Creature - Human Artificer	2	1	U	Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.
+Scrapdiver Serpent	som	41	U	5UU	7	Creature - Serpent	5	5	C	Scrapdiver Serpent is unblockable as long as defending player controls an artifact.
+Screeching Silcaw	som	42	U	1U	2	Creature - Bird	1	2	C	Flying Metalcraft - Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.
+Shape Anew	som	43	U	3U	4	Sorcery			R	The controller of target artifact sacrifices it, then reveals cards from the top of his or her library until he or she reveals an artifact card. That player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.
+Sky-Eel School	som	44	U	3UU	5	Creature - Fish	3	3	C	Flying When Sky-Eel School enters the battlefield, draw a card, then discard a card.
+Steady Progress	som	45	U	2U	3	Instant			C	Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.) Draw a card.
+Stoic Rebuttal	som	46	U	1UU	3	Instant			C	Metalcraft - Stoic Rebuttal costs {1} less to cast if you control three or more artifacts. Counter target spell.
+Thrummingbird	som	47	U	1U	2	Creature - Bird Horror	1	1	U	Flying Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Trinket Mage	som	48	U	2U	3	Creature - Human Wizard	2	2	U	When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+Turn Aside	som	49	U	U	1	Instant			C	Counter target spell that targets a permanent you control.
+Twisted Image	som	50	U	U	1	Instant			U	Switch target creature's power and toughness until end of turn. Draw a card.
+Vault Skyward	som	51	U	U	1	Instant			C	Target creature gains flying until end of turn. Untap it.
+Vedalken Certarch	som	52	U	U	1	Creature - Vedalken Wizard	1	1	C	Metalcraft - {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.
+Volition Reins	som	53	U	3UUU	6	Enchantment			U	Enchant permanent When Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it. You control enchanted permanent.
+Blackcleave Goblin	som	54	B	3B	4	Creature - Goblin Zombie	2	1	C	Haste Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Bleak Coven Vampires	som	55	B	3BB	5	Creature - Vampire Warrior	4	3	C	Metalcraft - When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.
+Blistergrub	som	56	B	2B	3	Creature - Horror	2	2	C	Swampwalk When Blistergrub is put into a graveyard from the battlefield, each opponent loses 2 life.
+Carnifex Demon	som	57	B	4BB	6	Creature - Demon	6	6	R	Flying Carnifex Demon enters the battlefield with two -1/-1 counters on it. {B}, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on each other creature.
+Contagious Nim	som	58	B	2B	3	Creature - Zombie	2	2	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Corrupted Harvester	som	59	B	4BB	6	Creature - Horror	6	3	U	{B}, Sacrifice a creature: Regenerate Corrupted Harvester.
+Dross Hopper	som	60	B	1B	2	Creature - Insect Horror	2	1	C	Sacrifice a creature: Dross Hopper gains flying until end of turn.
+Exsanguinate	som	61	B	XBB	2	Sorcery			U	Each opponent loses X life. You gain life equal to the life lost this way.
+Flesh Allergy	som	62	B	2BB	4	Sorcery			U	As an additional cost to cast Flesh Allergy, sacrifice a creature. Destroy target creature. Its controller loses life equal to the number of creatures put into all graveyards from the battlefield this turn.
+Fume Spitter	som	63	B	B	1	Creature - Horror	1	1	C	Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.
+Geth, Lord of the Vault	som	64	B	4BB	6	Legendary Creature - Zombie	5	5	M	Intimidate {X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.
+Grasp of Darkness	som	65	B	BB	2	Instant			C	Target creature gets -4/-4 until end of turn.
+Hand of the Praetors	som	66	B	3B	4	Creature - Zombie	3	2	R	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Other creatures you control with infect get +1/+1. Whenever you cast a creature spell with infect, target player gets a poison counter.
+Ichor Rats	som	67	B	1BB	3	Creature - Rat	2	1	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) When Ichor Rats enters the battlefield, each player gets a poison counter.
+Instill Infection	som	68	B	3B	4	Instant			C	Put a -1/-1 counter on target creature. Draw a card.
+Memoricide	som	69	B	3B	4	Sorcery			R	Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.
+Moriok Reaver	som	70	B	2B	3	Creature - Human Warrior	3	2	C	
+Necrogen Scudder	som	71	B	2B	3	Creature - Horror	3	3	U	Flying When Necrogen Scudder enters the battlefield, you lose 3 life.
+Necrotic Ooze	som	72	B	2BB	4	Creature - Ooze	4	3	R	As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.
+Painful Quandary	som	73	B	3BB	5	Enchantment			R	Whenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.
+Painsmith	som	74	B	1B	2	Creature - Human Artificer	2	1	U	Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.
+Plague Stinger	som	75	B	1B	2	Creature - Insect Horror	1	1	C	Flying Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Psychic Miasma	som	76	B	1B	2	Sorcery			C	Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.
+Relic Putrescence	som	77	B	2B	3	Enchantment - Aura			C	Enchant artifact Whenever enchanted artifact becomes tapped, its controller gets a poison counter.
+Skinrender	som	78	B	2BB	4	Creature - Zombie	3	3	U	When Skinrender enters the battlefield, put three -1/-1 counters on target creature.
+Skithiryx, the Blight Dragon	som	79	B	3BB	5	Legendary Creature - Dragon Skeleton	4	4	M	Flying Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {B}: Skithiryx, the Blight Dragon gains haste until end of turn. {B}{B}: Regenerate Skithiryx.
+Tainted Strike	som	80	B	B	1	Instant			C	Target creature gets +1/+0 and gains infect until end of turn. (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Arc Trail	som	81	R	1R	2	Sorcery			U	Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+Assault Strobe	som	82	R	R	1	Sorcery			C	Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Barrage Ogre	som	83	R	3RR	5	Creature - Ogre Warrior	3	3	U	{T}, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.
+Blade-Tribe Berserkers	som	84	R	3R	4	Creature - Human Berserker	3	3	C	Metalcraft - When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.
+Bloodshot Trainee	som	85	R	3R	4	Creature - Goblin Warrior	2	3	U	{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.
+Cerebral Eruption	som	86	R	2RR	4	Sorcery			R	Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.
+Embersmith	som	87	R	1R	2	Creature - Human Artificer	2	1	U	Whenever you cast an artifact spell, you may pay {1}. If you do, Embersmith deals 1 damage to target creature or player.
+Ferrovore	som	88	R	2R	3	Creatures - Beast	2	2	C	{R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.
+Flameborn Hellion	som	89	R	5R	6	Creature - Hellion	5	4	C	Haste Flameborn Hellion attacks each turn if able.
+Furnace Celebration	som	90	R	1RR	3	Enchantment			U	Whenever you sacrifice another permanent, you may pay {2}. If you do, Furnace Celebration deals 2 damage to target creature or player.
+Galvanic Blast	som	91	R	R	1	Instant			C	Galvanic Blast deals 2 damage to target creature or player. Metalcraft - Galvanic Blast deals 4 damage to that creature or player instead if you control three or more artifacts.
+Goblin Gaveleer	som	92	R	R	1	Creature - Goblin Warrior	1	1	C	Trample Goblin Gaveleer gets +2/+0 for each Equipment attached to it.
+Hoard-Smelter Dragon	som	93	R	4RR	6	Creature - Dragon	5	5	R	Flying {3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
+Koth of the Hammer	som	94	R	2RR	4	Planeswalker - Koth	3		M	+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land. -2: Add {R} to your mana pool for each Mountain you control. -5: You get an emblem with "Mountains you control have '{T}: This land deals 1 damage to target creature or player.'"
+Kuldotha Phoenix	som	95	R	2RRR	5	Creature - Phoenix	4	4	R	Flying, haste Metalcraft - {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.
+Kuldotha Rebirth	som	96	R	R	1	Sorcery			C	As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact. Put three 1/1 red Goblin creature tokens onto the battlefield.
+Melt Terrain	som	97	R	2RR	4	Sorcery			C	Destroy target land. Melt Terrain deals 2 damage to that land's controller.
+Molten Psyche	som	98	R	1RR	3	Sorcery			R	Each player shuffles the cards from his or her hand into his or her library, then draws that many cards. Metalcraft - If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.
+Ogre Geargrabber	som	99	R	4RR	6	Creature - Ogre Warrior	4	4	U	Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.
+Oxidda Daredevil	som	100	R	1R	2	Creature - Goblin Artificer	2	1	C	Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.
+Oxidda Scrapmelter	som	101	R	3R	4	Creature - Beast	3	3	U	When Oxidda Scrapmelter enters the battlefield, destroy target artifact.
+Scoria Elemental	som	102	R	4R	5	Creature - Elemental	6	1	C	
+Shatter	som	103	R	1R	2	Instant			C	Destroy target artifact.
+Spikeshot Elder	som	104	R	R	1	Creature - Goblin Shaman	1	1	R	{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.
+Tunnel Ignus	som	105	R	1R	2	Creature - Elemental	2	1	R	Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.
+Turn to Slag	som	106	R	3RR	5	Sorcery			C	Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.
+Vulshok Heartstoker	som	107	R	3R	3	Creature - Human Artificer	2	2	C	When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.
+Acid Web Spider	som	108	G	3GG	5	Creature - Spider	3	5	U	Reach When Acid Web Spider enters the battlefield, you may destroy target Equipment.
+Alpha Tyrranax	som	109	G	4GG	6	Creature - Beast	6	5	C	
+Asceticism	som	110	G	3GG	5	Enchantment			R	Creatures you control can't be the targets of spells or abilities your opponents control. {1}{G}: Regenerate target creature.
+Bellowing Tanglewurm	som	111	G	3GG	5	Creature - Wurm	4	4	U	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Other green creatures you control have intimidate.
+Blight Mamba	som	112	G	1G	2	Creature - Snake	1	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {1}{G}: Regenerate Blight Mamba.
+Blunt the Assault	som	113	G	3G	4	Instant			C	You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.
+Carapace Forger	som	114	G	1G	2	Creature - Elf Artificer	2	2	C	Metalcraft - Carapace Forger gets +2/+2 as long as you control three or more artifacts.
+Carrion Call	som	115	G	3G	4	Instant			U	Put two 1/1 green Insect creature tokens with infect onto the battlefield. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Copperhorn Scout	som	116	G	G	1	Creature - Elf Scout	1	1	C	Whenever Copperhorn Scout attacks, untap each other creature you control.
+Cystbearer	som	117	G	2G	3	Creature - Beast	2	3	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Engulfing Slagwurm	som	118	G	5GG	7	Creature - Wurm	7	7	R	Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.
+Ezuri, Renegade Leader	som	119	G	1GG	3	Legendary Creature - Elf Warrior	2	2	R	{G}: Regenerate another target Elf. {2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.
+Ezuri's Archers	som	120	G	G	1	Creature - Elf Archer	1	2	C	Reach (This creature can block creatures with flying.) Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.
+Ezuri's Brigade	som	121	G	2GG	4	Creature - Elf Warrior	4	4	R	Metalcraft - As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.
+Genesis Wave	som	122	G	XGGG	3	Sorcery			R	Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.
+Liege of the Tangle	som	123	G	6GG	8	Creature - Elemental	8	8	M	Trample Whenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.
+Lifesmith	som	124	G	1G	2	Creature - Human Artificer	2	1	U	Whenever you cast an artifact spell, you may pay {1}. If you do, you gain 3 life.
+Molder Beast	som	125	G	4G	5	Creature - Beast	5	3	C	Trample Whenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.
+Putrefax	som	126	G	3GG	5	Creature - Horror	5	3	R	Trample, haste Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) At the beginning of the end step, sacrifice Putrefax.
+Slice in Twain	som	127	G	2GG	4	Instant			U	Destroy target artifact or enchantment. Draw a card.
+Tangle Angler	som	128	G	3GG	4	Creature - Horror	1	5	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {G}: Target creature blocks Tangle Angler this turn if able.
+Tel-Jilad Defiance	som	129	G	1G	2	Instant			C	Target creature gains protection from artifacts until end of turn. Draw a card.
+Tel-Jilad Fallen	som	130	G	2GG	4	Creature - Elf Warrior	3	1	C	Protection from artifacts Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Untamed Might	som	131	G	XG	1	Instant			C	Target creature gets +X/+X until end of turn.
+Viridian Revel	som	132	G	1GG	3	Enchantment			U	Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.
+Wing Puncture	som	133	G	G	1	Instant			C	Target creature you control deals damage equal to its power to target creature with flying.
+Withstand Death	som	134	G	G	1	Instant			C	Target creature is indestructible this turn. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Venser, the Sojourner	som	135	WU	3WU	5	Planeswalker - Venser	3		M	+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step. -1: Creatures are unblockable this turn. -8: You get an emblem with "Whenever you cast a spell, exile target permanent."
+Accorder's Shield	som	136	A	0	0	Artifact - Equipment			C	Equipped creature gets +0/+3 and has vigilance. Equip {3}
+Argentum Armor	som	137	A	6	6	Artifact - Equipment			R	Equipped creature gets +6/+6. Whenever equipped creature attacks, destroy target permanent. Equip {6}
+Auriok Replica	som	138	A	3	3	Artifact Creature - Cleric	2	2	C	{W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.
+Barbed Battlegear	som	139	A	3	3	Artifact - Equipment			U	Equipped creature gets +4/-1. Equip {2}
+Bladed Pinions	som	140	A	2	2	Artifact - Equipment			C	Equipped creature has flying and first strike. Equip {2}
+Chimeric Mass	som	141	A	X	0	Artifact			R	Chimeric Mass enters the battlefield with X charge counters on it. {1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."
+Chrome Steed	som	142	A	4	4	Artifact Creature - Horse	2	2	C	Metalcraft - Chrome Steed gets +2/+2 as long as you control three or more artifacts.
+Clone Shell	som	143	A	5	5	Artifact Creature - Shapeshifter	2	2	U	Imprint - When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order. When Clone Shell is put into a graveyard from the battlefield, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.
+Contagion Clasp	som	144	A	2	2	Artifact			U	When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature. {4}, {T}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Contagion Engine	som	145	A	6	6	Artifact			R	When Contagion Engine enters the battlefield, put a -1/-1 counter on each creature target player controls. {4}, {T}: Proliferate, then proliferate again. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there. Then do it again.)
+Copper Myr	som	146	A	2	2	Artifact Creature - Myr	1	1	C	{T}: Add {G} to your mana pool.
+Corpse Cur	som	147	A	4	4	Artifact Creature - Hound	2	2	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) When Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.
+Culling Dais	som	148	A	2	2	Artifact			U	{T}, Sacrifice a creature: Put a charge counter on Culling Dais. {1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.
+Darksteel Axe	som	149	A	1	1	Artifact - Equipment			U	Darksteel Axe is indestructible. (Effects that say "destroy" don't destroy it.) Equipped creature gets +2/+0. Equip {2}
+Darksteel Juggernaut	som	150	A	5	5	Artifact Creature - Juggernaut	*	*	R	Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control. Darksteel Juggernaut is indestructible and attacks each turn if able.
+Darksteel Myr	som	151	A	3	3	Artifact Creature - Myr	0	1	U	Darksteel Myr is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Darksteel Sentinel	som	152	A	6	6	Artifact Creature - Golem	3	3	U	Flash (You may cast this spell any time you could cast an instant.) Vigilance Darksteel Sentinel is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+Echo Circlet	som	153	A	2	2	Artifact - Equipment			C	Equipped creature can block an additional creature. Equip {1}
+Etched Champion	som	154	A	3	3	Artifact Creature - Soldier	2	2	R	Metalcraft - Etched Champion has protection from all colors as long as you control three or more artifacts.
+Flight Spellbomb	som	155	A	1	1	Artifact			C	{T}, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn. When Flight Spellbomb is put into a graveyard from the battlefield, you may pay {U}. If you do, draw a card.
+Glint Hawk Idol	som	156	A	2	2	Artifact			C	Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn. {W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.
+Gold Myr	som	157	A	2	2	Artifact Creature - Myr	1	1	C	{T}: Add {W} to your mana pool.
+Golden Urn	som	158	A	1	1	Artifact			C	At the beginning of your upkeep, you may put a charge counter on Golden Urn. {T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.
+Golem Artisan	som	159	A	5	5	Artifact Creature - Golem	3	3	U	{2}: Target artifact creature gets +1/+1 until end of turn. {2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.
+Golem Foundry	som	160	A	3	3	Artifact			C	Whenever you cast an artifact spell, you may put a charge counter on Golem Foundry. Remove three charge counters from Golem Foundry: Put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Golem's Heart	som	161	A	2	2	Artifact			U	Whenever a player casts an artifact spell, you may gain 1 life.
+Grafted Exoskeleton	som	162	A	4	4	Artifact - Equipment			U	Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent. Equip {2}
+Grindclock	som	163	A	2	2	Artifact			R	{T}: Put a charge counter on Grindclock. {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.
+Heavy Arbalest	som	164	A	3	3	Artifact - Equipment			U	Equipped creature doesn't untap during its controller's untap step. Equipped creature has "{T}: This creature deals 2 damage to target creature or player." Equip {4}
+Horizon Spellbomb	som	165	A	1	1	Artifact			C	{2}, {T}, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library. When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay {G}. If you do, draw a card.
+Ichorclaw Myr	som	166	A	2	2	Artifact Creature - Myr	1	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.
+Infiltration Lens	som	167	A	1	1	Artifact - Equipment			U	Whenever equipped creature becomes blocked by a creature, you may draw two cards. Equip {1}
+Iron Myr	som	168	A	2	2	Artifact Creature - Myr	1	1	C	{T}: Add {R} to your mana pool.
+Kuldotha Forgemaster	som	169	A	5	5	Artifact Creature - Construct	3	5	R	{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.
+Leaden Myr	som	170	A	2	2	Artifact Creature - Myr	1	1	C	{T}: Add {B} to your mana pool.
+Liquimetal Coating	som	171	A	2	2	Artifact			U	{T}: Target permanent becomes an artifact in addition to its other types until end of turn.
+Livewire Lash	som	172	A	2	2	Artifact - Equipment			R	Equipped creature gets +2/+0 and has "Whenever this creature becomes the target of a spell, this creature deals 2 damage to target creature or player." Equip {2}
+Lux Cannon	som	173	A	4	4	Artifact			M	{T}: Put a charge counter on Lux Cannon. {T}, Remove three charge counters from Lux Cannon: Destroy target permanent.
+Memnite	som	174	A	0	0	Artifact Creature - Construct	1	1	U	
+Mimic Vat	som	175	A	3	3	Artifact			R	Imprint - Whenever a nontoken creature is put into a graveyard from the battlefield, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard. {3}, {T}: Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.
+Mindslaver	som	176	A	6	6	Legendary Artifact			M	{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)
+Molten-Tail Masticore	som	177	A	4	4	Artifact Creature - Masticore	4	4	M	At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you discard a card. {4}, Exile a creature card from your graveyard: Molten-Tail Masticore deals 4 damage to target creature or player. {2}: Regenerate Molten-Tail Masticore.
+Moriok Replica	som	178	A	3	3	Artifact Creature - Warrior	2	2	C	{1}{B}, Sacrifice Moriok Replica: You draw two cards and lose 2 life.
+Mox Opal	som	179	A	0	0	Legendary Artifact			M	Metalcraft - {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.
+Myr Battlesphere	som	180	A	7	7	Artifact Creature - Myr Construct	4	7	R	When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield. Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.
+Myr Galvanizer	som	181	A	3	3	Artifact Creature - Myr	2	2	U	Other Myr creatures you control get +1/+1. {1}, {T}: Untap each other Myr you control.
+Myr Propagator	som	182	A	3	3	Artifact Creature - Myr	1	1	R	{3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.
+Myr Reservoir	som	183	A	3	3	Artifact			R	{T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr. {3}, {T}: Return target Myr card from your graveyard to your hand.
+Necrogen Censer	som	184	A	3	3	Artifact			C	Necrogen Censer enters the battlefield with two charge counters on it. {T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.
+Necropede	som	185	A	2	2	Artifact Creature - Insect	1	1	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) When Necropede is put into a graveyard from the battlefield, you may put a -1/-1 counter on target creature.
+Neurok Replica	som	186	A	3	3	Artifact Creature - Wizard	1	4	C	{1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.
+Nihil Spellbomb	som	187	A	1	1	Artifact			C	{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard. When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.
+Nim Deathmantle	som	188	A	2	2	Artifact - Equipment			R	Equipped creature gets +2/+2, has intimidate, and is a black Zombie. Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach Nim Deathmantle to it. Equip {4}
+Origin Spellbomb	som	189	A	1	1	Artifact			C	{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield. When Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.
+Palladium Myr	som	190	A	3	3	Artifact Creature - Myr	2	2	U	{T}: Add {2} to your mana pool.
+Panic Spellbomb	som	191	A	1	1	Artifact			C	{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn. When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.
+Perilous Myr	som	192	A	2	2	Artifact Creature - Myr	1	1	C	When Perilous Myr is put into a graveyard from the battlefield, it deals 2 damage to target creature or player.
+Platinum Emperion	som	193	A	8	8	Artifact Creature - Golem	8	8	M	Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)
+Precursor Golem	som	194	A	5	5	Artifact Creature - Golem	3	3	R	When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield. Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.
+Prototype Portal	som	195	A	4	4	Artifact			R	Imprint - When Prototype Portal enters the battlefield, you may exile an artifact card from your hand. {X}, {T}: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.
+Ratchet Bomb	som	196	A	2	2	Artifact			R	{T}: Put a charge counter on Ratchet Bomb. {T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+Razorfield Thresher	som	197	A	7	7	Artifact Creature - Construct	6	4	C	
+Rust Tick	som	198	A	3	3	Artifact Creature - Insect	1	3	U	You may choose not to untap Rust Tick during your untap step. {1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.
+Rusted Relic	som	199	A	4	4	Artifact			U	Metalcraft - Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.
+Saberclaw Golem	som	200	A	4	2	Artifact Creature - Golem	4	2	C	{R}: Saberclaw Golem gains first strike until end of turn.
+Semblance Anvil	som	201	A	3	3	Artifact			R	Imprint - When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand. Spells you cast that share a card type with the exiled card cost {2} less to cast.
+Silver Myr	som	202	A	2	2	Artifact Creature - Myr	1	1	C	{T}: Add {U} to your mana pool.
+Snapsail Glider	som	203	A	3	3	Artifact Creature - Construct	2	2	C	Metalcraft - Snapsail Glider has flying as long as you control three or more artifacts.
+Soliton	som	204	A	5	5	Artifact Creature - Construct	3	4	C	{U}: Untap Soliton.
+Steel Hellkite	som	205	A	6	6	Artifact Creature - Dragon	5	5	R	Flying {2}: Steel Hellkite gets +1/+0 until end of turn. {X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
+Strata Scythe	som	206	A	3	3	Artifact - Equipment			R	Imprint - When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library. Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card. Equip {3}
+Strider Harness	som	207	A	3	3	Artifact - Equipment			C	Equipped creature gets +1/+1 and has haste. Equip {1}
+Sword of Body and Mind	som	208	A	3	3	Artifact - Equipment			M	Equipped creature gets +2/+2 and has protection from green and from blue. Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard. Equip {2}
+Sylvok Lifestaff	som	209	A	1	1	Artifact - Equipment			C	Equipped creature gets +1/+0. Whenever equipped creature is put into a graveyard, you gain 3 life. Equip {1}
+Sylvok Replica	som	210	A	3	3	Artifact Creature - Shaman	1	3	C	{G}, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.
+Throne of Geth	som	211	A	2	2	Artifact			U	{T}, Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Tower of Calamities	som	212	A	4	4	Artifact			R	{8}, {T}: Tower of Calamities deals 12 damage to target creature.
+Trigon of Corruption	som	213	A	4	4	Artifact			U	Trigon of Corruption enters the battlefield with three charge counters on it. {B}{B}, {T}: Put a charge counter on Trigon of Corruption. {2}, {T}, Remove a charge counter from Trigon of Corruption: Put a -1/-1 counter on target creature.
+Trigon of Infestation	som	214	A	4	4	Artifact			U	Trigon of Infestation enters the battlefield with three charge counters on it. {G}{G}, {T}: Put a charge counter on Trigon of Infestation. {2}, {T}, Remove a charge counter from Trigon of Infestation: Put a 1/1 green Insect creature token with infect onto the battlefield.
+Trigon of Mending	som	215	A	2	2	Artifact			U	Trigon of Mending enters the battlefield with three charge counters on it. {W}{W}, {T}: Put a charge counter on Trigon of Mending. {2}, {T}, Remove a charge counter from Trigon of Mending: Target player gains 3 life.
+Trigon of Rage	som	216	A	2	2	Artifact			U	Trigon of Rage enters the battlefield with three charge counters on it. {R}{R}, {T}: Put a charge counter on Trigon of Rage. {2}, {T}, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.
+Trigon of Thought	som	217	A	5	5	Artifact			U	Trigon of Thought enters the battlefield with three charge counters on it. {U}{U}, {T}: Put a charge counter on Trigon of Thought. {2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.
+Tumble Magnet	som	218	A	3	3	Artifact			C	Tumble Magnet enters the battlefield with three charge counters on it. {T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.
+Vector Asp	som	219	A	1	1	Artifact			C	{B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Venser's Journal	som	220	A	5	5	Artifact			R	You have no maximum hand size. At the beginning of your upkeep, you gain 1 life for each card in your hand.
+Vulshok Replica	som	221	A	3	3	Artifact Creature - Berserker	3	1	C	{1}{R}, Sacrifice Vulshok Replica: Vulshok Replica deals 3 damage to target player.
+Wall of Tanglecord	som	222	A	2	2	Artifact Creature - Wall	0	6	C	Defender {G}: Wall of Tanglecord gains reach until end of turn. (It can block creatures with flying.)
+Wurmcoil Engine	som	223	A	6	6	Artifact Creature - Wurm	6	6	M	Deathtouch, lifelink When Wurmcoil Engine is put into a graveyard from the battlefield, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.
+Blackcleave Cliffs	som	224	L		0	Land			R	Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands. {T}: Add {B} or {R} to your mana pool.
+Copperline Gorge	som	225	L		0	Land			R	Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands. {T}: Add {R} or {G} to your mana pool.
+Darkslick Shores	som	226	L		0	Land			R	Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands. {T}: Add {U} or {B} to your mana pool.
+Glimmerpost	som	227	L		0	Land - Locus			C	When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield. {T}: Add {1} to your mana pool.
+Razorverge Thicket	som	228	L		0	Land			R	Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands. {T}: Add {G} or {W} to your mana pool.
+Seachrome Coast	som	229	L		0	Land			R	Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands. {T}: Add {W} or {U} to your mana pool.
+Plains	som	230	L		0	Basic Land - Plains			L	W
+Island	som	234	L		0	Basic Land - Island			L	U
+Swamp	som	238	L		0	Basic Land - Swamp			L	B
+Mountain	som	242	L		0	Basic Land - Mountain			L	R
+Forest	som	246	L		0	Basic Land - Forest			L	G
+Accorder Paladin	mbs	1	W	1W	2	Creature - Human Knight Mirran	3	1	U	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Ardent Recruit	mbs	2	W 	W	1	Creature - Human Soldier Mirran	1	1	C 	Metalcraft - Ardent Recruit gets +2/+2 as long as you control three or more artifacts.
+Banishment Decree	mbs	3	W	3WW	5	Instant Phyrexian			C	Put target artifact, creature or enchantment on top of its owner's library.
+Choking Fumes	mbs	4	W	2W	3	Instant Phyrexian			U	Put a -1/-1 counter on each attacking creature.
+Divine Offering	mbs	5	W	1W	2	Instant Mirran			C	Destroy target artifact. You gain life equal to its converted mana cost.
+Frantic Salvage	mbs	6	W	3W	4	Instant Mirran			C	Put any number of target artifact cards from your graveyard on top of your library. Draw a card.
+Gore Vassal	mbs	7	W	2W	3	Creature - Hound Phyrexian	2	1	U	Sacrifice Gore Vassal: Put a -/1-1 counter on target creature. Then, if that creature's toughness is 1 or greater, regenerate it.
+Hero of Bladehold	mbs	8	W	2WW	4	Creature - Human Knight Mirran	3	4	M	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.) Whenever Hero of Bladehold attacks, put two 1/1 white soldier creature tokens onto the battlefield tapped and attacking.
+Kemba's Legion	mbs	9	W	5WW	7	Creature - Cat Soldier Mirran	4	6	U	Vigilance; Kemba's Legion can block an additional creature for each Equipment attached to Kemba's Legion.
+Leonin Relic-Warder	mbs	10	W	WW	2	Creature - Cat Cleric Mirran	2	2	U	When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment. When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Leonin Skyhunter	mbs	11	W	WW	2	Creature - Cat Knight Mirran	2	2	C	Flying
+Loxodon Partisan	mbs	12	W	4W	5	Creature - Elephant Soldier Mirran	3	4	C	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Master's Call	mbs	13	W	2W	3	Instant Mirran			C	Put two 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Mirran Crusader	mbs	14	W	1WW	3	Creature - Human Knight Mirran	2	2	R	Double strike, protection from black and from green
+Phyrexian Rebirth	mbs	15	W	4WW	6	Sorcery Phyrexian			R	Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.
+Priests of Norn	mbs	16	W	2W	3	Creature - Cleric Phyrexian	1	4	C	Vigilance, Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Tine Shrike	mbs	17	W	3W	4	Creature - Bird Phyrexian	2	1	C	Flying, Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Victory's Herald	mbs	18	W	3WWW	6	Creature-Angel Mirran	4	4	R	Flying; Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.
+White Sun's Zenith	mbs	19	W	XWWW	3	Instant Mirran			R	Put X 2/2 Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.
+Blue Sun's Zenith	mbs	20	U	XUUU	3	Instant Mirran			R	Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.
+Consecrated Sphinx	mbs	21	U	4UU	6	Creature - Sphinx Phyrexian	4	6	M	Flying; Whenever an opponent draws a card, you may draw two cards.
+Corrupted Conscience 	mbs	22	U	3UU	5	Enchantment - Aura Phyrexian			U	Enchant creature; You control enchanted creature. Enchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Cryptoplasm	mbs	23	U	1UU	3	Creature - Shapeshifter Mirran	2	2	R	At the beginning of your upkeep, you may have Cryptoplasm become a copy of another target creature. If you do, Cryptoplasm gains this ability.
+Distant Memories	mbs	24	U	2UU	4	Sorcery Phyrexian			R	Search your library for a card, exile it, then shuffle your library. An opponent may have you put that card into your hand. If no player does, you draw three cards.
+Fuel for the Cause	mbs	25	U	2UU	4	Instant Phyrexian			C	Counter target spell, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Mirran Spy	mbs	26	U	2U	3	Creature - Drone Mirran	1	3	C	Flying; Whenever you cast an artifact spell, you may untap target creature.
+Mitotic Manipulation	mbs	27	U	1UU	3	Sorcery Phyrexian			R	Look at the top seven cards of your library. You may put one of those cards onto the battlefield if it has the same name as a permanent. Put the rest on the bottom of your library in any order.
+Neurok Commando	mbs	28	U	1UU	3	Creature - Human Rogue Mirran	2	1	U	Shroud; Whenever Neurok Commando deals combat damage to a player, you may draw a card.
+Oculus	mbs	29	U	1U	2	Creature - Homunculus Phyrexian	1	1	C	When Oculus is put into a graveyard from the battlefield, you may draw a card.
+Quicksilver Geyser	mbs	30	U	4U	5	Instant Mirran			C	Return up to two target nonland permanents to their owners' hands.
+Serum Raker	mbs	31	U	2UU	4	Creature - Drake Phyrexian	3	2	C	Flying; When Serum Raker is put into a graveyard from the battlefield, each player discards a card.
+Spire Serpent	mbs	32	U	4U	5	Creature - Serpent Mirran	3	5	C	Defender, Metalcraft - As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender.
+Steel Sabotage	mbs	33	U	U	1	Instant Phyrexian			C	Choose one - counter target artifact spell; or return target artifact to its owner's hand.
+Treasure Mage	mbs	34	U	2U	3	Creature - Human Wizard Mirran	2	2	U	When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.
+Turn the Tide	mbs	35	U	1U	2	Instant Mirran			C	Creatures your opponents control get -2/-0 until end of turn.
+Vedalken Anatomist	mbs	36	U	2U	3	Creature - Vedalken Wizard Phyrexian	1	2	U	{2}{U}, {T}: Put a -1/-1 counter on target creature. You may tap or untap that creature.
+Vedalken Infuser	mbs	37	U	3U	4	Creature - Vedalken Wizard Mirran	1	4	U	At the beginning of your upkeep, you may put a charge counter on target artifact.
+Vivisection	mbs	38	U	3U	4	Sorcery Phyrexian			C	As an additional cost to cast Vivisection, sacrifice a creature. Draw three cards.
+Black Sun's Zenith	mbs	39	B	XBB	2	Sorcery Phyrexian			R	Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.
+Caustic Hound 	mbs	40	B	5B	6	Creature - Hound Phyrexian	4	4	C	When Caustic Hound is put into a graveyard from the battlefield, each player loses 4 life.
+Flensermite	mbs	41	B	1B	2	Creature - Gremlin Phyrexian	1	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Flesh-Eater Imp	mbs	42	B	3B	4	Creature - Imp Phyrexian	2	2	U	Flying, Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn.
+Go for the Throat	mbs	43	B	1B	2	Instant Mirran			U	Destroy target nonartifact creature.
+Gruesome Encore	mbs	44	B	2B	3	Sorcery Phyrexian			U	Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. Exile it at the beginning of the next end step. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+Horrifying Revelation	mbs	45	B	B	1	Sorcery Phyrexian			C	Target player discards a card, then puts the top card of his or her library into his or her graveyard.
+Massacre Wurm	mbs	46	B	3BBB	6	Creature - Wurm Phyrexian	6	5	M	When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn. Whenever a creature an opponent controls is put into a graveyard from the battlefield, that player loses 2 life.
+Morbid Plunder	mbs	47	B	1BB	3	Sorcery Phyrexian			C	Return up to two target creature cards from your graveyard to your hand.
+Nested Ghoul	mbs	48	B	3BB	5	Creature - Zombie Warrior Phyrexian	4	2	U	Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.
+Phyresis	mbs	49	B	1B	2	Enchantment - Aura Phyrexian			C	Enchanted creature has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Phyrexian Crusader	mbs	50	B	1BB	3	Creature - Zombie Knight Phyrexian	2	2	R	First strike, Protection from red and from white. Infect (This creature deals damage to creatures in form of -1/-1 counters and to players in form of poison counters.)
+Phyrexian Rager	mbs	51	B	2B	3	Creature - Horror Phyrexian	2	2	C	When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+Phyrexian Vatmother	mbs	52	B	2BB	4	Creature - Horror Phyrexian	4	5	R	Infect (This creature deals damage to creatures in form of -1/-1 counters and to players in form of poison counters.) At the beginning of your upkeep, you get a poison counter.
+Sangromancer	mbs	53	B	2BB	4	Creature - Vampire Shaman Mirran	3	3	R	Flying, Whenever a creature an opponent controls is put into a graveyard from the battlefield, you may gain 3 life. Whenever an opponent discards a card, you may gain 3 life.
+Scourge Servant	mbs	54	B	4B	5	Creature - Zombie Phyrexian	3	3	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Septic Rats	mbs	55	B	1BB	3	Creature - Rat Phyrexian	2	2	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.
+Spread the Sickness	mbs	56	B	4B	5	Sorcery Phyrexian			C	Destroy target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Virulent Wound	mbs	57	B	B	1	Instant Phyrexian			C	Put a -1/-1 counter on target creature. When that creature is put into the graveyard from the battlefield this turn, its controller gets a poison counter.
+Blisterstick Shaman	mbs	58	R	2R	3	Creature - Goblin Shaman Mirran	2	1	C	When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.
+Burn the Impure	mbs	59	R	1R	2	Instant Mirran			C	Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.
+Concussive Bolt	mbs	60	R	3RR	5	Sorcery Mirran			C	Concussive Bolt deals 4 damage to target player. Metalcraft - If you control three or more artifacts, creatures that player controls can't block this turn.
+Crush	mbs	61	R	R	1	Instant Mirran			C	Destroy target noncreature artifact.
+Galvanoth	mbs	62	R	3RR	5	Creature - Beast Mirran	3	3	R	At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.
+Gnathosaur	mbs	63	R	4RR	6	Creature - Lizard Mirran	5	4	C	Sacrifice an artifact: Gnathosaur gains trample until end of turn.
+Goblin Wardriver	mbs	64	R	RR	2	Creature - Goblin Warrior Mirran	2	2	U	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Hellkite Igniter	mbs	65	R	5RR	7	Creature - Dragon Mirran	5	5	R	Flying, haste; 1R:Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+Hero of Oxid Ridge	mbs	66	R	2RR	4	Creature - Human Knight Mirran	4	2	M	Haste, Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.) Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.
+Into the Core	mbs	67	R	2RR	4	Instant Phyrexian			U	Exile two target artifacts.
+Koth's Courier	mbs	68	R	1RR	3	Creature - Human Rogue Mirran	2	3	C	Forestwalk
+Kuldotha Flamefiend	mbs	69	R	4RR	6	Creature - Elemental Mirran	4	4	U	When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.
+Kuldotha Ringleader	mbs	70	R	4R	5	Creature - Giant Berserker Mirran	4	4	C	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.) Kuldotha Ringleader attacks each turn if able.
+Metallic Mastery	mbs	71	R	2R	3	Sorcery Phyrexian			U	Untap target artifact and gain control of it until end of turn. That artifact gains haste until end of turn.
+Ogre Resister	mbs	72	R	2RR	4	Creature - Ogre Mirran	4	3	C	
+Rally the Forces	mbs	73	R	2R	3	Instant Mirran			C	Attacking creatures get +1/+0 and gain first strike until end of turn.
+Red Sun's Zenith	mbs	74	R	XR	1	Sorcery Mirran			R	Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would be put into a graveyard this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.
+Slagstorm	mbs	75	R	1RR	3	Sorcery Mirran			R	Choose one - Slagstorm deals 3 damage to each creature; or Slagstorm deals 3 damage to each player.
+Spiraling Duelist	mbs	76	R	2RR	4	Creature - Human Berserker Mirran	3	1	U	Metalcraft - Spiraling Duelist has double strike as long as you control three or more artifacts.
+Blightwidow	mbs	77	G	3G	4	Creature - Spider Phyrexian	2	4	C	Infect, reach
+Creeping Corrosion	mbs	78	G	2GG	4	Sorcery Phyrexian			R	Destroy all artifacts.
+Fangren Marauder	mbs	79	G	5G	6	Creature - Beast Mirran	5	5	C	Whenever an artifact is put into a graveyard from the battlefield, you may gain 5 life.
+Glissa's Courier	mbs	80	G	1GG	3	Creature - Horror Phyrexian	2	3	C	Mountainwalk
+Green Sun's Zenith	mbs	81	G	XG	1	Sorcery Phyrexian			R	Search your library for a green creature card with converted mana cost X or less and put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+Lead the Stampede	mbs	82	G	2G	3	Sorcery Mirran			U	Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+Melira's Keepers	mbs	83	G	4G	5	Creature - Human Warrior Mirran	4	4	U	Melira's Keepers can't have counters placed on it.
+Mirran Mettle	mbs	84	G	G	1	Instant Mirran			C	Target creature gets +2/+2 until end of turn. Metalcraft- If you control three or more artifacts, that creature gets +4/+4 until end of turn instead.
+Phyrexian Hydra	mbs	85	G	3GG	5	Creature - Hydra Phyrexian	7	7	R	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way.
+Pistus Strike	mbs	86	G	2G	3	Instant Phyrexian			C	Destroy target creature with flying. its controller gets a poison counter.
+Plaguemaw Beast	mbs	87	G	3GG	5	Creature - Beast Phyrexian	4	3	U	{T}, Sacrifice a creature: Proliferate.
+Praetor's Counsel	mbs	88	G	5GGG	8	Sorcery Phyrexian			M	Return all cards from your graveyard to your hand. Exile Praetor's Counsel. You have no maximum hand size for the rest of the game.
+Quilled Slagwurm	mbs	89	G	4GGG	7	Creature - Wurm Phyrexian	8	8	U	
+Rot Wolf	mbs	90	G	2G	3	Creature - Wolf Phyrexian	2	2	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever a creature dealt damage by Rot Wolf this turn is put into a graveyard, you may draw a card.
+Tangle Mantis	mbs	91	G	2GG	4	Creature - Insect Mirran	3	4	C	Trample
+Thrun, the Last Troll	mbs	92	G	2GG	4	Legendary Creature - Troll Shaman Mirran	4	4	M	Thrun, the Last Troll can't be countered. Thrun can't be the target of spells or abilities your opponents control. 1G: Regenerate Thrun.
+Unnatural Predation	mbs	93	G	G	1	Instant Phyrexian			C	Target creature gets +1/+1 and gains trample until end of turn.
+Viridian Corrupter	mbs	94	G	1GG	3	Creature - Elf Shaman Phyrexian	2	2	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) When Viridian Corrupter enters the battlefield, destroy target artifact.
+Viridian Emissary	mbs	95	G	1G	2	Creature - Elf Scout Phyrexian	2	1	C	When Viridian Emissary is put into a graveyard from the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+Glissa, the Traitor	mbs	96	BG	BGG	3	Legendary Creature - Zombie Elf Phyrexian	3	3	M	First strike, deathtouch; Whenever a creature an opponent controls is put into a graveyard from the battlefield, you may return target artifact card from your graveyard to your hand.
+Tezzeret, Agent of Bolas	mbs	97	UB	2UB	4	Planeswalker - Tezzeret	3		M	+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order. -1: Target artifact becomes a 5/5 artifact creature. -4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.
+Bladed Sentinel	mbs	98	A	4	4	Artifact Creature - Construct Mirran	2	4	C	{W}: Bladed Sentinel gains vigilance until end of turn.
+Blightsteel Colossus	mbs	99	A	12	12	Artifact Creature - Golem Phyrexian	11	11	M	Trample, infect; Blightsteel Colossus is indestructible. If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.
+Bonehoard	mbs	100	A	4	4	Artifact - Equipment Phyrexian			R	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards. Equip {2}
+Brass Squire	mbs	101	A	3	3	Creature - Myr Mirran	1	3	U	{T}: Attach target Equipment you control to target creature you control.
+Copper Carapace	mbs	102	A	1	1	Artifact - Equipment Mirran			C	Equipped creature gets +2/+2 and can't block. Equip {3}
+Core Prowler	mbs	103	A	4	4	Artifact Creature - Horror Phyrexian	2	2	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) When Core Prowler is put into a graveyard from the battlefield, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Darksteel Plate	mbs	104	A	3	3	Artifact - Equipment Mirran			R	Darksteel Plate is indestructible. Equipped creature is indestructible. Equip {2}
+Decimator Web	mbs	105	A	4	4	Artifact Phyrexian			R	{4}, T: Target opponent loses 2 life, gets a poison counter, then puts the top six cards of his or her library into his or her graveyard.
+Dross Ripper	mbs	106	A	4	4	Artifact Creature - Hound Phyrexian	3	3	C	{2}{B}: Dross Ripper gets +1/+1 until end of turn.
+Flayer Husk	mbs	107	A	1	1	Artifact - Equipment Phyrexian			C	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +1/+1. Equip {2}
+Gust-Skimmer	mbs	108	A	2	2	Artifact Creature - Insect Mirran	2	1	C	{U}: Gust-Skimmer gains flying until end of turn.
+Hexplate Golem	mbs	109	A	7	7	Artifact Creature - Golem Mirran	5	7	C	
+Ichor Wellspring	mbs	110	A	2	2	Artifact Phyrexian			C	When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.
+Knowledge Pool	mbs	111	A	6	6	Artifact Mirran			R	Imprint - When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library. Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.
+Lumengrid Gargoyle	mbs	112	A	6	6	Artifact Creature - Gargoyle Mirran	4	4	C	Flying
+Magnetic Mine	mbs	113	A	4	4	Artifact Phyrexian			R	Whenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.
+Mirrorworks	mbs	114	A	5	5	Artifact Phyrexian			R	Whenever another nontoken artifact enters the battlefield under your control, you may pay {2}. If you do, put a token that's a copy of that artifact onto the battlefield.
+Mortarpod	mbs	115	A	2	2	Artifact - Equipment Phyrexian			U	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player." Equip {2}
+Myr Sire	mbs	116	A	2	2	Artifact Creature - Myr Phyrexian	1	1	C	When Myr Sire is put into a graveyard from the battlefield, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+Myr Turbine	mbs	117	A	5	5	Artifact Mirran			R	{T}: Put a 1/1 colorless Myr artifact creature token onto the battlefield. {T}, Tap five untapped Myr you control: Search your library for a Myr card and put that card onto the battlefield, then shuffle your library.
+Myr Welder	mbs	118	A	3	3	Artifact Creature - Myr Mirran	1	4	R	Imprint - {T}: Exile target artifact card from a graveyard. Myr Welder has all activated abilities of all cards exiled with it.
+Peace Strider	mbs	119	A	4	4	Artifact Creature - Construct Mirran	3	3	U	When Peace Strider enters the battlefield, you gain 3 life.
+Phyrexian Digester	mbs	120	A	3	3	Artifact Creature - Construct Phyrexian	2	1	C	Infect
+Phyrexian Juggernaut	mbs	121	A	6	6	Artifact Creature - Juggernaut Phyrexian	5	5	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Phyrexian Juggernaut attacks each turn if able.
+Phyrexian Revoker	mbs	122	A	2	2	Artifact Creature - Horror Phyrexian	2	1	R	As Phyrexian Revoker enters the battlefield, name a nonland card. Activated abilities of sources with the chosen name can't be activated.
+Pierce Strider	mbs	123	A	4	4	Artifact Creature - Construct Phyrexian	3	3	U	When Pierce Strider enters the battlefield, target opponent loses 3 life.
+Piston Sledge	mbs	124	A	3	3	Artifact - Equipment Mirran			U	When Piston Sledge enters the battlefield, attach it to target creature you control. Equipped creature gets +3/+1. Equip - Sacrifice an artifact.
+Plague Myr	mbs	125	A	2	2	Artifact Creature - Myr Phyrexian	1	1	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) T: Add 1 to your mana pool.
+Psychosis Crawler	mbs	126	A	5	5	Artifact Creature - Horror Phyrexian	*	*	R	Psychosis Crawler's power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.
+Razorfield Rhino	mbs	127	A	6	6	Artifact Creature - Rhino Mirran	4	4	C	Metalcraft - Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.
+Rusted Slasher	mbs	128	A	4	4	Artifact Creature - Horror Phyrexian	4	1	C	Sacrifice an artifact: Regenerate Rusted Slasher.
+Shimmer Myr	mbs	129	A	3	3	Creature - Myr Mirran	2	2	R	Flash; You may cast artifact cards as though they had flash.
+Shriekhorn	mbs	130	A	1	1	Artifact Mirran			C	Shriekhorn enters the battlefield with three charge counters on it. {T}, Remove a charge counter from Shriekhorn: Target player puts the top two cards of his or her library into his or her graveyard.
+Signal Pest	mbs	131	A	1	1	Artifact Creature - Pest Mirran	0	1	U	Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.) Signal Pest can't be blocked except by creatures with flying or reach.
+Silverskin Armor	mbs	132	A	2	2	Artifact - Equipment Mirran			U	Equipped creature gets +1/+1 and is an artifact in addition to its other types. Equip {2}
+Skinwing	mbs	133	A	4	4	Artifact - Equipment Phyrexian			U	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +2/+2 and has flying. Equip {6}
+Sphere of the Suns	mbs	134	A	2	2	Artifact Mirran			U	Sphere of the Suns enters the battlefield tapped and with three charge counters on it. {T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.
+Spin Engine	mbs	135	A	3	3	Artifact Creature - Construct Mirran	3	1	C	{R}: Target creature can't block Spin Engine this turn.
+Spine of Ish Sah	mbs	136	A	7	7	Artifact Phyrexian			R	When Spine of Ish Sah enters the battlefield, destroy target permanent. When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.
+Strandwalker	mbs	137	A	5	5	Artifact - Equipment Phyrexian			U	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +2/+4 and has reach. Equip {4}
+Sword of Feast and Famine	mbs	138	A	3	3	Artifact - Equipment Mirran			M	Equipped creature gets +2/+2 and has protection from black and from green. Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control. Equip {2}
+Tangle Hulk	mbs	139	A	5	5	Artifact Creature - Beast Phyrexian	5	3	C	{2}{G}: Regenerate Tangle Hulk.
+Thopter Assembly	mbs	140	A	6	6	Artifact Creature - Thopter Mirran	5	5	R	Flying; At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.
+Titan Forge	mbs	141	A	3	3	Artifact Mirran			R	{3},{T}: Put a charge counter on Titan Forge. {T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token onto the battlefield.
+Training Drone	mbs	142	A	3	3	Artifact Creature - Drone Mirran	4	4	C	Training Drone can't attack or block unless it's equipped.
+Viridian Claw	mbs	143	A	2	2	Artifact - Equipment Mirran			U	Equipped creature gets +1/+0 and has first strike. Equip {1}
+Contested War Zone	mbs	144	L		0	Land Mirran			R	Whenever you are dealt combat damage by a creature, that creature's controller gains control of Contested Warzone. {T}: Add {1} to your mana pool. {1}, {T}: Attacking creatures get +1/+0 until end of turn.
+Inkmoth Nexus	mbs	145	L		0	Land Phyrexian			R	{T}: Add {1} to your mana pool. {1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Plains	mbs	146	L		0	Basic Land - Plains			L	W
+Island	mbs	148	L		0	Basic Land - Island			L	U
+Swamp	mbs	150	L		0	Basic Land - Swamp			L	B
+Mountain	mbs	152	L		0	Basic Land - Mountain			L	R
+Forest	mbs	154	L		0	Basic Land - Forest			L	G
+Karn Liberated	nph	1		7	7	Planeswalker - Karn	6		M	+4: Target player exiles a card from his or her hand. -3: Exile target permanent. -14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
+Apostle's Blessing	nph	2	W	1{!W}	2	Instant			C	({!W} can be paid with either {W} or 2 life.) Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.
+Auriok Survivors	nph	3	W	5W	6	Creature - Human Soldier	4	6	U	When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.
+Blade Splicer	nph	4	W	2W	3	Creature - Human Artificer	1	1	R	When Blade Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield. Golem creatures you control have first strike.
+Cathedral Membrane	nph	5	W	1{!W}	2	Artifact Creature - Wall	0	3	U	({!W} can be paid with either {W} or 2 life.) Defender When Cathedral Membrane is put into a graveyard from the battlefield during combat, it deals 6 damage to each creature it blocked this combat.
+Chancellor of the Annex	nph	6	W	4WWW	7	Creature - Angel	5	6	R	You may reveal this card from your opening hand. If you do, when each opponent casts his or her first spell of the game, counter that spell unless that player pays {1}. Flying Whenever an opponent casts a spell, counter it unless that player pays {1}.
+Dispatch	nph	7	W	W	1	Instant			U	Tap target creature. Metalcraft - If you control three or more artifacts, exile that creature.
+Due Respect	nph	8	W	1W	2	Instant			U	Permanents enter the battlefield tapped this turn. Draw a card.
+Elesh Norn, Grand Cenobite	nph	9	W	5WW	7	Legendary Creature - Praetor	4	7	M	Vigilance Other creatures you control get +2/+2. Creatures your opponents control get -2/-2.
+Exclusion Ritual	nph	10	W	4WW	6	Enchantment			U	Imprint - When Exclusion Ritual enters the battlefield, exile target nonland permanent. Players can't cast spells with the same name as the exiled card.
+Forced Worship	nph	11	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack. {2}{W}: Return Forced Worship to its owner's hand.
+Inquisitor Exarch	nph	12	W	WW	2	Creature - Cleric	2	2	U	When Inquisitor Exarch enters the battlefield, choose one - You gain 2 life; or target opponent loses 2 life.
+Lost Leonin	nph	13	W	1W	2	Creature - Cat Soldier	2	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Loxodon Convert	nph	14	W	3W	4	Creature - Elephant Soldier	4	2	C	
+Marrow Shards	nph	15	W	{!W}	1	Instant			U	({!W} can be paid with either {W} or 2 life.) Marrow Shards deals 1 damage to each attacking creature.
+Master Splicer	nph	16	W	3W	4	Creature - Human Artificer	1	1	U	When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield. Golem creatures you control get +1/+1.
+Norn's Annex	nph	17	W	3{!W}{!W}	5	Artifact			R	({!W} can be paid with either {W} or 2 life.) Creatures can't attack you or a planeswalker you control unless their controller pays {!W} for each of those creatures.
+Phyrexian Unlife	nph	18	W	2W	3	Enchantment			R	You don't lose the game for having 0 or less life. As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)
+Porcelain Legionnaire	nph	19	W	2{!W}	3	Artifact Creature - Soldier	3	1	C	({!W} can be paid with either {W} or 2 life.) First strike
+Puresteel Paladin	nph	20	W	WW	2	Creature - Human Knight	2	2	R	Whenever an Equipment enters the battlefield under your control, you may draw a card. Metalcraft - Equipment you control have equip {0} as long as you control three or more artifacts.
+Remember the Fallen	nph	21	W	2W	3	Sorcery			C	Choose one or both - Return target creature card from your graveyard to your hand; and/or return target artifact card from your graveyard to your hand.
+Sensor Splicer	nph	22	W	4W	5	Creature - Artificer	1	1	C	When Sensor Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield. Golem creatures you control have vigilance.
+Shattered Angel	nph	23	W	3WW	5	Creature - Angel	3	3	U	Flying Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.
+Shriek Raptor	nph	24	W	3WW	5	Creature - Bird	2	3	C	Flying Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Suture Priest	nph	25	W	1W	2	Creature - Cleric	1	1	C	Whenever another creature enters the battlefield under your control, you may gain 1 life. Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+War Report	nph	26	W	3W	4	Instant			C	You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.
+Argent Mutation	nph	27	U	2U	3	Instant			U	Target permanent becomes an artifact in addition to its other types until end of turn. Draw a card.
+Arm with Aether	nph	28	U	2U	3	Sorcery			U	Until end of turn, creatures you control gain "Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand."
+Blighted Agent	nph	29	U	1U	2	Creature - Human Rogue	1	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Blighted Agent is unblockable.
+Chained Throatseeker	nph	30	U	5U	6	Creature - Horror	5	5	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Chained Throatseeker can't attack unless defending player is poisoned.
+Chancellor of the Spires	nph	31	U	4UUU	7	Creature - Sphinx	5	7	R	You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent puts the top seven cards of his or her library into his or her graveyard. Flying When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.
+Corrupted Resolve	nph	32	U	1U	2	Instant			U	Counter target spell if its controller is poisoned.
+Deceiver Exarch	nph	33	U	2U	3	Creature - Cleric	1	4	U	Flash (You may cast this spell any time you could cast an instant.) When Deceiver Exarch enters the battlefield, choose one - Untap target permanent you control; or tap target permanent an opponent controls.
+Defensive Stance	nph	34	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/+1.
+Gitaxian Probe	nph	35	U	{!U}	1	Sorcery			C	({!U} can be paid with either {U} or 2 life.) Look at target player's hand. Draw a card.
+Impaler Shrike	nph	36	U	2UU	4	Creature - Bird	3	1	C	Flying Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.
+Jin-Gitaxias, Core Augur	nph	37	U	8UU	10	Legendary Creature - Praetor	5	4	M	Flash At the beginning of your end step, draw seven cards. Each opponent's maximum hand size is reduced by seven.
+Mental Misstep	nph	38	U	{!U}	1	Instant			U	({!U} can be paid with either {U} or 2 life.) Counter target spell with converted mana cost 1.
+Mindculling	nph	39	U	5U	6	Sorcery			U	You draw two cards and target opponent discards two cards.
+Numbing Dose	nph	40	U	3UU	5	Enchantment - Aura			C	Enchant artifact or creature Enchanted permanent doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.
+Phyrexian Ingester	nph	41	U	6U	7	Creature - Beast	3	3	R	Imprint - When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature. Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.
+Phyrexian Metamorph	nph	42	U	3{!U}	4	Artifact Creature - Shapeshifter	0	0	R	({!U} can be paid with either {U} or 2 life.) You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.
+Psychic Barrier	nph	43	U	UU	2	Instant			C	Counter target creature spell. Its controller loses 1 life.
+Psychic Surgery	nph	44	U	1U	2	Enchantment			R	Whenever an opponent shuffles his or her library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.
+Spined Thopter	nph	45	U	2{!U}	3	Artifact Creature - Thopter	2	1	C	({!U} can be paid with either {U} or 2 life.) Flying
+Spire Monitor	nph	46	U	4U	5	Creature - Drake	3	3	C	Flash (You may cast this spell any time you could cast an instant.) Flying
+Tezzeret's Gambit	nph	47	U	3{!U}	4	Sorcery			U	({!U} can be paid with either {U} or 2 life.) Draw two cards, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Vapor Snag	nph	48	U	U	1	Instant			C	Return target creature to its owner's hand. Its controller loses 1 life.
+Viral Drake	nph	49	U	3U	4	Creature - Drake	1	4	U	Flying Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {3}{U}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Wing Splicer	nph	50	U	3U	4	Creature - Human Artificer	1	1	U	When Wing Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield. Golem creatures you control have flying.
+Xenograft	nph	51	U	4U	5	Enchantment			R	As Xenograft enters the battlefield, choose a creature type. Each creature you control is the chosen type in addition to its other types.
+Blind Zealot	nph	52	B	1BB	3	Creature - Human Cleric	2	2	C	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.
+Caress of Phyrexia	nph	53	B	3BB	5	Sorcery			U	Target player draws three cards, loses 3 life, and gets three poison counters.
+Chancellor of the Dross	nph	54	B	4BBB	7	Creature - Vampire	6	6	R	You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way. Flying, lifelink
+Dementia Bat	nph	55	B	4B	5	Creature - Bat	2	2	C	Flying {4}{B}, Sacrifice Dementia Bat: Target player discards two cards.
+Despise	nph	56	B	B	1	Sorcery			U	Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.
+Dismember	nph	57	B	1{!B}{!B}	3	Instant			U	({!B} can be paid with either {B} or 2 life.) Target creature gets -5/-5 until end of turn.
+Enslave	nph	58	B	4BB	6	Enchantment - Aura			U	Enchant creature You control enchanted creature. At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
+Entomber Exarch	nph	59	B	2BB	4	Creature - Cleric	2	2	U	When Entomber Exarch enters the battlefield, choose one - Return target creature card from your graveyard to your hand; or target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card.
+Evil Presence	nph	60	B	B	1	Enchantment - Aura			C	Enchant land Enchanted land is a Swamp.
+Geth's Verdict	nph	61	B	BB	2	Instant			C	Target player sacrifices a creature and loses 1 life.
+Glistening Oil	nph	62	B	BB	2	Enchantment - Aura			R	Enchant creature Enchanted creature has infect. At the beginning of your upkeep, put a -1/-1 counter on enchanted creature. When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.
+Grim Affliction	nph	63	B	2B	3	Instant			C	Put a -1/-1 counter on target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Ichor Explosion	nph	64	B	5BB	7	Sorcery			U	As an additional cost to cast Ichor Explosion, sacrifice a creature. All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.
+Life's Finale	nph	65	B	4BB	6	Sorcery			R	Destroy all creatures, then search target opponent's library for up to three creature cards and put them into his or her graveyard. Then that player shuffles his or her library.
+Mortis Dogs	nph	66	B	3B	4	Creature - Hound	2	2	C	Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn. When Mortis Dogs is put into a graveyard from the battlefield, target player loses life equal to its power.
+Parasitic Implant	nph	67	B	3B	4	Enchantment - Aura			C	Enchant creature At the beginning of your upkeep, enchanted creature's controller sacrifices it and you put a 1/1 colorless Myr artifact creature token onto the battlefield.
+Phyrexian Obliterator	nph	68	B	BBBB	4	Creature - Horror	5	5	M	Trample Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.
+Pith Driller	nph	69	B	4{!B}	5	Artifact Creature - Horror	2	4	C	({!B} can be paid with either {B} or 2 life.) When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.
+Postmortem Lunge	nph	70	B	X{!B}	1	Sorcery			U	({!B} can be paid with either {B} or 2 life.) Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
+Praetor's Grasp	nph	71	B	1BB	3	Sorcery			R	Search target opponent's library for a card and exile it face down. Then that player shuffles his or her library. You may look at and play that card for as long as it remains exiled.
+Reaper of Sheoldred	nph	72	B	4B	5	Creature - Horror	2	5	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.
+Sheoldred, Whispering One	nph	73	B	5BB	7	Legendary Creature - Praetor	6	6	M	Swampwalk At the beginning of your upkeep, return target creature card from your graveyard to the battlefield. At the beginning of each opponent's upkeep, that player sacrifices a creature.
+Surgical Extraction	nph	74	B	{!B}	1	Instant			R	({!B} can be paid with either {B} or 2 life.) Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Toxic Nim	nph	75	B	4BB	6	Creature - Zombie	4	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {B}: Regenerate Toxic Nim.
+Vault Skirge	nph	76	B	1{!B}	2	Artifact Creature - Imp	1	1	C	({!B} can be paid with either {B} or 2 life.) Flying Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whispering Specter	nph	77	B	1BB	3	Creature - Specter	1	1	U	Flying Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter he or she has.
+Act of Aggression	nph	78	R	3{!R}{!R}	5	Instant			U	({!R} can be paid with either {R} or 2 life.) Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Artillerize	nph	79	R	3R	4	Instant			C	As an additional cost to cast Artillerize, sacrifice an artifact or creature. Artillerize deals 5 damage to target creature or player.
+Bludgeon Brawl	nph	80	R	2R	3	Enchantment			R	Each noncreature, non-Equipment artifact is an Equipment with equip {X} and "Equipped creature gets +X/+0," where X is that artifact's converted mana cost.
+Chancellor of the Forge	nph	81	R	4RRR	7	Creature - Giant	5	5	R	You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield. When Chancellor of the Forge enters the battlefield, put X 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control.
+Fallen Ferromancer	nph	82	R	3R	4	Creature - Human Shaman	1	1	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {1}{R}, {T}: Fallen Ferromancer deals 1 damage to target creature or player.
+Flameborn Viron	nph	83	R	4RR	6	Creature - Insect	6	4	C	
+Furnace Scamp	nph	84	R	R	1	Creature - Beast	1	1	C	Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.
+Geosurge	nph	85	R	RRRR	4	Sorcery			U	Add {R}{R}{R}{R}{R}{R}{R} to your mana pool. Spend this mana only to cast artifact or creature spells.
+Gut Shot	nph	86	R	{!R}	1	Instant			U	({!R} can be paid with either {R} or 2 life.) Gut Shot deals 1 damage to target creature or player.
+Invader Parasite	nph	87	R	3RR	5	Creature - Insect	3	2	R	Imprint - When Invader Parasite enters the battlefield, exile target land. Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.
+Moltensteel Dragon	nph	88	R	4{!R}{!R}	6	Artifact Creature - Dragon	4	4	R	({!R} can be paid with either {R} or 2 life.) Flying {!R}: Moltensteel Dragon gets +1/+0 until end of turn.
+Ogre Menial	nph	89	R	3R	4	Creature - Ogre	0	4	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) {R}: Ogre Menial gets +1/+0 until end of turn.
+Priest of Urabrask	nph	90	R	2R	3	Creature - Human Cleric	2	1	U	When Priest of Urabrask enters the battlefield, add {R}{R}{R} to your mana pool.
+Rage Extractor	nph	91	R	4{!R}	5	Artifact			U	({!R} can be paid with either {R} or 2 life.) Whenever you cast a spell with p in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.
+Razor Swine	nph	92	R	2R	3	Creature - Boar	2	1	C	First strike Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Ruthless Invasion	nph	93	R	3{!R}	4	Sorcery			C	({!R} can be paid with either {R} or 2 life.) Nonartifact creatures can't block this turn.
+Scrapyard Salvo	nph	94	R	1RR	3	Sorcery			C	Scrapyard Salvo deals damage to target player equal to the number of artifact cards in your graveyard.
+Slag Fiend	nph	95	R	R	1	Creature - Construct	*	*	R	Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.
+Slash Panther	nph	96	R	4{!R}	5	Artifact Creature - Cat	4	2	C	({!R} can be paid with either {R} or 2 life.) Haste
+Tormentor Exarch	nph	97	R	3R	4	Creature - Cleric	2	2	U	When Tormentor Exarch enters the battlefield, choose one - Target creature gets +2/+0 until end of turn; or target creature gets -0/-2 until end of turn.
+Urabrask the Hidden	nph	98	R	3RR	5	Legendary Creature - Praetor	4	4	M	Creatures you control have haste. Creatures your opponents control enter the battlefield tapped.
+Victorious Destruction	nph	99	R	4R	5	Sorcery			C	Destroy target artifact or land. Its controller loses 1 life.
+Volt Charge	nph	100	R	2R	3	Instant			C	Volt Charge deals 3 damage to target creature or player. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Vulshok Refugee	nph	101	R	1RR	3	Creature - Human Warrior	3	2	U	Protection from red
+Whipflare	nph	102	R	1R	2	Sorcery			U	Whipflare deals 2 damage to each nonartifact creature.
+Beast Within	nph	103	G	2G	3	Instant			U	Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.
+Birthing Pod	nph	104	G	3{!G}	4	Artifact			R	({!G} can be paid with either {G} or 2 life.) {1}{!G}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+Brutalizer Exarch	nph	105	G	5G	6	Creature - Cleric	3	3	U	When Brutalizer Exarch enters the battlefield, choose one - Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it; or put target noncreature permanent on the bottom of its owner's library.
+Chancellor of the Tangle	nph	106	G	4GGG	7	Creature - Beast	6	7	R	You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add {G} to your mana pool. Vigilance, reach
+Corrosive Gale	nph	107	G	X{!G}	1	Sorcery			U	({!G} can be paid with either {G} or 2 life.) Corrosive Gale deals X damage to each creature with flying.
+Death-Hood Cobra	nph	108	G	1G	2	Creature - Snake	2	2	C	{1}{G}: Death-Hood Cobra gains reach until end of turn. (It can block creatures with flying.) {1}{G}: Death-Hood Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Fresh Meat	nph	109	G	3G	4	Instant			R	Put a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn.
+Glissa's Scorn	nph	110	G	1G	2	Instant			C	Destroy target artifact. Its controller loses 1 life.
+Glistener Elf	nph	111	G	G	1	Creature - Elf Warrior	1	1	C	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Greenhilt Trainee	nph	112	G	3G	4	Creature - Elf Warrior	2	3	U	{T}: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.
+Leeching Bite	nph	113	G	1G	2	Instant			C	Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.
+Maul Splicer	nph	114	G	6G	7	Creature - Human Artificer	1	1	C	When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield. Golem creatures you control have trample.
+Melira, Sylvok Outcast	nph	115	G	1G	2	Legendary Creature - Human Scout	2	2	R	You can't get poison counters. Creatures you control can't have -1/-1 counters placed on them. Creatures your opponents control lose infect.
+Mutagenic Growth	nph	116	G	{!G}	1	Instant			C	({!G} can be paid with either {G} or 2 life.) Target creature gets +2/+2 until end of turn.
+Mycosynth Fiend	nph	117	G	2G	3	Creature - Horror	2	2	U	Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.
+Noxious Revival	nph	118	G	{!G}	1	Instant			U	({!G} can be paid with either {G} or 2 life.) Put target card from a graveyard on top of its owner's library.
+Phyrexian Swarmlord	nph	119	G	4GG	6	Creature - Insect Horror	4	4	R	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) At the beginning of your upkeep, put a 1/1 green Insect creature token with infect onto the battlefield for each poison counter your opponents have.
+Rotted Hystrix	nph	120	G	4G	5	Creature - Beast	3	6	C	
+Spinebiter	nph	121	G	4GG	6	Creature - Beast	3	4	U	Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.) You may have Spinebiter assign its combat damage as though it weren't blocked.
+Thundering Tanadon	nph	122	G	4{!G}{!G}	6	Artifact Creature - Beast	5	4	C	({!G} can be paid with either {G} or 2 life.) Trample
+Triumph of the Hordes	nph	123	G	2GG	4	Sorcery			U	Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Viridian Betrayers	nph	124	G	1GG	3	Creature - Elf Warrior	3	1	C	Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Viridian Harvest	nph	125	G	G	1	Enchantment - Aura			C	Enchant artifact When enchanted artifact is put into a graveyard, you gain 6 life.
+Vital Splicer	nph	126	G	3G	4	Creature - Human Artificer	1	1	U	When Vital Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield. {1}: Regenerate target Golem you control.
+Vorinclex, Voice of Hunger	nph	127	G	6GG	8	Legendary Creature - Praetor	7	6	M	Trample Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced. Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.
+Jor Kadeen, the Prevailer	nph	128	RW	3RW	5	Legendary Creature - Human Warrior	5	4	R	First strike Metalcraft - Creatures you control get +3/+0 as long as you control three or more artifacts.
+Alloy Myr	nph	129	A	3	3	Artifact Creature - Myr	2	2	U	{T}: Add one mana of any color to your mana pool.
+Batterskull	nph	130	A	5	5	Artifact - Equipment			M	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +4/+4 and has vigilance and lifelink. {3}: Return Batterskull to its owner's hand. Equip {5}
+Blinding Souleater	nph	131	A	3	3	Artifact Creature - Cleric	1	3	C	{!W}, {T}: Tap target creature. ({!W} can be paid with either {W} or 2 life.)
+Caged Sun	nph	132	A	6	6	Artifact			R	As Caged Sun enters the battlefield, choose a color. Creatures you control of the chosen color get +1/+1. Whenever a land's ability adds one or more mana of the chosen color to your mana pool, add one additional mana of that color to your mana pool.
+Conversion Chamber	nph	133	A	3	3	Artifact			U	{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber. {2}, {T}, Remove a charge counter from Conversion Chamber: Put a 3/3 colorless Golem artifact creature token onto the battlefield.
+Darksteel Relic	nph	134	A	0	0	Artifact			U	Darksteel Relic is indestructible. (Effects that say "destroy" don't destroy it.)
+Etched Monstrosity	nph	135	A	5	5	Artifact Creature - Golem	10	10	M	Etched Monstrosity enters the battlefield with five -1/-1 counters on it. {W}{U}{B}{R}{G}, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
+Gremlin Mine	nph	136	A	1	1	Artifact			C	{1}, {T}, Sacrifice Gremlin Mine: Gremlin Mine deals 4 damage to target artifact creature. {1}, {T}, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.
+Hex Parasite	nph	137	A	1	1	Artifact Creature - Insect	1	1	R	{X}{!B}: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. ({!B} can be paid with either {B} or 2 life.)
+Hovermyr	nph	138	A	2	2	Artifact Creature - Myr	1	2	C	Flying, vigilance
+Immolating Souleater	nph	139	A	2	2	Artifact Creature - Hound	1	1	C	{!R}: Immolating Souleater gets +1/+0 until end of turn. ({!R} can be paid with either {R} or 2 life.)
+Insatiable Souleater	nph	140	A	4	4	Artifact Creature - Beast	5	1	C	{!G}: Insatiable Souleater gains trample until end of turn. ({!G} can be paid with either {G} or 2 life.)
+Isolation Cell	nph	141	A	4	4	Artifact			U	Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays {2}.
+Kiln Walker	nph	142	A	3	3	Artifact Creature - Construct	0	3	U	Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.
+Lashwrithe	nph	143	A	4	4	Artifact - Equipment			R	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +1/+1 for each Swamp you control. Equip {!B{!B} ({!B} can be paid with either {B} or 2 life.)
+Mindcrank	nph	144	A	2	2	Artifact			U	Whenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. (Damage dealt by sources without infect causes loss of life.)
+Mycosynth Wellspring	nph	145	A	2	2	Artifact			C	When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Myr Superion	nph	146	A	2	2	Artifact Creature - Myr	5	6	R	Spend only mana produced by creatures to cast Myr Superion.
+Necropouncer	nph	147	A	6	6	Artifact - Equipment			U	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +3/+1 and has haste. Equip {2}
+Omen Machine	nph	148	A	6	6	Artifact			R	Players can't draw cards. At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
+Pestilent Souleater	nph	149	A	5	5	Artifact Creature - Insect	3	3	C	{!B}: Pestilent Souleater gains infect until end of turn. ({!B} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Phyrexian Hulk	nph	150	A	6	6	Artifact Creature - Golem	5	4	C	
+Pristine Talisman	nph	151	A	3	3	Artifact			C	{T}: Add {1} to your mana pool. You gain 1 life.
+Shrine of Boundless Growth	nph	152	A	3	3	Artifact			U	At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth. {T}, Sacrifice Shrine of Boundless Growth: Add {1} to your mana pool for each charge counter on Shrine of Boundless Growth.
+Shrine of Burning Rage	nph	153	A	2	2	Artifact			U	At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage. {3}, {T}, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.
+Shrine of Limitless Power	nph	154	A	3	3	Artifact			U	At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power. {4}, {T}, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.
+Shrine of Loyal Legions	nph	155	A	2	2	Artifact			U	At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions. {3}, {T}, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions.
+Shrine of Piercing Vision	nph	156	A	2	2	Artifact			U	At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision. {T}, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+Sickleslicer	nph	157	A	3	3	Artifact - Equipment			U	Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.) Equipped creature gets +2/+2. Equip {4}
+Soul Conduit	nph	158	A	6	6	Artifact			R	{6}, {T}: Two target players exchange life totals.
+Spellskite	nph	159	A	2	2	Artifact Creature - Horror	0	4	R	{!U}: Change a target of target spell or ability to Spellskite. ({!U} can be paid with either {U} or 2 life.)
+Surge Node	nph	160	A	1	1	Artifact			U	Surge Node enters the battlefield with six charge counters on it. {1}, {T}, Remove a charge counter from Surge Node: Put a charge counter on target artifact.
+Sword of War and Peace	nph	161	A	3	3	Artifact - Equipment			M	Equipped creature gets +2/+2 and has protection from red and from white. Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand. Equip {2}
+Torpor Orb	nph	162	A	2	2	Artifact			R	Creatures entering the battlefield don't cause abilities to trigger.
+Trespassing Souleater	nph	163	A	3	3	Artifact Creature - Construct	2	2	C	{!U}: Trespassing Souleater is unblockable this turn. ({!U} can be paid with either {U} or 2 life.)
+Unwinding Clock	nph	164	A	4	4	Artifact			R	Untap all artifacts you control during each other player's untap step.
+Phyrexia's Core	nph	165	L		0	Land			U	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice an artifact: You gain 1 life.
+Plains	nph	166	L		0	Basic Land - Plains			L	W
+Island	nph	168	L		0	Basic Land - Island			L	U
+Swamp	nph	170	L		0	Basic Land - Swamp			L	B
+Mountain	nph	172	L		0	Basic Land - Mountain			L	R
+Forest	nph	174	L		0	Basic Land - Forest			L	G

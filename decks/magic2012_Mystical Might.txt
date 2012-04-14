@@ -1,0 +1,23 @@
+14	island
+10	plains
+1	aether adept
+1	arbalest elite
+2	aven fleetwing
+2	benalish veteran
+3	coral merfolk
+1	lord of the unreal
+3	phantasmal bear
+2	phantasmal dragon
+2	rusted sentinel
+1	serra angel
+1	siege mastodon
+3	skywinder drake
+1	sphinx of uthuun
+2	stormfront pegasus
+2	cancel
+2	elixir of immortality
+1	levitation
+1	mind control
+1	negate
+2	oblivion ring
+2	unsummon

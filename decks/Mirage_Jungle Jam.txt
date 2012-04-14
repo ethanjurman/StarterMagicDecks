@@ -1,0 +1,26 @@
+3	quirion elves
+2	foratog
+3	gibbering hyenas
+3	jolrael's centaur
+2	nettletooth djinn
+1	benevolent unicorn
+2	ekundu griffin
+2	mtenda griffin
+2	teremko griffin
+2	unyaro griffin
+1	zuberi, golden feather
+1	worldly tutor
+3	rampant growth
+2	armor of thorns
+1	ivory charm
+1	disenchant
+2	pacifism
+1	ritual of steel
+1	afterlife
+1	sawback manticore
+1	vitalizing cascade
+1	mountain
+10	forest
+10	plains
+1	grasslands
+1	mountain valley

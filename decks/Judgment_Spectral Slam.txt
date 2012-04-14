@@ -1,0 +1,24 @@
+12	forest
+12	plains
+1	krosan verge
+1	nantuko monastery
+1	forcemage advocate
+2	ironshell beetle
+1	phantom nantuko
+3	phantom tiger
+2	phantom centaur
+2	benevolent bodyguard
+1	patrol hound
+4	phantom nomad
+2	hallowed healer
+1	battlewise aven
+2	blessed orator
+2	phantom flock
+1	exoskeletal armor
+2	elephant guide
+2	seton's desire
+1	guided strike
+1	strength of isolation
+1	spirit flare
+2	second thoughts
+1	mirari's wake

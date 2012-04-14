@@ -1,0 +1,22 @@
+9	mountain
+14	forest
+1	dryad arbor
+3	grinning ignus
+2	bloodshot trainee
+1	fomori nomad
+1	skizzik surger
+1	boldwyr intimidator
+1	spellwild ouphe
+3	thornweald archer
+3	nessian courser
+2	centaur omenreader
+2	imperiosaur
+1	baru, fist of krosa
+3	sporoloth ancient
+1	nacatl war-pride
+1	quagnoth
+1	emblem of the warmind
+3	flowstone embrace
+3	ghostfire
+3	edge of autumn
+1	phosphorescent feast

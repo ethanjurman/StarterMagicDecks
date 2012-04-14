@@ -1,0 +1,21 @@
+2	oran-rief survivalist
+2	highland berserker
+1	stonework puma
+1	awakener druid
+1	borderland ranger
+1	greenweaver druid
+1	tajuru archer
+1	joraga bard
+1	kazuul warlord
+2	tuktuk grunts
+1	murasa pyromancer
+1	turntimber ranger
+2	giant growth
+2	lightning bolt
+1	act of treason
+1	beast hunt
+1	overrun
+1	fireball
+9	forest
+8	mountain
+1	terramorphic expanse

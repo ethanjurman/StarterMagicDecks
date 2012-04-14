@@ -1,0 +1,22 @@
+14	forest
+7	plains
+2	vec townships
+3	master decoy
+2	soltari trooper
+1	soltari crusader
+3	skyshroud elf
+4	muscle sliver
+3	pincher beetles
+3	rootwalla
+1	krakilin
+3	trained armodon
+1	elven warhounds
+2	ranger en-vec
+1	anoint
+1	disenchant
+3	pacifism
+1	elvish fury
+1	needle storm
+1	aluren
+2	overrun
+1	recycle

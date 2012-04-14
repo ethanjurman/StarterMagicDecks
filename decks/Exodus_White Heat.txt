@@ -1,0 +1,50 @@
+13	plains
+9	mountain
+4	soltari foot soldier
+2	master decoy
+2	pegasus stampede
+4	welkin hawk
+2	knight of dawn
+1	paladin en-vec
+3	soltari visionary
+1	wall of nets
+1	limited resources
+1	reconnaissance
+1	temper
+1	shackles
+1	onslaught
+2	searing touch
+2	shock
+1	goblin bombardment
+4	kindle
+1	shattering pulse
+2	sonic burst
+2	lightning blast
+2	city of brass
+3	gemstone mine
+4	mountain
+7	plains
+3	undiscovered paradise
+2	infantry veteran
+4	soltari foot soldier
+4	vigilant martyr
+4	welkin hawk
+4	order of the white shield
+2	soltari priest
+2	white knight
+2	soltari visionary
+2	tithe
+2	disenchant
+2	armageddon
+3	shock
+4	incinerate
+4	kindle
+1	circle of protection: red
+2	disenchant
+1	tariff
+1	crusade
+2	aura of silence
+1	zur's weirding
+1	city of solitude
+2	winter orb
+4	wasteland

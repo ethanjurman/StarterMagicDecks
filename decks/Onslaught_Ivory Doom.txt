@@ -1,0 +1,25 @@
+8	plains
+8	swamp
+4	barren moor
+4	secluded steppe
+1	starlit sanctum
+3	foothill guide
+2	battlefield medic
+2	disciple of grace
+3	daru healer
+2	doubtless one
+1	daunting defender
+1	aven soulgazer
+4	disciple of malice
+1	headhunter
+2	cabal archon
+1	cabal executioner
+1	gangrenous goliath
+2	pacifism
+1	akroma's blessing
+1	astral slide
+1	sigil of the new dawn
+2	smother
+2	swat
+1	death pulse
+2	profane prayers

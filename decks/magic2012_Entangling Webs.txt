@@ -1,0 +1,23 @@
+18	forest
+7	mountain
+2	acidic slime
+1	arachnus spinner
+2	crimson mage
+1	garruk's companion
+1	garruk's horde
+3	giant spider
+1	lightning elemental
+3	llanowar elves
+1	runeclaw bear
+2	stampeding rhino
+2	stingerfling spider
+1	vastwood gorger
+3	arachnus web
+1	fireball
+1	fling
+2	greatsword
+2	hunter's insight
+1	overrun
+3	rampant growth
+1	slaughter cry
+1	titanic growth

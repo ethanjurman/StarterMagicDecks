@@ -1,0 +1,23 @@
+10	forest
+14	plains
+1	aegis angel
+2	alabaster mage
+3	assault griffin
+2	auramancer
+2	cudgel troll
+2	elite vanguard
+1	gladecover scout
+2	griffin rider
+2	griffin sentinel
+1	jade mage
+1	mesa enchantress
+2	peregrine griffin
+2	sacred wolf
+2	thran golem
+2	divine favor
+1	lifelink
+1	lure
+1	naturalize
+3	pacifism
+2	spirit mantle
+1	trollhide

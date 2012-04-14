@@ -1,0 +1,22 @@
+20	forest
+3	diligent farmhand
+2	krosan wayfarer
+2	nantuko tracer
+3	werebear
+2	anurid swarmsnapper
+2	nantuko elder
+1	anurid barkripper
+2	brawn
+1	krosan archer
+2	rabid elephant
+2	battlefield scrounger
+4	giant warthog
+1	thriss, nantuko primus
+2	tunneler wurm
+2	moment's peace
+2	deep reconnaissance
+1	seton's desire
+2	sudden strength
+1	grizzly fate
+2	roar of the wurm
+1	crush of wurms

@@ -1,0 +1,24 @@
+10	swamp
+13	forest
+1	pendelhaven
+3	deathspore thallid
+2	thallid
+2	pendelhaven elder
+3	thallid shell-dweller
+1	thelon of havenwood
+3	thallid germinator
+1	wormwood dryad
+2	herd gnarr
+2	sporesower thallid
+2	savage thallid
+1	feebleness
+1	assassinate
+2	fallen ideal
+2	sudden death
+1	dread return
+1	might of old krosa
+2	sprout
+2	strength in numbers
+1	krosan grip
+1	verdant embrace
+1	claws of gix

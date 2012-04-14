@@ -1,0 +1,22 @@
+9	forest
+9	plains
+1	cudgel troll
+1	daggerback basilisk
+2	elvish visionary
+1	gigantomancer
+1	kor spiritdancer
+1	nema siltlurker
+1	ornithopter
+1	pelakka wurm
+1	prized unicorn
+1	soul's attendant
+2	sporecap spider
+1	stomper cub
+1	angel's mercy
+1	boar umbra
+1	eland umbra
+1	harmless assault
+1	mammoth umbra
+2	pacifism
+1	righteousness
+1	spider umbra

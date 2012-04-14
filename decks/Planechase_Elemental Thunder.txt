@@ -1,0 +1,37 @@
+9	forest
+2	gruul turf
+9	mountain
+2	shivan oasis
+2	terramorphic expanse
+1	bogardan firefiend
+1	bogardan rager
+1	briarhorn
+1	cinder elemental
+1	fertilid
+2	flamekin harbinger
+1	forgotten ancient
+1	ivy elemental
+1	living hive
+2	rockslide elemental
+1	rumbling slum
+1	silverglade elemental
+2	smokebraider
+1	taurean mauler
+1	tornado elemental
+1	verdant force
+1	assault // battery
+1	blaze
+1	branching bolt
+1	browbeat
+1	explosive vegetation
+1	fertile ground
+1	fires of yavimaya
+1	hull breach
+1	mage slayer
+1	mask of memory
+1	pyrotechnics
+1	rampant growth
+1	relentless assault
+1	savage twister
+1	search for tomorrow
+1	tribal unity

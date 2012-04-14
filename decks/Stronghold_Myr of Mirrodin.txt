@@ -1,0 +1,20 @@
+24	plains
+1	auriok edgewright
+2	darksteel myr
+1	darksteel sentinel
+2	ghalma's warden
+3	gold myr
+2	kemba's skyguard
+1	myr battlesphere
+2	myr galvanizer
+2	myrsmith
+2	palladium myr
+2	perilous myr
+1	razor hippogriff
+1	sunblast angel
+3	arrest
+1	dispense justice
+2	inspired charge
+3	origin spellbomb
+3	revoke existence
+2	seize the initiative

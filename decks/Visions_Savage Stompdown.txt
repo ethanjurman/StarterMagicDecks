@@ -1,0 +1,24 @@
+1	viashivan dragon
+2	kyscu drake
+2	spitting drake
+2	hulking cyclops
+1	locust swarm
+2	jungle troll
+2	giant caterpillar
+3	raging gorilla
+1	bull elephant
+1	king cheetah
+2	quirion elves
+1	crash of rhinos
+1	granger guildmage
+3	ekundu cyclops
+1	natural order
+1	creeping mold
+1	volcanic geyser
+2	unyaro bee sting
+1	hearth charm
+1	emerald charm
+3	feral instinct
+2	rock slide
+12	mountain
+12	forest

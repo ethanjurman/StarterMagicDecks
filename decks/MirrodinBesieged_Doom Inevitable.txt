@@ -1,0 +1,27 @@
+13	island
+12	swamp
+1	armored cancrix
+1	barony vampire
+1	caustic hound 
+2	fume spitter
+2	myr sire
+3	oculus
+2	phyrexian rager
+2	pierce strider
+1	psychosis crawler
+1	skinrender
+1	vedalken anatomist
+1	bonehoard
+2	contagion clasp
+1	disentomb
+1	doom blade
+1	flayer husk
+1	horrifying revelation
+1	mind control
+2	skinwing
+1	spread the sickness
+1	steady progress
+1	steel sabotage
+1	strandwalker
+2	trigon of corruption
+2	vivisection

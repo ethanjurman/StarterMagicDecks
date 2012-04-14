@@ -1,0 +1,24 @@
+1	blighted shaman
+2	restless dead
+2	skulking ghost
+3	breathstealer
+3	feral shadow
+3	urborg panther
+2	dread specter
+1	fetid horror
+1	gravebane zombie
+1	ravenous vampire
+1	spirit of the night
+1	soulshriek
+1	shallow grave
+2	wall of corpses
+1	withering boon
+2	bone harvest
+2	dark banishing
+2	stupor
+1	kaervek's hex
+1	nocturnal raid
+1	drain life
+3	charcoal diamond
+1	phyrexian vault
+22	swamp

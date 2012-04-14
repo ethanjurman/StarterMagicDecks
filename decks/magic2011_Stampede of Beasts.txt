@@ -1,0 +1,28 @@
+16	forest
+8	mountain
+2	awakener druid
+2	duskdale wurm
+2	garruk's packleader
+2	giant spider
+1	greater basilisk
+2	llanowar elves
+2	prized unicorn
+1	protean hydra
+2	runeclaw bear
+1	sacred wolf
+1	spined wurm
+2	sylvan ranger
+2	yavimaya wurm
+1	act of treason
+1	back to nature
+1	chandra's outrage
+1	cultivate
+1	fireball
+1	fling
+2	giant growth
+1	lava axe
+1	lightning bolt
+1	nature's spiral
+1	overwhelming stampede
+1	plummet
+1	whispersilk cloak

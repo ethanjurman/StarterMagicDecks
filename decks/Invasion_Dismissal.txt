@@ -1,0 +1,32 @@
+11	island
+9	swamp
+2	salt marsh
+1	sulfur vent
+2	faerie squadron
+1	tidal visionary
+2	dream thrush
+1	metathran zombie
+1	vodalian hypnotist
+2	vodalian serpent
+1	duskwalker
+1	nightscape apprentice
+1	hate weaver
+3	ravenous rats
+1	phyrexian infiltrator
+1	urborg emissary
+1	vodalian zombie
+2	urborg drake
+1	stalking assassin
+1	slinking serpent
+1	disrupt
+1	opt
+1	prohibit
+2	probe
+1	repulse
+1	cursed flesh
+1	agonizing demise
+3	recoil
+1	lobotomy
+1	seer's vision
+1	spite // malice
+1	drake-skull cameo

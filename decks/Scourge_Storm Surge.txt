@@ -1,0 +1,28 @@
+14	plains
+6	island
+2	lonely sandbar
+2	secluded steppe
+1	daru mender
+1	deftblade elite
+3	frontline strategist
+2	aven farseer
+2	silver knight
+1	whipcorder
+1	white knight
+2	zealous inquisitor
+1	ageless sentinels
+2	aven liberator
+1	noble templar
+1	coast watcher
+1	willbender
+1	echo tracer
+1	shoreline ranger
+1	rain of blades
+2	reward the faithful
+3	astral steel
+3	wing shards
+1	chain of vapor
+1	spy network
+2	hindering touch
+1	temporal fissure
+1	mind's desire

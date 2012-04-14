@@ -1,0 +1,23 @@
+12	island
+12	mountain
+1	argent sphinx
+2	blade-tribe berserkers
+3	chrome steed
+2	embersmith
+1	etched champion
+2	iron myr
+2	lumengrid drake
+2	memnite
+2	riddlesmith
+2	silver myr
+3	snapsail glider
+2	trinket mage
+1	accorder's shield
+1	darksteel axe
+1	disperse
+1	echo circlet
+3	galvanic blast
+1	golem foundry
+1	golem's heart
+2	rusted relic
+1	sylvok lifestaff

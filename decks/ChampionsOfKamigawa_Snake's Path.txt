@@ -1,0 +1,20 @@
+24	forest
+3	orochi leafcaller
+3	orochi ranger
+4	orochi sustainer
+3	sakura-tribe elder
+3	matsu-tribe decoy
+1	orochi eggwatcher
+3	kashi-tribe reaver
+1	sachi, daughter of seshiro
+1	sosuke, son of seshiro
+2	kashi-tribe warriors
+1	time of need
+1	wear away
+2	serpent skin
+1	lure
+2	strength of cedars
+1	orochi hatchery
+2	hankyu
+1	sensei's divining top
+1	junkyo bell

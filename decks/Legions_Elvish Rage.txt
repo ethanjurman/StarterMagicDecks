@@ -1,0 +1,22 @@
+25	forest
+1	birchlore rangers
+3	defiant elf
+1	elvish pioneer
+1	elvish scrapper
+3	patron of the wild
+1	snarling undorak
+1	bloodline shaman
+2	gempalm strider
+3	stonewood invoker
+1	tribal forcemage
+1	wellwisher
+2	wirewood elf
+2	wirewood hivemaster
+1	elvish warrior
+2	everglove courier
+2	timberwatch elf
+1	elvish pathcutter
+1	heedless one
+2	wirewood channeler
+2	elven riders
+1	elvish soultiller

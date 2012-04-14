@@ -1,0 +1,24 @@
+12	swamp
+11	mountain
+1	rix maadi, dungeon palace
+2	slithering shade
+2	drekavac
+2	ragamuffyn
+2	sadistic augermage
+2	demon's jester
+1	slaughterhouse bouncer
+2	scorched rusalka
+2	torpid moloch
+3	gobhobbler rats
+1	lyzolda, the blood witch
+1	rakdos ickspitter
+1	rakdos guildmage
+1	douse in gloom
+1	nihilistic glee
+3	seal of fire
+2	taste for mayhem
+2	ignorant bliss
+2	cackling flames
+1	wrecking ball
+1	twinstrike
+2	rakdos signet

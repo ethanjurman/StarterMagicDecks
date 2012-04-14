@@ -1,0 +1,22 @@
+1	coral merfolk
+2	sage owl
+1	frontier guide
+1	gomazoa
+1	merfolk wayfinder
+1	grazing gladehart
+1	turntimber basilisk
+2	windrider eel
+1	living tsunami
+1	territorial baloth
+1	sphinx of jwar isle
+1	baloth woodcrasher
+1	roil elemental
+1	unsummon
+1	giant growth
+2	ior ruin expedition
+2	paralyzing grasp
+1	harrow
+1	mind control
+10	island
+7	forest
+1	terramorphic expanse

@@ -1,0 +1,27 @@
+3	plains
+3	island
+3	swamp
+3	mountain
+9	forest
+2	mirrodin's core
+1	viridian acolyte
+1	joiner adept
+2	sylvok explorer
+3	suntouched myr
+2	etched oracle
+3	skyreach manta
+2	spinal parasite
+1	sawtooth thresher
+1	lunar avenger
+1	suncrusher
+2	tel-jilad justice
+1	journey of discovery
+1	dawn's reflection
+2	chromatic sphere
+1	wayfarer's bauble
+2	darksteel pendant
+2	energy chamber
+2	pentad prism
+3	darksteel ingot
+2	infused arrows
+2	heliophial

@@ -1,0 +1,19 @@
+1	kor duelist
+2	kor skyfisher
+1	armament master
+2	kor aeronaut
+2	kor hookmaster
+2	kor sanctifiers
+2	kor cartographer
+1	serra angel
+1	spidersilk net
+1	explorer's scope
+1	trusty machete
+2	pacifism
+1	narrow escape
+1	divine verdict
+1	windborne charge
+1	landbind ritual
+1	conqueror's pledge
+16	plains
+2	kabira crossroads

@@ -1,0 +1,25 @@
+14	mountain
+10	swamp
+3	blood ogre
+2	bloodrage vampire
+2	crumbling colossus
+3	duskhunter bat
+1	flameblast dragon
+1	goblin arsonist
+1	goblin bangchuckers
+2	goblin fireslinger
+1	goblin tunneler
+2	gorehorn minotaurs
+1	manic vandal
+1	onyx mage
+2	stormblood berserker
+1	tormented soul
+2	vampire outcasts
+1	volcanic dragon
+1	hideous visage
+1	incinerate
+3	shock
+1	swiftfoot boots
+1	taste of blood
+2	tectonic rift
+1	warstorm surge

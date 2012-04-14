@@ -1,0 +1,24 @@
+10	forest
+11	island
+2	simic growth chamber
+1	novijen, heart of progress
+3	simic initiate
+1	starved rusalka
+2	simic ragworm
+1	indrik stomphowler
+2	simic basilisk
+1	protean hulk
+1	drowned rusalka
+2	plaxmanta
+2	surveilling sprite
+2	silkwing scout
+2	vigean graftmage
+2	helium squirter
+2	coiling oracle
+3	vigean hydropon
+1	experiment kraj
+1	simic guildmage
+2	flash foliage
+2	thrive
+2	stasis cell
+2	shielding plax

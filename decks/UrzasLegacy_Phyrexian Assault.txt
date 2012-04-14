@@ -1,0 +1,32 @@
+12	swamp
+10	mountain
+1	polluted mire
+1	smoldering crater
+1	phyrexian denouncer
+1	fog of gnats
+1	looming shade
+1	phyrexian broodlings
+1	giant cockroach
+2	phyrexian debaser
+2	defender of chaos
+2	ghitu slinger
+2	goblin medics
+1	viashino runner
+2	expunge
+1	corrupt
+1	headlong rush
+2	arc lightning
+1	heat ray
+1	ghitu encampment
+1	spawning pool
+2	bone shredder
+1	tethered skirge
+2	phyrexian defiler
+1	viashino heretic
+1	avalanche riders
+1	viashino cutthroat
+1	phyrexian reclamation
+1	treacherous link
+1	engineered plague
+1	phyrexian plaguelord
+1	molten hydra

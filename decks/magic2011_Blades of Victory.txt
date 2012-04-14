@@ -1,0 +1,27 @@
+16	plains
+9	swamp
+2	ajani's pridemate
+1	angelic arbiter
+2	cloud crusader
+2	elite vanguard
+2	infantry veteran
+2	palace guard
+2	serra angel
+2	siege mastodon
+1	silvercoat lion
+1	vengeful archon
+1	war priest of thune
+1	white knight
+1	ajani's mantra
+2	armored ascension
+1	assassinate
+1	condemn
+1	doom blade
+1	duress
+2	inspired charge
+1	mighty leap
+1	mind rot
+2	pacifism
+1	safe passage
+1	stabbing pain
+1	warlord's axe

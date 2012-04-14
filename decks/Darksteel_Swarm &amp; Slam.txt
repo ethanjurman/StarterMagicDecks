@@ -1,0 +1,22 @@
+16	forest
+8	plains
+2	viridian shaman
+2	tel-jilad outrider
+2	infested roothold
+1	tel-jilad archers
+2	tangle spider
+2	pteron ghost
+4	gold myr
+3	tangle golem
+4	echoing courage
+1	pulse of the tangle
+2	one dozen eyes
+1	purge
+2	raise the alarm
+1	test of faith
+1	arrest
+1	stir the pride
+2	spawning pit
+1	thunderstaff
+1	wirefly hive
+1	myr matrix

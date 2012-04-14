@@ -1,0 +1,22 @@
+6	mountain
+8	forest
+8	plains
+1	gemstone mine
+2	terramorphic expanse
+2	two-headed sliver
+3	bonesplitter sliver
+2	fury sliver
+4	gemhide sliver
+1	fungus sliver
+2	might sliver
+3	sidewinder sliver
+3	quilled sliver
+3	watcher sliver
+1	pulmonic sliver
+2	spined sliver
+1	harmonic sliver
+2	venser's sliver
+1	avoid fate
+2	strength in numbers
+1	molder
+2	spirit loop

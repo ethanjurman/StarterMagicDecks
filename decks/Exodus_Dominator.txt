@@ -1,0 +1,47 @@
+26	island
+2	cloud spirit
+4	thalakos scout
+1	dominating licid
+2	mirozel
+2	wayward soul
+2	killer whale
+2	mind games
+3	mana leak
+4	counterspell
+1	legacy's allure
+2	fade away
+1	propaganda
+1	time ebb
+2	capsize
+1	equilibrium
+2	forbid
+1	treasure trove
+1	erratic portal
+17	island
+3	undiscovered paradise
+4	wasteland
+3	man-o'-war
+2	suq'ata firewalker
+2	force spike
+2	mind games
+1	power sink
+2	impulse
+4	mana leak
+4	memory lapse
+4	counterspell
+1	legacy's allure
+2	propaganda
+2	capsize
+2	fellwar stone
+4	winter orb
+1	erratic portal
+4	hydroblast
+1	chill
+1	hurkyl's recall
+2	boomerang
+1	legacy's allure
+2	propaganda
+1	zur's weirding
+1	phyrexian furnace
+1	erratic portal
+1	portcullis

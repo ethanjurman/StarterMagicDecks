@@ -1,0 +1,526 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Alert Shu Infantry	p3k	1	W	2W	3	Creature - Human Soldier	2	2	U	Vigilance
+Eightfold Maze	p3k	2	W	2W	3	Instant			R	Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step. Destroy target attacking creature.
+Empty City Ruse	p3k	3	W	W	1	Sorcery			U	Target opponent skips all combat phases of his or her next turn.
+False Defeat	p3k	4	W	3W	4	Sorcery			C	Return target creature card from your graveyard to the battlefield.
+Flanking Troops	p3k	5	W	2WW	4	Creature - Human Soldier	2	2	U	Whenever Flanking Troops attacks, you may tap target creature.
+Guan Yu, Sainted Warrior	p3k	6	W	3WW	5	Legendary Creature - Human Soldier Warrior	3	5	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) When Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library.
+Guan Yu's 1,000-Li March	p3k	7	W	4WW	6	Sorcery			R	Destroy all tapped creatures.
+Huang Zhong, Shu General	p3k	8	W	2WW	4	Legendary Creature - Human Soldier	2	3	R	Huang Zhong, Shu General can't be blocked by more than one creature.
+Kongming, "Sleeping Dragon"	p3k	9	W	2WW	4	Legendary Creature - Human Advisor	2	2	R	Other creatures you control get +1/+1.
+Kongming's Contraptions	p3k	10	W	3W	4	Creature - Human Soldier	2	4	R	{T}: Kongming's Contraptions deals 2 damage to target attacking creature. Activate this ability only during the declare attackers step and only if you've been attacked this step.
+Liu Bei, Lord of Shu	p3k	11	W	3WW	5	Legendary Creature - Human Soldier	2	4	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.
+Loyal Retainers	p3k	12	W	2W	3	Creature - Human Advisor	1	1	U	Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+Misfortune's Gain	p3k	13	W	3W	4	Sorcery			C	Destroy target creature. Its owner gains 4 life.
+Pang Tong, "Young Phoenix"	p3k	14	W	1WW	3	Legendary Creature - Human Advisor	1	2	R	{T}: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+Peach Garden Oath	p3k	15	W	W	1	Sorcery			U	You gain 2 life for each creature you control.
+Rally the Troops	p3k	16	W	W	1	Instant			U	Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step. Untap all creatures you control.
+Ravages of War	p3k	17	W	3W	4	Sorcery			R	Destroy all lands.
+Riding Red Hare	p3k	18	W	2W	3	Sorcery			C	Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)
+Shu Cavalry	p3k	19	W	2W	3	Creature - Human Soldier	2	2	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Shu Defender	p3k	20	W	2W	3	Creature - Human Soldier	2	2	C	Whenever Shu Defender blocks, it gets +0/+2 until end of turn.
+Shu Elite Companions	p3k	21	W	4W	5	Creature - Human Soldier	3	3	U	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Shu Elite Infantry	p3k	22	W	3W	4	Creature - Human Soldier	3	3	C	
+Shu Farmer	p3k	23	W	1W	2	Creature - Human	1	1	C	{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+Shu Foot Soldiers	p3k	24	W	2W	3	Creature - Human Soldier	2	3	C	
+Shu General	p3k	25	W	3W	4	Creature - Human Soldier	2	2	U	Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Shu Grain Caravan	p3k	26	W	2W	3	Creature - Human Soldier	2	2	C	When Shu Grain Caravan enters the battlefield, you gain 2 life.
+Shu Soldier-Farmers	p3k	27	W	4W	5	Creature - Human Soldier	2	4	U	When Shu Soldier-Farmers enters the battlefield, you gain 4 life.
+Vengeance	p3k	28	W	3W	4	Sorcery			U	Destroy target tapped creature.
+Virtuous Charge	p3k	29	W	2W	3	Sorcery			C	Creatures you control get +1/+1 until end of turn.
+Volunteer Militia	p3k	30	W	W	1	Creature - Human Soldier	1	2	C	
+Warrior's Stand	p3k	31	W	1W	2	Instant			U	Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step. Creatures you control get +2/+2 until end of turn.
+Zhang Fei, Fierce Warrior	p3k	32	W	4WW	6	Legendary Creature - Human Soldier Warrior	4	4	R	Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Zhao Zilong, Tiger General	p3k	33	W	3WW	5	Legendary Creature - Human Soldier Warrior	3	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn.
+Balance of Power	p3k	34	U	3UU	5	Sorcery			R	If target opponent has more cards in hand than you, draw cards equal to the difference.
+Borrowing 100,000 Arrows	p3k	35	U	2U	3	Sorcery			U	Draw a card for each tapped creature target opponent controls.
+Brilliant Plan	p3k	36	U	4U	5	Sorcery			U	Draw three cards.
+Broken Dam	p3k	37	U	U	1	Sorcery			C	Tap one or two target creatures without horsemanship.
+Capture of Jingzhou	p3k	38	U	3UU	5	Sorcery			R	Take an extra turn after this one.
+Champion's Victory	p3k	39	U	U	1	Instant			U	Cast Champion's Victory only during the declare attackers step and only if you've been attacked this step. Return target attacking creature to its owner's hand.
+Council of Advisors	p3k	40	U	2U	3	Creature - Human Advisor	1	1	U	When Council of Advisors enters the battlefield, draw a card.
+Counterintelligence	p3k	41	U	2UU	4	Sorcery			U	Return one or two target creatures to their owners' hands.
+Exhaustion	p3k	42	U	2U	3	Sorcery			R	Creatures and lands target opponent controls don't untap during his or her next untap step.
+Extinguish	p3k	43	U	1U	2	Instant			C	Counter target sorcery spell.
+Forced Retreat	p3k	44	U	2U	3	Sorcery			C	Put target creature on top of its owner's library.
+Lady Sun	p3k	45	U	1UU	3	Legendary Creature - Human Advisor	1	1	R	{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+Lu Meng, Wu General	p3k	46	U	3UU	5	Legendary Creature - Human Soldier	4	4	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Lu Su, Wu Advisor	p3k	47	U	3UU	5	Legendary Creature - Human Advisor	1	2	R	{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+Lu Xun, Scholar General	p3k	48	U	2UU	4	Legendary Creature - Human Soldier	1	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.
+Mystic Denial	p3k	49	U	1UU	3	Instant			U	Counter target creature or sorcery spell.
+Preemptive Strike	p3k	50	U	1U	2	Instant			C	Counter target creature spell.
+Red Cliffs Armada	p3k	51	U	4U	5	Creature - Human Soldier	5	4	U	Red Cliffs Armada can't attack unless defending player controls an Island.
+Sage's Knowledge	p3k	52	U	2U	3	Sorcery			C	Return target sorcery card from your graveyard to your hand.
+Strategic Planning	p3k	53	U	1U	2	Sorcery			U	Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Straw Soldiers	p3k	54	U	1U	2	Creature - Scarecrow Soldier	1	3	C	
+Sun Ce, Young Conquerer	p3k	55	U	3UU	5	Legendary Creature - Human Soldier	3	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.
+Sun Quan, Lord of Wu	p3k	56	U	4UU	6	Legendary Creature - Human Soldier	4	4	R	Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)
+Wu Admiral	p3k	57	U	4U	5	Creature - Human Soldier	3	3	U	Wu Admiral gets +1/+1 as long as an opponent controls an Island.
+Wu Elite Cavalry	p3k	58	U	3U	4	Creature - Human Soldier	2	3	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wu Infantry	p3k	59	U	1U	2	Creature - Human Soldier	2	1	C	
+Wu Light Cavalry	p3k	60	U	1U	2	Creature - Human Soldier	1	2	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wu Longbowman	p3k	61	U	2U	3	Creature - Human Soldier Archer	1	1	U	{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+Wu Scout	p3k	62	U	1U	2	Creature - Human Soldier Scout	1	1	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) When Wu Scout enters the battlefield, look at target opponent's hand.
+Wu Spy	p3k	63	U	1U	2	Creature - Human Soldier Rogue	1	1	U	When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into his or her graveyard.
+Wu Warship	p3k	64	U	2U	3	Creature - Human Soldier	3	3	C	Wu Warship can't attack unless defending player controls an Island.
+Zhou Yu, Chief Commander	p3k	65	U	5UU	7	Legendary Creature - Human Soldier	8	8	R	Zhou Yu, Chief Commander can't attack unless defending player controls an Island.
+Zhuge Jin, Wu Strategist	p3k	66	U	1UU	3	Legendary Creature - Human Advisor	1	1	R	{T}: Target creature is unblockable this turn. Activate this ability only during your turn, before attackers are declared.
+Ambition's Cost	p3k	67	B	3B	4	Sorcery			R	You draw three cards and you lose 3 life.
+Cao Cao, Lord of Wei	p3k	68	B	3BB	5	Legendary Creature - Human Soldier	3	3	R	{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.
+Cao Ren, Wei Commander	p3k	69	B	2BB	4	Legendary Creature - Human Soldier Warrior	3	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) When Cao Ren, Wei Commander enters the battlefield, you lose 3 life.
+Coercion	p3k	70	B	2B	3	Sorcery			U	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Corrupt Court Official	p3k	71	B	1B	2	Creature - Human Advisor	1	1	U	When Corrupt Court Official enters the battlefield, target opponent discards a card.
+Cunning Advisor	p3k	72	B	3B	4	Creature - Human Advisor	1	1	U	{T}: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared.
+Deception	p3k	73	B	2B	3	Sorcery			C	Target opponent discards two cards.
+Desperate Charge	p3k	74	B	2B	3	Sorcery			U	Creatures you control get +2/+0 until end of turn.
+Famine	p3k	75	B	3BB	5	Sorcery			U	Famine deals 3 damage to each creature and each player.
+Ghostly Visit	p3k	76	B	2B	3	Sorcery			C	Destroy target nonblack creature.
+Imperial Edict	p3k	77	B	1B	2	Sorcery			C	Target opponent sacrifices a creature.
+Imperial Seal	p3k	78	B	B	1	Sorcery			R	Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+Overwhelming Forces	p3k	79	B	6BB	8	Sorcery			R	Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.
+Poison Arrow	p3k	80	B	4BB	6	Sorcery			U	Destroy target nonblack creature. You gain 3 life.
+Return to Battle	p3k	81	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Sima Yi, Wei Field Marshal	p3k	82	B	5B	6	Legendary Creature - Human Soldier	*	4	R	Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you control.
+Stolen Grain	p3k	83	B	4BB	6	Sorcery			U	Stolen Grain deals 5 damage to target opponent. You gain 5 life.
+Stone Catapult	p3k	84	B	4B	5	Creature - Human Soldier	1	2	R	{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.
+Wei Ambush Force	p3k	85	B	1B	2	Creature - Human Soldier	1	1	C	Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.
+Wei Assassins	p3k	86	B	3BB	5	Creature - Human Soldier Assassin	3	2	U	When Wei Assassins enters the battlefield, target opponent sacrifices a creature.
+Wei Elite Companions	p3k	87	B	4B	5	Creature - Human Soldier	3	3	U	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wei Infantry	p3k	88	B	1B	2	Creature - Human Soldier	2	1	C	
+Wei Night Raiders	p3k	89	B	2BB	4	Creature - Human Soldier	2	2	U	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Whenever Wei Night Raiders deals damage to an opponent, that player discards a card.
+Wei Scout	p3k	90	B	1B	2	Creature - Human Soldier Scout	1	1	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Wei Strike Force	p3k	91	B	2B	3	Creature - Human Soldier	2	1	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Xiahou Dun, the One-Eyed	p3k	92	B	2BB	4	Legendary Creature - Human Soldier	3	2	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.
+Xun Yu, Wei Advisor	p3k	93	B	1BB	3	Legendary Creature - Human Advisor	1	1	R	{T}: Target creature you control gets +2/+0 until end of turn. Activate this ability only during your turn, before attackers are declared.
+Young Wei Recruits	p3k	94	B	1B	2	Creature - Human Soldier	2	2	C	Young Wei Recruits can't block.
+Zhang He, Wei General	p3k	95	B	3BB	5	Legendary Creature - Human Soldier	4	2	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.
+Zhang Liao, Hero of Hefei	p3k	96	B	4BB	6	Legendary Creature - Human Soldier	3	3	R	Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card.
+Zodiac Pig	p3k	97	B	3B	4	Creature - Boar	3	3	U	Swampwalk
+Zodiac Rat	p3k	98	B	B	1	Creature - Rat	1	1	C	Swampwalk
+Zodiac Snake	p3k	99	B	2B	3	Creature - Snake	2	2	C	Swampwalk
+Barbarian General	p3k	100	R	4R	5	Creature - Human Barbarian Soldier	3	2	U	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Barbarian Horde	p3k	101	R	3R	4	Creature - Human Barbarian Soldier	3	3	C	
+Blaze	p3k	102	R	XR	1	Sorcery			U	Blaze deals X damage to target creature or player.
+Burning Fields	p3k	103	R	4R	5	Sorcery			C	Burning Fields deals 5 damage to target opponent.
+Burning of Xinye	p3k	104	R	4RR	6	Sorcery			R	Each player sacrifices four lands. Burning of Xinye deals 4 damage to each creature.
+Control of the Court	p3k	105	R	1R	2	Sorcery			U	Draw four cards, then discard three cards at random.
+Corrupt Eunuchs	p3k	106	R	3R	4	Creature - Human Advisor	2	2	U	When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature.
+Desert Sandstorm	p3k	107	R	2R	3	Sorcery			C	Desert Sandstorm deals 1 damage to each creature.
+Diaochan, Artful Beauty	p3k	108	R	3R	4	Legendary Creature - Human Advisor	1	1	R	{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+Dong Zhou, the Tyrant	p3k	109	R	4R	5	Legendary Creature - Human Soldier	3	3	R	When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.
+Eunuchs' Intrigues	p3k	110	R	2R	3	Sorcery			U	Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.
+Fire Ambush	p3k	111	R	1R	2	Sorcery			C	Fire Ambush deals 3 damage to target creature or player.
+Fire Bowman	p3k	112	R	R	1	Creature - Human Soldier Archer	1	1	U	Sacrifice Fire Bowman: Fire Bowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+Imperial Recruiter	p3k	113	R	2R	3	Creature - Human Advisor	1	1	U	When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.
+Independent Troops	p3k	114	R	1R	2	Creature - Human Soldier	2	1	C	
+Lu Bu, Master-at-Arms	p3k	115	R	5R	6	Legendary Creature - Human Soldier Warrior	4	3	R	Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Ma Chao, Western Warrior	p3k	116	R	3RR	5	Legendary Creature - Human Soldier Warrior	3	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Whenever Ma Chao, Western Warrior attacks alone, it's unblockable this combat.
+Mountain Bandit	p3k	117	R	R	1	Creature - Human Soldier Rogue	1	1	C	Haste
+Ravaging Horde	p3k	118	R	3RR	5	Creature - Human Soldier	3	3	U	When Ravaging Horde enters the battlefield, destroy target land.
+Relentless Assault	p3k	119	R	2RR	4	Sorcery			R	Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Renegade Troops	p3k	120	R	4R	5	Creature - Human Soldier	4	2	U	Haste
+Rockslide Ambush	p3k	121	R	1R	2	Sorcery			U	Rockslide Ambush deals damage equal to the number of Mountains you control to target creature.
+Rolling Earthquake	p3k	122	R	XR	1	Sorcery			R	Rolling Earthquake deals X damage to each creature without horsemanship and each player.
+Stone Rain	p3k	123	R	2R	3	Sorcery			C	Destroy target land.
+Warrior's Oath	p3k	124	R	RR	2	Sorcery			R	Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+Yellow Scarves Cavalry	p3k	125	R	1R	2	Creature - Human Soldier	1	1	C	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Yellow Scarves Cavalry can't block.
+Yellow Scarves General	p3k	126	R	3R	4	Creature - Human Soldier	2	2	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Yellow Scarves General can't block.
+Yellow Scarves Troops	p3k	127	R	1R	2	Creature - Human Soldier	2	2	C	Yellow Scarves Troops can't block.
+Yuan Shao, the Indecisive	p3k	128	R	4R	5	Legendary Creature - Human Soldier	2	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.) Each creature you control can't be blocked by more than one creature.
+Yuan Shao's Infantry	p3k	129	R	3R	4	Creature - Human Soldier	2	2	U	Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry is unblockable this combat.
+Zodiac Dog	p3k	130	R	2R	3	Creature - Hound	2	2	C	Mountainwalk
+Zodiac Dragon	p3k	131	R	7RR	9	Creature - Dragon	8	8	R	When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.
+Zodiac Goat	p3k	132	R	R	1	Creature - Goat	1	1	C	Mountainwalk
+Borrowing the East Wind	p3k	133	G	XGG	2	Sorcery			R	Borrowing the East Wind deals X damage to each creature with horsemanship and each player.
+False Mourning	p3k	134	G	G	1	Sorcery			U	Put target card from your graveyard on top of your library.
+Forest Bear	p3k	135	G	1G	2	Creature - Bear	2	2	C	
+Heavy Fog	p3k	136	G	1G	2	Instant			U	Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step. Prevent all damage that would be dealt to you this turn by attacking creatures.
+Hua Tuo, Honored Physician	p3k	137	G	1GG	3	Legendary Creature - Human	1	2	R	{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.
+Hunting Cheetah	p3k	138	G	2G	3	Creature - Cat	2	3	U	Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library.
+Lady Zhurong, Warrior Queen	p3k	139	G	4G	5	Legendary Creature - Human Soldier Warrior	4	3	R	Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Lone Wolf	p3k	140	G	2G	3	Creature - Wolf	2	2	U	You may have Lone Wolf assign its combat damage as though it weren't blocked.
+Marshaling the Troops	p3k	141	G	1G	2	Sorcery			R	Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+Meng Huo, Barbarian King	p3k	142	G	3GG	5	Legendary Creature - Human Barbarian Soldier	4	4	R	Other green creatures you control get +1/+1.
+Meng Huo's Horde	p3k	143	G	4G	5	Creature - Human Soldier	4	5	C	
+Riding the Dilu Horse	p3k	144	G	2G	3	Sorcery			R	Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)
+Slashing Tiger	p3k	145	G	2GG	4	Creature - Cat	3	3	R	Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.
+Southern Elephant	p3k	146	G	3G	4	Creature - Elephant	3	4	C	
+Spoils of Victory	p3k	147	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Spring of Eternal Peace	p3k	148	G	3GG	5	Sorcery			C	You gain 8 life.
+Stalking Tiger	p3k	149	G	3G	4	Creature - Cat	3	3	C	Stalking Tiger can't be blocked by more than one creature.
+Taoist Hermit	p3k	150	G	2G	3	Creature - Human Mystic	2	2	U	Taoist Hermit can't be the target of spells or abilities your opponents control.
+Taoist Mystic	p3k	151	G	2G	3	Creature - Human Mystic	2	2	R	Taoist Mystic can't be blocked by creatures with horsemanship.
+Taunting Challenge	p3k	152	G	1GG	3	Sorcery			R	All creatures able to block target creature this turn do so.
+Three Visits	p3k	153	G	1G	2	Sorcery			C	Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Trained Cheetah	p3k	154	G	2G	3	Creature - Cat	2	2	U	Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.
+Trained Jackal	p3k	155	G	G	1	Creature - Hound	1	2	C	
+Trip Wire	p3k	156	G	2G	3	Sorcery			U	Destroy target creature with horsemanship.
+Wielding the Green Dragon	p3k	157	G	1G	2	Sorcery			C	Target creature gets +4/+4 until end of turn.
+Wolf Pack	p3k	158	G	6GG	8	Creature - Wolf	7	6	R	You may have Wolf Pack assign its combat damage as though it weren't blocked.
+Zodiac Horse	p3k	159	G	3G	4	Creature - Horse	3	3	U	Islandwalk
+Zodiac Monkey	p3k	160	G	1G	2	Creature - Ape	2	1	C	Forestwalk (This creature is unblockable as long as defending player controls a Forest.)
+Zodiac Ox	p3k	161	G	3G	4	Creature - Ox	3	3	U	Swampwalk
+Zodiac Rabbit	p3k	162	G	G	1	Creature - Rabbit	1	1	C	Forestwalk
+Zodiac Rooster	p3k	163	G	1G	2	Creature - Bird	2	1	C	Plainswalk
+Zodiac Tiger	p3k	164	G	2GG	4	Creature - Cat	3	4	U	Forestwalk
+Zuo Ci, the Mocking Sage	p3k	165	G	1GG	3	Legendary Creature - Human Advisor	1	2	R	Zuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship. Zuo Ci can't be the target of spells or abilities your opponents control.
+Plains	p3k	166	L		0	Basic Land - Plains			L	W
+Island	p3k	169	L		0	Basic Land - Island			L	U
+Swamp	p3k	172	L		0	Basic Land - Swamp			L	B
+Mountain	p3k	175	L		0	Basic Land - Mountain			L	R
+Forest	p3k	178	L		0	Basic Land - Forest			L	G
+Arrogant Vampire	portal	1	B	3BB	5	Creature - Vampire	4	3	U	Flying
+Assassin's Blade	portal	2	B	1B	2	Instant			U	Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step. Destroy target nonblack attacking creature.
+Bog Imp	portal	3	B	1B	2	Creature - Imp	1	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Bog Raiders	portal	4	B	2B	3	Creature - Zombie	2	2	C	Swampwalk
+Bog Wraith	portal	5	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Charging Bandits	portal	6	B	4B	5	Creature - Human Rogue	3	3	U	Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.
+Craven Knight	portal	7	B	1B	2	Creature - Human Knight	2	2	C	Craven Knight can't block.
+Cruel Bargain	portal	8	B	BBB	3	Sorcery			R	Draw four cards. You lose half your life, rounded up.
+Cruel Tutor	portal	9	B	2B	3	Sorcery			R	Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+Dread Charge	portal	10	B	3B	4	Sorcery			R	Until end of turn, black creatures you control can be blocked only by black creatures.
+Dread Reaper	portal	11	B	3BBB	6	Creature - Horror	6	5	R	Flying When Dread Reaper enters the battlefield, you lose 5 life.
+Dry Spell	portal	12	B	1B	2	Sorcery			U	Dry Spell deals 1 damage to each creature and each player.
+Ebon Dragon	portal	13	B	5BB	7	Creature - Dragon	5	4	R	Flying When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+Endless Cockroaches	portal	14	B	1BB	3	Creature - Insect	1	1	R	When Endless Cockroaches is put into a graveyard from the battlefield, return Endless Cockroaches to its owner's hand.
+Feral Shadow	portal	15	B	2B	3	Creature - Nightstalker	2	1	C	Flying
+Final Strike	portal	16	B	2BB	4	Sorcery			R	As an additional cost to cast Final Strike, sacrifice a creature. Final Strike deals damage to target opponent equal to the sacrificed creature's power.
+Gravedigger	portal	17	B	3B	4	Creature - Zombie	2	2	U	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Hand of Death	portal	19	B	2B	3	Sorcery			C	Destroy target nonblack creature.
+Howling Fury	portal	20	B	2B	3	Sorcery			C	Target creature gets +4/+0 until end of turn.
+King's Assassin	portal	21	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+Mercenary Knight	portal	22	B	2B	3	Creature - Human Mercenary Knight	4	4	R	When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.
+Mind Knives	portal	23	B	1B	2	Sorcery			C	Target opponent discards a card at random.
+Mind Rot	portal	24	B	2B	3	Sorcery			C	Target player discards two cards.
+Muck Rats	portal	25	B	B	1	Creature - Rat	1	1	C	
+Nature's Ruin	portal	26	B	2B	3	Sorcery			U	Destroy all green creatures.
+Noxious Toad	portal	27	B	2B	3	Creature - Frog	1	1	U	When Noxious Toad is put into a graveyard from the battlefield, each opponent discards a card.
+Python	portal	28	B	1BB	3	Creature - Snake	3	2	C	
+Rain of Tears	portal	29	B	1BB	3	Sorcery			U	Destroy target land.
+Raise Dead	portal	30	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Serpent Assassin	portal	31	B	3BB	5	Creature - Snake Assassin	2	2	R	When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.
+Serpent Warrior	portal	32	B	2B	3	Creature - Snake Warrior	3	3	C	When Serpent Warrior enters the battlefield, you lose 3 life.
+Skeletal Crocodile	portal	33	B	3B	4	Creature - Crocodile Skeleton	5	1	C	
+Skeletal Snake	portal	34	B	1B	2	Creature - Snake Skeleton	2	1	C	
+Soul Shred	portal	35	B	3BB	5	Sorcery			C	Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.
+Undying Beast	portal	36	B	3B	4	Creature - Beast	3	2	C	When Undying Beast is put into a graveyard from the battlefield, put Undying Beast on top of its owner's library.
+Vampiric Feast	portal	37	B	5BB	7	Sorcery			U	Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.
+Vampiric Touch	portal	38	B	2B	3	Sorcery			C	Vampiric Touch deals 2 damage to target opponent and you gain 2 life.
+Virtue's Ruin	portal	39	B	2B	3	Sorcery			U	Destroy all white creatures.
+Wicked Pact	portal	40	B	1BB	3	Sorcery			R	Destroy two target nonblack creatures. You lose 5 life.
+Ancestral Memories	portal	41	U	2UUU	5	Sorcery			R	Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+Balance of Power	portal	42	U	3UU	5	Sorcery			R	If target opponent has more cards in hand than you, draw cards equal to the difference.
+Baleful Stare	portal	43	U	2U	3	Sorcery			U	Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.
+Capricious Sorcerer	portal	44	U	2U	3	Creature - Human Wizard	1	1	R	{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+Cloak of Feathers	portal	45	U	U	1	Sorcery			C	Target creature gains flying until end of turn. Draw a card.
+Cloud Dragon	portal	46	U	5U	6	Creature - Illusion Dragon	5	4	R	Flying Cloud Dragon can block only creatures with flying.
+Cloud Pirates	portal	47	U	U	1	Creature - Human Pirate	1	1	C	Flying Cloud Pirates can block only creatures with flying.
+Cloud Spirit	portal	48	U	2U	3	Creature - Spirit	3	1	U	Flying Cloud Spirit can block only creatures with flying.
+Command of Unsummoning	portal	49	U	2U	3	Instant			U	Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step. Return one or two target attacking creatures to their owner's hand.
+Coral Eel	portal	50	U	1U	2	Creature - Fish	2	1	C	
+Cruel Fate	portal	51	U	4U	5	Sorcery			R	Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard, and the rest on top of his or her library in any order.
+Deep-Sea Serpent	portal	52	U	4UU	6	Creature - Serpent	5	5	U	Deep-Sea Serpent can't attack unless defending player controls an Island.
+Deja Vu	portal	53	U	2U	3	Sorcery			C	Return target sorcery card from your graveyard to your hand.
+Djinn of the Lamp	portal	54	U	5UU	7	Creature - Djinn	5	6	R	Flying
+Exhaustion	portal	55	U	2U	3	Sorcery			R	Creatures and lands target opponent controls don't untap during his or her next untap step.
+Flux	portal	56	U	2U	3	Sorcery			U	Each player discards any number of cards, then draws that many cards. Draw a card.
+Giant Octopus	portal	57	U	3U	4	Creature - Octopus	3	3	C	
+Horned Turtle	portal	58	U	2U	3	Creature - Turtle	1	4	C	
+Ingenious Thief	portal	59	U	1U	2	Creature - Human Rogue	1	1	U	Flying When Ingenious Thief enters the battlefield, look at target player's hand.
+Man-o'-War	portal	60	U	2U	3	Creature - Jellyfish	2	2	U	When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+Merfolk of the Pearl Trident	portal	61	U	U	1	Creature - Merfolk	1	1	C	
+Mystic Denial	portal	62	U	1UU	3	Instant			U	Counter target creature or sorcery spell.
+Omen	portal	63	U	1U	2	Sorcery			C	Look at the top three cards of your library, then put them back in any order. You may shuffle your library. Draw a card.
+Owl Familiar	portal	64	U	1U	2	Creature - Bird	1	1	C	Flying When Owl Familiar enters the battlefield, draw a card, then discard a card.
+Personal Tutor	portal	65	U	U	1	Sorcery			U	Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+Phantom Warrior	portal	66	U	1UU	3	Creature - Illusion Warrior	2	2	R	Phantom Warrior is unblockable.
+Prosperity	portal	67	U	XU	1	Sorcery			R	Each player draws X cards.
+Snapping Drake	portal	68	U	3U	4	Creature - Drake	3	2	C	Flying
+Sorcerous Sight	portal	69	U	U	1	Sorcery			C	Look at target opponent's hand. Draw a card.
+Storm Crow	portal	70	U	1U	2	Creature - Bird	1	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Symbol of Unsummoning	portal	71	U	2U	3	Sorcery			C	Return target creature to its owner's hand. Draw a card.
+Taunt	portal	72	U	U	1	Sorcery			R	During target player's next turn, each creature he or she controls attacks you if able.
+Theft of Dreams	portal	73	U	2U	3	Sorcery			U	Draw a card for each tapped creature target opponent controls.
+Thing from the Deep	portal	74	U	6UUU	9	Creature - Leviathan	9	9	R	Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
+Tidal Surge	portal	75	U	1U	2	Sorcery			C	Tap up to three target creatures without flying.
+Time Ebb	portal	76	U	2U	3	Sorcery			C	Put target creature on top of its owner's library.
+Touch of Brilliance	portal	77	U	3U	4	Sorcery			C	Draw two cards.
+Wind Drake	portal	78	U	2U	3	Creature - Drake	2	2	C	Flying
+Withering Gaze	portal	79	U	2U	3	Sorcery			U	Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.
+Alluring Scent	portal	80	G	1GG	3	Sorcery			R	All creatures able to block target creature this turn do so.
+Anaconda	portal	82	G	3G	4	Creature - Snake	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Bee Sting	portal	83	G	3G	4	Sorcery			U	Bee Sting deals 2 damage to target creature or player.
+Bull Hippo	portal	84	G	3G	4	Creature - Hippo	3	3	U	Islandwalk
+Charging Rhino	portal	85	G	3GG	5	Creature - Rhino	4	4	R	Charging Rhino can't be blocked by more than one creature.
+Deep Wood	portal	86	G	1G	2	Instant			U	Cast Deep Wood only during the declare attackers step and only if you've been attacked this step. Prevent all damage that would be dealt to you this turn by attacking creatures.
+Elite Cat Warrior	portal	88	G	2G	3	Creature - Cat Warrior	2	3	C	Forestwalk
+Elven Cache	portal	89	G	2GG	4	Sorcery			C	Return target card from your graveyard to your hand.
+Elvish Ranger	portal	90	G	2G	3	Creature - Elf	4	1	C	
+Fruition	portal	91	G	G	1	Sorcery			C	You gain 1 life for each Forest on the battlefield.
+Giant Spider	portal	92	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Gorilla Warrior	portal	93	G	2G	3	Creature - Ape Warrior	3	2	C	
+Grizzly Bears	portal	94	G	1G	2	Creature - Bear	2	2	C	
+Hurricane	portal	95	G	XG	1	Sorcery			R	Hurricane deals X damage to each creature with flying and each player.
+Jungle Lion	portal	96	G	G	1	Creature - Cat	2	1	C	Jungle Lion can't block.
+Mobilize	portal	97	G	G	1	Sorcery			C	Untap all creatures you control.
+Monstrous Growth	portal	99	G	1G	2	Sorcery			C	Target creature gets +4/+4 until end of turn.
+Moon Sprite	portal	100	G	1G	2	Creature - Faerie	1	1	U	Flying
+Natural Order	portal	101	G	2GG	4	Sorcery			R	As an additional cost to cast Natural Order, sacrifice a green creature. Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+Natural Spring	portal	102	G	3GG	5	Sorcery			U	Target player gains 8 life.
+Nature's Cloak	portal	103	G	2G	3	Sorcery			R	Green creatures you control gain forestwalk until end of turn.
+Nature's Lore	portal	104	G	1G	2	Sorcery			C	Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Needle Storm	portal	105	G	2G	3	Sorcery			U	Needle Storm deals 4 damage to each creature with flying.
+Panther Warriors	portal	106	G	4G	5	Creature - Cat Warrior	6	3	C	
+Plant Elemental	portal	107	G	1G	2	Creature - Plant Elemental	3	4	U	When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
+Primeval Force	portal	108	G	2GGG	5	Creature - Elemental	8	8	R	When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.
+Redwood Treefolk	portal	109	G	4G	5	Creature - Treefolk	3	6	C	
+Rowan Treefolk	portal	110	G	3G	4	Creature - Treefolk	3	4	C	
+Spined Wurm	portal	111	G	4G	5	Creature - Wurm	5	4	C	
+Stalking Tiger	portal	112	G	3G	4	Creature - Cat	3	3	C	Stalking Tiger can't be blocked by more than one creature.
+Summer Bloom	portal	113	G	1G	2	Sorcery			R	You may play up to three additional lands this turn.
+Sylvan Tutor	portal	114	G	G	1	Sorcery			R	Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+Thundering Wurm	portal	115	G	2G	3	Creature - Wurm	4	4	R	When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.
+Treetop Defense	portal	116	G	1G	2	Instant			R	Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step. Creatures you control gain reach until end of turn. (They can block creatures with flying.)
+Untamed Wilds	portal	117	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Whiptail Wurm	portal	118	G	6G	7	Creature - Wurm	8	5	U	
+Willow Dryad	portal	119	G	G	1	Creature - Dryad	1	1	C	Forestwalk
+Winter's Grasp	portal	120	G	1GG	3	Sorcery			U	Destroy target land.
+Wood Elves	portal	121	G	2G	3	Creature - Elf Scout	1	1	R	When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Blaze	portal	123	R	XR	1	Sorcery			U	Blaze deals X damage to target creature or player.
+Boiling Seas	portal	124	R	3R	4	Sorcery			U	Destroy all Islands.
+Burning Cloak	portal	125	R	R	1	Sorcery			C	Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.
+Craven Giant	portal	126	R	2R	3	Creature - Giant	4	1	C	Craven Giant can't block.
+Desert Drake	portal	127	R	3R	4	Creature - Drake	2	2	U	Flying
+Devastation	portal	128	R	5RR	7	Sorcery			R	Destroy all creatures and lands.
+Earthquake	portal	129	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+Fire Dragon	portal	130	R	6RRR	9	Creature - Dragon	6	6	R	Flying When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.
+Fire Imp	portal	131	R	2R	3	Creature - Imp	2	1	U	When Fire Imp enters the battlefield, it deals 2 damage to target creature.
+Fire Snake	portal	132	R	4R	5	Creature - Snake	3	1	C	When Fire Snake is put into a graveyard from the battlefield, destroy target land.
+Fire Tempest	portal	133	R	5RR	7	Sorcery			R	Fire Tempest deals 6 damage to each creature and each player.
+Flashfires	portal	134	R	3R	4	Sorcery			U	Destroy all Plains.
+Forked Lightning	portal	135	R	3R	4	Sorcery			R	Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
+Goblin Bully	portal	136	R	1R	2	Creature - Goblin	2	1	C	
+Highland Giant	portal	137	R	2RR	4	Creature - Giant	3	4	C	
+Hill Giant	portal	138	R	3R	4	Creature - Giant	3	3	C	
+Hulking Cyclops	portal	139	R	3RR	5	Creature - Cyclops	5	5	U	Hulking Cyclops can't block.
+Hulking Goblin	portal	140	R	1R	2	Creature - Goblin	2	2	C	Hulking Goblin can't block.
+Last Chance	portal	141	R	RR	2	Sorcery			R	Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+Lava Axe	portal	142	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Lava Flow	portal	143	R	3RR	5	Sorcery			U	Destroy target creature or land.
+Lizard Warrior	portal	144	R	3R	4	Creature - Lizard Warrior	4	2	C	
+Minotaur Warrior	portal	145	R	2R	3	Creature - Minotaur Warrior	2	3	C	
+Mountain Goat	portal	146	R	R	1	Creature - Goat	1	1	U	Mountainwalk
+Pillaging Horde	portal	147	R	2RR	4	Creature - Human Barbarian	5	5	R	When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.
+Pyroclasm	portal	148	R	1R	2	Sorcery			R	Pyroclasm deals 2 damage to each creature.
+Raging Cougar	portal	149	R	2R	3	Creature - Cat	2	2	C	Haste
+Raging Goblin	portal	151	R	R	1	Creature - Goblin Berserker	1	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Raging Minotaur	portal	152	R	2RR	4	Creature - Minotaur Berserker	3	3	C	Haste
+Rain of Salt	portal	153	R	4RR	6	Sorcery			U	Destroy two target lands.
+Scorching Spear	portal	154	R	R	1	Sorcery			C	Scorching Spear deals 1 damage to target creature or player.
+Scorching Winds	portal	155	R	R	1	Instant			U	Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step. Scorching Winds deals 1 damage to each attacking creature.
+Spitting Earth	portal	156	R	1R	2	Sorcery			C	Spitting Earth deals damage equal to the number of Mountains you control to target creature.
+Stone Rain	portal	157	R	2R	3	Sorcery			C	Destroy target land.
+Thundermare	portal	158	R	5R	6	Creature - Elemental Horse	5	5	R	Haste (This creature can attack the turn it comes under your control.) When Thundermare enters the battlefield, tap all other creatures.
+Volcanic Dragon	portal	159	R	4RR	6	Creature - Dragon	4	4	R	Flying, haste
+Volcanic Hammer	portal	160	R	1R	2	Sorcery			C	Volcanic Hammer deals 3 damage to target creature or player.
+Wall of Granite	portal	161	R	2R	3	Creature - Wall	0	7	U	Defender (This creature can't attack.)
+Winds of Change	portal	162	R	R	1	Sorcery			R	Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Alabaster Dragon	portal	163	W	4WW	6	Creature - Dragon	4	4	R	Flying When Alabaster Dragon is put into a graveyard from the battlefield, shuffle Alabaster Dragon into its owner's library.
+Angelic Blessing	portal	164	W	2W	3	Sorcery			C	Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Archangel	portal	165	W	5WW	7	Creature - Angel	5	5	R	Flying, vigilance
+Ardent Militia	portal	166	W	4W	5	Creature - Human Soldier	2	5	U	Vigilance
+Armageddon	portal	167	W	3W	4	Sorcery			R	Destroy all lands.
+Armored Pegasus	portal	168	W	1W	2	Creature - Pegasus	1	2	C	Flying
+Blessed Reversal	portal	169	W	1W	2	Instant			R	You gain 3 life for each creature attacking you.
+Blinding Light	portal	170	W	2W	3	Sorcery			R	Tap all nonwhite creatures.
+Border Guard	portal	171	W	2W	3	Creature - Human Soldier	1	4	C	
+Breath of Life	portal	172	W	3W	4	Sorcery			C	Return target creature card from your graveyard to the battlefield.
+Charging Paladin	portal	173	W	2W	3	Creature - Human Knight	2	2	U	Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+Defiant Stand	portal	174	W	1W	2	Instant			U	Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step. Target creature gets +1/+3 until end of turn. If that creature is tapped, untap it.
+Devoted Hero	portal	175	W	W	1	Creature - Elf Soldier	1	2	C	
+False Peace	portal	176	W	W	1	Sorcery			C	Target player skips all combat phases of his or her next turn.
+Fleet-Footed Monk	portal	177	W	1W	2	Creature - Human Monk	1	1	C	Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.
+Foot Soldiers	portal	178	W	3W	4	Creature - Human Soldier	2	4	C	
+Gift of Estates	portal	179	W	1W	2	Sorcery			R	If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.
+Harsh Justice	portal	180	W	2W	3	Instant			R	Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step. This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.
+Keen-Eyed Archers	portal	181	W	2W	3	Creature - Elf Archer	2	2	C	Reach (This creature can block creatures with flying.)
+Knight Errant	portal	182	W	1W	2	Creature - Human Knight	2	2	C	
+Path of Peace	portal	183	W	3W	4	Sorcery			C	Destroy target creature. Its owner gains 4 life.
+Regal Unicorn	portal	184	W	2W	3	Creature - Unicorn	2	3	C	
+Renewing Dawn	portal	185	W	1W	2	Sorcery			U	You gain 2 life for each Mountain target opponent controls.
+Sacred Knight	portal	186	W	3W	4	Creature - Human Knight	3	2	C	Sacred Knight can't be blocked by black and/or red creatures.
+Sacred Nectar	portal	187	W	1W	2	Sorcery			C	You gain 4 life.
+Seasoned Marshal	portal	188	W	2WW	4	Creature - Human Soldier	2	2	U	Whenever Seasoned Marshal attacks, you may tap target creature.
+Spiritual Guardian	portal	189	W	3WW	5	Creature - Spirit	3	4	R	When Spiritual Guardian enters the battlefield, you gain 4 life.
+Spotted Griffin	portal	190	W	3W	4	Creature - Griffin	2	3	C	Flying
+Starlight	portal	191	W	1W	2	Sorcery			U	You gain 3 life for each black creature target opponent controls.
+Starlit Angel	portal	192	W	3WW	5	Creature - Angel	3	4	U	Flying
+Steadfastness	portal	193	W	1W	2	Sorcery			C	Creatures you control get +0/+3 until end of turn.
+Stern Marshal	portal	194	W	2W	3	Creature - Human Soldier	2	2	R	{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+Temporary Truce	portal	195	W	1W	2	Sorcery			R	Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.
+Valorous Charge	portal	196	W	1WW	3	Sorcery			U	White creatures get +2/+0 until end of turn.
+Venerable Monk	portal	197	W	2W	3	Creature - Human Monk Cleric	2	2	U	When Venerable Monk enters the battlefield, you gain 2 life.
+Vengeance	portal	198	W	3W	4	Sorcery			U	Destroy target tapped creature.
+Wall of Swords	portal	199	W	3W	4	Creature - Wall	3	5	U	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Warrior's Charge	portal	201	W	2W	3	Sorcery			C	Creatures you control get +1/+1 until end of turn.
+Wrath of God	portal	202	W	2WW	4	Sorcery			R	Destroy all creatures. They can't be regenerated.
+Forest	portal	203	L		0	Basic Land - Forest			L	G
+Island	portal	207	L		0	Basic Land - Island			L	U
+Mountain	portal	211	L		0	Basic Land - Mountain			L	R
+Plains	portal	218	L		0	Basic Land - Plains			L	W
+Swamp	portal	219	L		0	Basic Land - Swamp			L	B
+Abyssal Nightstalker	portal2	1	B	3B	4	Creature - Nightstalker	2	2	U	Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.
+Ancient Craving	portal2	2	B	3B	4	Sorcery			R	You draw three cards and you lose 3 life.
+Bloodcurdling Scream	portal2	3	B	XB	1	Sorcery			U	Target creature gets +X/+0 until end of turn.
+Brutal Nightstalker	portal2	4	B	3BB	5	Creature - Nightstalker	3	2	U	When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
+Chorus of Woe	portal2	5	B	B	1	Sorcery			C	Creatures you control get +1/+0 until end of turn.
+Coercion	portal2	6	B	2B	3	Sorcery			U	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Cruel Edict	portal2	7	B	1B	2	Sorcery			C	Target opponent sacrifices a creature.
+Dakmor Bat	portal2	8	B	1B	2	Creature - Bat	1	1	C	Flying
+Dakmor Plague	portal2	9	B	3BB	5	Sorcery			U	Dakmor Plague deals 3 damage to each creature and each player.
+Dakmor Scorpion	portal2	10	B	1B	2	Creature - Scorpion	2	1	C	
+Dakmor Sorceress	portal2	11	B	5B	6	Creature - Human Wizard	*	4	R	Dakmor Sorceress's power is equal to the number of Swamps you control.
+Dark Offering	portal2	12	B	4BB	6	Sorcery			U	Destroy target nonblack creature. You gain 3 life.
+Foul Spirit	portal2	13	B	2B	3	Creature - Spirit	3	2	U	Flying When Foul Spirit enters the battlefield, sacrifice a land.
+Hand of Death	portal2	14	B	2B	3	Sorcery			C	Destroy target nonblack creature.
+Hidden Horror	portal2	15	B	1BB	3	Creature - Horror	4	4	R	When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+Kiss of Death	portal2	16	B	4BB	6	Sorcery			U	Kiss of Death deals 4 damage to target opponent. You gain 4 life.
+Lurking Nightstalker	portal2	17	B	BB	2	Creature - Nightstalker	1	1	C	Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.
+Mind Rot	portal2	18	B	2B	3	Sorcery			C	Target player discards two cards.
+Moaning Spirit	portal2	19	B	2B	3	Creature - Spirit	2	1	C	Flying
+Muck Rats	portal2	20	B	B	1	Creature - Rat	1	1	C	
+Nightstalker Engine	portal2	21	B	4B	5	Creature - Nightstalker	*	3	R	Nightstalker Engine's power is equal to the number of creature cards in your graveyard.
+Predatory Nightstalker	portal2	22	B	3BB	5	Creature - Nightstalker	3	2	U	When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.
+Prowling Nightstalker	portal2	23	B	3B	4	Creature - Nightstalker	2	2	C	Prowling Nightstalker can't be blocked except by black creatures.
+Raiding Nightstalker	portal2	24	B	2B	3	Creature - Nightstalker	2	2	C	Swampwalk
+Rain of Daggers	portal2	25	B	4BB	6	Sorcery			R	Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.
+Raise Dead	portal2	26	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Ravenous Rats	portal2	27	B	1B	2	Creature - Rat	1	1	C	When Ravenous Rats enters the battlefield, target opponent discards a card.
+Return of the Nightstalkers	portal2	28	B	5BB	7	Sorcery			R	Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.
+Swarm of Rats	portal2	29	B	1B	2	Creature - Rat	*	1	C	Swarm of Rats's power is equal to the number of Rats you control.
+Vampiric Spirit	portal2	30	B	2BB	4	Creature - Spirit	4	3	R	Flying When Vampiric Spirit enters the battlefield, you lose 4 life.
+Air Elemental	portal2	31	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Apprentice Sorcerer	portal2	32	U	2U	3	Creature - Human Wizard	1	1	U	{T}: Apprentice Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+Armored Galleon	portal2	33	U	4U	5	Creature - Human Pirate	5	4	U	Armored Galleon can't attack unless defending player controls an Island.
+Coastal Wizard	portal2	34	U	2UU	4	Creature - Human Wizard	1	1	R	{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+Deja Vu	portal2	35	U	2U	3	Sorcery			C	Return target sorcery card from your graveyard to your hand.
+Denizen of the Deep	portal2	36	U	6UU	8	Creature - Serpent	11	11	R	When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+Exhaustion	portal2	37	U	2U	3	Sorcery			R	Creatures and lands target opponent controls don't untap during his or her next untap step.
+Extinguish	portal2	38	U	1U	2	Instant			C	Counter target sorcery spell.
+Eye Spy	portal2	39	U	U	1	Sorcery			U	Look at the top card of target player's library. You may put that card into his or her graveyard.
+False Summoning	portal2	40	U	1U	2	Instant			C	Counter target creature spell.
+Mystic Denial	portal2	41	U	1UU	3	Instant			U	Counter target creature or sorcery spell.
+Piracy	portal2	42	U	UU	2	Sorcery			R	Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+Remove	portal2	43	U	U	1	Instant			U	Cast Remove only during the declare attackers step and only if you've been attacked this step. Return target attacking creature to its owner's hand.
+Screeching Drake	portal2	44	U	3U	4	Creature - Drake	2	2	C	Flying When Screeching Drake enters the battlefield, draw a card, then discard a card.
+Sea Drake	portal2	45	U	2U	3	Creature - Drake	4	3	U	Flying When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.
+Sleight of Hand	portal2	46	U	U	1	Sorcery			C	Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Steam Frigate	portal2	47	U	2U	3	Creature - Human Pirate	3	3	C	Steam Frigate can't attack unless defending player controls an Island.
+Talas Air Ship	portal2	48	U	3U	4	Creature - Human Pirate	3	2	C	Flying
+Talas Explorer	portal2	49	U	1U	2	Creature - Human Pirate Scout	1	1	C	Flying When Talas Explorer enters the battlefield, look at target opponent's hand.
+Talas Merchant	portal2	50	U	1U	2	Creature - Human Pirate	1	3	C	
+Talas Researcher	portal2	51	U	4U	5	Creature - Human Pirate Wizard	1	1	R	{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+Talas Scout	portal2	52	U	1U	2	Creature - Human Pirate Scout	1	2	C	Flying
+Talas Warrior	portal2	53	U	1UU	3	Creature - Human Pirate Warrior	2	2	R	Talas Warrior is unblockable.
+Temporal Manipulation	portal2	54	U	3UU	5	Sorcery			R	Take an extra turn after this one.
+Theft of Dreams	portal2	55	U	2U	3	Sorcery			U	Draw a card for each tapped creature target opponent controls.
+Tidal Surge	portal2	56	U	1U	2	Sorcery			C	Tap up to three target creatures without flying.
+Time Ebb	portal2	57	U	2U	3	Sorcery			C	Put target creature on top of its owner's library.
+Touch of Brilliance	portal2	58	U	3U	4	Sorcery			C	Draw two cards.
+Undo	portal2	59	U	1UU	3	Sorcery			U	Return two target creatures to their owners' hands.
+Wind Sail	portal2	60	U	1U	2	Sorcery			C	One or two target creatures gain flying until end of turn.
+Alluring Scent	portal2	61	G	1GG	3	Sorcery			R	All creatures able to block target creature this turn do so.
+Barbtooth Wurm	portal2	62	G	5G	6	Creature - Wurm	6	4	C	
+Bear Cub	portal2	63	G	1G	2	Creature - Bear	2	2	C	
+Bee Sting	portal2	64	G	3G	4	Sorcery			U	Bee Sting deals 2 damage to target creature or player.
+Deathcoil Wurm	portal2	65	G	6GG	8	Creature - Wurm	7	6	R	You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.
+Deep Wood	portal2	66	G	1G	2	Instant			U	Cast Deep Wood only during the declare attackers step and only if you've been attacked this step. Prevent all damage that would be dealt to you this turn by attacking creatures.
+Golden Bear	portal2	67	G	3G	4	Creature - Bear	4	3	C	
+Harmony of Nature	portal2	68	G	2G	3	Sorcery			U	Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+Hurricane	portal2	69	G	XG	1	Sorcery			R	Hurricane deals X damage to each creature with flying and each player.
+Ironhoof Ox	portal2	70	G	3GG	5	Creature - Ox	4	4	U	Ironhoof Ox can't be blocked by more than one creature.
+Lone Wolf	portal2	71	G	2G	3	Creature - Wolf	2	2	U	You may have Lone Wolf assign its combat damage as though it weren't blocked.
+Lynx	portal2	72	G	1G	2	Creature - Cat	2	1	C	Forestwalk
+Monstrous Growth	portal2	73	G	1G	2	Sorcery			C	Target creature gets +4/+4 until end of turn.
+Natural Spring	portal2	74	G	3GG	5	Sorcery			C	Target player gains 8 life.
+Nature's Lore	portal2	75	G	1G	2	Sorcery			C	Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Norwood Archers	portal2	76	G	3G	4	Creature - Elf Archer	3	3	C	Reach (This creature can block creatures with flying.)
+Norwood Priestess	portal2	77	G	2GG	4	Creature - Elf Druid	1	1	R	{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+Norwood Ranger	portal2	78	G	G	1	Creature - Elf Scout	1	2	C	
+Norwood Riders	portal2	79	G	3G	4	Creature - Elf	3	3	C	Norwood Riders can't be blocked by more than one creature.
+Norwood Warrior	portal2	80	G	2G	3	Creature - Elf Warrior	2	2	C	Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.
+Plated Wurm	portal2	81	G	4G	5	Creature - Wurm	4	5	C	
+Razorclaw Bear	portal2	82	G	2GG	4	Creature - Bear	3	3	R	Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.
+Renewing Touch	portal2	83	G	G	1	Sorcery			U	Shuffle any number of target creature cards from your graveyard into your library.
+River Bear	portal2	84	G	3G	4	Creature - Bear	3	3	U	Islandwalk (This creature is unblockable as long as defending player controls an Island.)
+Salvage	portal2	85	G	G	1	Sorcery			C	Put target card from your graveyard on top of your library.
+Sylvan Basilisk	portal2	86	G	3GG	5	Creature - Basilisk	2	4	R	Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+Sylvan Yeti	portal2	87	G	2GG	4	Creature - Yeti	*	4	R	Sylvan Yeti's power is equal to the number of cards in your hand.
+Tree Monkey	portal2	88	G	G	1	Creature - Ape	1	1	C	Reach (This creature can block creatures with flying.)
+Untamed Wilds	portal2	89	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Wild Ox	portal2	90	G	3G	4	Creature - Ox	3	3	U	Swampwalk
+Blaze	portal2	91	R	XR	1	Sorcery			U	Blaze deals X damage to target creature or player.
+Brimstone Dragon	portal2	92	R	6RR	8	Creature - Dragon	6	6	R	Flying, haste
+Cunning Giant	portal2	93	R	5R	6	Creature - Giant	4	4	R	If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.
+Earthquake	portal2	94	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+Goblin Cavaliers	portal2	95	R	2R	3	Creature - Goblin	3	2	C	
+Goblin Firestarter	portal2	96	R	R	1	Creature - Goblin	1	1	U	Sacrifice Goblin Firestarter: Goblin Firestarter deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+Goblin General	portal2	97	R	1RR	3	Creature - Goblin Warrior	1	1	R	Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.
+Goblin Glider	portal2	98	R	1R	2	Creature - Goblin	1	1	C	Flying Goblin Glider can't block.
+Goblin Lore	portal2	99	R	1R	2	Sorcery			U	Draw four cards, then discard three cards at random.
+Goblin Matron	portal2	100	R	2R	3	Creature - Goblin	1	1	U	When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+Goblin Mountaineer	portal2	101	R	R	1	Creature - Goblin Scout	1	1	C	Mountainwalk
+Goblin Piker	portal2	102	R	1R	2	Creature - Goblin Warrior	2	1	C	
+Goblin Raider	portal2	103	R	1R	2	Creature - Goblin Warrior	2	2	C	Goblin Raider can't block.
+Goblin War Cry	portal2	104	R	2R	3	Sorcery			U	Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.
+Goblin War Strike	portal2	105	R	R	1	Sorcery			C	Goblin War Strike deals damage equal to the number of Goblins you control to target player.
+Jagged Lightning	portal2	106	R	3RR	5	Sorcery			U	Jagged Lightning deals 3 damage to target creature and 3 damage to another target creature.
+Lava Axe	portal2	107	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Magma Giant	portal2	108	R	5RR	7	Creature - Giant	5	5	R	When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+Obsidian Giant	portal2	109	R	4R	5	Creature - Giant	4	4	U	
+Ogre Arsonist	portal2	110	R	4R	5	Creature - Ogre	3	3	U	When Ogre Arsonist enters the battlefield, destroy target land.
+Ogre Berserker	portal2	111	R	4R	5	Creature - Ogre Berserker	4	2	C	Haste
+Ogre Taskmaster	portal2	112	R	3R	4	Creature - Ogre	4	3	U	Ogre Taskmaster can't block.
+Ogre Warrior	portal2	113	R	3R	4	Creature - Ogre Warrior	3	3	C	
+Raging Goblin	portal2	114	R	R	1	Creature - Goblin Berserker	1	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Relentless Assault	portal2	115	R	2RR	4	Sorcery			R	Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Spitting Earth	portal2	116	R	1R	2	Sorcery			C	Spitting Earth deals damage equal to the number of Mountains you control to target creature.
+Stone Rain	portal2	117	R	2R	3	Sorcery			C	Destroy target land.
+Tremor	portal2	118	R	R	1	Sorcery			C	Tremor deals 1 damage to each creature without flying.
+Volcanic Hammer	portal2	119	R	1R	2	Sorcery			C	Volcanic Hammer deals 3 damage to target creature or player.
+Wildfire	portal2	120	R	4RR	6	Sorcery			R	Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+Alaborn Cavalier	portal2	121	W	2WW	4	Creature - Human Knight	2	2	U	Whenever Alaborn Cavalier attacks, you may tap target creature.
+Alaborn Grenadier	portal2	122	W	WW	2	Creature - Human Soldier	2	2	C	Vigilance
+Alaborn Musketeer	portal2	123	W	1W	2	Creature - Human Soldier	2	1	C	Reach (This creature can block creatures with flying.)
+Alaborn Trooper	portal2	124	W	2W	3	Creature - Human Soldier	2	3	C	
+Alaborn Veteran	portal2	125	W	2W	3	Creature - Human Knight	2	2	R	{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+Alaborn Zealot	portal2	126	W	W	1	Creature - Human Soldier	1	1	U	When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.
+Angel of Fury	portal2	127	W	4WW	6	Creature - Angel	3	5	R	Flying When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.
+Angel of Mercy	portal2	128	W	4W	5	Creature - Angel	3	3	U	Flying When Angel of Mercy enters the battlefield, you gain 3 life.
+Angelic Blessing	portal2	129	W	2W	3	Sorcery			C	Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Angelic Wall	portal2	130	W	1W	2	Creature - Wall	0	4	C	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Archangel	portal2	131	W	5WW	7	Creature - Angel	5	5	R	Flying, vigilance
+Armageddon	portal2	132	W	3W	4	Sorcery			R	Destroy all lands.
+Armored Griffin	portal2	133	W	3W	4	Creature - Griffin	2	3	U	Flying, vigilance
+Bargain	portal2	134	W	2W	3	Sorcery			U	Target opponent draws a card. You gain 7 life.
+Breath of Life	portal2	135	W	3W	4	Sorcery			C	Return target creature card from your graveyard to the battlefield.
+Festival of Trokin	portal2	136	W	W	1	Sorcery			C	You gain 2 life for each creature you control.
+Just Fate	portal2	137	W	2W	3	Instant			R	Cast Just Fate only during the declare attackers step and only if you've been attacked this step. Destroy target attacking creature.
+Path of Peace	portal2	138	W	3W	4	Sorcery			C	Destroy target creature. Its owner gains 4 life.
+Rally the Troops	portal2	139	W	W	1	Instant			U	Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step. Untap all creatures you control.
+Righteous Charge	portal2	140	W	1WW	3	Sorcery			C	Creatures you control get +2/+2 until end of turn.
+Righteous Fury	portal2	141	W	4WW	6	Sorcery			R	Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+Steam Catapult	portal2	142	W	3WW	5	Creature - Human Soldier	2	3	R	{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+Temple Acolyte	portal2	143	W	1W	2	Creature - Human Cleric	1	3	C	When Temple Acolyte enters the battlefield, you gain 3 life.
+Temple Elder	portal2	144	W	2W	3	Creature - Human Cleric	1	2	U	{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+Town Sentry	portal2	145	W	2W	3	Creature - Human Soldier	2	2	C	Whenever Town Sentry blocks, it gets +0/+2 until end of turn.
+Trokin High Guard	portal2	146	W	3W	4	Creature - Human Knight	3	3	C	
+Vengeance	portal2	147	W	3W	4	Sorcery			U	Destroy target tapped creature.
+Volunteer Militia	portal2	148	W	W	1	Creature - Human Soldier	1	2	C	
+Warrior's Stand	portal2	149	W	1W	2	Instant			U	Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step. Creatures you control get +2/+2 until end of turn.
+Wild Griffin	portal2	150	W	2W	3	Creature - Griffin	2	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Forest	portal2	151	L		0	Basic Land - Forest			L	G
+Island	portal2	154	L		0	Basic Land - Island			L	U
+Mountain	portal2	157	L		0	Basic Land - Mountain			L	R
+Plains	portal2	160	L		0	Basic Land - Plains			L	W
+Swamp	portal2	163	L		0	Basic Land - Swamp			L	B

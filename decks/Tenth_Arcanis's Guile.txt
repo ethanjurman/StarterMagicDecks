@@ -1,0 +1,18 @@
+17	island
+2	sage owl
+2	cloud elemental
+1	phantom warrior
+1	aven fisher
+1	thieving magpie
+1	air elemental
+1	arcanis the omnipotent
+1	denizen of the deep
+2	unsummon
+2	remove soul
+1	telling time
+1	boomerang
+2	counsel of the soratami
+2	cancel
+1	tidings
+1	kraken's eye
+1	rod of ruin

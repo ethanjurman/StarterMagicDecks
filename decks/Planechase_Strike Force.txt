@@ -1,0 +1,38 @@
+2	boros garrison
+9	mountain
+9	plains
+2	sunhome, fortress of the legion
+2	terramorphic expanse
+1	balefire liege
+1	battlegate mimic
+1	boros guildmage
+2	boros swiftblade
+1	bull cerodon
+1	cerodon yearling
+1	duergar hedge-mage
+1	flametongue kavu
+1	hearthfire hobgoblin
+1	keldon champion
+1	menacing ogre
+1	razia, boros archangel
+1	rorix bladewing
+1	soul warden
+1	akroma's vengeance
+1	arc lightning
+1	boros signet
+1	captain's maneuver
+1	cone of flame
+1	congregate
+1	double cleave
+1	furnace of rath
+1	glory of warfare
+1	goblin offensive
+1	insurrection
+2	lightning helix
+1	oblivion ring
+1	order // chaos
+1	orim's thunder
+1	prison term
+1	reckless charge
+1	relic of progenitus
+1	rolling thunder

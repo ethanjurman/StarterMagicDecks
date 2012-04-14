@@ -1,0 +1,24 @@
+8	snow-covered mountain
+14	snow-covered forest
+2	highland weald
+1	gorilla shaman
+1	orcish lumberjack
+2	earthen goo
+1	stalking yeti
+2	boreal druid
+2	tinder wall
+4	bull aurochs
+2	frostweb spider
+2	woolly mammoths
+3	aurochs
+1	deadly insect
+2	rimehorn aurochs
+3	aurochs herd
+1	giant trap door spider
+2	incinerate
+2	balduvian rage
+1	resize
+1	hibernation's end
+1	bounty of the hunt
+1	shape of the wiitigo
+1	whalebone glider

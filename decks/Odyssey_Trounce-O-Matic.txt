@@ -1,0 +1,26 @@
+1	timberland ruins
+1	seafloor debris
+13	forest
+9	island
+2	cephalid looter
+2	crashing centaur
+2	diligent farmhand
+1	ivy elemental
+2	krosan avenger
+2	metamorphic wurm
+2	nimble mongoose
+2	springing tiger
+1	stone-tongue basilisk
+1	twigwalker
+2	werebear
+2	wild mongrel
+2	careful study
+1	deluge
+2	muscle burst
+1	overrun
+2	peek
+2	predict
+2	repel
+1	roar of the wurm
+1	seton's desire
+1	sylvan might

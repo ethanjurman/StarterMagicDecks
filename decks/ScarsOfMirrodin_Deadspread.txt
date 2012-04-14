@@ -1,0 +1,25 @@
+13	island
+13	swamp
+1	carnifex demon
+1	darkslick drake
+2	fume spitter
+1	harbor serpent
+2	leaden myr
+2	maritime guard
+2	moriok reaver
+2	silver myr
+1	skinrender
+2	sky-eel school
+2	thrummingbird
+2	contagion clasp
+1	contagion engine
+1	culling dais
+1	doom blade
+2	instill infection
+2	necrogen censer
+1	sorcerer's strongbox
+2	steady progress
+1	throne of geth
+1	trigon of corruption
+1	trigon of thought
+1	twisted image

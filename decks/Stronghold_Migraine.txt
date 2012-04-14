@@ -1,0 +1,19 @@
+24	swamp
+2	pit imp
+4	dauthi horror
+1	rabid rats
+2	dauthi slayer
+4	foul imp
+1	mindwarper
+1	dauthi mindripper
+1	dark ritual
+2	mind peel
+4	death stroke
+2	diabolic edict
+3	coercion
+1	dark banishing
+3	megrim
+2	bottomless pit
+1	ensnaring bridge
+1	hornet cannon
+1	portcullis

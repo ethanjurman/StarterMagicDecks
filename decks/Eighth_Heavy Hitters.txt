@@ -1,0 +1,17 @@
+17	forest
+2	elvish pioneer
+1	fyndhorn elder
+2	lone wolf
+2	wood elves
+2	hunted wumpus
+1	nantuko disciple
+2	spined wurm
+1	llanowar behemoth
+1	primeval force
+1	rhox
+2	giant growth
+1	naturalize
+2	rampant growth
+1	wing snare
+1	lure
+1	rod of ruin

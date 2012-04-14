@@ -1,0 +1,27 @@
+2	plains
+2	island
+2	swamp
+2	mountain
+14	forest
+1	wayfaring giant
+2	zanam djinn
+1	halam djinn
+3	thornscape apprentice
+1	nomadic elf
+2	quirion trailblazer
+1	serpentine kavu
+2	kavu climber
+1	sabertooth nishoba
+2	yavimaya barbarian
+2	voracious cobra
+1	global ruin
+2	exclude
+2	probe
+2	tribal flames
+3	fertile ground
+3	harrow
+1	ordered migration
+1	fires of yavimaya
+2	wax // wane
+1	spite // malice
+2	assault // battery

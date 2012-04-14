@@ -1,0 +1,22 @@
+13	forest
+13	swamp
+1	blackcleave goblin
+1	contagious nim
+2	corpse cur
+2	cystbearer
+1	hand of the praetors
+2	ichor rats
+3	ichorclaw myr
+2	necropede
+3	plague stinger
+1	putrefax
+2	tangle angler
+2	assassinate
+2	bladed pinions
+2	carrion call
+2	giant growth
+1	heavy arbalest
+1	relic putrescence
+1	rise from the grave
+2	slice in twain
+1	strider harness

@@ -1,0 +1,25 @@
+1	necrosavant
+2	waterspout djinn
+2	brood of cockroaches
+1	nekrataal
+1	coral fighters
+1	zombie mob
+2	man-o'-war
+1	shrieking drake
+2	kukemssa serpent
+2	fetid horror
+2	restless dead
+1	flooded shoreline
+2	necromancy
+2	ether well
+2	sealed fate
+2	impulse
+2	inspiration
+1	vision charm
+2	coercion
+1	funeral charm
+1	boomerang
+1	ray of command
+2	enfeeblement
+12	island
+12	swamp

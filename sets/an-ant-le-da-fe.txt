@@ -1,0 +1,695 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Cuombajj Witches	an	1	B	BB	2	Creature - Human Wizard	1	3	C	{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+El-Hajjaj	an	2	B	1BB	3	Creature - Human Wizard	1	1	R	Whenever El-Hajjj deals damage, you gain that much life.
+Erg Raiders	an	4	B	1B	2	Creature - Human Warrior	2	3	C	At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+Guardian Beast	an	5	B	3B	4	Creature - Beast	2	4	R	As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they're indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.
+Hasran Ogress	an	7	B	BB	2	Creature - Ogre	3	2	C	Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+Junun Efreet	an	8	B	1BB	3	Creature - Efreet	3	3	R	Flying At the beginning of your upkeep, sacrifice Junun Efreet unless you pay {B}{B}.
+Juzam Djinn	an	9	B	2BB	4	Creature - Djinn	5	5	R	At the beginning of your upkeep, Juzam Djinn deals 1 damage to you.
+Khabal Ghoul	an	10	B	2B	3	Creature - Zombie	1	1	U	At the beginning of the end step, put a +1/+1 counter on Khabal Ghoul for each creature put into a graveyard from the battlefield this turn.
+Oubliette	an	12	B	1BB	3	Enchantment			C	When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Oubliette leaves the battlefield, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.
+Sorceress Queen	an	13	B	1BB	3	Creature - Human Wizard	1	1	U	{T}: Target creature other than Sorceress Queen becomes 0/2 until end of turn.
+Stone-Throwing Devils	an	15	B	B	1	Creature - Devil	1	1	C	First strike
+Dandan	an	16	U	UU	2	Creature - Fish	4	1	C	Dandn can't attack unless defending player controls an Island. When you control no Islands, sacrifice Dandn.
+Fishliver Oil	an	18	U	1U	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has islandwalk. (This creature is unblockable as long as defending player controls an Island.)
+Flying Men	an	19	U	U	1	Creature - Human	1	1	C	Flying
+Giant Tortoise	an	21	U	1U	2	Creature - Turtle	1	1	C	Giant Tortoise gets +0/+3 as long as it's untapped.
+Island Fish Jasconius	an	22	U	4UUU	7	Creature - Fish	6	8	R	Island Fish Jasconius can't attack unless defending player controls an Island. Island Fish Jasconius doesn't untap during your untap step. At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius. When you control no Islands, sacrifice Island Fish Jasconius.
+Merchant Ship	an	23	U	U	1	Creature - Human	0	2	U	Merchant Ship can't attack unless defending player controls an Island. Whenever Merchant Ship attacks and isn't blocked, you gain 2 life. When you control no Islands, sacrifice Merchant Ship.
+Old Man of the Sea	an	24	U	1UU	3	Creature - Djinn	2	3	R	You may choose not to untap Old Man of the Sea during your untap step. {T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.
+Serendib Djinn	an	25	U	2UU	4	Creature - Djinn	5	6	R	Flying At the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you. When you control no lands, sacrifice Serendib Djinn.
+Serendib Efreet	an	26	U	2U	3	Creature - Efreet	3	4	R	Flying At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+Sindbad	an	27	U	1U	2	Creature - Human	1	1	U	{T}: Draw a card and reveal it. If it isn't a land card, discard it.
+Unstable Mutation	an	28	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3. At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.
+Cyclone	an	29	G	2GG	4	Enchantment			U	At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
+Desert Twister	an	30	G	4GG	6	Sorcery			U	Destroy target permanent.
+Drop of Honey	an	31	G	G	1	Enchantment			R	At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them. When there are no creatures on the battlefield, sacrifice Drop of Honey.
+Erhnam Djinn	an	32	G	3G	4	Creature - Djinn	4	5	R	At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+Ghazban Ogre	an	33	G	G	1	Creature - Ogre	2	2	C	At the beginning of your upkeep, if a player has more life than any other, that player gains control of Ghazban Ogre.
+Ifh-Biff Efreet	an	34	G	2GG	4	Creature - Efreet	3	3	R	Flying {G}: Ifh-Bff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.
+Metamorphosis	an	35	G	G	1	Sorcery			C	As an additional cost to cast Metamorphosis, sacrifice a creature. Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+Nafs Asp	an	37	G	G	1	Creature - Snake	1	1	C	Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.
+Sandstorm	an	38	G	G	1	Instant			C	Sandstorm deals 1 damage to each attacking creature.
+Singing Tree	an	39	G	3G	4	Creature - Plant	0	3	R	{T}: Target attacking creature's power becomes 0 until end of turn.
+Wyluli Wolf	an	40	G	1G	2	Creature - Wolf	1	1	C	{T}: Target creature gets +1/+1 until end of turn.
+Aladdin	an	42	R	2RR	4	Creature - Human Rogue	1	1	R	{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+Ali Baba	an	43	R	R	1	Creature - Human Rogue	1	1	U	{R}: Tap target Wall.
+Ali from Cairo	an	44	R	2RR	4	Creature - Human	0	1	R	Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Bird Maiden	an	45	R	2R	3	Creature - Human Bird	1	2	C	Flying
+Desert Nomads	an	47	R	2R	3	Creature - Human Nomad	2	2	C	Desertwalk Prevent all damage that would be dealt to Desert Nomads by Deserts.
+Hurr Jackal	an	48	R	R	1	Creature - Hound	1	1	C	{T}: Target creature can't be regenerated this turn.
+Kird Ape	an	49	R	R	1	Creature - Ape	1	1	C	Kird Ape gets +1/+2 as long as you control a Forest.
+Magnetic Mountain	an	50	R	1RR	3	Enchantment			U	Blue creatures don't untap during their controllers' untap steps. At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {4} for each creature chosen this way. If the player does, untap those creatures.
+Mijae Djinn	an	51	R	RRR	3	Creature - Djinn	6	3	R	Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+Rukh Egg	an	53	R	3R	4	Creature - Egg	0	3	C	When Rukh Egg is put into a graveyard from the battlefield, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.
+Ydwen Efreet	an	54	R	RRR	3	Creature - Efreet	3	6	R	Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked.
+Abu Ja'far	an	55	W	W	1	Creature - Human	0	1	U	When Abu Ja'far is put into a graveyard from the battlefield, destroy all creatures blocking or blocked by it. They can't be regenerated.
+Army of Allah	an	56	W	1WW	3	Instant			C	Attacking creatures get +2/+0 until end of turn.
+Camel	an	58	W	W	1	Creature - Camel	0	1	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) Prevent all damage that would be dealt to Camel or to creatures banded with Camel by Deserts.
+Eye for an Eye	an	59	W	WW	2	Instant			U	The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.
+Jihad	an	60	W	WWW	3	Enchantment			R	As Jihad enters the battlefield, choose a color and an opponent. White creatures get +2/+1. When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.
+King Suleiman	an	61	W	1W	2	Creature - Human	1	1	R	{T}: Destroy target Djinn or Efreet.
+Moorish Cavalry	an	62	W	2WW	4	Creature - Human Knight	3	3	C	Trample
+Piety	an	64	W	2W	3	Instant			C	Blocking creatures get +0/+3 until end of turn.
+Repentant Blacksmith	an	66	W	1W	2	Creature - Human	1	2	R	Protection from red
+Shahrazad	an	67	W	WW	2	Sorcery			R	Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.
+War Elephant	an	68	W	3W	4	Creature - Elephant	2	2	C	Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Aladdin's Lamp	an	70	A	10	1	Artifact			R	{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, shuffle all but one of them, put the shuffled cards on the bottom of your library, then draw a card. X can't be 0.
+Aladdin's Ring	an	71	A	8	8	Artifact			R	{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.
+Bottle of Suleiman	an	72	A	4	4	Artifact			R	{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you lose the flip, Bottle of Suleiman deals 5 damage to you. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield.
+Brass Man	an	73	A	1	1	Artifact Creature - Construct	1	3	U	Brass Man doesn't untap during your untap step. At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.
+City in a Bottle	an	74	A	2	2	Artifact			R	Whenever a nontoken permanent from the Arabian Nights expansion other than City in a Bottle is on the battlefield, its controller sacrifices it. Players can't play cards from the Arabian Nights expansion.
+Dancing Scimitar	an	75	A	4	4	Artifact Creature - Spirit	1	5	R	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Ebony Horse	an	76	A	3	3	Artifact			R	{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Flying Carpet	an	77	A	4	4	Artifact			U	{2}, {T}: Target creature gains flying until end of turn.
+Jandor's Ring	an	78	A	6	6	Artifact			R	{2}, {T}, Discard the last card you drew this turn: Draw a card.
+Jandor's Saddlebags	an	79	A	2	2	Artifact			R	{3}, {T}: Untap target creature.
+Jeweled Bird	an	80	A	1	1	Artifact			U	Remove Jeweled Bird from your deck before playing if you're not playing for ante. {T}: Put Jeweled Bird into the ante. If you do, put all other cards you own in the ante into your graveyard, then draw a card.
+Pyramids	an	81	A	6	6	Artifact			R	{2}: Choose one - Destroy target Aura attached to a land; or the next time target land would be destroyed this turn, remove all damage from it instead.
+Ring of Ma'ruf	an	82	A	5	5	Artifact			R	{5}, {T}, Exile Ring of Ma'ruf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.
+Sandals of Abdallah	an	83	A	4	4	Artifact			U	{2}, {T}: Target creature gains islandwalk until end of turn. When that creature is put into a graveyard from the battlefield this turn, destroy Sandals of Abdallah.
+Bazaar of Baghdad	an	84	L		0	Land			U	{T}: Draw two cards, then discard three cards.
+City of Brass	an	85	L		0	Land			U	Whenever City of Brass becomes tapped, it deals 1 damage to you. {T}: Add one mana of any color to your mana pool.
+Desert	an	86	L		0	Land - Desert			C	{T}: Add {1} to your mana pool. {T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.
+Diamond Valley	an	87	L		0	Land			U	{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
+Elephant Graveyard	an	88	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Regenerate target Elephant.
+Island of Wak-Wak	an	89	L		0	Land			R	{T}: The power of target creature with flying becomes 0 until end of turn.
+Library of Alexandria	an	90	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.
+Mountain	an	91	L		0	Basic Land - Mountain			L	R
+Oasis	an	92	L		0	Land			U	{T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+Amulet of Kroog	antiquities	1	A	2	2	Artifact			C	{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Armageddon Clock	antiquities	2	A	6	6	Artifact			U	At the beginning of your upkeep, put a doom counter on Armageddon Clock. At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it. {4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+Ashnod's Altar	antiquities	3	A	3	3	Artifact			U	Sacrifice a creature: Add {2} to your mana pool.
+Ashnod's Battle Gear	antiquities	4	A	2	2	Artifact			U	You may choose not to untap Ashnod's Battle Gear during your untap step. {2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.
+Ashnod's Transmogrant	antiquities	5	A	1	1	Artifact			U	{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+Battering Ram	antiquities	6	A	2	2	Artifact Creature - Construct	1	1	C	At the beginning of your combat phase, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.) Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.
+Bronze Tablet	antiquities	7	A	6	6	Artifact			R	Remove Bronze Tablet from your deck before playing if you're not playing for ante. Bronze Tablet enters the battlefield tapped. {4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If he or she does, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.
+Candelabra of Tawnos	antiquities	8	A	1	1	Artifact			R	{X}, {T}: Untap X target lands.
+Clay Statue	antiquities	9	A	4	4	Artifact Creature - Golem	3	1	C	{2}: Regenerate Clay Statue.
+Clockwork Avian	antiquities	10	A	5	5	Artifact Creature - Bird	0	4	R	Flying Clockwork Avian enters the battlefield with four +1/+0 counters on it. At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it. {X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.
+Colossus of Sardia	antiquities	11	A	9	9	Artifact Creature - Golem	9	9	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) Colossus of Sardia doesn't untap during your untap step. {9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+Coral Helm	antiquities	12	A	3	3	Artifact			R	{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.
+Cursed Rack	antiquities	13	A	4	4	Artifact			U	As Cursed Rack enters the battlefield, choose an opponent. The chosen player's maximum hand size is four.
+Dragon Engine	antiquities	14	A	3	3	Artifact Creature - Construct	1	3	C	{2}: Dragon Engine gets +1/+0 until end of turn.
+Feldon's Cane	antiquities	15	A	1	1	Artifact			U	{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.
+Golgothian Sylex	antiquities	16	A	4	4	Artifact			R	{1}, {T}: Each nontoken permanent from the Antiquities expansion is sacrificed by its controller.
+Grapeshot Catapult	antiquities	17	A	4	4	Artifact Creature - Construct	2	3	C	{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
+Ivory Tower	antiquities	18	A	1	1	Artifact			U	At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.
+Jalum Tome	antiquities	19	A	3	3	Artifact			U	{2}, {T}: Draw a card, then discard a card.
+Mightstone	antiquities	20	A	4	4	Artifact			U	Attacking creatures get +1/+0.
+Millstone	antiquities	21	A	2	2	Artifact			U	{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+Mishra's War Machine	antiquities	22	A	7	7	Artifact Creature - Juggernaut	5	5	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) At the beginning of your upkeep, unless you discard a card, tap Mishra's War Machine and it deals 3 damage to you.
+Obelisk of Undoing	antiquities	23	A	1	1	Artifact			R	{6}, {T}: Return target permanent you own and control to your hand.
+Onulet	antiquities	24	A	3	3	Artifact Creature - Construct	2	2	U	When Onulet is put into a graveyard from the battlefield, you gain 2 life.
+Ornithopter	antiquities	25	A	0	0	Artifact Creature - Thopter	0	2	C	Flying
+Primal Clay	antiquities	26	A	4	4	Artifact Creature - Shapeshifter	*	*	U	As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Shapeshifter Wall artifact creature with defender.
+Rakalite	antiquities	27	A	6	6	Artifact			U	{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.
+Rocket Launcher	antiquities	28	A	4	4	Artifact			U	{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.
+Shapeshifter	antiquities	29	A	6	6	Artifact Creature - Shapeshifter	*	7-*	R	As Shapeshifter enters the battlefield, choose a number between 0 and 7. At the beginning of your upkeep, you may choose a number between 0 and 7. Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.
+Staff of Zegon	antiquities	30	A	4	4	Artifact			C	{3}, {T}: Target creature gets -2/-0 until end of turn.
+Su-Chi	antiquities	31	A	4	4	Artifact Creature - Construct	4	4	U	When Su-Chi is put into a graveyard from the battlefield, add {4} to your mana pool.
+Tablet of Epityr	antiquities	32	A	1	1	Artifact			C	Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.
+Tawnos's Coffin	antiquities	33	A	4	4	Artifact			R	You may choose not to untap Tawnos's Coffin during your untap step. {3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it, and if you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.
+Tawnos's Wand	antiquities	34	A	4	4	Artifact			U	{2}, {T}: Target creature with power 2 or less is unblockable this turn.
+Tawnos's Weaponry	antiquities	35	A	2	2	Artifact			U	You may choose not to untap Tawnos's Weaponry during your untap step. {2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.
+Tetravus	antiquities	36	A	6	6	Artifact Creature - Construct	1	1	R	Flying Tetravus enters the battlefield with three +1/+1 counters on it. At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, put that many 1/1 colorless Tetravite artifact creature tokens onto the battlefield. They each have flying and "This creature can't be enchanted." At the beginning of your upkeep, you may exile any number of tokens put onto the battlefield with Tetravus. If you do, put that many +1/+1 counters on Tetravus.
+The Rack	antiquities	37	A	1	1	Artifact			U	As The Rack enters the battlefield, choose an opponent. At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.
+Triskelion	antiquities	38	A	6	6	Artifact Creature - Construct	1	1	R	Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.
+Urza's Avenger	antiquities	39	A	6	6	Artifact Creature - Shapeshifter	4	4	R	{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Urza's Chalice	antiquities	40	A	1	1	Artifact			C	Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.
+Urza's Miter	antiquities	41	A	3	3	Artifact			R	Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.
+Wall of Spears	antiquities	42	A	3	3	Artifact Creature - Wall	2	3	U	Defender (This creature can't attack.) First strike
+Weakstone	antiquities	43	A	4	4	Artifact			U	Attacking creatures get -1/-0.
+Yotian Soldier	antiquities	44	A	3	3	Artifact Creature - Soldier	1	4	C	Vigilance
+Artifact Possession	antiquities	45	B	2B	3	Enchantment - Aura			C	Enchant artifact Whenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.
+Gate to Phyrexia	antiquities	46	B	BB	2	Enchantment			U	Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.
+Haunting Wind	antiquities	47	B	3B	4	Enchantment			U	Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.
+Phyrexian Gremlins	antiquities	48	B	2B	3	Creature - Ouphe	1	1	C	You may choose not to untap Phyrexian Gremlins during your untap step. {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.
+Priest of Yawgmoth	antiquities	49	B	1B	2	Creature - Human Cleric	1	2	C	{T}, Sacrifice an artifact: Add to your mana pool an amount of black mana equal to the sacrificed artifact's converted mana cost.
+Xenic Poltergeist	antiquities	50	B	1BB	3	Creature - Spirit	1	1	U	{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.
+Yawgmoth Demon	antiquities	51	B	4BB	6	Creature - Demon	6	6	R	Flying (This creature can't be blocked except by creatures with flying or reach.) First strike (This creature deals combat damage before creatures without first strike.) At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
+Drafna's Restoration	antiquities	52	U	U	1	Sorcery			C	Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.
+Energy Flux	antiquities	53	U	2U	3	Enchantment			U	All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."
+Hurkyl's Recall	antiquities	54	U	1U	2	Instant			R	Return all artifacts target player owns to his or her hand.
+Power Artifact	antiquities	55	U	UU	2	Enchantment - Aura			U	Enchant artifact Enchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+Reconstruction	antiquities	56	U	U	1	Sorcery			C	Return target artifact card from your graveyard to your hand.
+Sage of Lat-Nam	antiquities	57	U	1U	2	Creature - Human Artificer	1	2	C	{T}, Sacrifice an artifact: Draw a card.
+Transmute Artifact	antiquities	58	U	UU	2	Sorcery			U	As an additional cost to cast Transmute Artifact, sacrifice an artifact. Search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay {X}, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.
+Argothian Pixies	antiquities	59	G	1G	2	Creature - Faerie	2	1	C	Argothian Pixies can't be blocked by artifact creatures. Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.
+Argothian Treefolk	antiquities	60	G	3GG	5	Creature - Treefolk	3	5	C	Prevent all damage that would be dealt to Argothian Treefolk by artifacts.
+Citanul Druid	antiquities	61	G	1G	2	Creature - Human Druid	1	1	U	Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.
+Crumble	antiquities	62	G	G	1	Instant			C	Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.
+Gaea's Avenger	antiquities	63	G	1GG	3	Creature - Treefolk	1+*	1+*	R	Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.
+Powerleech	antiquities	64	G	GG	2	Enchantment			U	Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without {T} in its activation cost, you gain 1 life.
+Titania's Song	antiquities	65	G	3G	4	Enchantment			U	Each noncreature artifact loses its abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.
+Mishra's Factory	antiquities	66	L		0	Land			R	{T}: Add {1} to your mana pool. {1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land. {T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+Mishra's Workshop	antiquities	70	L		0	Land			R	{T}: Add {3} to your mana pool. Spend this mana only to cast artifact spells.
+Strip Mine	antiquities	71	L		0	Land			R	{T}: Add {1} to your mana pool. {T}, Sacrifice Strip Mine: Destroy target land.
+Urza's Mine	antiquities	75	L		0	Land - Urzaâ€_Ã„Ã¶âˆ_Ã‘âˆ_Â¥s Mine			U	{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+Urza's Power Plant	antiquities	79	L		0	Land - Urzaâ€_Ã„Ã¶âˆ_Ã‘âˆ_Â¥s Power-Plant			C	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+Urza's Tower	antiquities	83	L		0	Land - Urzaâ€_Ã„Ã¶âˆ_Ã‘âˆ_Â¥s Tower			U	{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+Artifact Blast	antiquities	87	R	R	1	Instant			C	Counter target artifact spell.
+Atog	antiquities	88	R	1R	2	Creature - Atog	1	2	C	Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+Detonate	antiquities	89	R	XR	1	Sorcery			U	Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+Dwarven Weaponsmith	antiquities	90	R	1R	2	Creature - Dwarf Artificer	1	1	U	{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+Goblin Artisans	antiquities	91	R	R	1	Creature - Goblin Artificer	1	1	U	{T}: Flip a coin. If you win the flip, draw a card. Otherwise, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.
+Orcish Mechanics	antiquities	92	R	2R	3	Creature - Orc	1	1	C	{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.
+Shatterstorm	antiquities	93	R	2RR	4	Sorcery			R	Destroy all artifacts. They can't be regenerated.
+Argivian Archaeologist	antiquities	94	W	1WW	3	Creature - Human Artificer	1	1	R	{W}{W}, {T}: Return target artifact card from your graveyard to your hand.
+Argivian Blacksmith	antiquities	95	W	1WW	3	Creature - Human Artificer	2	2	C	{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.
+Artifact Ward	antiquities	96	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has protection from artifacts. This effect doesn't remove Artifact Ward.
+Circle of Protection: Artifacts	antiquities	97	W	1W	2	Enchantment			U	{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.
+Damping Field	antiquities	98	W	2W	3	Enchantment			U	Players can't untap more than one artifact during their untap steps.
+Martyrs of Korlis	antiquities	99	W	3WW	5	Creature - Human	1	6	U	As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.
+Reverse Polarity	antiquities	100	W	WW	2	Instant			C	You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.
+Ashes to Ashes	dark	1	B	1BB	3	Sorcery			C	Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+Banshee	dark	2	B	2BB	4	Creature - Spirit	0	1	U	{X}, {T}: Banshee deals X damage divided evenly between you and target creature or player. Round up for you and down for that creature or player.
+Bog Imp	dark	3	B	1B	2	Creature - Imp	1	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Bog Rats	dark	4	B	B	1	Creature - Rat	1	1	C	Bog Rats can't be blocked by Walls.
+Curse Artifact	dark	5	B	2BB	4	Enchantment - Aura			U	Enchant artifact At the beginning of the upkeep of enchanted artifact's controller, Curse Artifact deals 2 damage to that player unless he or she sacrifices that artifact.
+Eater of the Dead	dark	6	B	4B	5	Creature - Horror	3	4	U	{0}: If Eater of the Dead is tapped, untap it and exile target creature card from a graveyard.
+Frankenstein's Monster	dark	7	B	XBB	2	Creature - Zombie	0	1	R	As Frankenstein's Monster enters the battlefield, exile X creature cards from your graveyard. If you can't, put Frankenstein's Monster into its owner's graveyard instead of onto the battlefield. For each creature card exiled this way, Frankenstein's Monster enters the battlefield with a +2/+0, +1/+1, or +0/+2 counter on it.
+Grave Robbers	dark	8	B	1BB	3	Creature - Human Rogue	1	1	R	{B}, {T}: Exile target artifact card from a graveyard. You gain 2 life.
+Inquisition	dark	9	B	2B	3	Sorcery			C	Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.
+Marsh Gas	dark	10	B	B	1	Instant			C	All creatures get -2/-0 until end of turn.
+Murk Dwellers	dark	11	B	3B	4	Creature - Zombie	2	2	C	Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.
+Nameless Race	dark	12	B	3B	4	Creature	*	*	R	Trample As Nameless Race enters the battlefield, pay any amount of life. The amount you pay can't be more than the total number of white nontoken permanents your opponents control plus the total number of white cards in their graveyards. Nameless Race's power and toughness are each equal to the life paid as it entered the battlefield.
+Rag Man	dark	13	B	2BB	4	Creature - Human Minion	2	1	R	{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.
+Season of the Witch	dark	14	B	BBB	3	Enchantment			R	At the beginning of your upkeep, sacrifice Season of the Witch unless you pay 2 life. At the beginning of the end step, destroy all untapped creatures that didn't attack this turn, except for creatures that couldn't attack.
+The Fallen	dark	15	B	1BBB	4	Creature - Zombie	2	3	U	At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.
+Uncle Istvan	dark	16	B	1BBB	4	Creature - Human	1	3	U	Prevent all damage that would be dealt to Uncle Istvan by creatures.
+Word of Binding	dark	17	B	XBB	2	Sorcery			C	Tap X target creatures.
+Worms of the Earth	dark	18	B	2BBB	5	Enchantment			R	Players can't play lands. If a land would enter the battlefield, instead it doesn't. At the beginning of each upkeep, any player may sacrifice two lands or pay 5 life. If a player does either, destroy Worms of the Earth.
+Amnesia	dark	19	U	3UUU	6	Sorcery			U	Target player reveals his or her hand and discards all nonland cards.
+Apprentice Wizard	dark	20	U	1UU	3	Creature - Human Wizard	0	1	R	{U}, {T}: Add {3} to your mana pool.
+Dance of Many	dark	21	U	UU	2	Enchantment			R	When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield. When Dance of Many leaves the battlefield, exile the creature token. When the creature token leaves the battlefield, sacrifice Dance of Many. At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.
+Deep Water	dark	22	U	UU	2	Enchantment			C	{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.
+Drowned	dark	23	U	1U	2	Creature - Zombie	1	1	C	{B}: Regenerate Drowned.
+Electric Eel	dark	24	U	U	1	Creature - Fish	1	1	U	When Electric Eel enters the battlefield, it deals 1 damage to you. {R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.
+Erosion	dark	25	U	UUU	3	Enchantment - Aura			C	Enchant land At the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.
+Flood	dark	26	U	U	1	Enchantment			U	{U}{U}: Tap target creature without flying.
+Ghost Ship	dark	27	U	2UU	4	Creature - Spirit	2	4	C	Flying {U}{U}{U}: Regenerate Ghost Ship.
+Giant Shark	dark	28	U	5U	6	Creature - Fish	4	4	C	Giant Shark can't attack unless defending player controls an Island. Whenever Giant Shark blocks or becomes blocked by a creature that has been dealt damage this turn, Giant Shark gets +2/+0 and gains trample until end of turn. When you control no Islands, sacrifice Giant Shark.
+Leviathan	dark	29	U	5UUUU	9	Creature - Leviathan	10	10	R	Trample Leviathan enters the battlefield tapped and doesn't untap during your untap step. At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan. Leviathan can't attack unless you sacrifice two Islands.
+Mana Vortex	dark	30	U	1UU	3	Enchantment			R	When you cast Mana Vortex, you may sacrifice a land. If you don't, counter Mana Vortex. At the beginning of each player's upkeep, that player sacrifices a land. When there are no lands on the battlefield, sacrifice Mana Vortex.
+Merfolk Assassin	dark	31	U	UU	2	Creature - Merfolk Assassin	1	2	U	{T}: Destroy target creature with islandwalk.
+Mind Bomb	dark	32	U	U	1	Sorcery			R	Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.
+Psychic Allergy	dark	33	U	3UU	5	Enchantment			R	As Psychic Allergy enters the battlefield, choose a color. At the beginning of each opponent's upkeep, Psychic Allergy deals X damage to that player, where X is the number of nontoken permanents of the chosen color he or she controls. At the beginning of your upkeep, destroy Psychic Allergy unless you sacrifice two Islands.
+Riptide	dark	34	U	U	1	Instant			C	Tap all blue creatures.
+Sunken City	dark	35	U	UU	2	Enchantment			C	At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}. Blue creatures get +1/+1.
+Tangle Kelp	dark	36	U	U	1	Enchantment - Aura			U	Enchant creature When Tangle Kelp enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step if it attacked during its controller's last turn.
+Water Wurm	dark	37	U	U	1	Creature - Wurm	1	1	C	Water Wurm gets +0/+1 as long as an opponent controls an Island.
+Carnivorous Plant	dark	38	G	3G	4	Creature - Plant Wall	4	5	C	Defender
+Elves of Deep Shadow	dark	39	G	G	1	Creature - Elf Druid	1	1	U	{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.
+Gaea's Touch	dark	40	G	GG	2	Enchantment			C	You may play an additional land during your turn if that land is a basic Forest. Sacrifice Gaea's Touch: Add {G}{G} to your mana pool.
+Hidden Path	dark	41	G	2GGGG	6	Enchantment			R	Green creatures have forestwalk.
+Land Leeches	dark	42	G	1GG	3	Creature - Leech	2	2	C	First strike
+Lurker	dark	43	G	2G	3	Creature - Beast	2	3	R	Lurker can't be the target of spells unless it attacked or blocked this turn.
+Marsh Viper	dark	44	G	3G	4	Creature - Snake	1	2	C	Whenever Marsh Viper deals damage to an opponent, that player gets two poison counters. (A player with ten or more poison counters loses the game.)
+Niall Silvain	dark	45	G	GGG	3	Creature - Ouphe	2	2	R	{G}{G}{G}{G}, {T}: Regenerate target creature.
+People of the Woods	dark	46	G	GG	2	Creature - Human	1	*	U	People of the Woods's toughness is equal to the number of Forests you control.
+Savaen Elves	dark	47	G	G	1	Creature - Elf	1	1	C	{G}{G}, {T}: Destroy target Aura attached to a land.
+Scarwood Bandits	dark	48	G	2GG	4	Creature - Human Rogue	2	2	R	Forestwalk {2}{G}, {T}: Unless target artifact's controller pays {2}, gain control of that artifact for as long as Scarwood Bandits remains on the battlefield.
+Scarwood Hag	dark	49	G	1G	2	Creature - Hag	1	1	U	{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn. {T}: Target creature loses forestwalk until end of turn.
+Scavenger Folk	dark	50	G	G	1	Creature - Human	1	1	C	{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+Spitting Slug	dark	51	G	1GG	3	Creature - Slug	2	4	U	Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.
+Tracker	dark	52	G	2G	3	Creature - Human	2	2	R	{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.
+Venom	dark	53	G	1GG	3	Enchantment - Aura			C	Enchant creature Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.
+Whippoorwill	dark	54	G	G	1	Creature - Bird	1	1	U	{G}{G}, {T}: Target creature can't be regenerated this turn. Damage that would be dealt to that creature this turn can't be prevented or dealt instead to another creature or player. When the creature is put into a graveyard this turn, exile the creature.
+Wormwood Treefolk	dark	55	G	3GG	5	Creature - Treefolk	4	4	R	{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you. {B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you.
+Ball Lightning	dark	56	R	RRR	3	Creature - Elemental	6	1	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) Haste (This creature can attack and {T} as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+Blood Moon	dark	57	R	2R	3	Enchantment			R	Nonbasic lands are Mountains.
+Brothers of Fire	dark	58	R	1RR	3	Creature - Human Shaman	2	2	U	{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.
+Cave People	dark	59	R	1RR	3	Creature - Human	1	4	U	Whenever Cave People attacks, it gets +1/-2 until end of turn. {1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn.
+Eternal Flame	dark	60	R	2RR	4	Sorcery			R	Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.
+Fire Drake	dark	61	R	1RR	3	Creature - Drake	1	2	U	Flying {R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+Fissure	dark	62	R	3RR	5	Instant			C	Destroy target creature or land. It can't be regenerated.
+Goblin Caves	dark	63	R	1RR	3	Enchantment - Aura			C	Enchant land If enchanted land is a basic Mountain, Goblin creatures get +0/+2.
+Goblin Digging Team	dark	64	R	R	1	Creature - Goblin	1	1	C	{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+Goblin Hero	dark	65	R	2R	3	Creature - Goblin	2	2	C	
+Goblin Rock Sled	dark	66	R	1R	2	Creature - Goblin	3	1	C	Trample Goblin Rock Sled doesn't untap during your untap step if it attacked during your last turn. Goblin Rock Sled can't attack unless defending player controls a Mountain.
+Goblin Shrine	dark	67	R	1RR	3	Enchantment - Aura			C	Enchant land If enchanted land is a Mountain, Goblin creatures get +1/+0. When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+Goblin Wizard	dark	68	R	2RR	4	Creature - Goblin Wizard	1	1	R	{T}: You may put a Goblin permanent card from your hand onto the battlefield. {R}: Target Goblin gains protection from white until end of turn.
+Goblins of the Flarg	dark	69	R	R	1	Creature - Goblin Warrior	1	1	C	Mountainwalk When you control a Dwarf, sacrifice Goblins of the Flarg.
+Inferno	dark	70	R	5RR	7	Instant			R	Inferno deals 6 damage to each creature and each player.
+Mana Clash	dark	71	R	R	1	Sorcery			R	You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.
+Orc General	dark	72	R	2R	3	Creature - Orc Warrior	2	2	U	{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.
+Sisters of the Flame	dark	73	R	1RR	3	Creature - Human Shaman	2	2	U	{T}: Add {R} to your mana pool.
+Angry Mob	dark	74	W	2WW	4	Creature - Human	2+*	2+*	U	Trample As long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.
+Blood of the Martyr	dark	75	W	WWW	3	Instant			U	Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.
+Brainwash	dark	76	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack unless its controller pays {3}.
+Cleansing	dark	77	W	WWW	3	Sorcery			R	For each land, destroy that land unless any player pays 1 life.
+Dust to Dust	dark	78	W	1WW	3	Sorcery			C	Exile two target artifacts.
+Exorcist	dark	79	W	WW	2	Creature - Human Cleric	1	1	R	{1}{W}, {T}: Destroy target black creature.
+Fasting	dark	80	W	W	1	Enchantment			U	At the beginning of your upkeep, put a hunger counter on Fasting. Then destroy Fasting if it has five or more hunger counters on it. If you would begin your draw step, you may skip that step instead. If you do, you gain 2 life. When you draw a card, destroy Fasting.
+Festival	dark	81	W	W	1	Instant			C	Cast Festival only during an opponent's upkeep. Creatures can't attack this turn.
+Fire and Brimstone	dark	82	W	3WW	5	Instant			U	Fire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.
+Holy Light	dark	83	W	2W	3	Instant			C	Nonwhite creatures get -1/-1 until end of turn.
+Knights of Thorn	dark	84	W	3W	4	Creature - Human Knight	2	2	R	Protection from red; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Martyr's Cry	dark	85	W	WW	2	Sorcery			R	Exile all white creatures. For each creature exiled this way, its controller draws a card.
+Miracle Worker	dark	86	W	W	1	Creature - Human Cleric	1	1	C	{T}: Destroy target Aura attached to a creature you control.
+Morale	dark	87	W	1WW	3	Instant			C	Attacking creatures get +1/+1 until end of turn.
+Pikemen	dark	88	W	1W	2	Creature - Human Soldier	1	1	C	First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Preacher	dark	89	W	1WW	3	Creature - Human Cleric	1	1	R	You may choose not to untap Preacher during your untap step. {T}: Gain control of target creature of an opponent's choice that he or she controls for as long as Preacher remains tapped.
+Squire	dark	90	W	1W	2	Creature - Human Soldier	1	2	C	
+Tivadar's Crusade	dark	91	W	1WW	3	Sorcery			U	Destroy all Goblins.
+Witch Hunter	dark	92	W	2WW	4	Creature - Human Cleric	1	1	R	{T}: Witch Hunter deals 1 damage to target player. {1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+Barl's Cage	dark	93	A	4	4	Artifact			R	{3}: Target creature doesn't untap during its controller's next untap step.
+Bone Flute	dark	94	A	3	3	Artifact			U	{2}, {T}: All creatures get -1/-0 until end of turn.
+Book of Rass	dark	95	A	6	6	Artifact			U	{2}, Pay 2 life: Draw a card.
+Coal Golem	dark	96	A	5	5	Artifact Creature - Golem	3	3	U	{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.
+Dark Sphere	dark	97	A	0	0	Artifact			U	{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, it deals half that damage, rounded up, to you instead.
+Diabolic Machine	dark	98	A	7	7	Artifact Creature - Construct	4	4	U	{3}: Regenerate Diabolic Machine.
+Fellwar Stone	dark	99	A	2	2	Artifact			U	{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+Fountain of Youth	dark	100	A	0	0	Artifact			U	{2}, {T}: You gain 1 life.
+Living Armor	dark	101	A	4	4	Artifact			U	{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.
+Necropolis	dark	102	A	5	5	Artifact Creature - Wall	0	1	U	Defender (This creature can't attack.) Exile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's converted mana cost.
+Reflecting Mirror	dark	103	A	4	4	Artifact			U	{X}, {T}: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.
+Runesword	dark	104	A	6	6	Artifact			U	{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would be put into a graveyard this turn, exile that creature instead.
+Scarecrow	dark	105	A	5	5	Artifact Creature - Scarecrow	2	2	U	{6}, {T}: Prevent all damage that would be dealt to you this turn by creatures with flying.
+Skull of Orm	dark	106	A	3	3	Artifact			U	{5}, {T}: Return target enchantment card from your graveyard to your hand.
+Standing Stones	dark	107	A	3	3	Artifact			U	{1}, {T}, Pay 1 life: Add one mana of any color to your mana pool.
+Stone Calendar	dark	108	A	5	5	Artifact			R	Spells you cast cost up to {1} less to cast.
+Tormod's Crypt	dark	109	A	0	0	Artifact			U	{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.
+Tower of Coireall	dark	110	A	2	2	Artifact			U	{T}: Target creature can't be blocked by Walls this turn.
+Wand of Ith	dark	111	A	4	4	Artifact			U	{3}, {T}: Target player reveals a card at random from his or her hand. If it's a land card, that player discards it unless he or she pays 1 life. If it isn't a land card, the player discards it unless he or she pays life equal to its converted mana cost. Activate this ability only during your turn.
+War Barge	dark	112	A	4	4	Artifact			U	{3}: Target creature gains islandwalk until end of turn. When War Barge leaves the battlefield this turn, destroy that creature. A creature destroyed this way can't be regenerated.
+City of Shadows	dark	113	L		0	Land			R	{T}, Exile a creature you control: Put a storage counter on City of Shadows. {T}: Add {X} to your mana pool, where X is the number of storage counters on City of Shadows.
+Maze of Ith	dark	114	L		0	Land			U	{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Safe Haven	dark	115	L		0	Land			R	{2}, {T}: Exile target creature you control. At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.
+Sorrow's Path	dark	116	L		0	Land			R	{T}: Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking. Whenever Sorrow's Path becomes tapped, it deals 2 damage to you and each creature you control.
+Dark Heart of the Wood	dark	117	BG	BG	2	Enchantment			C	Sacrifice a Forest: You gain 3 life.
+Marsh Goblins	dark	118	BR	BR	2	Creature - Goblin	1	1	C	Swampwalk
+Scarwood Goblins	dark	119	RG	RG	2	Creature - Goblin	2	2	C	
+Armor Thrull	fe	1	B	2B	3	Creature - Thrull	1	3	C	{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+Basal Thrull	fe	8	B	BB	2	Creature - Thrull	1	2	C	{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+Breeding Pit	fe	9	B	3B	4	Enchantment			U	At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}. At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.
+Derelor	fe	10	B	3B	4	Creature - Thrull	4	4	R	Black spells you cast cost {B} more to cast.
+Ebon Praetor	fe	11	B	4BB	6	Creature - Avatar	5	5	R	First strike, trample At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor. Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+Hymn to Tourach	fe	13	B	BB	2	Sorcery			C	Target player discards two cards at random.
+Initiates of the Ebon Hand	fe	16	B	B	1	Creature - Cleric	1	1	C	{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+Mindstab Thrull	fe	21	B	1BB	3	Creature - Thrull	2	2	C	Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+Necrite	fe	22	B	1BB	3	Creature - Thrull	2	2	C	Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+Order of the Ebon Hand	fe	27	B	BB	2	Creature - Cleric Knight	2	1	C	Protection from white {B}: Order of the Ebon Hand gains first strike until end of turn. {B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+Soul Exchange	fe	28	B	BB	2	Sorcery			U	As an additional cost to cast Soul Exchange, exile a creature you control. Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.
+Thrull Champion	fe	29	B	4B	5	Creature - Thrull	2	2	R	Thrull creatures get +1/+1. {T}: Gain control of target Thrull for as long as you control Thrull Champion.
+Thrull Retainer	fe	30	B	B	1	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+1. Sacrifice Thrull Retainer: Regenerate enchanted creature.
+Thrull Wizard	fe	31	B	2B	3	Creature - Thrull Wizard	1	1	U	{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.
+Tourach's Chant	fe	32	B	1BB	3	Enchantment			U	At the beginning of your upkeep, sacrifice Tourach's Chant unless you pay {B}. Whenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+Tourach's Gate	fe	33	B	1BB	3	Enchantment - Aura			R	Enchant land you control Sacrifice a Thrull: Put three time counters on Tourach's Gate. At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it. Enchanted land has "{T}: Attacking creatures you control get +2/-1 until end of turn."
+Deep Spawn	fe	34	U	5UUU	8	Creature - Homarid	6	6	U	Trample At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard. {U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. (A permanent with shroud can't be the target of spells or abilities.)
+High Tide	fe	37	U	U	1	Instant			C	Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).
+Homarid	fe	38	U	2U	3	Creature - Homarid	2	2	C	Homarid enters the battlefield with a tide counter on it. At the beginning of your upkeep, put a tide counter on Homarid. As long as there is exactly one tide counter on Homarid, it gets -1/-1. As long as there are exactly three tide counters on Homarid, it gets +1/+1. Whenever there are four tide counters on Homarid, remove all tide counters from it.
+Homarid Shaman	fe	42	U	2UU	4	Creature - Homarid Shaman	2	1	R	{U}: Tap target green creature.
+Homarid Spawning Bed	fe	43	U	UU	2	Enchantment			U	{1}{U}{U}, Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens onto the battlefield, where X is the sacrificed creature's converted mana cost.
+Homarid Warrior	fe	44	U	4U	5	Creature - Homarid Warrior	3	3	C	{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A permanent with shroud can't be the target of spells or abilities.)
+Merseine	fe	50	U	2UU	4	Enchantment - Aura			C	Enchant creature Merseine enters the battlefield with three net counters on it. Enchanted creature doesn't untap during its controller's untap step as long as Merseine has a net counter on it. Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+River Merfolk	fe	51	U	UU	2	Creature - Merfolk	2	1	R	{U}: River Merfolk gains mountainwalk until end of turn.
+Seasinger	fe	52	U	1UU	3	Creature - Merfolk	0	1	U	When you control no Islands, sacrifice Seasinger. You may choose not to untap Seasinger during your untap step. {T}: Gain control of target creature whose controller controls an Island for as long as you control Seasinger and Seasinger remains tapped.
+Svyelunite Priest	fe	53	U	1U	2	Creature - Merfolk Cleric	1	1	U	{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)
+Tidal Flats	fe	54	U	U	1	Enchantment			C	{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+Tidal Influence	fe	57	U	2U	3	Enchantment			U	Cast Tidal Influence only if no permanents named Tidal Influence are on the battlefield. Tidal Influence enters the battlefield with a tide counter on it. At the beginning of your upkeep, put a tide counter on Tidal Influence. As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0. As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0. Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.
+Vodalian Knights	fe	58	U	1UU	3	Creature - Merfolk Knight	2	2	R	First strike Vodalian Knights can't attack unless defending player controls an Island. When you control no Islands, sacrifice Vodalian Knights. {U}: Vodalian Knights gains flying until end of turn.
+Vodalian Mage	fe	61	U	2U	3	Creature - Merfolk Wizard	1	1	C	{U}, {T}: Counter target spell unless its controller pays {1}.
+Vodalian Soldiers	fe	64	U	1U	2	Creature - Merfolk Soldier	1	2	C	
+Vodalian War Machine	fe	66	U	1UU	3	Creature - Wall	0	4	R	Defender (This creature can't attack.) Tap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn't have defender. Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn. When Vodalian War Machine is put into a graveyard from the battlefield, destroy all Merfolk tapped this turn to pay for its abilities.
+Elven Fortress	fe	67	G	G	1	Enchantment			C	{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+Elvish Farmer	fe	71	G	1G	2	Creature - Elf	0	2	R	At the beginning of your upkeep, put a spore counter on Elvish Farmer. Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield. Sacrifice a Saproling: You gain 2 life.
+Elvish Hunter	fe	74	G	1G	2	Creature - Elf Archer	1	1	C	{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+Elvish Scout	fe	77	G	G	1	Creature - Elf Scout	1	1	C	{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+Feral Thallid	fe	78	G	3GGG	6	Creature - Fungus	6	3	U	At the beginning of your upkeep, put a spore counter on Feral Thallid. Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.
+Fungal Bloom	fe	79	G	GG	2	Enchantment			R	{G}{G}: Put a spore counter on target Fungus.
+Night Soil	fe	80	G	GG	2	Enchantment			C	{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+Spore Cloud	fe	83	G	1GG	3	Instant			C	Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+Spore Flower	fe	86	G	GG	2	Creature - Fungus	0	1	U	At the beginning of your upkeep, put a spore counter on Spore Flower. Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+Thallid	fe	87	G	G	1	Creature - Fungus	1	1	C	At the beginning of your upkeep, put a spore counter on Thallid. Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+Thallid Devourer	fe	91	G	1GG	3	Creature - Fungus	2	2	U	At the beginning of your upkeep, put a spore counter on Thallid Devourer. Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield. Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+Thelonite Druid	fe	92	G	2G	3	Creature - Human Cleric Druid	1	1	U	{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+Thelonite Monk	fe	93	G	2GG	4	Creature - Insect Monk Cleric	1	2	R	{T}, Sacrifice a green creature: Target land becomes a Forest. (This effect lasts indefinitely.)
+Thelon's Chant	fe	94	G	1GG	3	Enchantment			U	At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}. Whenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+Thelon's Curse	fe	95	G	GG	2	Enchantment			R	Blue creatures don't untap during their controllers' untap steps. At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {U} for each creature chosen this way. If the player does, untap those creatures.
+Thorn Thallid	fe	99	G	1GG	3	Creature - Fungus	2	2	C	At the beginning of your upkeep, put a spore counter on Thorn Thallid. Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+Brassclaw Orcs	fe	102	R	2R	3	Creature - Orc	3	2	C	Brassclaw Orcs can't block creatures with power 2 or greater.
+Dwarven Armorer	fe	104	R	R	1	Creature - Dwarf	0	2	R	{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.
+Dwarven Catapult	fe	105	R	XR	1	Instant			U	Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.
+Dwarven Lieutenant	fe	106	R	RR	2	Creature - Dwarf Soldier	1	2	U	{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.
+Dwarven Soldier	fe	108	R	1R	2	Creature - Dwarf Soldier	2	1	C	Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+Goblin Chirurgeon	fe	112	R	R	1	Creature - Goblin Shaman	0	2	C	Sacrifice a Goblin: Regenerate target creature.
+Goblin Flotilla	fe	113	R	2R	3	Creature - Goblin	2	2	R	Islandwalk At the beginning of combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.
+Goblin Grenade	fe	114	R	R	1	Sorcery			C	As an additional cost to cast Goblin Grenade, sacrifice a Goblin. Goblin Grenade deals 5 damage to target creature or player.
+Goblin Kites	fe	117	R	1R	2	Enchantment			U	{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at the beginning of the next end step. If you lose the flip, sacrifice that creature.
+Goblin War Drums	fe	120	R	2R	3	Enchantment			C	Each creature you control can't be blocked except by two or more creatures.
+Goblin Warrens	fe	122	R	2R	3	Enchantment			R	{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+Orcish Captain	fe	123	R	R	1	Creature - Orc Warrior	1	1	U	{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+Orcish Spy	fe	124	R	R	1	Creature - Orc Rogue	1	1	C	{T}: Look at the top three cards of target player's library.
+Orcish Veteran	fe	130	R	2R	3	Creature - Orc	2	2	C	Orcish Veteran can't block white creatures with power 2 or greater. {R}: Orcish Veteran gains first strike until end of turn.
+Orgg	fe	131	R	3RR	5	Creature - Orgg	6	6	R	Trample Orgg can't attack if defending player controls an untapped creature with power 3 or greater. Orgg can't block creatures with power 3 or greater.
+Raiding Party	fe	132	R	2R	3	Enchantment			U	Raiding Party can't be the target of white spells or abilities from white sources. Sacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren't chosen this way by any player.
+Combat Medic	fe	136	W	2W	3	Creature - Human Cleric Soldier	0	2	C	{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Farrelite Priest	fe	137	W	1WW	3	Creature - Human Cleric	1	3	U	{1}: Add {W} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.
+Farrel's Mantle	fe	138	W	2W	3	Enchantment - Aura			U	Enchant creature Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to target creature. If that player does, the attacking creature assigns no combat damage this turn.
+Farrel's Zealot	fe	139	W	1WW	3	Creature - Human	2	2	C	Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+Hand of Justice	fe	142	W	5W	6	Creature - Avatar	2	6	R	{T}, Tap three untapped white creatures you control: Destroy target creature.
+Heroism	fe	143	W	2W	3	Enchantment			U	Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by it this turn unless the attacking player pays {2}{R}.
+Icatian Infantry	fe	144	W	W	1	Creature - Human Soldier	1	1	C	{1}: Icatian Infantry gains first strike until end of turn. {1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Icatian Javelineers	fe	149	W	W	1	Creature - Human Soldier	1	1	C	Icatian Javelineers enters the battlefield with a javelin counter on it. {T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+Icatian Lieutenant	fe	151	W	WW	2	Creature - Human Soldier	1	2	R	{1}{W}: Target Soldier creature gets +1/+0 until end of turn.
+Icatian Moneychanger	fe	152	W	W	1	Creature - Human	0	2	C	Icatian Moneychanger enters the battlefield with three credit counters on it. When Icatian Moneychanger enters the battlefield, it deals 3 damage to you. At the beginning of your upkeep, put a credit counter on Icatian Moneychanger. Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+Icatian Phalanx	fe	155	W	4W	5	Creature - Human Soldier	2	4	U	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Icatian Priest	fe	156	W	W	1	Creature - Human Cleric	1	1	U	{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+Icatian Scout	fe	158	W	W	1	Creature - Human Soldier Scout	1	1	C	{1}, {T}: Target creature gains first strike until end of turn.
+Icatian Skirmishers	fe	161	W	3W	4	Creature - Human Soldier	1	1	R	First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) Whenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.
+Icatian Town	fe	162	W	5W	6	Sorcery			R	Put four 1/1 white Citizen creature tokens onto the battlefield.
+Order of Leitbur	fe	164	W	WW	2	Creature - Human Cleric Knight	2	1	C	Protection from black {W}: Order of Leitbur gains first strike until end of turn. {W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+Aeolipile	fe	166	A	2	2	Artifact			R	{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+Balm of Restoration	fe	167	A	2	2	Artifact			R	{1}, {T}, Sacrifice Balm of Restoration: Choose one - You gain 2 life; or prevent the next 2 damage that would be dealt to target creature or player this turn.
+Conch Horn	fe	168	A	2	2	Artifact			R	{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.
+Delif's Cone	fe	169	A	0	0	Artifact			C	{T}, Sacrifice Delif's Cone: This turn, when target creature you control attacks and isn't blocked, you may gain life equal to its power. If you do, it assigns no combat damage this turn.
+Delif's Cube	fe	170	A	1	1	Artifact			R	{2}, {T}: This turn, when target creature you control attacks and isn't blocked, it assigns no combat damage this turn and you put a cube counter on Delif's Cube. {2}, Remove a cube counter from Delif's Cube: Regenerate target creature.
+Draconian Cylix	fe	171	A	3	3	Artifact			R	{2}, {T}, Discard a card at random: Regenerate target creature.
+Elven Lyre	fe	172	A	2	2	Artifact			R	{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.
+Implements of Sacrifice	fe	173	A	2	2	Artifact			R	{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.
+Ring of Renewal	fe	174	A	5	5	Artifact			R	{5}, {T}, Discard a card at random: Draw two cards.
+Spirit Shield	fe	175	A	3	3	Artifact			R	You may choose not to untap Spirit Shield during your untap step. {2}, {T}: Target creature gets +0/+2 for as long as Spirit Shield remains tapped.
+Zelyon Sword	fe	176	A	3	3	Artifact			R	You may choose not to untap Zelyon Sword during your untap step. {3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.
+Bottomless Vault	fe	177	L		0	Land			R	Bottomless Vault enters the battlefield tapped. You may choose not to untap Bottomless Vault during your untap step. At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it. {T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.
+Dwarven Hold	fe	178	L		0	Land			R	Dwarven Hold enters the battlefield tapped. You may choose not to untap Dwarven Hold during your untap step. At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it. {T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.
+Dwarven Ruins	fe	179	L		0	Land			U	Dwarven Ruins enters the battlefield tapped. {T}: Add {R} to your mana pool. {T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+Ebon Stronghold	fe	180	L		0	Land			U	Ebon Stronghold enters the battlefield tapped. {T}: Add {B} to your mana pool. {T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+Havenwood Battleground	fe	181	L		0	Land			U	Havenwood Battleground enters the battlefield tapped. {T}: Add {G} to your mana pool. {T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+Hollow Trees	fe	182	L		0	Land			R	Hollow Trees enters the battlefield tapped. You may choose not to untap Hollow Trees during your untap step. At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it. {T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.
+Icatian Store	fe	183	L		0	Land			R	Icatian Store enters the battlefield tapped. You may choose not to untap Icatian Store during your untap step. At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it. {T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.
+Rainbow Vale	fe	184	L		0	Land			R	{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at the beginning of the next end step.
+Ruins of Trokair	fe	185	L		0	Land			U	Ruins of Trokair enters the battlefield tapped. {T}: Add {W} to your mana pool. {T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.
+Sand Silos	fe	186	L		0	Land			R	Sand Silos enters the battlefield tapped. You may choose not to untap Sand Silos during your untap step. At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it. {T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.
+Svyelunite Temple	fe	187	L		0	Land			U	Svyelunite Temple enters the battlefield tapped. {T}: Add {U} to your mana pool. {T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+Abomination	legends	1	B	3BB	5	Creature - Horror	2	6	U	Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.
+All Hallow's Eve	legends	2	B	2BB	4	Sorcery			R	Exile All Hallow's Eve with two scream counters on it. At the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from his or her graveyard to the battlefield.
+Blight	legends	3	B	BB	2	Enchantment - Aura			U	Enchant land When enchanted land becomes tapped, destroy it.
+Carrion Ants	legends	4	B	2BB	4	Creature - Insect	0	1	R	{1}: Carrion Ants gets +1/+1 until end of turn.
+Chains of Mephistopheles	legends	5	B	1B	2	Enchantment			R	If a player would draw a card except the first one he or she draws in his or her draw step each turn, that player discards a card instead. If the player discards a card this way, he or she draws a card. If the player doesn't discard a card this way, he or she puts the top card of his or her library into his or her graveyard.
+Cosmic Horror	legends	6	B	3BBB	6	Creature - Horror	7	7	R	First strike At the beginning of your upkeep, unless you pay {3}{B}{B}{B}, sacrifice Cosmic Horror and it deals 7 damage to you.
+Cyclopean Mummy	legends	7	B	1B	2	Creature - Zombie	2	1	C	When Cyclopean Mummy is put into a graveyard from the battlefield, exile Cyclopean Mummy.
+Darkness	legends	8	B	B	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Demonic Torment	legends	9	B	2B	3	Enchantment - Aura			U	Enchant creature Enchanted creature can't attack. Prevent all combat damage that would be dealt by enchanted creature.
+Evil Eye of Orms-by-Gore	legends	10	B	4B	5	Creature - Eye	3	6	U	Non-Eye creatures you control can't attack. Evil Eye of Orms-by-Gore can't be blocked except by Walls.
+Fallen Angel	legends	11	B	3BB	5	Creature - Angel	3	3	U	Flying Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+Ghosts of the Damned	legends	12	B	1BB	3	Creature - Spirit	0	2	C	{T}: Target creature gets -1/-0 until end of turn.
+Giant Slug	legends	13	B	1B	2	Creature - Slug	1	1	C	{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.
+Glyph of Doom	legends	14	B	B	1	Instant			C	At end of combat, destroy all creatures that were blocked by target Wall this turn.
+Greed	legends	15	B	3B	4	Enchantment			R	{B}, Pay 2 life: Draw a card.
+Headless Horseman	legends	16	B	2B	3	Creature - Zombie Knight	2	2	C	
+Hell Swarm	legends	17	B	B	1	Instant			C	All creatures get -1/-0 until end of turn.
+Hellfire	legends	18	B	2BBB	5	Sorcery			R	Destroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures put into all graveyards this way.
+Hell's Caretaker	legends	19	B	3B	4	Creature - Horror	1	1	R	{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+Horror of Horrors	legends	20	B	3BB	5	Enchantment			U	Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Imprison	legends	21	B	B	1	Enchantment - Aura			R	Enchant creature Whenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison. Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature and remove it from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked. If you don't pay {1}, destroy Imprison.
+Infernal Medusa	legends	22	B	3BB	5	Creature - Gorgon	2	4	U	Whenever Infernal Medusa blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Jovial Evil	legends	23	B	2B	3	Sorcery			R	Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.
+Lesser Werewolf	legends	24	B	3B	4	Creature - Human Wolf	2	4	U	{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.
+Lost Soul	legends	25	B	1BB	3	Creature - Spirit Minion	2	1	C	Swampwalk
+Mold Demon	legends	26	B	5BB	7	Creature - Fungus Demon	6	6	R	When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.
+Nether Void	legends	27	B	3B	4	World Enchantment			R	Whenever a player casts a spell, counter it unless its controller pays {3}.
+Pit Scorpion	legends	28	B	2B	3	Creature - Scorpion	1	1	C	Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)
+Quagmire	legends	29	B	2B	3	Enchantment			U	Creatures with swampwalk can be blocked as though they didn't have swampwalk.
+Shimian Night Stalker	legends	30	B	3BB	5	Creature - Nightstalker	4	4	U	{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.
+Spirit Shackle	legends	31	B	BB	2	Enchantment - Aura			C	Enchant creature Whenever enchanted creature becomes tapped, put a -0/-2 counter on it.
+Syphon Soul	legends	32	B	2B	3	Sorcery			C	Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+Takklemaggot	legends	33	B	2BB	4	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature. When enchanted creature is put into a graveyard, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."
+The Abyss	legends	34	B	3B	4	World Enchantment			R	At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.
+The Wretched	legends	35	B	3BB	5	Creature - Demon	2	5	R	At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.
+Touch of Darkness	legends	36	B	B	1	Instant			U	Any number of target creatures become black until end of turn.
+Transmutation	legends	37	B	1B	2	Instant			C	Switch target creature's power and toughness until end of turn.
+Underworld Dreams	legends	38	B	BBB	3	Enchantment			U	Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
+Vampire Bats	legends	39	B	B	1	Creature - Bat	0	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.) {B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+Walking Dead	legends	40	B	1B	2	Creature - Zombie	1	1	C	{B}: Regenerate Walking Dead.
+Wall of Putrid Flesh	legends	41	B	2B	3	Creature - Wall	2	4	U	Defender (This creature can't attack.) Protection from white Prevent all damage that would be dealt to Wall of Putrid Flesh by enchanted creatures.
+Wall of Shadows	legends	42	B	1BB	3	Creature - Wall	0	1	C	Defender (This creature can't attack.) Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking. Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.
+Wall of Tombstones	legends	43	B	1B	2	Creature - Wall	0	1	U	Defender (This creature can't attack.) At the beginning of your upkeep, Wall of Tombstones's toughness becomes 1 plus the number of creature cards in your graveyard. (This effect lasts indefinitely.)
+Acid Rain	legends	44	U	3U	4	Sorcery			R	Destroy all Forests.
+Anti-Magic Aura	legends	45	U	2U	3	Enchantment - Aura			C	Enchant creature Enchanted creature can't be the target of spells and can't be enchanted. This effect doesn't remove Anti-Magic Aura.
+Azure Drake	legends	46	U	3U	4	Creature - Drake	2	4	U	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Backfire	legends	47	U	U	1	Enchantment - Aura			U	Enchant creature Whenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.
+Boomerang	legends	48	U	UU	2	Instant			C	Return target permanent to its owner's hand.
+Brine Hag	legends	49	U	2UU	4	Creature - Hag	2	2	U	When Brine Hag is put into a graveyard from the battlefield, all creatures that dealt damage to it this turn become 0/2. (This effect lasts indefinitely.)
+Devouring Deep	legends	50	U	2U	3	Creature - Fish	1	2	C	Islandwalk
+Dream Coat	legends	51	U	U	1	Enchantment - Aura			U	Enchant creature {0}: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn.
+Elder Spawn	legends	52	U	4UUU	7	Creature - Elemental	6	6	R	At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you. Elder Spawn can't be blocked by red creatures.
+Enchantment Alteration	legends	53	U	U	1	Instant			C	Attach target Aura attached to a creature or land to another permanent of that type.
+Energy Tap	legends	54	U	U	1	Sorcery			C	Tap target untapped creature you control. If you do, add {X} to your mana pool, where X is that creature's converted mana cost.
+Field of Dreams	legends	55	U	U	1	World Enchantment			R	Players play with the top card of their libraries revealed.
+Flash Counter	legends	56	U	1U	2	Instant			C	Counter target instant spell.
+Flash Flood	legends	57	U	U	1	Instant			C	Choose one - Destroy target red permanent; or return target Mountain to its owner's hand.
+Force Spike	legends	58	U	U	1	Instant			C	Counter target spell unless its controller pays {1}.
+Gaseous Form	legends	59	U	2U	3	Enchantment - Aura			C	Enchant creature Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Glyph of Delusion	legends	60	U	U	1	Instant			C	Put X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains "This creature doesn't untap during your untap step if it has a glyph counter on it" and "At the beginning of your upkeep, remove a glyph counter from this creature."
+In the Eye of Chaos	legends	61	U	2U	3	World Enchantment			R	Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.
+Invoke Prejudice	legends	62	U	UUUU	4	Enchantment			R	Whenever an opponent casts a nonartifact creature spell that doesn't share a color with a creature you control, counter that spell unless its controller pays {X}, where X is its converted mana cost.
+Juxtapose	legends	63	U	3U	4	Sorcery			R	You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+Land Equilibrium	legends	64	U	2UU	4	Enchantment			R	If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.
+Mana Drain	legends	65	U	UU	2	Instant			U	Counter target spell. At the beginning of your next main phase, add {X} to your mana pool, where X is that spell's converted mana cost.
+Part Water	legends	66	U	XXU	1	Sorcery			U	X target creatures gain islandwalk until end of turn.
+Psionic Entity	legends	67	U	4U	5	Creature - Illusion	2	2	R	{T}: Psionic Entity deals 2 damage to target creature or player and 3 damage to itself.
+Psychic Purge	legends	68	U	U	1	Sorcery			C	Psychic Purge deals 1 damage to target creature or player. When a spell or ability an opponent controls causes you to discard Psychic Purge, that player loses 5 life.
+Puppet Master	legends	69	U	UUU	3	Enchantment - Aura			U	Enchant creature When enchanted creature is put into a graveyard, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master from your graveyard to your hand.
+Recall	legends	70	U	XXU	1	Sorcery			R	Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.
+Relic Bind	legends	71	U	2U	3	Enchantment - Aura			U	Enchant artifact an opponent controls Whenever enchanted artifact becomes tapped, choose one - Relic Bind deals 1 damage to target player; or target player gains 1 life.
+Remove Soul	legends	72	U	1U	2	Instant			C	Counter target creature spell.
+Reset	legends	73	U	UU	2	Instant			U	Cast Reset only during an opponent's turn after his or her upkeep step. Untap all lands you control.
+Reverberation	legends	74	U	2UU	4	Instant			R	All damage that would be dealt this turn by target sorcery spell is dealt to that spell's controller instead.
+Sea Kings' Blessing	legends	75	U	U	1	Instant			U	Any number of target creatures become blue until end of turn.
+Segovian Leviathan	legends	76	U	4U	5	Creature - Leviathan	3	3	U	Islandwalk
+Silhouette	legends	77	U	1U	2	Instant			U	Prevent all damage that would be dealt to target creature this turn by spells or abilities that target it.
+Spectral Cloak	legends	78	U	UU	2	Enchantment - Aura			U	Enchant creature Enchanted creature has shroud as long as it's untapped. (It can't be the target of spells or abilities.)
+Telekinesis	legends	79	U	UU	2	Instant			R	Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.
+Teleport	legends	80	U	UUU	3	Instant			R	Cast Teleport only after attackers are declared and before blockers are declared. Target creature is unblockable this turn.
+Time Elemental	legends	81	U	2U	3	Creature - Elemental	0	2	R	When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you. {2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.
+Undertow	legends	82	U	2U	3	Enchantment			U	Creatures with islandwalk can be blocked as though they didn't have islandwalk.
+Venarian Gold	legends	83	U	XUU	2	Enchantment - Aura			C	Enchant creature Venarian Gold enters the battlefield with X sleep counters on it. When Venarian Gold enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step if Venarian Gold has a sleep counter on it. At the beginning of the upkeep of enchanted creature's controller, remove a sleep counter from Venarian Gold.
+Wall of Vapor	legends	84	U	3U	4	Creature - Wall	0	1	C	Defender (This creature can't attack.) Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.
+Wall of Wonder	legends	85	U	2UU	4	Creature - Wall	1	5	U	Defender (This creature can't attack.) {2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.
+Zephyr Falcon	legends	86	U	1U	2	Creature - Bird	1	1	C	Flying, vigilance
+Aisling Leprechaun	legends	87	G	G	1	Creature - Faerie	1	1	C	Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)
+Arboria	legends	88	G	2GG	4	World Enchantment			U	Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.
+Avoid Fate	legends	89	G	G	1	Instant			C	Counter target instant or Aura spell that targets a permanent you control.
+Barbary Apes	legends	90	G	1G	2	Creature - Ape	2	2	C	
+Cat Warriors	legends	91	G	1GG	3	Creature - Cat Warrior	2	2	C	Forestwalk
+Cocoon	legends	92	G	G	1	Enchantment - Aura			U	Enchant creature you control Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it. When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon. At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it and enchanted creature gets +1/+1 and gains flying. (This effect lasts indefinitely.)
+Concordant Crossroads	legends	93	G	G	1	World Enchantment			R	All creatures have haste.
+Craw Giant	legends	94	G	3GGGG	7	Creature - Giant	6	4	U	Trample Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Deadfall	legends	95	G	2G	3	Enchantment			U	Creatures with forestwalk can be blocked as though they didn't have forestwalk.
+Durkwood Boars	legends	96	G	4G	5	Creature - Boar	4	4	C	
+Elven Riders	legends	97	G	3GG	5	Creature - Elf	3	3	R	Elven Riders can't be blocked except by Walls and/or creatures with flying.
+Emerald Dragonfly	legends	98	G	1G	2	Creature - Insect	1	1	C	Flying {G}{G}: Emerald Dragonfly gains first strike until end of turn.
+Eureka	legends	99	G	2GG	4	Sorcery			R	Starting with you, each player may put a permanent card from his or her hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.
+Fire Sprites	legends	100	G	1G	2	Creature - Faerie	1	1	C	Flying {G}, {T}: Add {R} to your mana pool.
+Floral Spuzzem	legends	101	G	3G	4	Creature - Elemental	2	2	U	Whenever Floral Spuzzem attacks and isn't blocked, you may destroy target artifact defending player controls. If you do, Floral Spuzzem assigns no combat damage this turn.
+Giant Turtle	legends	102	G	1GG	3	Creature - Turtle	2	4	C	Giant Turtle can't attack if it attacked during your last turn.
+Glyph of Reincarnation	legends	103	G	G	1	Instant			C	Cast Glyph of Reincarnation only during the end of combat step. Destroy all creatures that were blocked by target Wall this turn. They can't be regenerated. For each creature put into a graveyard this way, choose a creature card from the graveyard of that creature's controller and return that card to the battlefield under its owner's control.
+Hornet Cobra	legends	104	G	1GG	3	Creature - Snake	2	1	C	First strike
+Ichneumon Druid	legends	105	G	1GG	3	Creature - Human Druid	1	1	U	Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.
+Killer Bees	legends	106	G	1GG	3	Creature - Insect	0	1	R	Flying {G}: Killer Bees gets +1/+1 until end of turn.
+Living Plane	legends	107	G	2GG	4	World Enchantment			R	All lands are 1/1 creatures that are still lands.
+Master of the Hunt	legends	108	G	2GG	4	Creature - Human	2	2	R	{2}{G}{G}: Put a 1/1 green Wolf creature token named Wolves of the Hunt onto the battlefield. It has "bands with other Wolves." (Any Wolves can attack in a band as long as at least one has "bands with other Wolves." Bands are blocked as a group. If at least two Wolves you control, one of which has "bands with other Wolves," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Moss Monster	legends	109	G	3GG	5	Creature - Elemental	3	6	C	
+Pixie Queen	legends	110	G	2GG	4	Creature - Faerie	1	1	R	Flying {G}{G}{G}, {T}: Target creature gains flying until end of turn.
+Pradesh Gypsies	legends	111	G	2G	3	Creature - Human Nomad	1	1	U	{1}{G}, {T}: Target creature gets -2/-0 until end of turn.
+Rabid Wombat	legends	112	G	2GG	4	Creature - Wombat	0	1	U	Vigilance Rabid Wombat gets +2/+2 for each Aura attached to it.
+Radjan Spirit	legends	113	G	3G	4	Creature - Spirit	3	2	U	{T}: Target creature loses flying until end of turn.
+Rebirth	legends	114	G	3GGG	6	Sorcery			R	Remove Rebirth from your deck before playing if you're not playing for ante. Each player may put the top card of his or her library into the ante. If a player does, his or her life total becomes 20.
+Reincarnation	legends	115	G	1GG	3	Instant			U	Choose target creature. When that creature is put into a graveyard this turn, return a creature card from that graveyard to the battlefield under the control of that creature's owner.
+Revelation	legends	116	G	G	1	World Enchantment			R	All players play with their hands revealed.
+Rust	legends	117	G	G	1	Instant			C	Counter target activated ability from an artifact source.
+Shelkin Brownie	legends	118	G	1G	2	Creature - Ouphe	1	1	C	{T}: Target creature loses all "bands with other" abilities until end of turn.
+Storm Seeker	legends	119	G	3G	4	Instant			U	Storm Seeker deals damage equal to the number of cards in target player's hand to that player.
+Subdue	legends	120	G	G	1	Instant			C	Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its converted mana cost.
+Sylvan Library	legends	121	G	1G	2	Enchantment			U	At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.
+Sylvan Paradise	legends	122	G	G	1	Instant			U	Any number of target creatures become green until end of turn.
+Typhoon	legends	123	G	2G	3	Sorcery			R	Typhoon deals damage to each opponent equal to the number of Islands that player controls.
+Untamed Wilds	legends	124	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Whirling Dervish	legends	125	G	GG	2	Creature - Human Monk	1	1	U	Protection from black At the beginning of the end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.
+Willow Satyr	legends	126	G	2GG	4	Creature - Satyr	1	1	R	You may choose not to untap Willow Satyr during your untap step. {T}: Gain control of target legendary creature for as long as you control Willow Satyr and Willow Satyr remains tapped.
+Winter Blast	legends	127	G	XG	1	Sorcery			R	Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.
+Wolverine Pack	legends	128	G	2GG	4	Creature - Wolverine	2	4	C	Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Wood Elemental	legends	129	G	3G	4	Creature - Elemental	0	0	R	As Wood Elemental enters the battlefield, sacrifice any number of untapped Forests. Wood Elemental enters the battlefield with a +1/+1 counter for each Forest sacrificed this way.
+Active Volcano	legends	130	R	R	1	Instant			C	Choose one - Destroy target blue permanent; or return target Island to its owner's hand.
+Aerathi Berserker	legends	131	R	2RRR	5	Creature - Human Berserker	2	4	U	Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)
+Backdraft	legends	132	R	1R	2	Instant			U	This turn, whenever target sorcery spell deals damage, Backdraft deals half that much damage, rounded down, to that spell's controller.
+Beasts of Bogardan	legends	133	R	4R	5	Creature - Beast	3	3	U	Protection from red Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.
+Blazing Effigy	legends	134	R	1R	2	Creature - Elemental	0	3	C	When Blazing Effigy is put into a graveyard from the battlefield, Blazing Effigy deals X damage to target creature, where X is 3 plus the amount of damage dealt to Blazing Effigy this turn by other sources named Blazing Effigy.
+Blood Lust	legends	135	R	1R	2	Instant			U	If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.
+Caverns of Despair	legends	136	R	2RR	4	World Enchantment			R	No more than two creatures can attack each combat. No more than two creatures can block each combat.
+Chain Lightning	legends	137	R	R	1	Sorcery			C	Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.
+Crevasse	legends	138	R	2R	3	Enchantment			U	Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.
+Crimson Manticore	legends	139	R	2RR	4	Creature - Manticore	2	2	R	Flying {R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.
+Disharmony	legends	140	R	2R	3	Instant			R	Cast Disharmony only during combat before blockers are declared. Untap target attacking creature and remove it from combat. Gain control of that creature until end of turn.
+Dwarven Song	legends	141	R	R	1	Instant			U	Any number of target creatures become red until end of turn.
+Eternal Warrior	legends	142	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has vigilance.
+Falling Star	legends	143	R	2R	3	Sorcery			R	Flip Falling Star onto the playing area from a height of at least one foot. Falling Star deals 3 damage to each creature it lands on. Tap all creatures dealt damage by Falling Star. If Falling Star doesn't turn completely over at least once during the flip, it has no effect.
+Feint	legends	144	R	R	1	Instant			C	Tap all creatures blocking target attacking creature. Prevent all combat damage that would be dealt this turn by that creature and each creature blocking it.
+Firestorm Phoenix	legends	145	R	4RR	6	Creature - Phoenix	3	2	R	Flying If Firestorm Phoenix would be put into a graveyard from the battlefield, return Firestorm Phoenix to its owner's hand instead. It can't be played again until its owner's next turn.
+Frost Giant	legends	146	R	3RRR	6	Creature - Giant	4	4	U	Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Giant Strength	legends	147	R	RR	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2.
+Glyph of Destruction	legends	148	R	R	1	Instant			C	Target blocking Wall you control gets +10/+0 until end of combat. Prevent all damage that would be dealt to it this turn. Destroy it at the beginning of the next end step.
+Gravity Sphere	legends	149	R	2R	3	World Enchantment			R	All creatures lose flying.
+Hyperion Blacksmith	legends	150	R	1RR	3	Creature - Human Artificer	2	2	U	{T}: You may tap or untap target artifact an opponent controls.
+Immolation	legends	151	R	R	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/-2.
+Kobold Drill Sergeant	legends	152	R	1R	2	Creature - Kobold Soldier	1	2	U	Other Kobold creatures you control get +0/+1 and have trample.
+Kobold Overlord	legends	153	R	1R	2	Creature - Kobold	1	2	R	Kobold creatures you control have first strike.
+Kobold Taskmaster	legends	154	R	1R	2	Creature - Kobold	1	2	U	Other Kobold creatures you control get +1/+0.
+Land's Edge	legends	155	R	1RR	3	World Enchantment			R	Discard a card: If the discarded card is a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.
+Mountain Yeti	legends	156	R	2RR	4	Creature - Yeti	3	3	U	Mountainwalk, protection from white
+Primordial Ooze	legends	157	R	R	1	Creature - Ooze	1	1	U	Primordial Ooze attacks each turn if able. At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.
+Pyrotechnics	legends	158	R	4R	5	Sorcery			C	Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
+Quarum Trench Gnomes	legends	159	R	3R	4	Creature - Gnome	1	1	R	{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)
+Raging Bull	legends	160	R	2R	3	Creature - Ox	2	2	C	
+Spinal Villain	legends	161	R	2R	3	Creature - Beast	1	2	R	{T}: Destroy target blue creature.
+Storm World	legends	162	R	R	1	World Enchantment			R	At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.
+Tempest Efreet	legends	163	R	1RRR	4	Creature - Efreet	3	3	R	Remove Tempest Efreet from your deck before playing if you're not playing for ante. {T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, he or she reveals a card at random from his or her hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard.
+The Brute	legends	164	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0. {R}{R}{R}: Regenerate enchanted creature.
+Wall of Dust	legends	165	R	2R	3	Creature - Wall	1	4	U	Defender (This creature can't attack.) Whenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.
+Wall of Earth	legends	166	R	1R	2	Creature - Wall	0	6	C	Defender (This creature can't attack.)
+Wall of Heat	legends	167	R	2R	3	Creature - Wall	2	6	C	Defender (This creature can't attack.)
+Wall of Opposition	legends	168	R	3RR	5	Creature - Wall	0	6	R	Defender (This creature can't attack.) {1}: Wall of Opposition gets +1/+0 until end of turn.
+Winds of Change	legends	169	R	R	1	Sorcery			U	Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Akron Legionnaire	legends	170	W	6WW	8	Creature - Giant Soldier	8	4	R	Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+Alabaster Potion	legends	171	W	XWW	2	Instant			C	Choose one - Target player gains X life; or prevent the next X damage that would be dealt to target creature or player this turn.
+Amrou Kithkin	legends	172	W	WW	2	Creature - Kithkin	1	1	C	Amrou Kithkin can't be blocked by creatures with power 3 or greater.
+Angelic Voices	legends	173	W	2WW	4	Enchantment			R	Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.
+Cleanse	legends	174	W	2WW	4	Sorcery			R	Destroy all black creatures.
+Clergy of the Holy Nimbus	legends	175	W	W	1	Creature - Human Cleric	1	1	C	If Clergy of the Holy Nimbus would be destroyed, regenerate it. {1}: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.
+D'Avenant Archer	legends	176	W	2W	3	Creature - Human Soldier Archer	1	2	C	{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.
+Divine Intervention	legends	177	W	6WW	8	Enchantment			R	Divine Intervention enters the battlefield with two intervention counters on it. At the beginning of your upkeep, remove an intervention counter from Divine Intervention. If there are no intervention counters on it, the game is a draw.
+Divine Offering	legends	178	W	1W	2	Instant			C	Destroy target artifact. You gain life equal to its converted mana cost.
+Divine Transformation	legends	179	W	2WW	4	Enchantment - Aura			R	Enchant creature Enchanted creature gets +3/+3.
+Elder Land Wurm	legends	180	W	4WWW	7	Creature - Dragon Wurm	5	5	R	Defender, trample When Elder Land Wurm blocks, it loses defender.
+Enchanted Being	legends	181	W	1WW	3	Creature - Human	2	2	C	Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.
+Equinox	legends	182	W	W	1	Enchantment - Aura			C	Enchant land Enchanted land has "{T}: Counter target spell if it would destroy a land you control."
+Fortified Area	legends	183	W	1WW	3	Enchantment			U	Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Glyph of Life	legends	184	W	W	1	Instant			C	Until end of turn, whenever an attacking creature deals damage to target Wall creature, you gain that much life.
+Great Defender	legends	185	W	W	1	Instant			U	Target creature gets +0/+X until end of turn, where X is its converted mana cost.
+Great Wall	legends	186	W	2W	3	Enchantment			U	Creatures with plainswalk can be blocked as though they didn't have plainswalk.
+Greater Realm of Preservation	legends	187	W	1W	2	Enchantment			U	{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.
+Heaven's Gate	legends	188	W	W	1	Instant			U	Any number of target creatures become white until end of turn.
+Holy Day	legends	189	W	W	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Indestructible Aura	legends	190	W	W	1	Instant			C	Prevent all damage that would be dealt to target creature this turn.
+Infinite Authority	legends	191	W	WWW	3	Enchantment - Aura			R	Enchant creature Whenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature was put into a graveyard this way, put a +1/+1 counter on the first creature.
+Ivory Guardians	legends	192	W	4WW	6	Creature - Giant Cleric	3	3	U	Protection from red Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a red permanent.
+Keepers of the Faith	legends	193	W	1WW	3	Creature - Human Cleric	2	3	C	
+Kismet	legends	194	W	3W	4	Enchantment			U	Artifacts, creatures, and lands your opponents control enter the battlefield tapped.
+Land Tax	legends	195	W	W	1	Enchantment			U	At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+Lifeblood	legends	196	W	2WW	4	Enchantment			R	Whenever a Mountain an opponent controls becomes tapped, you gain 1 life.
+Moat	legends	197	W	2WW	4	Enchantment			R	Creatures without flying can't attack.
+Osai Vultures	legends	198	W	1W	2	Creature - Bird	1	1	C	Flying At the beginning of the end step, if a creature was put into a graveyard from the battlefield this turn, put a carrion counter on Osai Vultures. Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.
+Petra Sphinx	legends	199	W	2WWW	5	Creature - Sphinx	3	4	R	{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.
+Presence of the Master	legends	200	W	3W	4	Enchantment			U	Whenever a player casts an enchantment spell, counter it.
+Rapid Fire	legends	201	W	3W	4	Instant			R	Cast Rapid Fire only before blockers are declared. Target creature gains first strike until end of turn. If it doesn't have rampage, that creature gains rampage 2 until end of turn. (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+Remove Enchantments	legends	202	W	W	1	Instant			C	Return to your hand all enchantments you both own and control, all Auras you own attached to permanents you control, and all Auras you own attached to attacking creatures your opponents control. Then destroy all other enchantments you control, all other Auras attached to permanents you control, and all other Auras attached to attacking creatures your opponents control.
+Righteous Avengers	legends	203	W	4W	5	Creature - Human Soldier	3	1	U	Plainswalk
+Seeker	legends	204	W	2WW	4	Enchantment - Aura			U	Enchant creature Enchanted creature can't be blocked except by artifact creatures and/or white creatures.
+Shield Wall	legends	205	W	1W	2	Instant			U	Creatures you control get +0/+2 until end of turn.
+Spirit Link	legends	206	W	W	1	Enchantment - Aura			U	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Whenever enchanted creature deals damage, you gain that much life.
+Spiritual Sanctuary	legends	207	W	2WW	4	Enchantment			R	At the beginning of each player's upkeep, if that player controls a Plains, he or she gains 1 life.
+Thunder Spirit	legends	208	W	1WW	3	Creature - Elemental Spirit	2	2	R	Flying, first strike
+Tundra Wolves	legends	209	W	W	1	Creature - Wolf	1	1	C	First strike (This creature deals combat damage before creatures without first strike.)
+Visions	legends	210	W	W	1	Sorcery			U	Look at the top five cards of target player's library. You may then have that player shuffle that library.
+Wall of Caltrops	legends	211	W	1W	2	Creature - Wall	2	1	C	Defender (This creature can't attack.) Whenever Wall of Caltrops blocks a creature, if no non-Wall creatures are blocking that creature, Wall of Caltrops gains banding until end of turn. (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)
+Wall of Light	legends	212	W	2W	3	Creature - Wall	1	5	U	Defender (This creature can't attack.) Protection from black
+Al-abara's Carpet	legends	213	A	5	5	Artifact			R	{5}, {T}: Prevent all damage that would be dealt to you this turn by attacking creatures without flying.
+Alchor's Tomb	legends	214	A	4	4	Artifact			R	{2}, {T}: Target permanent you control becomes the color of your choice. (This effect lasts indefinitely.)
+Arena of the Ancients	legends	215	A	3	3	Artifact			R	Legendary creatures don't untap during their controllers' untap steps. When Arena of the Ancients enters the battlefield, tap all legendary creatures.
+Black Mana Battery	legends	216	A	4	4	Artifact			U	{2}, {T}: Put a charge counter on Black Mana Battery. {T}, Remove any number of charge counters from Black Mana Battery: Add {B} to your mana pool, then add an additional {B} to your mana pool for each charge counter removed this way.
+Blue Mana Battery	legends	217	A	4	4	Artifact			U	{2}, {T}: Put a charge counter on Blue Mana Battery. {T}, Remove any number of charge counters from Blue Mana Battery: Add {U} to your mana pool, then add an additional {U} to your mana pool for each charge counter removed this way.
+Bronze Horse	legends	218	A	7	7	Artifact Creature - Horse	4	4	R	Trample If you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.
+Crimson Kobolds	legends	219	R	0	0	Creature - Kobold	0	1	C	Crimson Kobolds is red.
+Crookshank Kobolds	legends	220	R	0	0	Creature - Kobold	0	1	C	Crookshank Kobolds is red.
+Forethought Amulet	legends	221	A	5	5	Artifact			R	At the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}. If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.
+Gauntlets of Chaos	legends	222	A	5	5	Artifact			R	{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land an opponent controls and a permanent you control if they share one of those types. Destroy all Auras attached to those permanents.
+Green Mana Battery	legends	223	A	4	4	Artifact			U	{2}, {T}: Put a charge counter on Green Mana Battery. {T}, Remove any number of charge counters from Green Mana Battery: Add {G} to your mana pool, then add an additional {G} to your mana pool for each charge counter removed this way.
+Horn of Deafening	legends	224	A	4	4	Artifact			R	{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+Knowledge Vault	legends	225	A	4	4	Artifact			R	{2}, {T}: Exile the top card of your library face down. {0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand. When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.
+Kobolds of Kher Keep	legends	226	R	0	0	Creature - Kobold	0	1	C	Kobolds of Kher Keep is red.
+Kry Shield	legends	227	A	2	2	Artifact			U	{2}, {T}: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.
+Life Chisel	legends	228	A	4	4	Artifact			U	Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.
+Life Matrix	legends	229	A	4	4	Artifact			R	{4}, {T}: Put a matrix counter on target creature and that creature gains "Remove a matrix counter from this creature: Regenerate this creature." Activate this ability only during your upkeep.
+Mana Matrix	legends	230	A	6	6	Artifact			R	Instant and enchantment spells you cast cost up to {2} less to cast.
+Marble Priest	legends	231	A	5	5	Artifact Creature - Cleric	3	3	U	All Walls able to block Marble Priest do so. Prevent all combat damage that would be dealt to Marble Priest by Walls.
+Mirror Universe	legends	232	A	6	6	Artifact			R	{T}, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+North Star	legends	233	A	4	4	Artifact			R	{4}, {T}: For one spell this turn, you may spend mana as though it were mana of any color to pay that spell's mana cost. (Additional costs are still paid normally.)
+Nova Pentacle	legends	234	A	4	4	Artifact			R	{3}, {T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature of an opponent's choice instead.
+Planar Gate	legends	235	A	6	6	Artifact			R	Creature spells you cast cost up to {2} less to cast.
+Red Mana Battery	legends	236	A	4	4	Artifact			U	{2}, {T}: Put a charge counter on Red Mana Battery. {T}, Remove any number of charge counters from Red Mana Battery: Add {R} to your mana pool, then add an additional {R} to your mana pool for each charge counter removed this way.
+Relic Barrier	legends	237	A	2	2	Artifact			U	{T}: Tap target artifact.
+Ring of Immortals	legends	238	A	5	5	Artifact			R	{3}, {T}: Counter target instant or Aura spell that targets a permanent you control.
+Sentinel	legends	239	A	4	4	Artifact Creature - Shapeshifter	1	1	R	{0}: Sentinel's toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. (This effect lasts indefinitely.)
+Serpent Generator	legends	240	A	6	6	Artifact			R	{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. This creature has "Whenever this creature deals damage to a player, that player gets a poison counter." (A player with ten or more poison counters loses the game.)
+Sword of the Ages	legends	241	A	6	6	Artifact			R	Sword of the Ages enters the battlefield tapped. {T}, Exile Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures exiled this way.
+Triassic Egg	legends	242	A	4	4	Artifact			R	{3}, {T}: Put a hatchling counter on Triassic Egg. Remove two hatchling counters from Triassic Egg, Sacrifice Triassic Egg: You may put a creature card from your hand or graveyard onto the battlefield.
+Voodoo Doll	legends	243	A	6	6	Artifact			R	At the beginning of your upkeep, put a pin counter on Voodoo Doll. At the beginning of your end step, if Voodoo Doll is untapped, sacrifice it and it deals damage equal to the number of pin counters on it to you. {X}{X}, {T}: Voodoo Doll deals X damage to target creature or player. X is the number of pin counters on Voodoo Doll.
+White Mana Battery	legends	244	A	4	4	Artifact			U	{2}, {T}: Put a charge counter on White Mana Battery. {T}, Remove any number of charge counters from White Mana Battery: Add {W} to your mana pool, then add an additional {W} to your mana pool for each charge counter removed this way.
+Adventurers' Guildhouse	legends	245	L		0	Land			U	Green legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Cathedral of Serra	legends	246	L		0	Land			U	White legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Hammerheim	legends	247	L		0	Legendary Land			U	{T}: Add {R} to your mana pool. {T}: Target creature loses all landwalk abilities until end of turn.
+Karakas	legends	248	L		0	Legendary Land			U	{T}: Add {W} to your mana pool. {T}: Return target legendary creature to its owner's hand.
+Mountain Stronghold	legends	249	L		0	Land			U	Red legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Pendelhaven	legends	250	L		0	Legendary Land			U	{T}: Add {G} to your mana pool. {T}: Target 1/1 creature gets +1/+2 until end of turn.
+Seafarer's Quay	legends	251	L		0	Land			U	Blue legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+The Tabernacle at Pendrell Vale	legends	252	L		0	Legendary Land			R	All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay {1}."
+Tolaria	legends	253	L		0	Legendary Land			U	{T}: Add {U} to your mana pool. {T}: Target creature loses banding and all "bands with other" abilities until end of turn. Activate this ability only during any upkeep step.
+Unholy Citadel	legends	254	L		0	Land			U	Black legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Urborg	legends	255	L		0	Legendary Land			U	{T}: Add {B} to your mana pool. {T}: Target creature loses first strike or swampwalk until end of turn.
+Adun Oakenshield	legends	256	BRG	BRG	3	Legendary Creature - Human Knight	1	2	R	{B}{R}{G}, {T}: Return target creature card from your graveyard to your hand.
+Angus Mackenzie	legends	257	GWU	GWU	3	Legendary Creature - Human Cleric	2	2	R	{G}{W}{U}, {T}: Prevent all combat damage that would be dealt this turn.
+Arcades Sabboth	legends	258	GWU	2GGWWUU	8	Legendary Creature - Elder Dragon	7	7	R	Flying At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}. Untapped nonattacking creatures you control get +0/+2. {W}: Arcades Sabboth gets +0/+1 until end of turn.
+Axelrod Gunnarson	legends	259	BR	4BBRR	8	Legendary Creature - Giant	5	5	R	Trample Whenever a creature dealt damage by Axelrod Gunnarson this turn is put into a graveyard, you gain 1 life and Axelrod deals 1 damage to target player.
+Ayesha Tanaka	legends	260	WU	WWUU	4	Legendary Creature - Human Artificer	2	2	R	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) {T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}.
+Barktooth Warbeard	legends	261	BR	4BRR	7	Legendary Creature - Human Warrior	6	5	U	
+Bartel Runeaxe	legends	262	BRG	3BRG	6	Legendary Creature - Giant Warrior	6	5	R	Vigilance Bartel Runeaxe can't be the target of Aura spells.
+Boris Devilboon	legends	263	BR	3BR	5	Legendary Creature - Zombie Wizard	2	2	R	{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.
+Chromium	legends	264	WUB	2WWUUBB	8	Legendary Creature - Elder Dragon	7	7	R	Flying Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.) At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.
+Dakkon Blackblade	legends	265	WUB	2WUUB	6	Legendary Creature - Human Warrior	*	*	R	Dakkon Blackblade's power and toughness are each equal to the number of lands you control.
+Gabriel Angelfire	legends	266	GW	3GGWW	7	Legendary Creature - Angel	4	4	R	At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)
+Gosta Dirk	legends	267	WU	3WWUU	7	Legendary Creature - Human Warrior	4	4	R	First strike Creatures with islandwalk can be blocked as though they didn't have islandwalk.
+Gwendlyn Di Corci	legends	268	UBR	UBBR	4	Legendary Creature - Human Rogue	3	5	R	{T}: Target player discards a card at random. Activate this ability only during your turn.
+Halfdane	legends	269	WUB	1WUB	4	Legendary Creature - Shapeshifter	3	3	R	At the beginning of your upkeep, Halfdane's power and toughness become equal to the power and toughness of target creature other than Halfdane, until the end of your next upkeep.
+Hazezon Tamar	legends	270	RGW	4RGW	7	Legendary Creature - Human Warrior	2	4	R	At the beginning of your upkeep, if Hazezon Tamar entered the battlefield since the beginning of your last upkeep, put a 1/1 red, green, and white Sand Warrior creature token onto the battlefield for each land you control. Those creatures have "When a permanent named Hazezon Tamar isn't on the battlefield, exile this creature."
+Hunding Gjornersen	legends	271	WU	3WUU	6	Legendary Creature - Human Warrior	5	4	U	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+Jacques le Vert	legends	272	RGW	1RGW	4	Legendary Creature - Human Warrior	3	2	R	Green creatures you control get +0/+2.
+Jasmine Boreal	legends	273	GW	3GW	5	Legendary Creature - Human	4	5	U	
+Jedit Ojanen	legends	274	WU	4WWU	7	Legendary Creature - Cat Warrior	5	5	U	
+Jerrard of the Closed Fist	legends	275	RG	3RGG	6	Legendary Creature - Human Knight	6	5	U	
+Johan	legends	276	RGW	3RGW	6	Legendary Creature - Human Wizard	5	4	R	At the beginning of your combat phase, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.
+Kasimir the Lone Wolf	legends	277	WU	4WU	6	Legendary Creature - Human Warrior	5	3	U	
+Kei Takahashi	legends	278	GW	2GW	4	Legendary Creature - Human Cleric	2	2	R	{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+Lady Caleria	legends	279	GW	3GGWW	7	Legendary Creature - Human Archer	3	6	R	{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.
+Lady Evangela	legends	280	WUB	WUB	3	Legendary Creature - Human Cleric	1	2	R	{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+Lady Orca	legends	281	BR	5BR	7	Legendary Creature - Demon	7	4	U	
+Livonya Silone	legends	282	RG	2RRGG	6	Legendary Creature - Human Warrior	4	4	R	First strike, legendary landwalk
+Lord Magnus	legends	283	GW	3GWW	6	Legendary Creature - Human Druid	4	3	U	First strike Creatures with plainswalk can be blocked as though they didn't have plainswalk. Creatures with forestwalk can be blocked as though they didn't have forestwalk.
+Marhault Elsdragon	legends	284	RG	3RRG	6	Legendary Creature - Elf Warrior	4	6	U	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+Nebuchadnezzar	legends	285	UB	3UB	5	Legendary Creature - Human Wizard	3	3	R	{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. That player then discards all cards with that name revealed this way. Activate this ability only during your turn.
+Nicol Bolas	legends	286	UBR	2UUBBRR	8	Legendary Creature - Elder Dragon	7	7	R	Flying At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}. Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.
+Palladia-Mors	legends	287	RGW	2RRGGWW	8	Legendary Creature - Elder Dragon	7	7	R	Flying, trample At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+Pavel Maliki	legends	288	BR	4BR	6	Legendary Creature - Human	5	3	U	{B}{R}: Pavel Maliki gets +1/+0 until end of turn.
+Princess Lucrezia	legends	289	UB	3UUB	6	Legendary Creature - Human Wizard	5	4	U	{T}: Add {U} to your mana pool.
+Ragnar	legends	290	GWU	GWU	3	Legendary Creature - Human Cleric	2	2	R	{G}{W}{U}, {T}: Regenerate target creature.
+Ramirez DePietro	legends	291	UB	3UBB	6	Legendary Creature - Human Pirate	4	3	U	First strike
+Ramses Overdark	legends	292	UB	2UUBB	6	Legendary Creature - Human Assassin	4	3	R	{T}: Destroy target enchanted creature.
+Rasputin Dreamweaver	legends	293	WU	4WU	6	Legendary Creature - Human Wizard	4	1	R	Rasputin Dreamweaver enters the battlefield with seven dream counters on it. Remove a dream counter from Rasputin: Add {1} to your mana pool. Remove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn. At the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it. Rasputin can't have more than seven dream counters on it.
+Riven Turnbull	legends	294	UB	5UB	7	Legendary Creature - Human Advisor	5	7	U	{T}: Add {B} to your mana pool.
+Rohgahh of Kher Keep	legends	295	BR	2BBRR	6	Legendary Creature - Kobold	5	5	R	At the beginning of your upkeep, unless you pay {R}{R}{R}, an opponent gains control of Rohgahh of Kher Keep and all creatures you control named Kobolds of Kher Keep. If a player gains control of a creature this way, tap it. (This effect lasts indefinitely.) Creatures you control named Kobolds of Kher Keep get +2/+2.
+Rubinia Soulsinger	legends	296	GWU	2GWU	5	Legendary Creature - Faerie	2	3	R	You may choose not to untap Rubinia Soulsinger during your untap step. {T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.
+Sir Shandlar of Eberyn	legends	297	GW	4GW	6	Legendary Creature - Human Knight	4	7	U	
+Sivitri Scarzam	legends	298	UB	5UB	7	Legendary Creature - Human	6	4	U	
+Sol'kanar the Swamp King	legends	299	UBR	2UBR	5	Legendary Creature - Demon	5	5	R	Swampwalk Whenever a player casts a black spell, you gain 1 life.
+Stangg	legends	300	RG	4RG	6	Legendary Creature - Human Warrior	3	4	R	When Stangg enters the battlefield, if Stangg is on the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.
+Sunastian Falconer	legends	301	RG	3RG	5	Legendary Creature - Human Shaman	4	4	U	{T}: Add {2} to your mana pool.
+Tetsuo Umezawa	legends	302	UBR	UBR	3	Legendary Creature - Human Archer	3	3	R	Tetsuo Umezawa can't be the target of Aura spells. {U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.
+The Lady of the Mountain	legends	303	RG	4RG	6	Legendary Creature - Giant	5	5	U	
+Tobias Andrion	legends	304	WU	3WU	5	Legendary Creature - Human Advisor	4	4	U	
+Tor Wauki	legends	305	BR	2BBR	5	Legendary Creature - Human Archer	3	3	U	{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.
+Torsten Von Ursus	legends	306	GW	3GGW	6	Legendary Creature - Human Soldier	5	5	U	
+Tuknir Deathlock	legends	307	RG	RRGG	4	Legendary Creature - Human Wizard	2	2	R	Flying {R}{G}, {T}: Target creature gets +2/+2 until end of turn.
+Ur-Drago	legends	308	UB	3UUBB	7	Legendary Creature - Elemental	4	4	R	First strike Creatures with swampwalk can be blocked as though they didn't have swampwalk.
+Vaevictis Asmadi	legends	309	BRG	2BBRRGG	8	Legendary Creature - Elder Dragon	7	7	R	Flying At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}. {B}: Vaevictis Asmadi gets +1/+0 until end of turn. {R}: Vaevictis Asmadi gets +1/+0 until end of turn. {G}: Vaevictis Asmadi gets +1/+0 until end of turn.
+Xira Arien	legends	310	BRG	BRG	3	Legendary Creature - Insect Wizard	1	2	R	Flying {B}{R}{G}, {T}: Target player draws a card.

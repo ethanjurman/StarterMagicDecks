@@ -1,0 +1,622 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Aegis of Honor	odyssey	1	W	W	1	Enchantment			R	{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.
+Ancestral Tribute	odyssey	2	W	5WW	7	Sorcery			R	You gain 2 life for each card in your graveyard. Flashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Angelic Wall	odyssey	3	W	1W	2	Creature - Wall	0	4	C	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Animal Boneyard	odyssey	4	W	2W	3	Enchantment - Aura			U	Enchant land Enchanted land has "{T}, Sacrifice a creature: You gain life equal to that creature's toughness."
+Auramancer	odyssey	5	W	2W	3	Creature - Human Wizard	2	2	C	When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+Aven Archer	odyssey	6	W	3WW	5	Creature - Bird Soldier Archer	2	2	U	Flying {2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.
+Aven Cloudchaser	odyssey	7	W	3W	4	Creature - Bird Soldier	2	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.) When Aven Cloudchaser enters the battlefield, destroy target enchantment.
+Aven Flock	odyssey	8	W	4W	5	Creature - Bird Soldier	2	3	C	Flying (This creature can't be blocked except by creatures with flying or reach.) {W}: Aven Flock gets +0/+1 until end of turn.
+Aven Shrine	odyssey	9	W	1WW	3	Enchantment			R	Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.
+Balancing Act	odyssey	10	W	2WW	4	Sorcery			R	Each player chooses a number of permanents he or she controls equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way.
+Beloved Chaplain	odyssey	11	W	1W	2	Creature - Human Cleric	1	1	U	Protection from creatures
+Blessed Orator	odyssey	12	W	3W	4	Creature - Human Cleric	1	4	U	Other creatures you control get +0/+1.
+Cantivore	odyssey	13	W	1WW	3	Creature - Lhurgoyf	*	*	R	Vigilance Cantivore's power and toughness are each equal to the number of enchantment cards in all graveyards.
+Cease-Fire	odyssey	14	W	2W	3	Instant			C	Target player can't cast creature spells this turn. Draw a card.
+Confessor	odyssey	15	W	W	1	Creature - Human Cleric	1	1	C	Whenever a player discards a card, you may gain 1 life.
+Dedicated Martyr	odyssey	16	W	W	1	Creature - Human Cleric	1	1	C	{W}, Sacrifice Dedicated Martyr: You gain 3 life.
+Delaying Shield	odyssey	17	W	3W	4	Enchantment			R	If you would be dealt damage, put that many delay counters on Delaying Shield instead. At the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.
+Devoted Caretaker	odyssey	18	W	W	1	Creature - Human Cleric	1	2	R	{W}, {T}: Target permanent you control gains protection from instants and from sorceries until end of turn.
+Divine Sacrament	odyssey	19	W	1WW	3	Enchantment			R	White creatures get +1/+1. Threshold - White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.
+Dogged Hunter	odyssey	20	W	2W	3	Creature - Human Nomad	1	1	R	{T}: Destroy target creature token.
+Earnest Fellowship	odyssey	21	W	1W	2	Enchantment			R	Each creature has protection from its colors.
+Embolden	odyssey	22	W	2W	3	Instant			C	Prevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Gallantry	odyssey	23	W	1W	2	Instant			U	Target blocking creature gets +4/+4 until end of turn. Draw a card.
+Graceful Antelope	odyssey	24	W	2WW	4	Creature - Antelope	1	4	R	Plainswalk Whenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.
+Hallowed Healer	odyssey	25	W	2W	3	Creature - Human Cleric	1	1	C	{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn. Threshold - {T}: Prevent the next 4 damage that would be dealt to target creature or player this turn. Activate this ability only if seven or more cards are in your graveyard.
+Karmic Justice	odyssey	26	W	2W	3	Enchantment			R	Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.
+Kirtar's Desire	odyssey	27	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack. Threshold - Enchanted creature can't block as long as seven or more cards are in your graveyard.
+Kirtar's Wrath	odyssey	28	W	4WW	6	Sorcery			R	Destroy all creatures. They can't be regenerated. Threshold - If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.
+Lieutenant Kirtar	odyssey	29	W	1WW	3	Legendary Creature - Bird Soldier	2	2	R	Flying {1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature.
+Life Burst	odyssey	30	W	1W	2	Instant			C	Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.
+Luminous Guardian	odyssey	31	W	3W	4	Creature - Human Nomad	1	4	U	{W}: Luminous Guardian gets +0/+1 until end of turn. {2}: Luminous Guardian can block an additional creature this turn.
+Master Apothecary	odyssey	32	W	WWW	3	Creature - Human Cleric	2	2	R	Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Mystic Crusader	odyssey	33	W	1WW	3	Creature - Human Nomad Mystic	2	1	R	Protection from black and from red Threshold - As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.
+Mystic Penitent	odyssey	34	W	W	1	Creature - Human Nomad Mystic	1	1	U	Vigilance Threshold - As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.
+Mystic Visionary	odyssey	35	W	1W	2	Creature - Human Nomad Mystic	2	1	C	Threshold - Mystic Visionary has flying as long as seven or more cards are in your graveyard.
+Mystic Zealot	odyssey	36	W	3W	4	Creature - Human Nomad Mystic	2	4	C	Threshold - As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.
+Nomad Decoy	odyssey	37	W	2W	3	Creature - Human Nomad	1	2	U	{W}, {T}: Tap target creature. Threshold - {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.
+Patrol Hound	odyssey	38	W	1W	2	Creature - Hound	2	2	C	Discard a card: Patrol Hound gains first strike until end of turn.
+Pianna, Nomad Captain	odyssey	39	W	1WW	3	Legendary Creature - Human Nomad	2	2	R	Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.
+Pilgrim of Justice	odyssey	40	W	2W	3	Creature - Human Cleric	1	3	C	Protection from red {W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.
+Pilgrim of Virtue	odyssey	41	W	2W	3	Creature - Human Cleric	1	3	C	Protection from black {W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.
+Ray of Distortion	odyssey	42	W	3W	4	Instant			C	Destroy target artifact or enchantment. Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Resilient Wanderer	odyssey	43	W	2WW	4	Creature - Human Nomad	2	3	U	First strike Discard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.
+Sacred Rites	odyssey	44	W	W	1	Instant			C	Discard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.
+Second Thoughts	odyssey	45	W	4W	5	Instant			C	Exile target attacking creature. Draw a card.
+Shelter	odyssey	46	W	1W	2	Instant			C	Target creature you control gains protection from the color of your choice until end of turn. Draw a card.
+Soulcatcher	odyssey	47	W	1W	2	Creature - Bird Soldier	1	1	U	Flying Whenever a creature with flying is put into a graveyard from the battlefield, put a +1/+1 counter on Soulcatcher.
+Sphere of Duty	odyssey	48	W	3W	4	Enchantment			U	If a green source would deal damage to you, prevent 2 of that damage.
+Sphere of Grace	odyssey	49	W	3W	4	Enchantment			U	If a black source would deal damage to you, prevent 2 of that damage.
+Sphere of Law	odyssey	50	W	3W	4	Enchantment			U	If a red source would deal damage to you, prevent 2 of that damage.
+Sphere of Reason	odyssey	51	W	3W	4	Enchantment			U	If a blue source would deal damage to you, prevent 2 of that damage.
+Sphere of Truth	odyssey	52	W	3W	4	Enchantment			U	If a white source would deal damage to you, prevent 2 of that damage.
+Spiritualize	odyssey	53	W	2W	3	Instant			U	Until end of turn, whenever target creature deals damage, you gain that much life. Draw a card.
+Tattoo Ward	odyssey	54	W	2W	3	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward. Sacrifice Tattoo Ward: Destroy target enchantment.
+Testament of Faith	odyssey	55	W	W	1	Enchantment			U	{X}: Testament of Faith becomes an X/X Wall creature with defender until end of turn. It's still an enchantment.
+Tireless Tribe	odyssey	56	W	W	1	Creature - Human Nomad	1	1	C	Discard a card: Tireless Tribe gets +0/+4 until end of turn.
+Wayward Angel	odyssey	57	W	4WW	6	Creature - Angel Horror	4	4	R	Flying, vigilance Threshold - As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has "At the beginning of your upkeep, sacrifice a creature."
+Aboshan, Cephalid Emperor	odyssey	58	U	4UU	6	Legendary Creature - Cephalid	3	3	R	Tap an untapped Cephalid you control: Tap target permanent. {U}{U}{U}: Tap all creatures without flying.
+Aboshan's Desire	odyssey	59	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. Threshold - Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)
+Aether Burst	odyssey	60	U	1U	2	Instant			C	Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Aether Burst in all graveyards as you cast Aether Burst.
+Amugaba	odyssey	61	U	5UU	7	Creature - Illusion	6	6	R	Flying {2}{U}, Discard a card: Return Amugaba to its owner's hand.
+Aura Graft	odyssey	62	U	1U	2	Instant			U	Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.
+Aven Fisher	odyssey	63	U	3U	4	Creature - Bird Soldier	2	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.) When Aven Fisher is put into a graveyard from the battlefield, you may draw a card.
+Aven Smokeweaver	odyssey	64	U	2UU	4	Creature - Bird Soldier	2	3	U	Flying, protection from red
+Aven Windreader	odyssey	65	U	3UU	5	Creature - Bird Soldier Wizard	3	3	C	Flying (This creature can't be blocked except by creatures with flying or reach.) {1}{U}: Target player reveals the top card of his or her library.
+Balshan Beguiler	odyssey	66	U	2U	3	Creature - Human Wizard	1	1	U	Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of his or her library. You choose one of those cards and put it into his or her graveyard.
+Balshan Griffin	odyssey	67	U	3UU	5	Creature - Griffin	3	2	U	Flying {1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.
+Bamboozle	odyssey	68	U	2U	3	Sorcery			U	Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.
+Battle of Wits	odyssey	69	U	3UU	5	Enchantment			R	At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.
+Careful Study	odyssey	70	U	U	1	Sorcery			C	Draw two cards, then discard two cards.
+Cephalid Broker	odyssey	71	U	3U	4	Creature - Cephalid	2	2	U	{T}: Target player draws two cards, then discards two cards.
+Cephalid Looter	odyssey	72	U	2U	3	Creature - Cephalid Rogue	2	1	C	{T}: Target player draws a card, then discards a card.
+Cephalid Retainer	odyssey	73	U	2UU	4	Creature - Cephalid	2	3	R	{U}{U}: Tap target creature without flying.
+Cephalid Scout	odyssey	74	U	1U	2	Creature - Cephalid Wizard Scout	1	1	C	Flying {2}{U}, Sacrifice a land: Draw a card.
+Cephalid Shrine	odyssey	75	U	1UU	3	Enchantment			R	Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.
+Chamber of Manipulation	odyssey	76	U	2UU	4	Enchantment - Aura			U	Enchant land Enchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."
+Cognivore	odyssey	77	U	6UU	8	Creature - Lhurgoyf	*	*	R	Flying Cognivore's power and toughness are each equal to the number of instant cards in all graveyards.
+Concentrate	odyssey	78	U	2UU	4	Sorcery			U	Draw three cards.
+Cultural Exchange	odyssey	79	U	4UU	6	Sorcery			R	Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)
+Deluge	odyssey	80	U	2U	3	Instant			U	Tap all creatures without flying.
+Dematerialize	odyssey	81	U	3U	4	Sorcery			C	Return target permanent to its owner's hand. Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Divert	odyssey	82	U	U	1	Instant			R	Change the target of target spell with a single target unless that spell's controller pays {2}.
+Dreamwinder	odyssey	83	U	3U	4	Creature - Serpent	4	3	C	Dreamwinder can't attack unless defending player controls an Island. {U}, Sacrifice an Island: Target land becomes an Island until end of turn.
+Escape Artist	odyssey	84	U	1U	2	Creature - Human Wizard	1	1	C	Escape Artist is unblockable. {U}, Discard a card: Return Escape Artist to its owner's hand.
+Extract	odyssey	85	U	U	1	Sorcery			R	Search target player's library for a card and exile it. Then that player shuffles his or her library.
+Fervent Denial	odyssey	86	U	3UU	5	Instant			U	Counter target spell. Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Immobilizing Ink	odyssey	87	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step. Enchanted creature has "{1}, Discard a card: Untap this creature."
+Laquatus's Creativity	odyssey	88	U	4U	5	Sorcery			U	Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.
+Patron Wizard	odyssey	89	U	UUU	3	Creature - Human Wizard	2	2	R	Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.
+Pedantic Learning	odyssey	90	U	UU	2	Enchantment			R	Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.
+Peek	odyssey	91	U	U	1	Instant			C	Look at target player's hand. Draw a card.
+Persuasion	odyssey	92	U	3UU	5	Enchantment - Aura			R	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) You control enchanted creature.
+Phantom Whelp	odyssey	93	U	1U	2	Creature - Illusion Hound	2	2	C	When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat.
+Predict	odyssey	94	U	1U	2	Instant			U	Name a card, then put the top card of target player's library into his or her graveyard. If that card is the named card, you draw two cards. Otherwise, you draw a card.
+Psionic Gift	odyssey	95	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+Pulsating Illusion	odyssey	96	U	4U	5	Creature - Illusion	0	1	U	Flying Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.
+Puppeteer	odyssey	97	U	2U	3	Creature - Human Wizard	1	2	U	{U}, {T}: You may tap or untap target creature.
+Repel	odyssey	98	U	3U	4	Instant			C	Put target creature on top of its owner's library.
+Rites of Refusal	odyssey	99	U	1U	2	Instant			C	Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.
+Scrivener	odyssey	100	U	4U	5	Creature - Human Wizard	2	2	C	When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.
+Shifty Doppelganger	odyssey	101	U	2U	3	Creature - Shapeshifter	1	1	R	{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.
+Standstill	odyssey	102	U	1U	2	Enchantment			U	When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.
+Syncopate	odyssey	103	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Think Tank	odyssey	104	U	2U	3	Enchantment			U	At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+Thought Devourer	odyssey	105	U	2UU	4	Creature - Beast	4	4	R	Flying Your maximum hand size is reduced by four.
+Thought Eater	odyssey	106	U	1U	2	Creature - Beast	2	2	U	Flying Your maximum hand size is reduced by three.
+Thought Nibbler	odyssey	107	U	U	1	Creature - Beast	1	1	C	Flying Your maximum hand size is reduced by two.
+Time Stretch	odyssey	108	U	8UU	10	Sorcery			R	Target player takes two extra turns after this one.
+Touch of Invisibility	odyssey	109	U	3U	4	Sorcery			C	Target creature is unblockable this turn. Draw a card.
+Traumatize	odyssey	110	U	3UU	5	Sorcery			R	Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Treetop Sentinel	odyssey	111	U	2UU	4	Creature - Bird Soldier	2	3	U	Flying, protection from green
+Unifying Theory	odyssey	112	U	1U	2	Enchantment			R	Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.
+Upheaval	odyssey	113	U	4UU	6	Sorcery			R	Return all permanents to their owners' hands.
+Words of Wisdom	odyssey	114	U	1U	2	Instant			C	You draw two cards, then each other player draws a card.
+Afflict	odyssey	115	B	2B	3	Instant			C	Target creature gets -1/-1 until end of turn. Draw a card.
+Bloodcurdler	odyssey	116	B	1B	2	Creature - Horror	1	1	R	Flying At the beginning of your upkeep, put the top card of your library into your graveyard. Threshold - As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has "At the beginning of your end step, exile two cards from your graveyard."
+Braids, Cabal Minion	odyssey	117	B	2BB	4	Legendary Creature - Human Minion	2	2	R	At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.
+Buried Alive	odyssey	118	B	2B	3	Sorcery			U	Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+Cabal Inquisitor	odyssey	119	B	1B	2	Creature - Human Minion	1	1	C	Threshold - {1}{B}, {T}, Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery, and only if seven or more cards are in your graveyard.
+Cabal Patriarch	odyssey	120	B	3BBB	6	Legendary Creature - Human Wizard	5	5	R	{2}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn. {2}{B}, Exile a creature card from your graveyard: Target creature gets -2/-2 until end of turn.
+Cabal Shrine	odyssey	121	B	1BB	3	Enchantment			R	Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell.
+Caustic Tar	odyssey	122	B	4BB	6	Enchantment - Aura			U	Enchant land Enchanted land has "{T}: Target player loses 3 life."
+Childhood Horror	odyssey	123	B	3B	4	Creature - Horror	2	2	U	Flying Threshold - As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.
+Coffin Purge	odyssey	124	B	B	1	Instant			C	Exile target card from a graveyard. Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Crypt Creeper	odyssey	125	B	1B	2	Creature - Zombie	2	1	C	Sacrifice Crypt Creeper: Exile target card from a graveyard.
+Cursed Monstrosity	odyssey	126	B	4B	5	Creature - Horror	4	3	R	Flying Whenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.
+Decaying Soil	odyssey	127	B	1BB	3	Enchantment			R	At the beginning of your upkeep, exile a card from your graveyard. Threshold - As long as seven or more cards are in your graveyard, Decaying Soil has "Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {1}. If you do, return that card to your hand."
+Decompose	odyssey	128	B	1B	2	Sorcery			U	Exile up to three target cards from a single graveyard.
+Diabolic Tutor	odyssey	129	B	2BB	4	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Dirty Wererat	odyssey	130	B	3B	4	Creature - Human Rat Minion	2	3	C	{B}, Discard a card: Regenerate Dirty Wererat. Threshold - As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.
+Dusk Imp	odyssey	131	B	2B	3	Creature - Imp	2	1	C	Flying
+Entomb	odyssey	132	B	B	1	Instant			R	Search your library for a card and put that card into your graveyard. Then shuffle your library.
+Execute	odyssey	133	B	2B	3	Instant			U	Destroy target white creature. It can't be regenerated. Draw a card.
+Face of Fear	odyssey	134	B	5B	6	Creature - Horror	3	4	U	{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Famished Ghoul	odyssey	135	B	3B	4	Creature - Zombie	3	2	U	{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.
+Filthy Cur	odyssey	136	B	1B	2	Creature - Hound	2	2	C	Whenever Filthy Cur is dealt damage, you lose that much life.
+Fledgling Imp	odyssey	137	B	2B	3	Creature - Imp	2	2	C	{B}, Discard a card: Fledgling Imp gains flying until end of turn.
+Frightcrawler	odyssey	138	B	1B	2	Creature - Horror	1	1	C	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Threshold - As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block.
+Ghastly Demise	odyssey	139	B	B	1	Instant			C	Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
+Gravedigger	odyssey	140	B	3B	4	Creature - Zombie	2	2	C	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Gravestorm	odyssey	141	B	BBB	3	Enchantment			R	At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.
+Haunting Echoes	odyssey	142	B	3BB	5	Sorcery			R	Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Hint of Insanity	odyssey	143	B	2B	3	Sorcery			R	Target player reveals his or her hand. That player discards all nonland cards with the same name as another card in his or her hand.
+Infected Vermin	odyssey	144	B	2B	3	Creature - Rat	1	1	U	{2}{B}: Infected Vermin deals 1 damage to each creature and each player. Threshold - {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.
+Innocent Blood	odyssey	145	B	B	1	Sorcery			C	Each player sacrifices a creature.
+Last Rites	odyssey	146	B	2B	3	Sorcery			C	Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.
+Malevolent Awakening	odyssey	147	B	1BB	3	Enchantment			U	{1}{B}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.
+Mind Burst	odyssey	148	B	1B	2	Sorcery			C	Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards.
+Mindslicer	odyssey	149	B	2BB	4	Creature - Horror	4	3	R	When Mindslicer is put into a graveyard from the battlefield, each player discards his or her hand.
+Morbid Hunger	odyssey	150	B	4BB	6	Sorcery			C	Morbid Hunger deals 3 damage to target creature or player. You gain 3 life. Flashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Morgue Theft	odyssey	151	B	1B	2	Sorcery			C	Return target creature card from your graveyard to your hand. Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Mortivore	odyssey	152	B	2BB	4	Creature - Lhurgoyf	*	*	R	Mortivore's power and toughness are each equal to the number of creature cards in all graveyards. {B}: Regenerate Mortivore. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Nefarious Lich	odyssey	153	B	BBBB	4	Enchantment			R	If you would be dealt damage, exile that many cards from your graveyard instead. If you can't, you lose the game. If you would gain life, draw that many cards instead. When Nefarious Lich leaves the battlefield, you lose the game.
+Overeager Apprentice	odyssey	154	B	2B	3	Creature - Human Minion	1	2	C	Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.
+Painbringer	odyssey	155	B	2BB	4	Creature - Human Minion	1	1	U	{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way.
+Patriarch's Desire	odyssey	156	B	3B	4	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/-2. Threshold - Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.
+Repentant Vampire	odyssey	157	B	3BB	5	Creature - Vampire	3	3	R	Flying Whenever a creature dealt damage by Repentant Vampire this turn is put into a graveyard, put a +1/+1 counter on Repentant Vampire. Threshold - As long as seven or more cards are in your graveyard, Repentant Vampire is white and has "{T}: Destroy target black creature."
+Rotting Giant	odyssey	158	B	1B	2	Creature - Zombie Giant	3	3	U	Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+Sadistic Hypnotist	odyssey	159	B	3BB	5	Creature - Human Minion	2	2	U	Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+Screams of the Damned	odyssey	160	B	3BB	5	Enchantment			U	{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.
+Skeletal Scrying	odyssey	161	B	XB	1	Instant			U	As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard. You draw X cards and you lose X life.
+Skull Fracture	odyssey	162	B	B	1	Sorcery			U	Target player discards a card. Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Stalking Bloodsucker	odyssey	163	B	4BB	6	Creature - Vampire	4	4	R	Flying {1}{B}, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.
+Tainted Pact	odyssey	164	B	1B	2	Instant			R	Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.
+Tombfire	odyssey	165	B	B	1	Sorcery			R	Target player exiles all cards with flashback from his or her graveyard.
+Traveling Plague	odyssey	166	B	3BB	5	Enchantment - Aura			R	Enchant creature At the beginning of each upkeep, put a plague counter on Traveling Plague. Enchanted creature gets -1/-1 for each plague counter on Traveling Plague. When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.
+Whispering Shade	odyssey	167	B	3B	4	Creature - Shade	1	1	C	Swampwalk {B}: Whispering Shade gets +1/+1 until end of turn.
+Zombie Assassin	odyssey	168	B	4B	5	Creature - Zombie Assassin	3	2	C	{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.
+Zombie Cannibal	odyssey	169	B	B	1	Creature - Zombie	1	1	C	Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.
+Zombie Infestation	odyssey	170	B	1B	2	Enchantment			U	Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+Zombify	odyssey	171	B	3B	4	Sorcery			U	Return target creature card from your graveyard to the battlefield.
+Acceptable Losses	odyssey	172	R	3R	4	Sorcery			C	As an additional cost to cast Acceptable Losses, discard a card at random. Acceptable Losses deals 5 damage to target creature.
+Anarchist	odyssey	173	R	4R	5	Creature - Human Wizard	2	2	C	When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
+Ashen Firebeast	odyssey	174	R	6RR	8	Creature - Elemental Beast	6	6	R	{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.
+Barbarian Lunatic	odyssey	175	R	2R	3	Creature - Human Barbarian	2	1	C	{2}{R}, Sacrifice Barbarian Lunatic: Barbarian Lunatic deals 2 damage to target creature.
+Bash to Bits	odyssey	176	R	3R	4	Instant			U	Destroy target artifact. Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Battle Strain	odyssey	177	R	1R	2	Enchantment			U	Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.
+Blazing Salvo	odyssey	178	R	R	1	Instant			C	Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.
+Bomb Squad	odyssey	179	R	3R	4	Creature - Dwarf	1	1	R	{T}: Put a fuse counter on target creature. At the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it. Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.
+Burning Sands	odyssey	180	R	3RR	5	Enchantment			R	Whenever a creature is put into a graveyard from the battlefield, that creature's controller sacrifices a land.
+Chainflinger	odyssey	181	R	3R	4	Creature - Beast	2	2	C	{1}{R}, {T}: Chainflinger deals 1 damage to target creature or player. Threshold - {2}{R}, {T}: Chainflinger deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.
+Chance Encounter	odyssey	182	R	2RR	4	Enchantment			R	Whenever you win a coin flip, put a luck counter on Chance Encounter. At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.
+Demolish	odyssey	183	R	3R	4	Sorcery			U	Destroy target artifact or land.
+Demoralize	odyssey	184	R	2R	3	Instant			C	Each creature can't be blocked this turn except by two or more creatures. Threshold - If seven or more cards are in your graveyard, creatures can't block this turn.
+Dwarven Grunt	odyssey	185	R	R	1	Creature - Dwarf	1	1	C	Mountainwalk
+Dwarven Recruiter	odyssey	186	R	2R	3	Creature - Dwarf	2	2	U	When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+Dwarven Shrine	odyssey	187	R	1RR	3	Enchantment			R	Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.
+Dwarven Strike Force	odyssey	188	R	4R	5	Creature - Dwarf Berserker	4	3	U	Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.
+Earth Rift	odyssey	189	R	3R	4	Sorcery			C	Destroy target land. Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ember Beast	odyssey	190	R	2R	3	Creature - Beast	3	4	C	Ember Beast can't attack or block alone.
+Engulfing Flames	odyssey	191	R	R	1	Instant			U	Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn. Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Epicenter	odyssey	192	R	4R	5	Sorcery			R	Target player sacrifices a land. Threshold - All players sacrifice all lands instead if seven or more cards are in your graveyard.
+Firebolt	odyssey	193	R	R	1	Sorcery			C	Firebolt deals 2 damage to target creature or player. Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Flame Burst	odyssey	194	R	1R	2	Instant			C	Flame Burst deals X damage to target creature or player, where X is 2 plus the number of cards named Flame Burst in all graveyards.
+Frenetic Ogre	odyssey	195	R	4R	5	Creature - Ogre	2	3	U	{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.
+Halberdier	odyssey	196	R	3R	4	Creature - Human Barbarian	3	1	C	First strike
+Impulsive Maneuvers	odyssey	197	R	2RR	4	Enchantment			R	Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.
+Kamahl, Pit Fighter	odyssey	198	R	4RR	6	Legendary Creature - Human Barbarian	6	1	R	Haste (This creature can attack and {T} as soon as it comes under your control.) {T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+Kamahl's Desire	odyssey	199	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature has first strike. Threshold - Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.
+Lava Blister	odyssey	200	R	1R	2	Sorcery			U	Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to him or her.
+Liquid Fire	odyssey	201	R	4RR	6	Sorcery			U	As an additional cost to cast Liquid Fire, choose a number between 0 and 5. Liquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.
+Mad Dog	odyssey	202	R	1R	2	Creature - Hound	2	2	C	At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it.
+Magma Vein	odyssey	203	R	2R	3	Enchantment			U	{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.
+Magnivore	odyssey	204	R	2RR	4	Creature - Lhurgoyf	*	*	R	Haste (This creature can attack the turn it comes under your control.) Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.
+Mine Layer	odyssey	205	R	3R	4	Creature - Dwarf	1	1	R	{1}{R}, {T}: Put a mine counter on target land. Whenever a land with a mine counter on it becomes tapped, destroy it. When Mine Layer leaves the battlefield, remove all mine counters from all lands.
+Minotaur Explorer	odyssey	206	R	1R	2	Creature - Minotaur Scout	3	3	U	When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.
+Molten Influence	odyssey	207	R	1R	2	Instant			R	Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to him or her.
+Mudhole	odyssey	208	R	2R	3	Instant			R	Target player exiles all land cards from his or her graveyard.
+Need for Speed	odyssey	209	R	R	1	Enchantment			R	Sacrifice a land: Target creature gains haste until end of turn.
+Obstinate Familiar	odyssey	210	R	R	1	Creature - Lizard	1	1	R	If you would draw a card, you may skip that draw instead.
+Pardic Firecat	odyssey	211	R	3R	4	Creature - Elemental Cat	2	3	C	Haste If Pardic Firecat is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst.
+Pardic Miner	odyssey	212	R	1R	2	Creature - Dwarf	1	1	R	Sacrifice Pardic Miner: Target player can't play lands this turn.
+Pardic Swordsmith	odyssey	213	R	2R	3	Creature - Dwarf	1	1	C	{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.
+Price of Glory	odyssey	214	R	2R	3	Enchantment			U	Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.
+Reckless Charge	odyssey	215	R	R	1	Sorcery			C	Target creature gets +3/+0 and gains haste until end of turn. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Recoup	odyssey	216	R	1R	2	Sorcery			U	Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.) Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Rites of Initiation	odyssey	217	R	R	1	Instant			C	Discard any number of cards at random. Creatures you control get +1/+0 until end of turn for each card discarded this way.
+Savage Firecat	odyssey	218	R	3RR	5	Creature - Elemental Cat	0	0	R	Trample Savage Firecat enters the battlefield with seven +1/+1 counters on it. Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.
+Scorching Missile	odyssey	219	R	3R	4	Sorcery			C	Scorching Missile deals 4 damage to target player. Flashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Seize the Day	odyssey	220	R	3R	4	Sorcery			R	Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase. Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Shower of Coals	odyssey	221	R	3RR	5	Sorcery			U	Shower of Coals deals 2 damage to each of up to three target creatures and/or players. Threshold - Shower of Coals deals 4 damage to each of those creatures and/or players instead if seven or more cards are in your graveyard.
+Spark Mage	odyssey	222	R	R	1	Creature - Dwarf Wizard	1	1	U	Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.
+Steam Vines	odyssey	223	R	1RR	3	Enchantment - Aura			U	Enchant land When enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.
+Thermal Blast	odyssey	224	R	4R	5	Instant			C	Thermal Blast deals 3 damage to target creature. Threshold - Thermal Blast deals 5 damage to that creature instead if seven or more cards are in your graveyard.
+Tremble	odyssey	225	R	1R	2	Sorcery			C	Each player sacrifices a land.
+Volcanic Spray	odyssey	226	R	1R	2	Sorcery			U	Volcanic Spray deals 1 damage to each creature without flying and each player. Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Volley of Boulders	odyssey	227	R	8R	9	Sorcery			R	Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players. Flashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Whipkeeper	odyssey	228	R	2RR	4	Creature - Dwarf	1	1	U	{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.
+Bearscape	odyssey	229	G	1GG	3	Enchantment			R	{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.
+Beast Attack	odyssey	230	G	2GGG	5	Instant			U	Put a 4/4 green Beast creature token onto the battlefield. Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Call of the Herd	odyssey	231	G	2G	3	Sorcery			R	Put a 3/3 green Elephant creature token onto the battlefield. Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Cartographer	odyssey	232	G	2G	3	Creature - Human	2	2	C	When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.
+Chatter of the Squirrel	odyssey	233	G	G	1	Sorcery			C	Put a 1/1 green Squirrel creature token onto the battlefield. Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Chlorophant	odyssey	234	G	GGG	3	Creature - Elemental	1	1	R	At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant. Threshold - As long as seven or more cards are in your graveyard, Chlorophant has "At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."
+Crashing Centaur	odyssey	235	G	4GG	6	Creature - Centaur	3	4	U	{G}, Discard a card: Crashing Centaur gains trample until end of turn. Threshold - As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)
+Deep Reconnaissance	odyssey	236	G	2G	3	Sorcery			U	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library. Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Diligent Farmhand	odyssey	237	G	G	1	Creature - Human Druid	1	1	C	{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library. If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.
+Druid Lyrist	odyssey	238	G	G	1	Creature - Human Druid	1	1	C	{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.
+Druid's Call	odyssey	239	G	1G	2	Enchantment - Aura			U	Enchant creature Whenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+Elephant Ambush	odyssey	240	G	2GG	4	Instant			C	Put a 3/3 green Elephant creature token onto the battlefield. Flashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Gorilla Titan	odyssey	241	G	3GG	5	Creature - Ape	4	4	U	Trample Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard.
+Ground Seal	odyssey	242	G	1G	2	Enchantment			R	When Ground Seal enters the battlefield, draw a card. Cards in graveyards can't be the targets of spells or abilities.
+Holistic Wisdom	odyssey	243	G	1GG	3	Enchantment			R	{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (The card types are artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal.)
+Howling Gale	odyssey	244	G	1G	2	Instant			U	Howling Gale deals 1 damage to each creature with flying and each player. Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ivy Elemental	odyssey	245	G	XG	1	Creature - Elemental	0	0	R	Ivy Elemental enters the battlefield with X +1/+1 counters on it.
+Krosan Archer	odyssey	246	G	3G	4	Creature - Centaur Archer	2	3	C	Reach (This creature can block creatures with flying.) {G}, Discard a card: Krosan Archer gets +0/+2 until end of turn.
+Krosan Avenger	odyssey	247	G	2G	3	Creature - Human Druid	3	1	C	Trample Threshold - {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.
+Krosan Beast	odyssey	248	G	3G	4	Creature - Squirrel Beast	1	1	R	Threshold - Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.
+Leaf Dancer	odyssey	249	G	1GG	3	Creature - Centaur	2	2	C	Forestwalk
+Metamorphic Wurm	odyssey	250	G	3GG	5	Creature - Elephant Wurm	3	3	U	Threshold - Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.
+Moment's Peace	odyssey	251	G	1G	2	Instant			C	Prevent all combat damage that would be dealt this turn. Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Muscle Burst	odyssey	252	G	1G	2	Instant			C	Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards.
+Nantuko Disciple	odyssey	253	G	3G	4	Creature - Insect Druid	2	2	C	{G}, {T}: Target creature gets +2/+2 until end of turn.
+Nantuko Elder	odyssey	254	G	2G	3	Creature - Insect Druid	1	2	U	{T}: Add {1}{G} to your mana pool.
+Nantuko Mentor	odyssey	255	G	2G	3	Creature - Insect Druid	1	1	R	{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.
+Nantuko Shrine	odyssey	256	G	1GG	3	Enchantment			R	Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.
+New Frontiers	odyssey	257	G	XG	1	Sorcery			R	Each player may search his or her library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched his or her library this way shuffles it.
+Nimble Mongoose	odyssey	258	G	G	1	Creature - Mongoose	1	1	U	Shroud (This permanent can't be the target of spells or abilities.) Threshold - Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
+Nut Collector	odyssey	259	G	5G	6	Creature - Human Druid	1	1	R	At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield. Threshold - Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.
+Overrun	odyssey	260	G	2GGG	5	Sorcery			U	Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Piper's Melody	odyssey	261	G	G	1	Sorcery			U	Shuffle any number of target creature cards from your graveyard into your library.
+Primal Frenzy	odyssey	262	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature has trample.
+Rabid Elephant	odyssey	263	G	4G	5	Creature - Elephant	3	4	C	Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.
+Refresh	odyssey	264	G	2G	3	Instant			C	Regenerate target creature. Draw a card.
+Rites of Spring	odyssey	265	G	1G	2	Sorcery			C	Discard any number of cards. Search your library for that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.
+Roar of the Wurm	odyssey	266	G	6G	7	Sorcery			U	Put a 6/6 green Wurm creature token onto the battlefield. Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Seton, Krosan Protector	odyssey	267	G	GGG	3	Legendary Creature - Centaur Druid	2	2	R	Tap an untapped Druid you control: Add {G} to your mana pool.
+Seton's Desire	odyssey	268	G	2G	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2. Threshold - As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so.
+Simplify	odyssey	269	G	G	1	Sorcery			C	Each player sacrifices an enchantment.
+Skyshooter	odyssey	270	G	1G	2	Creature - Centaur Archer	1	2	U	Reach (This creature can block creatures with flying.) {T}, Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying.
+Spellbane Centaur	odyssey	271	G	2G	3	Creature - Centaur	3	2	R	Creatures you control can't be the targets of blue spells or abilities from blue sources.
+Springing Tiger	odyssey	272	G	3G	4	Creature - Cat	3	3	C	Threshold - Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.
+Squirrel Mob	odyssey	273	G	1GG	3	Creature - Squirrel	2	2	R	Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.
+Squirrel Nest	odyssey	274	G	1GG	3	Enchantment - Aura			U	Enchant land Enchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield."
+Still Life	odyssey	275	G	1GG	3	Enchantment			U	{G}{G}: Still Life becomes a 4/3 Centaur creature until end of turn. It's still an enchantment.
+Stone-Tongue Basilisk	odyssey	276	G	4GGG	7	Creature - Basilisk	4	5	R	Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat. Threshold - As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.
+Sylvan Might	odyssey	277	G	1G	2	Instant			U	Target creature gets +2/+2 and gains trample until end of turn. Flashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Terravore	odyssey	278	G	1GG	3	Creature - Lhurgoyf	*	*	R	Trample Terravore's power and toughness are each equal to the number of land cards in all graveyards.
+Twigwalker	odyssey	279	G	2G	3	Creature - Insect	2	2	U	{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn.
+Verdant Succession	odyssey	280	G	4G	5	Enchantment			R	Whenever a green nontoken creature is put into a graveyard from the battlefield, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she then shuffles his or her library.
+Vivify	odyssey	281	G	2G	3	Instant			U	Target land becomes a 3/3 creature until end of turn. It's still a land. Draw a card.
+Werebear	odyssey	282	G	1G	2	Creature - Human Bear Druid	1	1	C	{T}: Add {G} to your mana pool. Threshold - Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
+Wild Mongrel	odyssey	283	G	1G	2	Creature - Hound	2	2	C	Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+Woodland Druid	odyssey	284	G	G	1	Creature - Human Druid	1	2	C	
+Zoologist	odyssey	285	G	3G	4	Creature - Human Druid	1	2	R	{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+Atogatog	odyssey	286	WUBRG	WUBRG	5	Legendary Creature - Atog	5	5	R	Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power.
+Decimate	odyssey	287	RG	2RG	4	Sorcery			R	Destroy target artifact, target creature, target enchantment, and target land.
+Iridescent Angel	odyssey	288	WU	5WU	7	Creature - Angel	4	4	R	Flying, protection from all colors
+Lithatog	odyssey	289	RG	1RG	3	Creature - Atog	1	2	U	Sacrifice an artifact: Lithatog gets +1/+1 until end of turn. Sacrifice a land: Lithatog gets +1/+1 until end of turn.
+Mystic Enforcer	odyssey	290	GW	2GW	4	Creature - Human Nomad Mystic	3	3	R	Protection from black Threshold - As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.
+Phantatog	odyssey	291	WU	1WU	3	Creature - Atog	1	2	U	Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn. Discard a card: Phantatog gets +1/+1 until end of turn.
+Psychatog	odyssey	292	UB	1UB	3	Creature - Atog	1	2	U	Discard a card: Psychatog gets +1/+1 until end of turn. Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+Sarcatog	odyssey	293	BR	1BR	3	Creature - Atog	1	2	U	Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn. Sacrifice an artifact: Sarcatog gets +1/+1 until end of turn.
+Shadowmage Infiltrator	odyssey	294	UB	1UB	3	Creature - Human Wizard	1	3	R	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.
+Thaumatog	odyssey	295	GW	1GW	3	Creature - Atog	1	2	U	Sacrifice a land: Thaumatog gets +1/+1 until end of turn. Sacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.
+Vampiric Dragon	odyssey	296	BR	6BR	8	Creature - Vampire Dragon	5	5	R	Flying Whenever a creature dealt damage by Vampiric Dragon this turn is put into a graveyard, put a +1/+1 counter on Vampiric Dragon. {1}{R}: Vampiric Dragon deals 1 damage to target creature.
+Catalyst Stone	odyssey	297	A	2	2	Artifact			R	Flashback costs you pay cost up to {2} less. Flashback costs your opponents pay cost {2} more.
+Charmed Pendant	odyssey	298	A	4	4	Artifact			R	{T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)
+Darkwater Egg	odyssey	299	A	1	1	Artifact			U	{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B} to your mana pool. Draw a card.
+Junk Golem	odyssey	300	A	4	4	Artifact Creature - Golem	0	0	R	Junk Golem enters the battlefield with three +1/+1 counters on it. At the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it. {1}, Discard a card: Put a +1/+1 counter on Junk Golem.
+Limestone Golem	odyssey	301	A	6	6	Artifact Creature - Golem	3	4	U	{2}, Sacrifice Limestone Golem: Target player draws a card.
+Millikin	odyssey	302	A	2	2	Artifact Creature - Construct	0	1	U	{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.
+Mirari	odyssey	303	A	5	5	Legendary Artifact			R	Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.
+Mossfire Egg	odyssey	304	A	1	1	Artifact			U	{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G} to your mana pool. Draw a card.
+Otarian Juggernaut	odyssey	305	A	4	4	Artifact Creature - Juggernaut	2	3	R	Otarian Juggernaut can't be blocked by Walls. Threshold - As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.
+Patchwork Gnomes	odyssey	306	A	3	3	Artifact Creature - Gnome	2	1	U	Discard a card: Regenerate Patchwork Gnomes.
+Sandstone Deadfall	odyssey	307	A	3	3	Artifact			U	{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.
+Shadowblood Egg	odyssey	308	A	1	1	Artifact			U	{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.
+Skycloud Egg	odyssey	309	A	1	1	Artifact			U	{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.
+Steamclaw	odyssey	310	A	2	2	Artifact			U	{3}, {T}: Exile target card from a graveyard. {1}, Sacrifice Steamclaw: Exile target card from a graveyard.
+Sungrass Egg	odyssey	311	A	1	1	Artifact			U	{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.
+Abandoned Outpost	odyssey	312	L		0	Land			C	Abandoned Outpost enters the battlefield tapped. {T}: Add {W} to your mana pool. {T}, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.
+Barbarian Ring	odyssey	313	L		0	Land			U	{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you. Threshold - {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.
+Bog Wreckage	odyssey	314	L		0	Land			C	Bog Wreckage enters the battlefield tapped. {T}: Add {B} to your mana pool. {T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.
+Cabal Pit	odyssey	315	L		0	Land			U	{T}: Add {B} to your mana pool. Cabal Pit deals 1 damage to you. Threshold - {B}, {T}, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+Centaur Garden	odyssey	316	L		0	Land			U	{T}: Add {G} to your mana pool. Centaur Garden deals 1 damage to you. Threshold - {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+Cephalid Coliseum	odyssey	317	L		0	Land			U	{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you. Threshold - {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.
+Crystal Quarry	odyssey	318	L		0	Land			R	{T}: Add {1} to your mana pool. {5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.
+Darkwater Catacombs	odyssey	319	L		0	Land			R	{1}, {T}: Add {U}{B} to your mana pool.
+Deserted Temple	odyssey	320	L		0	Land			R	{T}: Add {1} to your mana pool. {1}, {T}: Untap target land.
+Mossfire Valley	odyssey	321	L		0	Land			R	{1}, {T}: Add {R}{G} to your mana pool.
+Nomad Stadium	odyssey	322	L		0	Land			U	{T}: Add {W} to your mana pool. Nomad Stadium deals 1 damage to you. Threshold - {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.
+Petrified Field	odyssey	323	L		0	Land			R	{T}: Add {1} to your mana pool. {T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.
+Ravaged Highlands	odyssey	324	L		0	Land			C	Ravaged Highlands enters the battlefield tapped. {T}: Add {R} to your mana pool. {T}, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.
+Seafloor Debris	odyssey	325	L		0	Land			C	Seafloor Debris enters the battlefield tapped. {T}: Add {U} to your mana pool. {T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.
+Shadowblood Ridge	odyssey	326	L		0	Land			R	{1}, {T}: Add {B}{R} to your mana pool.
+Skycloud Expanse	odyssey	327	L		0	Land			R	{1}, {T}: Add {W}{U} to your mana pool.
+Sungrass Prairie	odyssey	328	L		0	Land			R	{1}, {T}: Add {G}{W} to your mana pool.
+Tarnished Citadel	odyssey	329	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.
+Timberland Ruins	odyssey	330	L		0	Land			C	Timberland Ruins enters the battlefield tapped. {T}: Add {G} to your mana pool. {T}, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.
+Plains	odyssey	331	L		0	Basic Land - Plains			L	W
+Island	odyssey	335	L		0	Basic Land - Island			L	U
+Swamp	odyssey	339	L		0	Basic Land - Swamp			L	B
+Mountain	odyssey	343	L		0	Basic Land - Mountain			L	R
+Forest	odyssey	347	L		0	Basic Land - Forest			L	G
+Angel of Retribution	torment	1	W	6W	7	Creature - Angel	5	5	R	Flying, first strike
+Aven Trooper	torment	2	W	3W	4	Creature - Bird Soldier	1	1	C	Flying {2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.
+Cleansing Meditation	torment	3	W	1WW	3	Sorcery			U	Destroy all enchantments. Threshold - If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.
+Equal Treatment	torment	4	W	1W	2	Instant			U	If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead. Draw a card.
+Floating Shield	torment	5	W	2W	3	Enchantment - Aura			C	Enchant creature As Floating Shield enters the battlefield, choose a color. Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield. Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.
+Frantic Purification	torment	6	W	2W	3	Instant			C	Destroy target enchantment. Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Hypochondria	torment	7	W	1W	2	Enchantment			U	{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn. {W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+Major Teroh	torment	8	W	3W	4	Legendary Creature - Bird Soldier	2	3	R	Flying {3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.
+Militant Monk	torment	9	W	1WW	3	Creature - Human Monk Cleric	2	1	C	Vigilance {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Morningtide	torment	10	W	1W	2	Sorcery			R	Exile all cards from all graveyards.
+Mystic Familiar	torment	11	W	1W	2	Creature - Bird	1	2	C	Flying Threshold - As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+Pay No Heed	torment	12	W	W	1	Instant			C	Prevent all damage a source of your choice would deal this turn.
+Possessed Nomad	torment	13	W	2WW	4	Creature - Human Nomad Horror	3	3	R	Vigilance Threshold - As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."
+Reborn Hero	torment	14	W	2W	3	Creature - Human Soldier	2	2	R	Vigilance Threshold - As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero is put into a graveyard from the battlefield, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."
+Spirit Flare	torment	15	W	3W	4	Instant			C	Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls. Flashback-{1}{W}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Stern Judge	torment	16	W	2W	3	Creature - Human Cleric	2	2	U	{T}: Each player loses 1 life for each Swamp he or she controls.
+Strength of Isolation	torment	17	W	1W	2	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+2 and has protection from black. Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Teroh's Faithful	torment	18	W	3W	4	Creature - Human Cleric	1	4	C	When Teroh's Faithful enters the battlefield, you gain 4 life.
+Teroh's Vanguard	torment	19	W	3W	4	Creature - Human Nomad	2	3	U	Flash Threshold - As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."
+Transcendence	torment	20	W	3WWW	6	Enchantment			R	You don't lose the game for having 0 or less life. When you have 20 or more life, you lose the game. Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)
+Vengeful Dreams	torment	21	W	WW	2	Instant			R	As an additional cost to cast Vengeful Dreams, discard X cards. Exile X target attacking creatures.
+Alter Reality	torment	22	U	1U	2	Instant			R	Change the text of target permanent or spell by replacing all instances of one color word with another. (This effect lasts indefinitely.) Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ambassador Laquatus	torment	23	U	1UU	3	Legendary Creature - Merfolk Wizard	1	3	R	{3}: Target player puts the top three cards of his or her library into his or her graveyard.
+Aquamoeba	torment	24	U	1U	2	Creature - Elemental Beast	1	3	C	Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+Balshan Collaborator	torment	25	U	3U	4	Creature - Bird Soldier	2	2	U	Flying {B}: Balshan Collaborator gets +1/+1 until end of turn.
+Breakthrough	torment	26	U	XU	1	Sorcery			U	Draw four cards, then choose X cards in your hand and discard the rest.
+Cephalid Aristocrat	torment	27	U	4U	5	Creature - Cephalid	3	3	C	Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.
+Cephalid Illusionist	torment	28	U	1U	2	Creature - Cephalid Wizard	1	1	U	Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard. {2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.
+Cephalid Sage	torment	29	U	3U	4	Creature - Cephalid	2	3	U	Threshold - As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."
+Cephalid Snitch	torment	30	U	1U	2	Creature - Cephalid Wizard	1	1	C	Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.
+Cephalid Vandal	torment	31	U	1U	2	Creature - Cephalid Rogue	1	1	R	At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.
+Churning Eddy	torment	32	U	3U	4	Sorcery			C	Return target creature and target land to their owners' hands.
+Circular Logic	torment	33	U	2U	3	Instant			U	Counter target spell unless its controller pays {1} for each card in your graveyard. Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Compulsion	torment	34	U	1U	2	Enchantment			U	{1}{U}, Discard a card: Draw a card. {1}{U}, Sacrifice Compulsion: Draw a card.
+Coral Net	torment	35	U	U	1	Enchantment - Aura			C	Enchant green or white creature Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."
+Deep Analysis	torment	36	U	3U	4	Sorcery			C	Target player draws two cards. Flashback-{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+False Memories	torment	37	U	1U	2	Instant			R	Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.
+Ghostly Wings	torment	38	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has flying. Discard a card: Return enchanted creature to its owner's hand.
+Hydromorph Guardian	torment	39	U	2U	3	Creature - Elemental	2	2	C	{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.
+Hydromorph Gull	torment	40	U	3UU	5	Creature - Elemental Bird	3	3	U	Flying {U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.
+Liquify	torment	41	U	2U	3	Instant			C	Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Llawan, Cephalid Empress	torment	42	U	3U	4	Legendary Creature - Cephalid	2	3	R	When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands. Your opponents can't cast blue creature spells.
+Obsessive Search	torment	43	U	U	1	Instant			C	Draw a card. Madness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Plagiarize	torment	44	U	3U	4	Instant			R	Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+Possessed Aven	torment	45	U	2UU	4	Creature - Bird Soldier Horror	3	3	R	Flying Threshold - As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."
+Retraced Image	torment	46	U	U	1	Sorcery			R	Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.
+Skywing Aven	torment	47	U	2U	3	Creature - Bird Soldier	2	1	C	Flying Discard a card: Return Skywing Aven to its owner's hand.
+Stupefying Touch	torment	48	U	1U	2	Enchantment - Aura			U	Enchant creature When Stupefying Touch enters the battlefield, draw a card. Enchanted creature's activated abilities can't be activated.
+Turbulent Dreams	torment	49	U	UU	2	Sorcery			R	As an additional cost to cast Turbulent Dreams, discard X cards. Return X target nonland permanents to their owners' hands.
+Boneshard Slasher	torment	50	B	1B	2	Creature - Horror	1	1	U	Flying Threshold - As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has "When Boneshard Slasher becomes the target of a spell or ability, sacrifice it."
+Cabal Ritual	torment	51	B	1B	2	Instant			C	Add {B}{B}{B} to your mana pool. Threshold - Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.
+Cabal Surgeon	torment	52	B	2BB	4	Creature - Human Minion	2	1	C	{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.
+Cabal Torturer	torment	53	B	1BB	3	Creature - Human Minion	1	1	C	{B}, {T}: Target creature gets -1/-1 until end of turn. Threshold - {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+Carrion Rats	torment	54	B	B	1	Creature - Rat	2	1	C	Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.
+Carrion Wurm	torment	55	B	3BB	5	Creature - Zombie Wurm	6	5	U	Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.
+Chainer, Dementia Master	torment	56	B	3BB	5	Legendary Creature - Human Minion	3	3	R	Nightmare creatures get +1/+1. {B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types. When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.
+Chainer's Edict	torment	57	B	1B	2	Sorcery			U	Target player sacrifices a creature. Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Crippling Fatigue	torment	58	B	1BB	3	Sorcery			C	Target creature gets -2/-2 until end of turn. Flashback-{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Dawn of the Dead	torment	59	B	2BBB	5	Enchantment			R	At the beginning of your upkeep, you lose 1 life. At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+Faceless Butcher	torment	60	B	2BB	4	Creature - Nightmare Horror	2	3	C	When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher. When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Gloomdrifter	torment	61	B	3B	4	Creature - Zombie Minion	2	2	U	Flying Threshold - As long as seven or more cards are in your graveyard, Gloomdrifter has "When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn."
+Gravegouger	torment	62	B	2B	3	Creature - Nightmare Horror	2	2	C	When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard. When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.
+Grotesque Hybrid	torment	63	B	4B	5	Creature - Zombie	3	3	U	Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated. Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.
+Hypnox	torment	64	B	8BBB	11	Creature - Nightmare Horror	8	8	R	Flying When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand. When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.
+Ichorid	torment	65	B	3B	4	Creature - Horror	3	1	R	Haste At the beginning of the end step, sacrifice Ichorid. At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.
+Insidious Dreams	torment	66	B	3B	4	Instant			R	As an additional cost to cast Insidious Dreams, discard X cards. Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.
+Laquatus's Champion	torment	67	B	4BB	6	Creature - Nightmare Horror	6	3	R	When Laquatus's Champion enters the battlefield, target player loses 6 life. When Laquatus's Champion leaves the battlefield, that player gains 6 life. {B}: Regenerate Laquatus's Champion.
+Last Laugh	torment	68	B	2BB	4	Enchantment			R	Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player. When no creatures are on the battlefield, sacrifice Last Laugh.
+Mesmeric Fiend	torment	69	B	1B	2	Creature - Nightmare Horror	1	1	C	When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card. When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+Mind Sludge	torment	70	B	4B	5	Sorcery			U	Target player discards a card for each Swamp you control.
+Mortal Combat	torment	71	B	2BB	4	Enchantment			R	At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+Mortiphobia	torment	72	B	1BB	3	Enchantment			U	{1}{B}, Discard a card: Exile target card from a graveyard. {1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
+Mutilate	torment	73	B	2BB	4	Sorcery			R	All creatures get -1/-1 until end of turn for each Swamp you control.
+Nantuko Shade	torment	74	B	BB	2	Creature - Insect Shade	2	1	R	{B}: Nantuko Shade gets +1/+1 until end of turn.
+Organ Grinder	torment	75	B	2B	3	Creature - Zombie	3	1	C	{T}, Exile three cards from your graveyard: Target player loses 3 life.
+Psychotic Haze	torment	76	B	2BB	4	Instant			C	Psychotic Haze deals 1 damage to each creature and each player. Madness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Putrid Imp	torment	77	B	B	1	Creature - Zombie Imp	1	1	C	Discard a card: Putrid Imp gains flying until end of turn. Threshold - As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+Rancid Earth	torment	78	B	1BB	3	Sorcery			C	Destroy target land. Threshold - If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.
+Restless Dreams	torment	79	B	B	1	Sorcery			C	As an additional cost to cast Restless Dreams, discard X cards. Return X target creature cards from your graveyard to your hand.
+Sengir Vampire	torment	80	B	3BB	5	Creature - Vampire	4	4	R	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Shade's Form	torment	81	B	1BB	3	Enchantment - Aura			C	Enchant creature Enchanted creature has "{B}: This creature gets +1/+1 until end of turn." When enchanted creature is put into a graveyard, return that card to the battlefield under your control.
+Shambling Swarm	torment	82	B	1BBB	4	Creature - Horror	3	3	R	When Shambling Swarm is put into a graveyard from the battlefield, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.
+Sickening Dreams	torment	83	B	1B	2	Sorcery			U	As an additional cost to cast Sickening Dreams, discard X cards. Sickening Dreams deals X damage to each creature and each player.
+Slithery Stalker	torment	84	B	1BB	3	Creature - Nightmare Horror	1	1	U	Swampwalk When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls. When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Soul Scourge	torment	85	B	4B	5	Creature - Nightmare Horror	3	2	C	Flying When Soul Scourge enters the battlefield, target player loses 3 life. When Soul Scourge leaves the battlefield, that player gains 3 life.
+Strength of Lunacy	torment	86	B	1B	2	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+1 and has protection from white. Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Unhinge	torment	87	B	2B	3	Sorcery			C	Target player discards a card. Draw a card.
+Waste Away	torment	88	B	4B	5	Instant			C	As an additional cost to cast Waste Away, discard a card. Target creature gets -5/-5 until end of turn.
+Zombie Trailblazer	torment	89	B	BBB	3	Creature - Zombie Scout	2	2	U	Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn. Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.
+Accelerate	torment	90	R	1R	2	Instant			C	Target creature gains haste until end of turn. Draw a card.
+Balthor the Stout	torment	91	R	1RR	3	Legendary Creature - Dwarf Barbarian	2	2	R	Other Barbarian creatures get +1/+1. {R}: Another target Barbarian creature gets +1/+0 until end of turn.
+Barbarian Outcast	torment	92	R	1R	2	Creature - Human Barbarian Beast	2	2	C	When you control no Swamps, sacrifice Barbarian Outcast.
+Crackling Club	torment	93	R	R	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0. Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.
+Crazed Firecat	torment	94	R	5RR	7	Creature - Elemental Cat	4	4	U	When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.
+Devastating Dreams	torment	95	R	RR	2	Sorcery			R	As an additional cost to cast Devastating Dreams, discard X cards at random. Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.
+Enslaved Dwarf	torment	96	R	R	1	Creature - Dwarf	1	1	C	{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.
+Fiery Temper	torment	97	R	1RR	3	Instant			C	Fiery Temper deals 3 damage to target creature or player. Madness {R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Flaming Gambit	torment	98	R	XR	1	Instant			U	Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead. Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Flash of Defiance	torment	99	R	1R	2	Sorcery			C	Players can't block with green and/or white creatures this turn. Flashback-{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Grim Lavamancer	torment	100	R	R	1	Creature - Human Wizard	1	1	R	{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+Hell-Bent Raider	torment	101	R	1RR	3	Creature - Human Barbarian	2	2	R	First strike, haste Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+Kamahl's Sledge	torment	102	R	5RR	7	Sorcery			C	Kamahl's Sledge deals 4 damage to target creature. Threshold - If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.
+Longhorn Firebeast	torment	103	R	2R	3	Creature - Elemental Ox Beast	3	2	C	When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.
+Overmaster	torment	104	R	R	1	Sorcery			R	The next instant or sorcery spell you cast this turn can't be countered by spells or abilities. Draw a card.
+Pardic Arsonist	torment	105	R	2RR	4	Creature - Human Barbarian	3	3	U	Threshold - As long as seven or more cards are in your graveyard, Pardic Arsonist has "When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player."
+Pardic Collaborator	torment	106	R	3R	4	Creature - Human Barbarian	2	2	U	First strike {B}: Pardic Collaborator gets +1/+1 until end of turn.
+Pardic Lancer	torment	107	R	4R	5	Creature - Human Barbarian	3	2	C	Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.
+Petradon	torment	108	R	6RR	8	Creature - Nightmare Beast	5	6	R	When Petradon enters the battlefield, exile two target lands. When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control. {R}: Petradon gets +1/+0 until end of turn.
+Petravark	torment	109	R	3R	4	Creature - Nightmare Beast	2	2	C	When Petravark enters the battlefield, exile target land. When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Pitchstone Wall	torment	110	R	2R	3	Creature - Wall	2	5	U	Defender (This creature can't attack.) Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.
+Possessed Barbarian	torment	111	R	2RR	4	Creature - Human Barbarian Horror	3	3	R	First strike Threshold - As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target red creature."
+Pyromania	torment	112	R	2R	3	Enchantment			U	{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player. {1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.
+Radiate	torment	113	R	3RR	5	Instant			R	Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.
+Skullscorch	torment	114	R	RR	2	Sorcery			R	Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.
+Sonic Seizure	torment	115	R	R	1	Instant			C	As an additional cost to cast Sonic Seizure, discard a card at random. Sonic Seizure deals 3 damage to target creature or player.
+Temporary Insanity	torment	116	R	3R	4	Instant			U	Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+Violent Eruption	torment	117	R	1RRR	4	Instant			U	Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players. Madness {1}{R}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Acorn Harvest	torment	118	G	3G	4	Sorcery			C	Put two 1/1 green Squirrel creature tokens onto the battlefield. Flashback-{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Anurid Scavenger	torment	119	G	2G	3	Creature - Frog Beast	3	3	U	Protection from black At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.
+Arrogant Wurm	torment	120	G	3GG	5	Creature - Wurm	4	4	U	Trample Madness {2}{G} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Basking Rootwalla	torment	121	G	G	1	Creature - Lizard	1	1	C	{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn. Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)
+Centaur Chieftain	torment	122	G	3G	4	Creature - Centaur	3	3	U	Haste Threshold - As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."
+Centaur Veteran	torment	123	G	5G	6	Creature - Centaur	3	3	C	Trample {G}, Discard a card: Regenerate Centaur Veteran.
+Dwell on the Past	torment	124	G	G	1	Sorcery			U	Target player shuffles up to four target cards from his or her graveyard into his or her library.
+Far Wanderings	torment	125	G	2G	3	Sorcery			C	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library. Threshold - If seven or more cards are in your graveyard, instead search your library for three basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+Gurzigost	torment	126	G	3GG	5	Creature - Beast	6	8	R	At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library. {G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.
+Insist	torment	127	G	G	1	Sorcery			R	The next creature spell you cast this turn can't be countered by spells or abilities. Draw a card.
+Invigorating Falls	torment	128	G	2GG	4	Sorcery			C	You gain life equal to the number of creature cards in all graveyards.
+Krosan Constrictor	torment	129	G	3G	4	Creature - Snake	2	2	C	Swampwalk {T}: Target black creature gets -2/-0 until end of turn.
+Krosan Restorer	torment	130	G	2G	3	Creature - Human Druid	1	2	C	{T}: Untap target land. Threshold - {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+Nantuko Blightcutter	torment	131	G	2G	3	Creature - Insect Druid	2	2	R	Protection from black Threshold - Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.
+Nantuko Calmer	torment	132	G	2GG	4	Creature - Insect Druid	2	3	C	{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment. Threshold - Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.
+Nantuko Cultivator	torment	133	G	3G	4	Creature - Insect Druid	2	2	R	When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.
+Narcissism	torment	134	G	2G	3	Enchantment			U	{G}, Discard a card: Target creature gets +2/+2 until end of turn. {G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.
+Nostalgic Dreams	torment	135	G	GG	2	Sorcery			R	As an additional cost to cast Nostalgic Dreams, discard X cards. Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.
+Parallel Evolution	torment	136	G	3GG	5	Sorcery			R	For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield. Flashback {4}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Possessed Centaur	torment	137	G	2GG	4	Creature - Centaur Horror	3	3	R	Trample Threshold - As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target green creature."
+Seton's Scout	torment	138	G	1G	2	Creature - Centaur Druid Scout Archer	2	1	U	Reach (This creature can block creatures with flying.) Threshold - Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+Cabal Coffers	torment	139	L		0	Land			U	{2}, {T}: Add {B} to your mana pool for each Swamp you control.
+Tainted Field	torment	140	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+Tainted Isle	torment	141	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+Tainted Peak	torment	142	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.
+Tainted Wood	torment	143	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+Ancestor's Chosen	judgment	1	W	5WW	7	Creature - Human Cleric	4	4	U	First strike (This creature deals combat damage before creatures without first strike.) When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.
+Aven Warcraft	judgment	2	W	2W	3	Instant			U	Creatures you control get +0/+2 until end of turn. Threshold - If seven or more cards are in your graveyard, creatures you control also gain protection from the color of your choice until end of turn.
+Battle Screech	judgment	3	W	2WW	4	Sorcery			U	Put two 1/1 white Bird creature tokens with flying onto the battlefield. Flashback-Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Battlewise Aven	judgment	4	W	3W	4	Creature - Bird Soldier	2	2	C	Flying Threshold - As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.
+Benevolent Bodyguard	judgment	5	W	W	1	Creature - Human Cleric	1	1	C	Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.
+Border Patrol	judgment	6	W	4W	5	Creature - Human Nomad	1	6	C	Vigilance
+Cagemail	judgment	7	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and can't attack.
+Chastise	judgment	8	W	3W	4	Instant			U	Destroy target attacking creature. You gain life equal to its power.
+Commander Eesha	judgment	9	W	2WW	4	Legendary Creature - Bird Soldier	2	4	R	Flying, protection from creatures
+Funeral Pyre	judgment	10	W	W	1	Instant			C	Exile target card from a graveyard. Its owner puts a 1/1 white Spirit creature token with flying onto the battlefield.
+Glory	judgment	11	W	3WW	5	Creature - Incarnation	3	3	R	Flying {2}{W}: Creatures you control gain protection from the color of your choice until end of turn. Activate this ability only if Glory is in your graveyard.
+Golden Wish	judgment	12	W	3WW	5	Sorcery			R	You may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.
+Guided Strike	judgment	13	W	1W	2	Instant			C	Target creature gets +1/+0 and gains first strike until end of turn. Draw a card.
+Lead Astray	judgment	14	W	1W	2	Instant			C	Tap up to two target creatures.
+Nomad Mythmaker	judgment	15	W	2W	3	Creature - Human Nomad Cleric	2	2	R	{W}, {T}: Put target Aura card in a graveyard onto the battlefield attached to a creature you control. (You control that Aura.)
+Phantom Flock	judgment	16	W	3WW	5	Creature - Bird Soldier Spirit	0	0	U	Flying Phantom Flock enters the battlefield with three +1/+1 counters on it. If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock.
+Phantom Nomad	judgment	17	W	1W	2	Creature - Spirit Nomad	0	0	C	Phantom Nomad enters the battlefield with two +1/+1 counters on it. If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad.
+Prismatic Strands	judgment	18	W	2W	3	Instant			C	Prevent all damage that sources of the color of your choice would deal this turn. Flashback-Tap an untapped white creature you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Pulsemage Advocate	judgment	19	W	2W	3	Creature - Human Cleric	1	3	R	{T}: Return three target cards in an opponent's graveyard to his or her hand. Return target creature card from your graveyard to the battlefield.
+Ray of Revelation	judgment	20	W	1W	2	Instant			C	Destroy target enchantment. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Selfless Exorcist	judgment	21	W	3WW	5	Creature - Human Cleric	3	4	R	{T}: Exile target creature card from a graveyard. That card deals damage equal to its power to Selfless Exorcist.
+Shieldmage Advocate	judgment	22	W	2W	3	Creature - Human Cleric	1	3	C	{T}: Return target card in an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.
+Silver Seraph	judgment	23	W	5WWW	8	Creature - Angel	6	6	R	Flying Threshold - Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.
+Solitary Confinement	judgment	24	W	2W	3	Enchantment			R	At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card. Skip your draw step. You have shroud. (You can't be the target of spells or abilities.) Prevent all damage that would be dealt to you.
+Soulcatchers' Aerie	judgment	25	W	1W	2	Enchantment			U	Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie. Bird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.
+Spirit Cairn	judgment	26	W	2W	3	Enchantment			U	Whenever a player discards a card, you may pay {W}. If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Spurnmage Advocate	judgment	27	W	W	1	Creature - Human Nomad	1	1	U	{T}: Return two target cards in an opponent's graveyard to his or her hand. Destroy target attacking creature.
+Suntail Hawk	judgment	28	W	W	1	Creature - Bird	1	1	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Test of Endurance	judgment	29	W	2WW	4	Enchantment			R	At the beginning of your upkeep, if you have 50 or more life, you win the game.
+Trained Pronghorn	judgment	30	W	1W	2	Creature - Antelope	1	1	C	Discard a card: Prevent all damage that would be dealt to Trained Pronghorn this turn.
+Unquestioned Authority	judgment	31	W	2W	3	Enchantment - Aura			U	Enchant creature When Unquestioned Authority enters the battlefield, draw a card. Enchanted creature has protection from creatures.
+Valor	judgment	32	W	3W	4	Creature - Incarnation	2	2	U	First strike As long as Valor is in your graveyard and you control a Plains, creatures you control have first strike.
+Vigilant Sentry	judgment	33	W	1WW	3	Creature - Human Nomad	2	2	C	Threshold - As long as seven or more cards are in your graveyard, Vigilant Sentry gets +1/+1 and has "{T}: Target attacking or blocking creature gets +3/+3 until end of turn."
+Aven Fogbringer	judgment	34	U	3U	4	Creature - Bird Wizard	2	1	C	Flying When Aven Fogbringer enters the battlefield, return target land to its owner's hand.
+Cephalid Constable	judgment	35	U	1UU	3	Creature - Cephalid Wizard	1	1	R	Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.
+Cephalid Inkshrouder	judgment	36	U	2U	3	Creature - Cephalid	2	1	U	Discard a card: Cephalid Inkshrouder gains shroud until end of turn and is unblockable this turn. (A permanent with shroud can't be the target of spells or abilities.)
+Cunning Wish	judgment	37	U	2U	3	Instant			R	You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.
+Defy Gravity	judgment	38	U	U	1	Instant			C	Target creature gains flying until end of turn. Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Envelop	judgment	39	U	U	1	Instant			C	Counter target sorcery spell.
+Flash of Insight	judgment	40	U	X1U	2	Instant			U	Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library. Flashback-{1}{U}, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)
+Grip of Amnesia	judgment	41	U	1U	2	Instant			C	Counter target spell unless its controller exiles all cards from his or her graveyard. Draw a card.
+Hapless Researcher	judgment	42	U	U	1	Creature - Human Wizard	1	1	C	Sacrifice Hapless Researcher: Draw a card, then discard a card.
+Keep Watch	judgment	43	U	2U	3	Instant			C	Draw a card for each attacking creature.
+Laquatus's Disdain	judgment	44	U	1U	2	Instant			U	Counter target spell cast from a graveyard. Draw a card.
+Lost in Thought	judgment	45	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard to ignore this effect until end of turn.
+Mental Note	judgment	46	U	U	1	Instant			C	Put the top two cards of your library into your graveyard. Draw a card.
+Mirror Wall	judgment	47	U	3U	4	Creature - Wall	3	4	C	Defender (This creature can't attack.) {W}: Mirror Wall can attack this turn as though it didn't have defender.
+Mist of Stagnation	judgment	48	U	3UU	5	Enchantment			R	Permanents don't untap during their controllers' untap steps. At the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.
+Quiet Speculation	judgment	49	U	1U	2	Sorcery			U	Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.
+Scalpelexis	judgment	50	U	4U	5	Creature - Beast	1	5	R	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.
+Spelljack	judgment	51	U	3UUU	6	Instant			R	Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)
+Telekinetic Bonds	judgment	52	U	2UUU	5	Enchantment			R	Whenever a player discards a card, you may pay {1}{U}. If you do, you may tap or untap target permanent.
+Web of Inertia	judgment	53	U	2U	3	Enchantment			U	At the beginning of each opponent's combat phase, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.
+Wonder	judgment	54	U	3U	4	Creature - Incarnation	2	2	U	Flying As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.
+Wormfang Behemoth	judgment	55	U	3UU	5	Creature - Nightmare Fish Beast	5	5	R	When Wormfang Behemoth enters the battlefield, exile all cards from your hand. When Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.
+Wormfang Crab	judgment	56	U	3U	4	Creature - Nightmare Crab	3	6	U	Wormfang Crab is unblockable. When Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it. When Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Wormfang Drake	judgment	57	U	2U	3	Creature - Nightmare Drake	3	4	C	Flying When Wormfang Drake enters the battlefield, sacrifice it unless you exile a creature you control other than Wormfang Drake. When Wormfang Drake leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Wormfang Manta	judgment	58	U	5UU	7	Creature - Nightmare Fish Beast	6	1	R	Flying When Wormfang Manta enters the battlefield, you skip your next turn. When Wormfang Manta leaves the battlefield, you take an extra turn after this one.
+Wormfang Newt	judgment	59	U	1U	2	Creature - Nightmare Salamander Beast	2	2	C	When Wormfang Newt enters the battlefield, exile a land you control. When Wormfang Newt leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Wormfang Turtle	judgment	60	U	2U	3	Creature - Nightmare Turtle Beast	2	4	U	When Wormfang Turtle enters the battlefield, exile a land you control. When Wormfang Turtle leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Balthor the Defiled	judgment	61	B	2BB	4	Legendary Creature - Zombie Dwarf	2	2	R	Minion creatures get +1/+1. {B}{B}{B}, Exile Balthor the Defiled: Each player returns all black and all red creature cards from his or her graveyard to the battlefield.
+Cabal Therapy	judgment	62	B	B	1	Sorcery			U	Name a nonland card. Target player reveals his or her hand and discards all cards with that name. Flashback-Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Cabal Trainee	judgment	63	B	B	1	Creature - Human Minion	1	1	C	Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.
+Death Wish	judgment	64	B	1BB	3	Sorcery			R	You may choose a card you own from outside the game and put it into your hand. You lose half your life, rounded up. Exile Death Wish.
+Earsplitting Rats	judgment	65	B	3B	4	Creature - Rat	2	1	C	When Earsplitting Rats enters the battlefield, each player discards a card. Discard a card: Regenerate Earsplitting Rats.
+Filth	judgment	66	B	3B	4	Creature - Incarnation	2	2	U	Swampwalk As long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.
+Grave Consequences	judgment	67	B	1B	2	Instant			U	Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard. Draw a card.
+Guiltfeeder	judgment	68	B	3BB	5	Creature - Horror	0	4	R	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.
+Masked Gorgon	judgment	69	B	4B	5	Creature - Gorgon	5	5	R	Green creatures and white creatures have protection from Gorgons. Threshold - Masked Gorgon has protection from green and from white as long as seven or more cards are in your graveyard.
+Morality Shift	judgment	70	B	5BB	7	Sorcery			R	Exchange your graveyard and library. Then shuffle your library.
+Rats' Feast	judgment	71	B	XB	1	Sorcery			C	Exile X target cards from a single graveyard.
+Stitch Together	judgment	72	B	BB	2	Sorcery			U	Return target creature card from your graveyard to your hand. Threshold - Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
+Sutured Ghoul	judgment	73	B	4BBB	7	Creature - Zombie	*	*	R	Trample As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard. Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.
+Toxic Stench	judgment	74	B	1B	2	Instant			C	Target nonblack creature gets -1/-1 until end of turn. Threshold - If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.
+Treacherous Vampire	judgment	75	B	4B	5	Creature - Vampire	4	4	U	Flying Whenever Treacherous Vampire attacks or blocks, sacrifice it unless you exile a card from your graveyard. Threshold - As long as seven or more cards are in your graveyard, Treacherous Vampire gets +2/+2 and has "When Treacherous Vampire is put into a graveyard from the battlefield, you lose 6 life."
+Treacherous Werewolf	judgment	76	B	2B	3	Creature - Human Wolf Minion	2	2	C	Threshold - As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has "When Treacherous Werewolf is put into a graveyard from the battlefield, you lose 4 life."
+Anger	judgment	77	R	3R	4	Creature - Incarnation	2	2	U	Haste As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.
+Arcane Teachings	judgment	78	R	2R	3	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets +2/+2 and has "{T}: This creature deals 1 damage to target creature or player."
+Barbarian Bully	judgment	79	R	2R	3	Creature - Human Barbarian	2	2	C	Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Activate this ability only once each turn.
+Book Burning	judgment	80	R	1R	2	Sorcery			C	Any player may have Book Burning deal 6 damage to him or her. If no one does, put the top six cards of target player's library into his or her graveyard.
+Breaking Point	judgment	81	R	1RR	3	Sorcery			R	Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures and they can't be regenerated.
+Browbeat	judgment	82	R	2R	3	Sorcery			U	Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.
+Burning Wish	judgment	83	R	1R	2	Sorcery			R	You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.
+Dwarven Bloodboiler	judgment	84	R	RRR	3	Creature - Dwarf	2	2	R	Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.
+Dwarven Driller	judgment	85	R	3R	4	Creature - Dwarf	2	2	U	{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.
+Dwarven Scorcher	judgment	86	R	R	1	Creature - Dwarf	1	1	C	Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.
+Ember Shot	judgment	87	R	6R	7	Instant			C	Ember Shot deals 3 damage to target creature or player. Draw a card.
+Firecat Blitz	judgment	88	R	XRR	2	Sorcery			U	Put X 1/1 red Elemental Cat creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step. Flashback-{R}{R}, Sacrifice X Mountains. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Flaring Pain	judgment	89	R	1R	2	Instant			C	Damage can't be prevented this turn. Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Fledgling Dragon	judgment	90	R	2RR	4	Creature - Dragon	2	2	R	Flying Threshold - As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has "{R}: Fledgling Dragon gets +1/+0 until end of turn."
+Goretusk Firebeast	judgment	91	R	5R	6	Creature - Elemental Boar Beast	2	2	C	When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.
+Infectious Rage	judgment	92	R	1R	2	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/-1. When enchanted creature is put into a graveyard, choose a creature at random Infectious Rage can enchant. Return Infectious Rage to the battlefield attached to that creature.
+Jeska, Warrior Adept	judgment	93	R	2RR	4	Legendary Creature - Human Barbarian Warrior	3	1	R	First strike, haste {T}: Jeska, Warrior Adept deals 1 damage to target creature or player.
+Lava Dart	judgment	94	R	R	1	Instant			C	Lava Dart deals 1 damage to target creature or player. Flashback-Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Liberated Dwarf	judgment	95	R	R	1	Creature - Dwarf	1	1	C	{R}, Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.
+Lightning Surge	judgment	96	R	3RR	5	Sorcery			R	Lightning Surge deals 4 damage to target creature or player. Threshold - If seven or more cards are in your graveyard, instead Lightning Surge deals 6 damage to that creature or player and the damage can't be prevented. Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Planar Chaos	judgment	97	R	2R	3	Enchantment			U	At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice Planar Chaos. Whenever a player casts a spell, that player flips a coin. If he or she loses the flip, counter that spell.
+Shaman's Trance	judgment	98	R	2R	3	Instant			R	Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.
+Soulgorger Orgg	judgment	99	R	3RR	5	Creature - Nightmare Orgg	6	6	U	Trample When Soulgorger Orgg enters the battlefield, you lose all but 1 life. When Soulgorger Orgg leaves the battlefield, you gain life equal to the life you lost when it entered the battlefield.
+Spellgorger Barbarian	judgment	100	R	3R	4	Creature - Human Nightmare Barbarian	3	1	C	When Spellgorger Barbarian enters the battlefield, discard a card at random. When Spellgorger Barbarian leaves the battlefield, draw a card.
+Swelter	judgment	101	R	3R	4	Sorcery			U	Swelter deals 2 damage to each of two target creatures.
+Swirling Sandstorm	judgment	102	R	3R	4	Sorcery			C	Threshold - Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.
+Worldgorger Dragon	judgment	103	R	3RRR	6	Creature - Nightmare Dragon	7	7	R	Flying, trample When Worldgorger Dragon enters the battlefield, exile all other permanents you control. When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.
+Anurid Barkripper	judgment	104	G	1GG	3	Creature - Frog Beast	2	2	C	Threshold - Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.
+Anurid Swarmsnapper	judgment	105	G	2G	3	Creature - Frog Beast	1	4	U	Reach (This creature can block creatures with flying.) {1}{G}: Anurid Swarmsnapper can block an additional creature this turn.
+Battlefield Scrounger	judgment	106	G	3GG	5	Creature - Centaur	3	3	C	Threshold - Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.
+Brawn	judgment	107	G	3G	4	Creature - Incarnation	3	3	U	Trample As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.
+Canopy Claws	judgment	108	G	G	1	Instant			C	Target creature loses flying until end of turn. Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Centaur Rootcaster	judgment	109	G	3G	4	Creature - Centaur Druid	2	2	C	Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+Crush of Wurms	judgment	110	G	6GGG	9	Sorcery			R	Put three 6/6 green Wurm creature tokens onto the battlefield. Flashback {9}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Elephant Guide	judgment	111	G	2G	3	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3. When enchanted creature is put into a graveyard, put a 3/3 green Elephant creature token onto the battlefield.
+Epic Struggle	judgment	112	G	2GG	4	Enchantment			R	At the beginning of your upkeep, if you control twenty or more creatures, you win the game.
+Erhnam Djinn	judgment	113	G	3G	4	Creature - Djinn	4	5	R	At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+Exoskeletal Armor	judgment	114	G	1G	2	Enchantment - Aura			U	Enchant creature Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.
+Folk Medicine	judgment	115	G	2G	3	Instant			C	You gain 1 life for each creature you control. Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Forcemage Advocate	judgment	116	G	1G	2	Creature - Centaur Shaman	2	1	U	{T}: Return target card in an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.
+Genesis	judgment	117	G	4G	5	Creature - Incarnation	4	4	R	At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.
+Giant Warthog	judgment	118	G	5G	6	Creature - Boar Beast	5	5	C	Trample
+Grizzly Fate	judgment	119	G	3GG	5	Sorcery			U	Put two 2/2 green Bear creature tokens onto the battlefield. Threshold - Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard. Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Harvester Druid	judgment	120	G	1G	2	Creature - Human Druid	1	1	C	{T}: Add to your mana pool one mana of any color that a land you control could produce.
+Ironshell Beetle	judgment	121	G	1G	2	Creature - Insect	1	1	C	When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.
+Krosan Reclamation	judgment	122	G	1G	2	Instant			U	Target player shuffles up to two target cards from his or her graveyard into his or her library. Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Krosan Wayfarer	judgment	123	G	G	1	Creature - Human Druid	1	1	C	Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.
+Living Wish	judgment	124	G	1G	2	Sorcery			R	You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.
+Nantuko Tracer	judgment	125	G	1G	2	Creature - Insect Druid	2	1	C	When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.
+Nullmage Advocate	judgment	126	G	2G	3	Creature - Insect Druid	2	3	C	{T}: Return two target cards in an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.
+Phantom Centaur	judgment	127	G	2GG	4	Creature - Centaur Spirit	2	0	U	Protection from black Phantom Centaur enters the battlefield with three +1/+1 counters on it. If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.
+Phantom Nantuko	judgment	128	G	2G	3	Creature - Insect Spirit	0	0	R	Trample Phantom Nantuko enters the battlefield with two +1/+1 counters on it. If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko. {T}: Put a +1/+1 counter on Phantom Nantuko.
+Phantom Tiger	judgment	129	G	2G	3	Creature - Cat Spirit	1	0	C	Phantom Tiger enters the battlefield with two +1/+1 counters on it. If damage would be dealt to Phantom Tiger, prevent that damage. Remove a +1/+1 counter from Phantom Tiger.
+Seedtime	judgment	130	G	1G	2	Instant			R	Cast Seedtime only during your turn. Take an extra turn after this one if an opponent cast a blue spell this turn.
+Serene Sunset	judgment	131	G	XG	1	Instant			U	Prevent all combat damage X target creatures would deal this turn.
+Sudden Strength	judgment	132	G	3G	4	Instant			C	Target creature gets +3/+3 until end of turn. Draw a card.
+Sylvan Safekeeper	judgment	133	G	G	1	Creature - Human Wizard	1	1	R	Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Thriss, Nantuko Primus	judgment	134	G	5GG	7	Legendary Creature - Insect Druid	5	5	R	{G}, {T}: Target creature gets +5/+5 until end of turn.
+Tunneler Wurm	judgment	135	G	6GG	8	Creature - Wurm	6	6	U	Discard a card: Regenerate Tunneler Wurm.
+Venomous Vines	judgment	136	G	2GG	4	Sorcery			C	Destroy target enchanted permanent.
+Anurid Brushhopper	judgment	137	GW	1GW	3	Creature - Frog Beast	3	4	R	Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.
+Hunting Grounds	judgment	138	GW	GW	2	Enchantment			R	Threshold - As long as seven or more cards are in your graveyard, Hunting Grounds has "Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield."
+Mirari's Wake	judgment	139	GW	3GW	5	Enchantment			R	Creatures you control get +1/+1. Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+Phantom Nishoba	judgment	140	GW	5GW	7	Creature - Cat Beast Spirit	0	0	R	Trample Phantom Nishoba enters the battlefield with seven +1/+1 counters on it. Whenever Phantom Nishoba deals damage, you gain that much life. If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.
+Krosan Verge	judgment	141	L		0	Land			U	Krosan Verge enters the battlefield tapped. {T}: Add {1} to your mana pool. {2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+Nantuko Monastery	judgment	142	L		0	Land			U	{T}: Add {1} to your mana pool. Threshold - {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.
+Riftstone Portal	judgment	143	L		0	Land			U	{T}: Add {1} to your mana pool. As long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."

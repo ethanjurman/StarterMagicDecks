@@ -1,0 +1,23 @@
+9	swamp
+14	forest
+3	scarred vinebreeder
+1	lys alana scarblade
+3	moonglove winnower
+1	hunter of eyeblights
+2	elvish eulogist
+2	leaf gilder
+1	wren's run vanquisher
+2	elvish harbinger
+3	gilt-leaf seer
+2	imperious perfect
+2	jagged-scar archers
+1	immaculate magistrate
+2	lys alana huntmaster
+2	nath's elite
+1	nath of the gilt-leaf
+1	prowess of the fair
+2	eyeblight's ending
+1	lammastide weave
+2	gilt-leaf ambush
+2	elvish promenade
+1	wanderer's twig

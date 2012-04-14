@@ -1,0 +1,15 @@
+17	mountain
+1	mogg sentry
+4	raging goblin
+1	goblin glider
+4	goblin raider
+4	goblin chariot
+1	goblin king
+1	shock
+1	guerrilla tactics
+1	volcanic hammer
+1	demolish
+1	lightning blast
+1	blaze
+1	enrage
+1	fodder cannon

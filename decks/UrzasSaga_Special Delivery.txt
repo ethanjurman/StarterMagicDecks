@@ -1,0 +1,29 @@
+10	forest
+11	mountain
+2	slippery karst
+2	smoldering crater
+2	goblin patrol
+2	goblin war buggy
+1	hidden spider
+3	wild dogs
+1	pouncing jaguar
+2	acridian
+1	shower of sparks
+1	heat ray
+1	fiery mantle
+3	arc lightning
+1	scrap
+1	symbiosis
+1	hush
+2	shivan raptor
+2	thundering giant
+1	hidden ancients
+2	cradle guard
+1	anaconda
+1	bull hippo
+1	torch song
+1	shiv's embrace
+1	jagged lightning
+1	thran turbine
+1	argothian wurm
+1	wildfire

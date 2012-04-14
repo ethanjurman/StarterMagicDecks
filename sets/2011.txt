@@ -1,0 +1,235 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Ajani Goldmane	2011	1	W	2WW	4	Planeswalker - Ajani	4		M	+1: You gain 2 life. -1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn. -6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total."
+Ajani's Mantra	2011	2	W	1W	2	Enchantment			C	At the beginning of your upkeep, you may gain 1 life.
+Ajani's Pridemate	2011	3	W	1W	2	Creature - Cat Soldier	2	2	U	Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. (For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)
+Angelic Arbiter	2011	4	W	5WW	7	Creature - Angel	5	6	R	Flying Each opponent who cast a spell this turn can't attack with creatures. Each opponent who attacked with a creature this turn can't cast spells.
+Armored Ascension	2011	5	W	3W	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+1 for each Plains you control and has flying.
+Assault Griffin	2011	6	W	3W	4	Creature - Griffin	3	2	C	Flying
+Baneslayer Angel	2011	7	W	3WW	5	Creature - Angel	5	5	M	Flying, first strike, lifelink, protection from Demons and from Dragons
+Blinding Mage	2011	8	W	1W	2	Creature - Human Wizard	1	2	C	{W}, {T}: Tap target creature.
+Celestial Purge	2011	9	W	1W	2	Instant			U	Exile target black or red permanent.
+Cloud Crusader	2011	10	W	2WW	4	Creature - Human Knight	2	3	C	Flying First strike (This creature deals combat damage before creatures without first strike.)
+Condemn	2011	11	W	W	1	Instant			U	Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+Day of Judgment	2011	12	W	2WW	4	Sorcery			R	Destroy all creatures.
+Elite Vanguard	2011	13	W	W	1	Creature - Human Soldier	2	1	U	
+Excommunicate	2011	14	W	2W	3	Sorcery			C	Put target creature on top of its owner's library.
+Goldenglow Moth	2011	15	W	W	1	Creature - Insect	0	1	C	Flying Whenever Goldenglow Moth blocks, you may gain 4 life.
+Holy Strength	2011	16	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Honor of the Pure	2011	17	W	1W	2	Enchantment			R	White creatures you control get +1/+1.
+Infantry Veteran	2011	18	W	W	1	Creature - Human Soldier	1	1	C	{T}: Target attacking creature gets +1/+1 until end of turn.
+Inspired Charge	2011	19	W	2WW	4	Instant			C	Creatures you control get +2/+1 until end of turn.
+Knight Exemplar	2011	20	W	1WW	3	Creature - Human Knight	2	2	R	First strike (This creature deals combat damage before creatures without first strike.) Other Knight creatures you control get +1/+1 and are indestructible. (Lethal damage and effects that say "destroy" don't destroy them.)
+Leyline of Sanctity	2011	21	W	2WW	4	Enchantment			R	If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield. You can't be the target of spells or abilities your opponents control.
+Mighty Leap	2011	22	W	1W	2	Instant			C	Target creature gets +2/+2 and gains flying until end of turn.
+Pacifism	2011	23	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Palace Guard	2011	24	W	2W	3	Creature - Human Soldier	1	4	C	Palace Guard can block any number of creatures.
+Roc Egg	2011	25	W	2W	3	Creature - Bird	0	3	U	Defender (This creature can't attack.) When Roc Egg is put into a graveyard from the battlefield, put a 3/3 white Bird creature token with flying onto the battlefield.
+Safe Passage	2011	26	W	2W	3	Instant			C	Prevent all damage that would be dealt to you and creatures you control this turn.
+Serra Angel	2011	27	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Serra Ascendant	2011	28	W	W	1	Creature - Human Monk	1	1	R	Lifelink (Damage dealt by this creature also causes you to gain that much life.) As long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying.
+Siege Mastodon	2011	29	W	4W	5	Creature - Elephant	3	5	C	
+Silence	2011	30	W	W	1	Instant			R	Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+Silvercoat Lion	2011	31	W	1W	2	Creature - Cat	2	2	C	
+Solemn Offering	2011	32	W	2W	3	Sorcery			C	Destroy target artifact or enchantment. You gain 4 life.
+Squadron Hawk	2011	33	W	1W	2	Creature - Bird	1	1	C	Flying When Squadron Hawk enters the battlefield, you may search your library for up to three cards named Squadron Hawk, reveal them, put them into your hand, then shuffle your library.
+Stormfront Pegasus	2011	34	W	1W	2	Creature - Pegasus	2	1	C	Flying
+Sun Titan	2011	35	W	4WW	6	Creature - Giant	6	6	M	Vigilance Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+Tireless Missionaries	2011	36	W	4W	5	Creature - Human Cleric	2	3	C	When Tireless Missionaries enters the battlefield, you gain 3 life.
+Vengeful Archon	2011	37	W	4WWW	7	Creature - Archon	7	7	R	Flying {X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.
+War Priest of Thune	2011	38	W	1W	2	Creature - Human Cleric	2	2	U	When War Priest of Thune enters the battlefield, you may destroy target enchantment.
+White Knight	2011	39	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+Wild Griffin	2011	40	W	2W	3	Creature - Griffin	2	2	C	Flying
+Aether Adept	2011	41	U	1UU	3	Creature - Human Wizard	2	2	C	When Aether Adept enters the battlefield, return target creature to its owner's hand.
+Air Servant	2011	42	U	4U	5	Creature - Elemental	4	3	U	Flying {2}{U}: Tap target creature with flying.
+Alluring Siren	2011	43	U	1U	2	Creature - Siren	1	1	U	{T}: Target creature an opponent controls attacks you this turn if able.
+Armored Cancrix	2011	44	U	4U	5	Creature - Crab	2	5	C	
+Augury Owl	2011	45	U	1U	2	Creature - Bird	1	1	C	Flying When Augury Owl enters the battlefield, scry 3. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Azure Drake	2011	46	U	3U	4	Creature - Drake	2	4	C	Flying
+Call to Mind	2011	47	U	2U	3	Sorcery			U	Return target instant or sorcery card from your graveyard to your hand.
+Cancel	2011	48	U	1UU	3	Instant			C	Counter target spell.
+Clone	2011	49	U	3U	4	Creature - Shapeshifter	0	0	R	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Cloud Elemental	2011	50	U	2U	3	Creature - Elemental	2	3	C	Flying Cloud Elemental can block only creatures with flying.
+Conundrum Sphinx	2011	51	U	2UU	4	Creature - Sphinx	4	4	R	Flying Whenever Conundrum Sphinx attacks, each player names a card. Then each player reveals the top card of his or her library. If the card a player revealed is the card he or she named, that player puts it into his or her hand. If it's not, that player puts it on the bottom of his or her library.
+Diminish	2011	52	U	U	1	Instant			C	Target creature becomes 1/1 until end of turn.
+Flashfreeze	2011	53	U	1U	2	Instant			U	Counter target red or green spell.
+Foresee	2011	54	U	3U	4	Sorcery			C	Scry 4, then draw two cards. (To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Frost Titan	2011	55	U	4UU	6	Creature - Giant	6	6	M	Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}. Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.
+Harbor Serpent	2011	56	U	4UU	6	Creature - Serpent	5	5	C	Islandwalk (This creature is unblockable as long as defending player controls an Island.) Harbor Serpent can't attack unless there are five or more Islands on the battlefield.
+Ice Cage	2011	57	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block, and its activated abilities can't be activated. When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.
+Jace Beleren	2011	58	U	1UU	3	Planeswalker - Jace	3		M	+2: Each player draws a card. -1: Target player draws a card. -10: Target player puts the top twenty cards of his or her library into his or her graveyard.
+Jace's Erasure	2011	59	U	1U	2	Enchantment			C	Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.
+Jace's Ingenuity	2011	60	U	3UU	5	Instant			U	Draw three cards.
+Leyline of Anticipation	2011	61	U	2UU	4	Enchantment			R	If Leyline of Anticipation is in your opening hand, you may begin the game with it on the battlefield. You may cast nonland cards as though they had flash. (You may cast them any time you could cast an instant.)
+Mana Leak	2011	62	U	1U	2	Instant			C	Counter target spell unless its controller pays {3}.
+Maritime Guard	2011	63	U	1U	2	Creature - Merfolk Soldier	1	3	C	
+Mass Polymorph	2011	64	U	5U	6	Sorcery			R	Exile all creatures you control, then reveal cards from the top of your library until you reveal that many creature cards. Put all creature cards revealed this way onto the battlefield, then shuffle the rest of the revealed cards into your library.
+Merfolk Sovereign	2011	65	U	1UU	3	Creature - Merfolk	2	2	R	Other Merfolk creatures you control get +1/+1. {T}: Target Merfolk creature is unblockable this turn.
+Merfolk Spy	2011	66	U	U	1	Creature - Merfolk Rogue	1	1	C	Islandwalk (This creature is unblockable as long as defending player controls an Island.) Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.
+Mind Control	2011	67	U	3UU	5	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Negate	2011	68	U	1U	2	Instant			C	Counter target noncreature spell.
+Phantom Beast	2011	69	U	3U	4	Creature - Illusion Beast	4	5	C	When Phantom Beast becomes the target of a spell or ability, sacrifice it.
+Preordain	2011	70	U	U	1	Sorcery			C	Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Redirect	2011	71	U	UU	2	Instant			R	You may choose new targets for target spell.
+Scroll Thief	2011	72	U	2U	3	Creature - Merfolk Rogue	1	3	C	Whenever Scroll Thief deals combat damage to a player, draw a card.
+Sleep	2011	73	U	2UU	4	Sorcery			U	Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.
+Stormtide Leviathan	2011	74	U	5UUU	8	Creature - Leviathan	8	8	R	Islandwalk (This creature is unblockable as long as defending player controls an Island.) All lands are Islands in addition to their other types. Creatures without flying or islandwalk can't attack.
+Time Reversal	2011	75	U	3UU	5	Sorcery			M	Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. Exile Time Reversal.
+Tome Scour	2011	76	U	U	1	Sorcery			C	Target player puts the top five cards of his or her library into his or her graveyard.
+Traumatize	2011	77	U	3UU	5	Sorcery			R	Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Unsummon	2011	78	U	U	1	Instant			C	Return target creature to its owner's hand.
+Wall of Frost	2011	79	U	1UU	3	Creature - Wall	0	7	U	Defender (This creature can't attack.) Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+Water Servant	2011	80	U	2UU	4	Creature - Elemental	3	4	U	{U}: Water Servant gets +1/-1 until end of turn. {U}: Water Servant gets -1/+1 until end of turn.
+Assassinate	2011	81	B	2B	3	Sorcery			C	Destroy target tapped creature.
+Barony Vampire	2011	82	B	2B	3	Creature - Vampire	3	2	C	
+Black Knight	2011	83	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Blood Tithe	2011	84	B	3B	4	Sorcery			C	Each opponent loses 3 life. You gain life equal to the life lost this way.
+Bloodthrone Vampire	2011	85	B	1B	2	Creature - Vampire	1	1	C	Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+Bog Raiders	2011	86	B	2B	3	Creature - Zombie	2	2	C	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Captivating Vampire	2011	87	B	1BB	3	Creature - Vampire	2	2	R	Other Vampire creatures you control get +1/+1. Tap five untapped Vampires you control: Gain control of target creature. It becomes a Vampire in addition to its other types.
+Child of Night	2011	88	B	1B	2	Creature - Vampire	2	1	C	Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Corrupt	2011	89	B	5B	6	Sorcery			U	Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+Dark Tutelage	2011	90	B	2B	3	Enchantment			R	At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+Deathmark	2011	91	B	B	1	Sorcery			U	Destroy target green or white creature.
+Demon of Death's Gate	2011	92	B	6BBB	9	Creature - Demon	9	9	M	You may pay 6 life and sacrifice three black creatures rather than pay Demon of Death's Gate's mana cost. Flying, trample
+Diabolic Tutor	2011	93	B	2BB	4	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Disentomb	2011	94	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Doom Blade	2011	95	B	1B	2	Instant			C	Destroy target nonblack creature.
+Duress	2011	96	B	B	1	Sorcery			C	Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Grave Titan	2011	97	B	4BB	6	Creature - Giant	6	6	M	Deathtouch Whenever Grave Titan enters the battlefield or attacks, put two 2/2 black Zombie creature tokens onto the battlefield.
+Gravedigger	2011	98	B	3B	4	Creature - Zombie	2	2	C	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Haunting Echoes	2011	99	B	3BB	5	Sorcery			R	Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Howling Banshee	2011	100	B	2BB	4	Creature - Spirit	3	3	U	Flying When Howling Banshee enters the battlefield, each player loses 3 life.
+Leyline of the Void	2011	101	B	2BB	4	Enchantment			R	If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield. If a card would be put into an opponent's graveyard from anywhere, exile it instead.
+Liliana Vess	2011	102	B	3BB	5	Planeswalker - Liliana	5		M	+1: Target player discards a card. -2: Search your library for a card, then shuffle your library and put that card on top of it. -8: Put all creature cards in all graveyards onto the battlefield under your control.
+Liliana's Caress	2011	103	B	1B	2	Enchantment			U	Whenever an opponent discards a card, that player loses 2 life.
+Liliana's Specter	2011	104	B	1BB	3	Creature - Specter	2	1	C	Flying When Liliana's Specter enters the battlefield, each opponent discards a card.
+Mind Rot	2011	105	B	2B	3	Sorcery			C	Target player discards two cards.
+Nantuko Shade	2011	106	B	BB	2	Creature - Insect Shade	2	1	R	{B}: Nantuko Shade gets +1/+1 until end of turn.
+Necrotic Plague	2011	107	B	2BB	4	Enchantment - Aura			R	Enchant creature Enchanted creature has "At the beginning of your upkeep, sacrifice this creature." When enchanted creature is put into a graveyard, its controller chooses target creature one of his or her opponents controls. Return Necrotic Plague from its owner's graveyard to the battlefield attached to that creature.
+Nether Horror	2011	108	B	3B	4	Creature - Horror	4	2	C	
+Nightwing Shade	2011	109	B	4B	5	Creature - Shade	2	2	C	Flying {1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+Phylactery Lich	2011	110	B	BBB	3	Creature - Zombie	5	5	R	As Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control. Phylactery Lich is indestructible. When you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.
+Quag Sickness	2011	111	B	2B	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/-1 for each Swamp you control.
+Reassembling Skeleton	2011	112	B	1B	2	Creature - Skeleton Warrior	1	1	U	{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+Relentless Rats	2011	113	B	1BB	3	Creature - Rat	2	2	U	Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats. A deck can have any number of cards named Relentless Rats.
+Rise from the Grave	2011	114	B	4B	5	Sorcery			U	Put target creature card in a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Rotting Legion	2011	115	B	4B	5	Creature - Zombie	4	5	C	Rotting Legion enters the battlefield tapped.
+Royal Assassin	2011	116	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sign in Blood	2011	117	B	BB	2	Sorcery			C	Target player draws two cards and loses 2 life.
+Stabbing Pain	2011	118	B	B	1	Instant			C	Target creature gets -1/-1 until end of turn. Tap that creature.
+Unholy Strength	2011	119	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Viscera Seer	2011	120	B	B	1	Creature - Vampire Wizard	1	1	C	Sacrifice a creature: Scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+Act of Treason	2011	121	R	2R	3	Sorcery			C	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Ancient Hellkite	2011	122	R	4RRR	7	Creature - Dragon	6	6	R	Flying {R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.
+Arc Runner	2011	123	R	2R	3	Creature - Elemental Ox	5	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.) At the beginning of the end step, sacrifice Arc Runner.
+Berserkers of Blood Ridge	2011	124	R	4R	5	Creature - Human Berserker	4	4	C	Berserkers of Blood Ridge attacks each turn if able.
+Bloodcrazed Goblin	2011	125	R	R	1	Creature - Goblin Berserker	2	2	C	Bloodcrazed Goblin can't attack unless an opponent has been dealt damage this turn.
+Canyon Minotaur	2011	126	R	3R	4	Creature - Minotaur Warrior	3	3	C	
+Chandra Nalaar	2011	127	R	3RR	5	Planeswalker - Chandra	6		M	+1: Chandra Nalaar deals 1 damage to target player. -X: Chandra Nalaar deals X damage to target creature. -8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.
+Chandra's Outrage	2011	128	R	2RR	4	Instant			C	Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+Chandra's Spitfire	2011	129	R	2R	3	Creature - Elemental	1	3	U	Flying Whenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.
+Combust	2011	130	R	1R	2	Instant			U	Combust can't be countered by spells or abilities. Combust deals 5 damage to target white or blue creature. The damage can't be prevented.
+Cyclops Gladiator	2011	131	R	1RRR	4	Creature - Cyclops Warrior	4	4	R	Whenever Cyclops Gladiator attacks, you may have it deal damage equal to its power to target creature defending player controls. If you do, that creature deals damage equal to its power to Cyclops Gladiator.
+Demolish	2011	132	R	3R	4	Sorcery			C	Destroy target artifact or land.
+Destructive Force	2011	133	R	5RR	7	Sorcery			R	Each player sacrifices five lands. Destructive Force deals 5 damage to each creature.
+Earth Servant	2011	134	R	5R	6	Creature - Elemental	4	4	U	Earth Servant gets +0/+1 for each Mountain you control.
+Ember Hauler	2011	135	R	RR	2	Creature - Goblin	2	2	U	{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.
+Fiery Hellhound	2011	136	R	1RR	3	Creature - Elemental Hound	2	2	C	{R}: Fiery Hellhound gets +1/+0 until end of turn.
+Fire Servant	2011	137	R	3RR	5	Creature - Elemental	4	3	U	If a red instant or sorcery spell you control would deal damage, it deals double that damage instead.
+Fireball	2011	138	R	XR	1	Sorcery			U	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Fling	2011	139	R	1R	2	Instant			C	As an additional cost to cast Fling, sacrifice a creature. Fling deals damage equal to the sacrificed creature's power to target creature or player.
+Goblin Balloon Brigade	2011	140	R	R	1	Creature - Goblin Warrior	1	1	C	{R}: Goblin Balloon Brigade gains flying until end of turn.
+Goblin Chieftain	2011	141	R	1RR	3	Creature - Goblin	2	2	R	Haste (This creature can attack and {T} as soon as it comes under your control.) Other Goblin creatures you control get +1/+1 and have haste.
+Goblin Piker	2011	142	R	1R	2	Creature - Goblin Warrior	2	1	C	
+Goblin Tunneler	2011	143	R	1R	2	Creature - Goblin Rogue	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Hoarding Dragon	2011	144	R	3RR	5	Creature - Dragon	4	4	R	Flying When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library. When Hoarding Dragon is put into a graveyard from the battlefield, you may put the exiled card into its owner's hand.
+Incite	2011	145	R	R	1	Instant			C	Target creature becomes red until end of turn and attacks this turn if able.
+Inferno Titan	2011	146	R	4RR	6	Creature - Giant	6	6	M	{R}: Inferno Titan gets +1/+0 until end of turn. Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+Lava Axe	2011	147	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Leyline of Punishment	2011	148	R	2RR	4	Enchantment			R	If Leyline of Punishment is in your opening hand, you may begin the game with it on the battlefield. Players can't gain life. Damage can't be prevented.
+Lightning Bolt	2011	149	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Magma Phoenix	2011	150	R	3RR	5	Creature - Phoenix	3	3	R	Flying When Magma Phoenix is put into a graveyard from the battlefield, it deals 3 damage to each creature and each player. {3}{R}{R}: Return Magma Phoenix from your graveyard to your hand.
+Manic Vandal	2011	151	R	2R	3	Creature - Human Warrior	2	2	C	When Manic Vandal enters the battlefield, destroy target artifact.
+Prodigal Pyromancer	2011	152	R	2R	3	Creature - Human Wizard	1	1	U	{T}: Prodigal Pyromancer deals 1 damage to target creature or player.
+Pyretic Ritual	2011	153	R	1R	2	Instant			C	Add {R}{R}{R} to your mana pool.
+Pyroclasm	2011	154	R	1R	2	Sorcery			U	Pyroclasm deals 2 damage to each creature.
+Reverberate	2011	155	R	RR	2	Instant			R	Copy target instant or sorcery spell. You may choose new targets for the copy.
+Shiv's Embrace	2011	156	R	2RR	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 and has flying. {R}: Enchanted creature gets +1/+0 until end of turn.
+Thunder Strike	2011	157	R	1R	2	Instant			C	Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Volcanic Strength	2011	158	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and has mountainwalk. (It's unblockable as long as defending player controls a Mountain.)
+Vulshok Berserker	2011	159	R	3R	4	Creature - Human Berserker	3	2	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Wild Evocation	2011	160	R	5R	6	Enchantment			R	At the beginning of each player's upkeep, that player reveals a card at random from his or her hand. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
+Acidic Slime	2011	161	G	3GG	5	Creature - Ooze	2	2	U	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.) When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+Autumn's Veil	2011	162	G	G	1	Instant			U	Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.
+Awakener Druid	2011	163	G	2G	3	Creature - Human Druid	1	1	U	When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid is on the battlefield. It's still a land.
+Back to Nature	2011	164	G	1G	2	Instant			U	Destroy all enchantments.
+Birds of Paradise	2011	165	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Brindle Boar	2011	166	G	2G	3	Creature - Boar	2	2	C	Sacrifice Brindle Boar: You gain 4 life.
+Cudgel Troll	2011	167	G	2GG	4	Creature - Troll	4	3	U	{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Cultivate	2011	168	G	2G	3	Sorcery			C	Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+Dryad's Favor	2011	169	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature has forestwalk. (It's unblockable as long as defending player controls a Forest.)
+Duskdale Wurm	2011	170	G	5GG	7	Creature - Wurm	7	7	U	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Elvish Archdruid	2011	171	G	1GG	3	Creature - Elf Druid	2	2	R	Other Elf creatures you control get +1/+1. {T}: Add {G} to your mana pool for each Elf you control.
+Fauna Shaman	2011	172	G	1G	2	Creature - Elf Shaman	2	2	R	{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, and put it into your hand. Then shuffle your library.
+Fog	2011	173	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Gaea's Revenge	2011	174	G	5GG	7	Creature - Elemental	8	5	M	Gaea's Revenge can't be countered. Haste Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.
+Garruk Wildspeaker	2011	175	G	2GG	4	Planeswalker - Garruk	3		M	+1: Untap two target lands. -1: Put a 3/3 green Beast creature token onto the battlefield. -4: Creatures you control get +3/+3 and gain trample until end of turn.
+Garruk's Companion	2011	176	G	GG	2	Creature - Beast	3	2	C	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Garruk's Packleader	2011	177	G	4G	5	Creature - Beast	4	4	U	Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card.
+Giant Growth	2011	178	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	2011	179	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Greater Basilisk	2011	180	G	3GG	5	Creature - Basilisk	3	5	C	Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Hornet Sting	2011	181	G	G	1	Instant			C	Hornet Sting deals 1 damage to target creature or player.
+Hunters' Feast	2011	182	G	3G	4	Sorcery			C	Any number of target players each gain 6 life.
+Leyline of Vitality	2011	183	G	2GG	4	Enchantment			R	If Leyline of Vitality is in your opening hand, you may begin the game with it on the battlefield. Creatures you control get +0/+1. Whenever a creature enters the battlefield under your control, you may gain 1 life.
+Llanowar Elves	2011	184	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Mitotic Slime	2011	185	G	4G	5	Creature - Ooze	4	4	R	When Mitotic Slime is put into a graveyard from the battlefield, put two 2/2 green Ooze creature tokens onto the battlefield. They have "When this creature is put into a graveyard, put two 1/1 green Ooze creature tokens onto the battlefield."
+Naturalize	2011	186	G	1G	2	Instant			C	Destroy target artifact or enchantment.
+Nature's Spiral	2011	187	G	1G	2	Sorcery			U	Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)
+Obstinate Baloth	2011	188	G	2GG	4	Creature - Beast	4	4	R	When Obstinate Baloth enters the battlefield, you gain 4 life. If a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.
+Overwhelming Stampede	2011	189	G	3GG	5	Sorcery			R	Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Plummet	2011	190	G	1G	2	Instant			C	Destroy target creature with flying.
+Primal Cocoon	2011	191	G	G	1	Enchantment - Aura			C	Enchant creature At the beginning of your upkeep, put a +1/+1 counter on enchanted creature. When enchanted creature attacks or blocks, sacrifice Primal Cocoon.
+Primeval Titan	2011	192	G	4GG	6	Creature - Giant	6	6	M	Trample Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.
+Prized Unicorn	2011	193	G	3G	4	Creature - Unicorn	2	2	U	All creatures able to block Prized Unicorn do so.
+Protean Hydra	2011	194	G	XG	1	Creature - Hydra	(0	0	R	Protean Hydra enters the battlefield with X +1/+1 counters on it. If damage would be dealt to Protean Hydra, prevent that damage and remove that many +1/+1 counters from it. Whenever a +1/+1 counter is removed from Protean Hydra, put two +1/+1 counters on it at the beginning of the next end step.
+Runeclaw Bear	2011	195	G	1G	2	Creature - Bear	2	2	C	
+Sacred Wolf	2011	196	G	2G	3	Creature - Wolf	3	1	C	Sacred Wolf can't be the target of spells or abilities your opponents control.
+Spined Wurm	2011	197	G	4G	5	Creature - Wurm	5	4	C	
+Sylvan Ranger	2011	198	G	1G	2	Creature - Elf Scout	1	1	C	When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Wall of Vines	2011	199	G	G	1	Creature - Plant Wall	0	3	C	Defender (This creature can't attack.) Reach (This creature can block creatures with flying.)
+Yavimaya Wurm	2011	200	G	4GG	6	Creature - Wurm	6	4	C	Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Angel's Feather	2011	201	A	2	2	Artifact			U	Whenever a player casts a white spell, you may gain 1 life.
+Brittle Effigy	2011	202	A	1	1	Artifact			R	{4}, {T}, Exile Brittle Effigy: Exile target creature.
+Crystal Ball	2011	203	A	3	3	Artifact			U	{1}, {T}: Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Demon's Horn	2011	204	A	2	2	Artifact			U	Whenever a player casts a black spell, you may gain 1 life.
+Dragon's Claw	2011	205	A	2	2	Artifact			U	Whenever a player casts a red spell, you may gain 1 life.
+Elixir of Immortality	2011	206	A	1	1	Artifact			U	{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into your library.
+Gargoyle Sentinel	2011	207	A	3	3	Artifact Creature - Gargoyle	3	3	U	Defender (This creature can't attack.) {3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.
+Jinxed Idol	2011	208	A	2	2	Artifact			R	At the beginning of your upkeep, Jinxed Idol deals 2 damage to you. Sacrifice a creature: Target opponent gains control of Jinxed Idol.
+Juggernaut	2011	209	A	4	4	Artifact Creature - Juggernaut	5	3	U	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Kraken's Eye	2011	210	A	2	2	Artifact			U	Whenever a player casts a blue spell, you may gain 1 life.
+Ornithopter	2011	211	A	0	0	Artifact Creature - Thopter	0	2	U	Flying
+Platinum Angel	2011	212	A	7	7	Artifact Creature - Angel	4	4	M	Flying You can't lose the game and your opponents can't win the game.
+Sorcerer's Strongbox	2011	213	A	4	4	Artifact			U	{2}, {T}: Flip a coin. If you win the flip, sacrifice Sorcerer's Strongbox and draw three cards.
+Steel Overseer	2011	214	A	2	2	Artifact Creature - Construct	1	1	R	{T}: Put a +1/+1 counter on each artifact creature you control.
+Stone Golem	2011	215	A	5	5	Artifact Creature - Golem	4	4	U	
+Sword of Vengeance	2011	216	A	3	3	Artifact - Equipment			R	Equipped creature gets +2/+0 and has first strike, vigilance, trample, and haste. Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Temple Bell	2011	217	A	3	3	Artifact			R	{T}: Each player draws a card.
+Triskelion	2011	218	A	6	6	Artifact Creature - Construct	1	1	R	Triskelion enters the battlefield with three +1/+1 counters on it. Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.
+Voltaic Key	2011	219	A	1	1	Artifact			U	{1}, {T}: Untap target artifact.
+Warlord's Axe	2011	220	A	3	3	Artifact - Equipment			U	Equipped creature gets +3/+1. Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
+Whispersilk Cloak	2011	221	A	3	3	Artifact - Equipment			U	Equipped creature is unblockable. Equipped creature has shroud. (It can't be the target of spells or abilities.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Wurm's Tooth	2011	222	A	2	2	Artifact			U	Whenever a player casts a green spell, you may gain 1 life.
+Dragonskull Summit	2011	223	L		0	Land			R	Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain. {T}: Add {B} or {R} to your mana pool.
+Drowned Catacomb	2011	224	L		0	Land			R	Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp. {T}: Add {U} or {B} to your mana pool.
+Glacial Fortress	2011	225	L		0	Land			R	Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island. {T}: Add {W} or {U} to your mana pool.
+Mystifying Maze	2011	226	L		0	Land			R	{T}: Add {1} to your mana pool. {4}, {T}: Exile target attacking creature an opponent controls. At the beginning of the next end step, return it to the battlefield tapped under its owner's control.
+Rootbound Crag	2011	227	L		0	Land			R	Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest. {T}: Add {R} or {G} to your mana pool.
+Sunpetal Grove	2011	228	L		0	Land			R	Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains. {T}: Add {G} or {W} to your mana pool.
+Terramorphic Expanse	2011	229	L		0	Land			C	{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Plains	2011	231	L		0	Basic Land - Plains			L	W
+Island	2011	234	L		0	Basic Land - Island			L	U
+Swamp	2011	238	L		0	Basic Land - Swamp			L	B
+Mountain	2011	244	L		0	Basic Land - Mountain			L	R
+Forest	2011	248	L		0	Basic Land - Forest			L	G

@@ -1,0 +1,23 @@
+9	plains
+13	island
+3	judge of currents
+2	avian changeling
+2	harpoon sniper
+2	tideshaper mystic
+2	silvergill adept
+3	silvergill douser
+2	stonybrook angler
+2	drowner of secrets
+2	merrow reejerey
+3	streambed aquitects
+1	fallowsage
+1	merrow harbinger
+1	wanderwine prophets
+1	sygg, river guide
+3	oblivion ring
+2	summon the school
+1	ponder
+1	merrow commerce
+1	whirlpool whelm
+1	broken ambitions
+2	springleaf drum

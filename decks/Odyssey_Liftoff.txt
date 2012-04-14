@@ -1,0 +1,29 @@
+1	abandoned outpost
+1	seafloor debris
+10	plains
+9	island
+1	angelic wall
+2	aven windreader
+1	beloved chaplain
+2	blessed orator
+2	cephalid broker
+2	cephalid looter
+1	cephalid retainer
+2	cephalid scout
+2	hallowed healer
+2	millikin
+1	mystic crusader
+1	mystic penitent
+2	mystic visionary
+3	mystic zealot
+1	nomad decoy
+1	pilgrim of justice
+1	puppeteer
+1	embolden
+3	kirtar's desire
+1	peek
+1	second thoughts
+1	shelter
+1	skycloud egg
+2	syncopate
+2	think tank

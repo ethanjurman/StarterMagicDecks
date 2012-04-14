@@ -1,0 +1,19 @@
+24	plains
+1	bushi tenderfoot
+4	devoted retainer
+3	konda's hatamoto
+4	kitsune blademaster
+4	mothrider samurai
+1	nagao, bound by honor
+1	takeno, samurai general
+2	samurai enforcers
+1	blessed breath
+2	reciprocate
+2	vigilance
+2	call to glory
+1	candles' glow
+2	indomitable will
+1	otherworldly journey
+2	cage of hands
+1	hold the line
+2	no-dachi

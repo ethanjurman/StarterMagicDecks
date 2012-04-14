@@ -1,0 +1,23 @@
+24	swamp
+1	nezumi shadow-watcher
+2	nezumi bone-reader
+3	nezumi cutthroat
+1	nezumi graverobber
+4	skullsnatcher
+4	nezumi ronin
+2	numai outcast
+2	throat slitter
+1	okiba-gang shinobi
+1	patron of the nezumi
+1	genju of the fens
+1	psychic spear
+1	midnight covenant
+1	ragged veins
+1	rend flesh
+2	horobi's whisper
+2	befoul
+1	dance of shadows
+2	three tragedies
+1	stir the grave
+1	shuko
+1	umezawa's jitte

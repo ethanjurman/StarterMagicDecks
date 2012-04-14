@@ -1,0 +1,30 @@
+11	mountain
+12	forest
+1	mogg sentry
+1	thunderscape apprentice
+2	mogg jailer
+1	thunderscape familiar
+1	caldera kavu
+1	kavu recluse
+1	thunderscape battlemage
+2	flametongue kavu
+1	llanowar elite
+1	thornscape apprentice
+1	gaea's herald
+2	nomadic elf
+3	thornscape familiar
+2	alpha kavu
+1	amphibious kavu
+1	root greevil
+1	serpentine kavu
+2	horned kavu
+2	sparkcaster
+1	singe
+1	scorching lava
+1	magma burst
+1	implode
+1	explosive growth
+2	fertile ground
+1	simoon
+1	fires of yavimaya
+1	assault // battery

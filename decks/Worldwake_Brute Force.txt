@@ -1,0 +1,21 @@
+10	forest
+7	mountain
+1	terramorphic expanse
+2	borderland ranger
+1	deathforge shaman
+1	giant spider
+2	gnarlid pack
+1	goblin roughrider
+1	grappler spider
+1	greenweaver druid
+1	leatherback baloth
+1	skitter of lizards
+1	terastodon
+1	wolfbriar elemental
+1	act of treason
+1	canopy cover
+2	giant growth
+2	lightning bolt
+1	overrun
+1	rumbling aftershocks
+2	vastwood zendikon

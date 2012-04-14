@@ -1,0 +1,23 @@
+22	plains
+2	auriok transfixer
+2	auriok bladewarden
+1	auriok steelshaper
+4	leonin den-guard
+2	leonin skyhunter
+3	skyhunter cub
+2	slith ascendant
+1	loxodon punisher
+1	taj-nar swordsmith
+1	skyhunter patrol
+2	gold myr
+2	myr adapter
+2	soldier replica
+1	roar of the kha
+2	arrest
+2	altar's light
+2	bonesplitter
+2	leonin scimitar
+1	viridian longbow
+1	banshee's blade
+1	fireshrieker
+1	loxodon warhammer

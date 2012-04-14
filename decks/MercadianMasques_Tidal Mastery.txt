@@ -1,0 +1,26 @@
+10	plains
+16	island
+2	crossbow infantry
+2	alabaster wall
+1	cho-arrim legate
+1	devout witness
+1	ballista squad
+1	cloud sprite
+2	darting merfolk
+1	diplomatic escort
+1	overtaker
+2	drake hatchling
+2	saprazzan legate
+3	stinging barrier
+2	disenchant
+2	afterlife
+1	story circle
+1	ramosian rally
+1	noble purpose
+1	customs depot
+2	counterspell
+1	war tax
+1	coastal piracy
+1	thwart
+1	kyren archive
+1	puffer extract

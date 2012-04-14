@@ -1,0 +1,23 @@
+1	fountain of cho
+20	plains
+2	charm peddler
+3	ramosian sergeant
+2	ramosian lieutenant
+2	steadfast guard
+2	devout witness
+2	nightwind glider
+2	task force
+2	thermal glider
+2	ramosian captain
+2	ballista squad
+2	pious warrior
+1	cho-manno, revolutionary
+2	ramosian commander
+2	jhovall rider
+1	ramosian sky marshal
+2	disenchant
+2	cho-manno's blessing
+1	afterlife
+2	arrest
+1	moonlit wake
+2	ramosian rally

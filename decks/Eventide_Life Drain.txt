@@ -1,0 +1,26 @@
+14	plains
+10	swamp
+2	apothecary initiate
+1	goldenglow moth
+2	kithkin zealot
+2	safehold sentry
+1	suture spirit
+1	flickerwisp
+1	resplendent mentor
+1	archon of justice
+1	woeleecher
+2	smolder initiate
+1	soul snuffers
+3	nip gwyllion
+2	gwyllion hedge-mage
+1	restless apparition
+2	voracious hatchling
+1	divinity of pride
+2	recumbent bliss
+1	endure
+1	rite of consumption
+2	soul reap
+2	syphon life
+1	beckon apparition
+1	batwing brume
+2	unmake

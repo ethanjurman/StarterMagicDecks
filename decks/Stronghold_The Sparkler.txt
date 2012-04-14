@@ -1,0 +1,24 @@
+14	island
+13	mountain
+1	wall of tears
+1	mogg fanatic
+1	wall of razors
+1	mind games
+1	whispers of the muse
+2	power sink
+2	spell blast
+1	contempt
+3	mana leak
+1	counterspell
+2	capsize
+1	intruder alarm
+2	propaganda
+1	ransack
+1	reins of power
+1	evacuation
+2	shock
+2	flowstone blade
+1	searing touch
+1	shatter
+2	fanning the flames
+3	lightning blast

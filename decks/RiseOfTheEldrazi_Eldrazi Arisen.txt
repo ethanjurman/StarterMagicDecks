@@ -1,0 +1,23 @@
+10	forest
+8	mountain
+1	akoum boulderfoot
+1	conquering manticore
+1	daggerback basilisk
+1	goblin piker
+1	hand of emrakul
+1	kozilek's predator
+1	nest invader
+1	ondu giant
+1	pathrazer of ulamog
+1	rapacious one
+1	runed servitor
+2	sporecap spider
+1	ulamog's crusher
+1	act of treason
+1	awakening zone
+1	bountiful harvest
+1	dreamstone hedron
+2	flame slash
+1	growth spasm
+1	might of the masses
+1	windstorm

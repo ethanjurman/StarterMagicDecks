@@ -1,0 +1,23 @@
+12	island
+12	mountain
+2	mistform warchief
+1	mischievous quanar
+2	shoreline ranger
+1	aven fateshaper
+1	thundercloud elemental
+3	scornful egotist
+2	goblin machinist
+1	bloodstoke howler
+3	chartooth cougar
+1	frenetic raptor
+1	macetail hystrodon
+1	skittish valesk
+2	dispersal shield
+2	rush of knowledge
+1	parallel thoughts
+2	dragon breath
+2	pyrostatic pillar
+2	carbonize
+2	erratic explosion
+3	torrent of fire
+1	slice and dice

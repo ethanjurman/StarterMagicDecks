@@ -1,0 +1,31 @@
+9	plains
+11	swamp
+1	peat bog
+2	glittering lynx
+2	fresh volunteers
+3	glittering lion
+1	shield dancer
+1	ballista squad
+1	agent of shauku
+1	nakaya shade
+1	plague fiend
+1	spineless thug
+1	belbe's percher
+1	chilling apparition
+1	death charmer
+2	skulking fugitive
+1	avatar of woe
+1	disenchant
+1	seal of cleansing
+1	afterlife
+1	angelic favor
+2	excise
+2	dark ritual
+1	steal strength
+1	maggot therapy
+1	rhystic tutor
+1	seal of doom
+2	rain of tears
+3	despoil
+1	snuff out
+2	rhystic syphon

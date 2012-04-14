@@ -1,0 +1,24 @@
+11	plains
+11	island
+2	boreal shelf
+1	jotun grunt
+3	kjeldoran outrider
+1	jotun owl keeper
+4	surging sentinels
+1	field marshal
+2	kjeldoran elite guard
+1	kjeldoran home guard
+1	kjeldoran gargoyle
+1	darien, king of kjeldor
+2	zuran spellcaster
+1	reinforcements
+1	swords to plowshares
+1	disenchant
+1	kjeldoran pride
+1	scars of the veteran
+3	brainstorm
+2	portent
+2	lat-nam's legacy
+1	binding grasp
+4	surging aether
+2	wings of aesthir

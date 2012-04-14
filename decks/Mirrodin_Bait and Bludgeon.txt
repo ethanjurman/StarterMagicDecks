@@ -1,0 +1,24 @@
+11	island
+3	swamp
+4	seat of the synod
+4	vault of whispers
+2	somber hoverguard
+1	broodstar
+2	nim shrieker
+2	steel wall
+2	leaden myr
+2	myr retriever
+2	silver myr
+2	bottle gnomes
+3	frogmite
+1	lodestone myr
+3	myr enforcer
+2	thirst for knowledge
+1	thoughtcast
+2	assert authority
+2	irradiate
+2	aether spellbomb
+4	talisman of dominance
+1	scale of chiss-goria
+1	serum tank
+1	tooth of chiss-goria

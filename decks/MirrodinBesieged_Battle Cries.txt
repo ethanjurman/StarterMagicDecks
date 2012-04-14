@@ -1,0 +1,25 @@
+8	mountain
+16	plains
+2	accorder paladin
+2	ardent recruit
+1	gold myr
+2	iron myr
+3	kuldotha ringleader
+1	leonin relic-warder
+1	leonin skyhunter
+2	memnite
+1	myrsmith
+2	peace strider
+1	razorfield rhino
+1	siege mastodon
+2	signal pest
+1	silvercoat lion
+1	victory's herald
+2	arrest
+1	concussive bolt
+2	galvanic blast
+3	master's call
+2	origin spellbomb
+1	viridian claw
+1	whispersilk cloak
+1	white sun's zenith

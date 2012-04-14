@@ -1,0 +1,22 @@
+12	swamp
+10	forest
+2	tainted wood
+2	carrion rats
+3	putrid imp
+2	boneshard slasher
+1	grotesque hybrid
+3	basking rootwalla
+3	wild mongrel
+1	anurid scavenger
+1	nantuko blightcutter
+2	krosan archer
+2	krosan constrictor
+1	nantuko cultivator
+2	arrogant wurm
+2	centaur veteran
+2	strength of lunacy
+2	waste away
+2	muscle burst
+2	sylvan might
+1	narcissism
+2	acorn harvest

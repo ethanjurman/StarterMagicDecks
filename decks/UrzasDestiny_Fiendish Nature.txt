@@ -1,0 +1,29 @@
+1	polluted mire
+2	slippery karst
+13	forest
+6	swamp
+1	phyrexian monitor
+2	plague dogs
+2	elvish lyrist
+3	heart warden
+1	goliath beetle
+2	hunting moa
+1	cradle guard
+1	marker beetles
+3	yavimaya elder
+2	gamekeeper
+3	plated spider
+1	winding wurm
+1	ancient silverback
+1	phyrexian reclamation
+1	chime of night
+1	no rest for the wicked
+2	twisted experiment
+2	expunge
+1	victimize
+1	diabolic servitude
+1	rancor
+2	symbiosis
+1	pattern of rebirth
+1	splinter
+1	braidwood cup

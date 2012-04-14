@@ -1,0 +1,22 @@
+24	plains
+1	goldmeadow dodger
+3	goldmeadow harrier
+1	goldmeadow stalwart
+1	cenn's heir
+4	kithkin greatheart
+1	knight of meadowgrain
+2	wizened cenn
+2	avian changeling
+1	kithkin harbinger
+2	kinsbaile balloonist
+1	brigid, hero of kinsbaile
+1	thoughtweft trio
+2	changeling hero
+2	cloudgoat ranger
+1	shields of velis vel
+1	pollen lullaby
+3	surge of thoughtweft
+1	battle mastery
+2	crib swap
+3	oblivion ring
+1	runed stalactite

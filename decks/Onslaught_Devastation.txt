@@ -1,0 +1,26 @@
+9	mountain
+13	forest
+2	forgotten cave
+2	tranquil thicket
+1	battering craghorn
+1	charging slateback
+1	snapping thragg
+1	tephraderm
+1	shaleskin bruiser
+3	elvish pioneer
+3	wirewood elf
+3	wirewood savage
+3	snarling undorak
+2	barkhide mauler
+1	venomspout brackus
+1	krosan groundshaker
+1	towering baloth
+2	chain of plasma
+1	erratic explosion
+1	solar blast
+1	thunder of hooves
+1	aether charge
+1	naturalize
+1	primal boost
+3	explosive vegetation
+1	cryptic gateway

@@ -1,0 +1,22 @@
+9	forest
+16	swamp
+3	barony vampire
+3	bloodthrone vampire
+1	captivating vampire
+3	child of night
+1	giant spider
+2	howling banshee
+2	reassembling skeleton
+1	royal assassin
+1	spined wurm
+3	viscera seer
+2	corrupt
+1	cultivate
+2	diabolic tutor
+2	doom blade
+1	giant growth
+1	naturalize
+1	nature's spiral
+2	quag sickness
+2	rise from the grave
+1	sorcerer's strongbox

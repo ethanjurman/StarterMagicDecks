@@ -1,0 +1,21 @@
+13	mountain
+11	forest
+2	kris mage
+2	cinder elemental
+2	shock troops
+1	battle squadron
+3	deepwood wolverine
+2	deepwood drummer
+3	vine trellis
+3	horned troll
+2	saber ants
+2	squallmonger
+2	deepwood tantiv
+3	thunderclap
+1	lunge
+1	volcanic wind
+2	revive
+1	natural affinity
+1	tiger claws
+1	tranquility
+2	desert twister

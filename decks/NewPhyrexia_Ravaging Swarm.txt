@@ -1,0 +1,26 @@
+12	forest
+12	island
+1	blight mamba
+3	blighted agent
+2	chained throatseeker
+1	core prowler
+2	cystbearer
+3	glistener elf
+2	mycosynth fiend
+1	phyrexian swarmlord
+1	plaguemaw beast
+1	rot wolf
+1	spinebiter
+2	viral drake
+2	viridian betrayers
+1	wall of tanglecord
+1	contagion clasp
+1	corrupted conscience 
+1	corrupted resolve
+1	defensive stance
+1	fuel for the cause
+1	inexorable tide
+3	leeching bite
+1	naturalize
+1	steady progress
+2	trigon of infestation

@@ -51,4 +51,6 @@ Archenemy
 ScarsOfMirrodin
 MirrodinBesieged
 NewPhyrexia
+magic2011
+magic2012
 Innistrad

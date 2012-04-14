@@ -1,0 +1,21 @@
+9	mountain
+9	swamp
+2	bloodthrone vampire
+1	dragon whelp
+1	drana, kalastria bloodchief
+2	emrakul's hatcher
+1	gloomhunter
+1	hand of emrakul
+1	howling banshee
+1	lagac lizard
+2	lavafume invoker
+1	magmaw
+1	ogre sentry
+1	pawn of ulamog
+1	rapacious one
+1	act of treason
+1	corpsehatch
+1	essence feed
+1	fireball
+2	lightning bolt
+1	vendetta

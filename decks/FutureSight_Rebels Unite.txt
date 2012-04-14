@@ -1,0 +1,25 @@
+12	plains
+10	swamp
+2	terramorphic expanse
+2	samite censer-bearer
+1	amrou scout
+3	blade of the sixth pride
+2	errant doomsayers
+1	knight of the holy nimbus
+3	amrou seekers
+1	aven riftwatcher
+1	defiant vanguard
+1	zealot il-vec
+2	outrider en-kor
+1	riftmarked knight
+2	ramosian revivalist
+1	angel of salvation
+1	blightspeaker
+2	putrid cyclops
+1	big game hunter
+1	magus of the abyss
+2	dawn charm
+3	lumithread field
+2	bound in silence
+2	return to dust
+1	witch's mist

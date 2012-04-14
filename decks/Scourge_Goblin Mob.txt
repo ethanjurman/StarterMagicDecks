@@ -1,0 +1,26 @@
+20	mountain
+2	forgotten cave
+2	goblin burrows
+2	goblin grappler
+2	goblin sledder
+2	goblin taskmaster
+3	goblin brigand
+1	skirk drill sergeant
+2	skirk marauder
+1	sparksmith
+1	flamestick courier
+1	gempalm incinerator
+2	goblin sky raider
+1	nosy goblin
+3	rock jockey
+1	goblin warchief
+2	skirk commando
+1	goblin psychopath
+1	reckless one
+2	skirk volcanist
+1	siege-gang commander
+2	goblin war strike
+2	carbonize
+1	sulfuric vortex
+1	enrage
+1	wave of indifference

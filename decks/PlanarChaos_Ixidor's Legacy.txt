@@ -1,0 +1,25 @@
+23	island
+1	desert
+2	coral trickster
+2	dream stalker
+3	fathom seer
+2	riptide pilferer
+1	willbender
+1	merfolk thaumaturgist
+1	ovinomancer
+2	tidewalker
+1	serendib sorcerer
+2	shaper parasite
+1	crookclaw transmuter
+2	fledgling mawcor
+2	primal plasma
+2	aquamorph entity
+1	aeon chronicler
+1	jodah's avenger
+1	brine elemental
+1	slipstream serpent
+1	piracy charm
+1	pongify
+2	unstable mutation
+2	ovinize
+2	erratic mutation

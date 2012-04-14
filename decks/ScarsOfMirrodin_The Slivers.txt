@@ -1,0 +1,22 @@
+13	island
+1	rootwater depths
+11	swamp
+4	winged sliver
+3	mnemonic sliver
+4	clot sliver
+1	mindwhip sliver
+4	metallic sliver
+1	whispers of the muse
+1	ertai's meddling
+2	power sink
+1	spell blast
+2	counterspell
+2	dream cache
+1	dismiss
+2	diabolic edict
+1	fevered convulsions
+2	dark banishing
+1	evincar's justice
+1	extinction
+1	lobotomy
+1	essence bottle

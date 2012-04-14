@@ -1,0 +1,23 @@
+9	island
+14	mountain
+1	raven familiar
+3	kingfisher
+2	thieving magpie
+2	goblin war buggy
+3	viashino sandscout
+4	wild colos
+2	goblin berserker
+2	keldon champion
+2	viashino cutthroat
+1	thundering giant
+1	goblin marshal
+2	curfew
+2	fatigue
+1	mark of fury
+1	parch
+3	arc lightning
+1	ghitu war cry
+1	trumpet blast
+1	aether sting
+1	jagged lightning
+1	urza's incubator

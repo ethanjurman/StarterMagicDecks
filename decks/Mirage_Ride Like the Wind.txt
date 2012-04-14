@@ -1,0 +1,22 @@
+2	blistering barrier
+3	burning shield askari
+3	searing spear askari
+1	crimson roc
+1	telim'tor
+3	mtenda herder
+1	vigilant martyr
+3	femeref knight
+2	zhalfirin commander
+3	zhalfirin knight
+1	sidar jabari
+1	iron tusk elephant
+1	melesse spirit
+1	agility
+2	aleatory
+2	spitting earth
+1	alarum
+2	favorable destiny
+1	shadowbane
+2	telim'tor's darts
+12	mountain
+12	plains

@@ -1,0 +1,25 @@
+12	swamp
+9	mountain
+3	forest
+2	insidious bookworms
+1	kjeldoran dead
+3	gutless ghoul
+1	ashen ghoul
+2	balduvian dead
+2	disciple of tevesh szat
+2	gristle grinner
+1	void maw
+1	orcish healer
+2	orcish bloodpainter
+1	deepfire elemental
+1	sek'kuar, deathkeeper
+1	dark ritual
+3	grim harvest
+2	casting of bones
+2	dark banishing
+2	krovikan rot
+1	soul burn
+2	death spark
+2	barbed sextant
+1	coldsteel heart
+1	skull catapult

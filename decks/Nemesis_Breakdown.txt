@@ -1,0 +1,23 @@
+10	forest
+10	island
+2	hickory woodlot
+2	saprazzan skerry
+4	skyshroud ridgeback
+1	vine trellis
+2	blastoderm
+2	woodripper
+1	skyshroud behemoth
+4	cloudskate
+3	waterfront bouncer
+2	stronghold zeppelin
+2	rusting golem
+1	seal of strength
+2	revive
+1	seal of removal
+4	accumulated knowledge
+1	false demise
+1	war tax
+1	dehydration
+2	ensnare
+1	parallax inhibitor
+1	puffer extract

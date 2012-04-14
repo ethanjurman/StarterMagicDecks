@@ -1,0 +1,24 @@
+6	swamp
+14	forest
+2	barren moor
+2	temple of the false god
+2	tranquil thicket
+1	gluttonous zombie
+3	fierce empath
+3	krosan drover
+2	kurgadon
+2	spitting gourna
+2	elvish aberration
+1	treespring lorian
+1	root elemental
+2	symbiotic beast
+1	venomspout brackus
+2	wirewood guardian
+2	titanic bulvox
+2	chill haunting
+1	dragon shadow
+1	smother
+1	final punishment
+2	dragon fangs
+2	sprouting vines
+3	accelerated mutation

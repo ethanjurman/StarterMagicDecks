@@ -1,0 +1,21 @@
+12	swamp
+12	forest
+2	merrow bonegnawer
+2	wickerbough elder
+2	roughshod mentor
+3	odious trow
+3	woodlurker mimic
+2	hag hedge-mage
+2	quillspike
+3	rendclaw trow
+2	stalker hag
+2	noxious hatchling
+2	desecrator hag
+1	creakwood liege
+1	doomgape
+2	soul reap
+1	syphon life
+2	viridescent wisps
+1	savage conception
+1	cankerous thirst
+2	gift of the deity

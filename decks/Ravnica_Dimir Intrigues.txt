@@ -1,0 +1,24 @@
+11	island
+10	swamp
+2	dimir aqueduct
+1	duskmantle, house of shadow
+2	lore broker
+3	vedalken entrancer
+2	wizened snitches
+2	belltower sphinx
+2	dimir house guard
+1	mausoleum turnkey
+2	sewerdreg
+2	dimir infiltrator
+1	szadek, lord of secrets
+3	lurking informant
+1	dimir guildmage
+2	induce paranoia
+1	dream leash
+2	last gasp
+1	ribbons of night
+2	disembowel
+3	consult the necrosages
+1	clutch of the undercity
+2	psychic drain
+1	dimir signet

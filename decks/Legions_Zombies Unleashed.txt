@@ -1,0 +1,23 @@
+23	swamp
+2	barren moor
+1	festering goblin
+1	boneknitter
+2	shepherd of rot
+4	skinthinner
+2	withered wretch
+1	aphetto exterminator
+2	embalmed brawler
+2	frightshroud courier
+3	smokespew invoker
+1	ghastly remains
+2	deathmark prelate
+2	infernal caretaker
+1	soulless one
+1	graveborn muse
+2	corpse harvester
+1	noxious ghoul
+2	gempalm polluter
+2	dripping dead
+1	dirge of dread
+1	feeding frenzy
+1	cruel revival

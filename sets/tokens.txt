@@ -1,0 +1,163 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Cat	tokens	somcat	w		T	Token Creature - Cat	2	2	T	
+Soldier	tokens	somSoldier	w		T	Token Creature - Soldier	1	1	T	
+Goblin	tokens	somGoblin	R		T	Token Creature - Goblin	1	1	T	
+Insect	tokens	somInsect	G		T	Token Creature - insect	1	1	T	Infect
+Wolf	tokens	somWolf	G		T	Token Creature - Wolf	2	2	T	
+Golem	tokens	somGolem	A		T	Token Artifact Creature - Golem	3	3	T	
+Myr	tokens	somMyr	A		T	Token Artifact Creature	1	1	T	
+Wurm	tokens	somWurm-1	A		T	Token Artifact Creature - Wurm	3	3	T	Deathtouch
+Wurm	tokens	somWurm-2	A		T	Token Artifact Creature - Wurm	3	3	T	Lifelink
+Poison Counter	tokens	sompoison-counter			T	Token			T	A player with ten or more poison counters loses the game.
+Avatar	tokens	2011avatar	w		T	Token Creature - avatar	*	*	T	This creature's power and toughness are each equal to your life total.
+Bird	tokens	2011bird	w		T	Token Creature - Bird	3	3	T	Flying
+Zombie	tokens	2011zombie	B		T	Token Creature - Zombie	2	2	T	
+Beast	tokens	2011beast	G		T	Token Creature - Beast	3	3	T	
+Ooze 1	tokens	2011Ooze-1	G		T	Token Creature - Ooze	2	2	T	When this creature is put into a graveyard, put two 1/1 green Ooze creature tokens onto the battlefield.
+Ooze 2	tokens	2011Ooze-2	G		T	Token Creature - Ooze	1	1	T	
+Eldrazi Spawn 1	tokens	roeeldrazi-spawn-1	A		T	Token Creature - Eldrazi Spawn	0	1	T	Sacrifice this creature: Add 1 to your mana pool.
+Eldrazi Spawn 2	tokens	roeEldrazi-spawn-2	A		T	Token Creature - Eldrazi Spawn	0	1	T	Sacrifice this creature: Add 1 to your mana pool.
+Eldrazi Spawn 3	tokens	roeEldrazi-spawn-3	A		T	Token Creature - Eldrazi Spawn	0	1	T	Sacrifice this creature: Add 1 to your mana pool.
+Elemental	tokens	roeelemental	R		T	Token Creature - Elemental	*	*	T	
+Hellion	tokens	roehellion	R		T	Token Creature - Hellion	4	4	T	
+Ooze	tokens	roeOoze	G		T	Token Creature - Ooze	*	*	T	
+Tuktuk the Returned	tokens	roeTuktuk-the-Returned	A		T	Token Legendary Artifact Creature - Goblin Golem	5	5	T	
+Soldier Ally	tokens	worldwakeSoldier-ally	w		T	Token Creature - Soldier Ally	1	1	T	
+Dragon	tokens	worldwakedragon	R		T	Token Creature - Dragon	5	5	T	Flying
+Ogre	tokens	worldwakeogre	R		T	Token Creature - Ogre	3	3	T	
+Elephant	tokens	worldwakeelephant	G		T	Token Creature - Elephant	3	3	T	
+Plant	tokens	worldwakeplant	G		T	Token Creature - Plant	0	1	T	
+Construct	tokens	worldwakeconstruct	A		T	Token Artifact Creature - Construct	6	12	T	Trample
+Angel	tokens	zendikarangel	w		T	Token Creature - Angel	4	4	T	Flying
+Bird	tokens	zendikarbird	w		T	Token Creature - Bird	1	1	T	Flying
+Kor Soldier	tokens	zendikarKor-soldier	w		T	Token Creature - Soldier	1	1	T	
+Illusion	tokens	zendikarillusion	U		T	Token Creature - Illusion	2	2	T	
+Merfolk	tokens	zendikarmerfolk	U		T	Token Creature - Merfolk	1	1	T	
+Vampire	tokens	zendikarvampire	B		T	Token Creature - Vampire	*	*	T	
+Zombie Giant	tokens	zendikarZombie-giant	B		T	Token Creature - Zombie Giant	5	5	T	
+Elemental	tokens	zendikarelemental	R		T	Token Creature - Elemental	7	1	T	Trample, haste
+Beast	tokens	zendikarbeast	G		T	Token Creature - Beast	4	4	T	
+Snake	tokens	zendikarsnake	G		T	Token Creature - Snake	1	1	T	
+Wolf	tokens	zendikarWolf	G		T	Token Creature - Wolf	2	2	T	
+Avatar	tokens	2010avatar	w		T	Token Creature - avatar	*	*	T	This creature's power and toughness are each equal to your life total.
+Beast	tokens	2010beast	G		T	Token Creature - Beast	3	3	T	
+Gargoyle	tokens	2010gargoyle	A		T	Token Artifact Creature - Gargoyle	3	4	T	Flying
+Goblin	tokens	2010Goblin	R		T	Token Creature - Goblin	1	1	T	
+Insect	tokens	2010Insect	G		T	Token Creature - insect	1	1	T	
+Soldier	tokens	2010Soldier	w		T	Token Creature - Soldier	1	1	T	
+Wolf	tokens	2010Wolf	G		T	Token Creature - Wolf	2	2	T	
+Zombie	tokens	2010zombie	B		T	Token Creature - Zombie	2	2	T	
+Bird Soldier	tokens	arbBird-soldier	w		T	Token Creature - Bird Soldier	1	1	T	Flying
+Lizard	tokens	arblizard	G		T	Token Creature - Lizard	2	2	T	
+Dragon	tokens	arbdragon	GR		T	Token Creature - Dragon	1	1	T	Flying, devour 2
+Zombie Wizard	tokens	arbZombie-wizard	BU		T	Token Creature - Zombie Wizard	1	1	T	
+Angel	tokens	cfxangel	w		T	Token Creature - Angel	4	4	T	Flying
+Elemental	tokens	cfxelemental	R		T	Token Creature - Elemental	3	1	T	
+Soldier	tokens	soaSoldier	w		T	Token Creature - Soldier	1	1	T	
+Beast	tokens	soabeast	RGW		T	Token Creature - Beast	8	8	T	
+Homunculus	tokens	soahomunculus	A		T	Token Artifact Creature - Homunculus	0	1	T	
+Thopter	tokens	soathopter	A		T	Token Artifact Creature - Thopter	1	1	T	Flying
+Skeleton	tokens	soaskeleton	B		T	Token Creature - Skeleton	1	1	T	
+Zombie	tokens	soazombie	B		T	Token Creature - Zombie	2	2	T	
+Dragon	tokens	soadragon	R		T	Token Creature - Dragon	4	4	T	Flying
+Goblin	tokens	soaGoblin	R		T	Token Creature - Goblin	1	1	T	
+Ooze	tokens	soaOoze	G		T	Token Creature - Ooze	*	*	T	
+Saproling	tokens	soasaproling	G		T	Token Creature - saproling	1	1	T	
+Goat	tokens	eventidegoat	w		T	Token Creature - Goat	0	1	T	
+Bird	tokens	eventidebird	U		T	Token Creature - Bird	1	1	T	Flying
+Beast	tokens	eventidebeast	G		T	Token Creature - Beast	3	3	T	
+Spirit	tokens	eventidespirit	WB		T	Token Creature - Spirit	1	1	T	Flying
+Elemental	tokens	eventideelemental	UR		T	Token Creature - Elemental	5	5	T	Flying
+Worm	tokens	eventideworm	BG		T	Token Creature - Worm	1	1	T	
+Goblin Soldier	tokens	eventideGoblin-soldier	RW		T	Token Creature - Goblin Soldier	1	1	T	
+Kithkin Soldier	tokens	shadowmoorkithkin-soldier	w		T	Token Creature - Kithkin Soldier	1	1	T	
+Spirit	tokens	shadowmoorspirit	w		T	Token Creature - Spirit	1	1	T	Flying
+Rat	tokens	shadowmoorrat	B		T	Token Creature -	1	1	T	
+Elemental 1	tokens	shadowmoorElemental-1	R		T	Token Creature - Elemental	1	1	T	Haste
+Elf Warrior 1	tokens	shadowmoorElf-warrior-1	GW		T	Token Creature - Warrior	1	1	T	
+Spider	tokens	shadowmoorspider	G		T	Token Creature - Spider	1	2	T	Reach
+Wolf	tokens	shadowmoorWolf	G		T	Token Creature - Wolf	2	2	T	
+Faerie Rogue	tokens	shadowmoorFaerie-Rogue	UB		T	Token Creature - Faerie Rogue	1	1	T	Flying
+Elemental 2	tokens	shadowmoorElemental-2	BR		T	Token Creature - Elemental	5	5	T	
+Giant Warrior	tokens	shadowmoorGiant-warrior	RG		T	Token Creature - Giant Warrior	4	4	T	Haste
+Goblin Warrior	tokens	shadowmoorGoblin-warrior	RG		T	Token Creature - Goblin Warrior	1	1	T	
+Elf Warrior 2	tokens	shadowmoorElf-warrior-2	G		T	Token Creature - Warrior	1	1	T	
+Giant Warrior	tokens	morningtideGiant-warrior	w		T	Token Creature - Giant Warrior	5	5	T	
+Faerie Rogue	tokens	morningtideFaerie-Rogue	B		T	Token Creature - Faerie Rogue	1	1	T	Flying
+Treefolk Shaman	tokens	morningtideTreefolk-Shaman	G		T	Token Creature - Treefolk Shaman	2	5	T	
+Avatar	tokens	lorwynavatar	w		T	Token Creature - avatar	*	*	T	This creature's power and toughness are each equal to your life total.
+Elemental 1	tokens	lorwynElemental-1	G		T	Token Creature - Elemental	4	4	T	
+Kithkin Soldier	tokens	lorwynKithkin-soldier	w		T	Token Creature - Kithkin Soldier	1	1	T	
+Merfolk Wizard	tokens	lorwynMerfolk-wizard	U		T	Token Creature - Merfolk Wizard	1	1	T	
+Goblin Rogue	tokens	lorwynGoblin-rogue	B		T	Token Creature - Goblin Rogue	1	1	T	
+Elemental Shaman	tokens	lorwynElemental-shaman	R		T	Token Creature - Elemental Shaman	3	1	T	
+Beast	tokens	lorwynbeast	G		T	Token Creature - Beast	3	3	T	
+Elemental 2	tokens	lorwynElemental-2	w		T	Token Creature - Elemental	4	4	T	Flying
+Elf Warrior	tokens	lorwynElf-warrior	G		T	Token Creature - Warrior	1	1	T	
+Wolf	tokens	lorwynWolf	G		T	Token Creature - Wolf	2	2	T	
+Shapeshifter	tokens	lorwynShapeshifter			T	Token Creature - Shapeshifter	1	1	T	Changeling (This token is every creature type)
+Soldier	tokens	10eSoldier	w		T	Token Creature - Soldier	1	1	T	
+Zombie	tokens	10ezombie	B		T	Token Creature - Zombie	2	2	T	
+Dragon	tokens	10edragon	R		T	Token Creature - Dragon	5	5	T	Flying
+Goblin	tokens	10eGoblin	R		T	Token Creature - Goblin	1	1	T	
+Saproling	tokens	10eSaproling	G		T	Token Creature - Saproling	1	1	T	
+Wasp	tokens	10eWasp	A		T	Token Creature - Wasp	1	1	T	Flying
+Marit Lage	tokens	coldsnapMarit-lage	B		T	Token Legendary Creature - Avatar	20	20	T	Flying, Indestructible
+Angel	tokens	pr2004angel	w		T	Token Creature - Angel	4	4	T	Flying
+Pentavite	tokens	pr2004pentavite	A		T	Token Artifact Creature - Pentavite	1	1	T	Flying
+Beast	tokens	pr2004beast	G		T	Token Creature - Beast	3	3	T	
+Myr	tokens	pr2004myr	A		T	Token Artifact Creature	1	1	T	
+Spirit	tokens	pr2004spirit			T	Token Creature - Spirit	1	1	T	
+Token - Insect	tokens	pr2003Insect	G		T	Token Creature - insect	1	1	T	
+Token - Sliver	tokens	pr2003sliver			T	Token Creature - Sliver	1	1	T	
+Token - Bear	tokens	pr2003bear	G		T	Token Creature - Bear	2	2	T	
+Token - Goblin	tokens	pr2003Goblin	R		T	Token Creature - Goblin	1	1	T	
+Demon	tokens	pr2003demon	B		T	Token Creature - Demon	*	*	T	Flying
+Rukh	tokens	pr2003rukh	R		T	Token Creature - Rukh	4	4	T	Flying
+Token - Elephant	tokens	pr2002elephant	G		T	Token Creature - Elephant	3	3	T	
+Token - Squirrel	tokens	pr2002Squirrel	G		T	Token Creature - Squirrel	1	1	T	
+Token - Wurm	tokens	pr2002Wurm	G		T	Token Creature - Wurm	6	6	T	
+Token - Zombie	tokens	pr2002zombie	B		T	Token Creature - Zombie	2	2	T	
+Token - Dragon	tokens	pr2002dragon	R		T	Token Creature - Dragon	5	5	T	
+Token - Soldier	tokens	pr2002Soldier	w		T	Token Creature - Soldier	1	1	T	
+Token - Bird	tokens	pr2001bird	U		T	Token Creature - Bird	1	1	T	Flying
+Token - Elephant	tokens	pr2001elephant	G		T	Token Creature - Elephant	3	3	T	
+Token - Goblin Soldier	tokens	pr2001Goblin-soldier	RW		T	Token Creature - Goblin Soldier	1	1	T	
+Token - Saproling	tokens	pr2001Saproling	G		T	Token Creature - Saproling	1	1	T	
+Token - Spirit	tokens	pr2001spirit	w		T	Token Creature - Spirit	1	1	T	
+Token - Bear	tokens	pr2001bear	G		T	Token Creature - Bear	2	2	T	
+Token - Beast	tokens	pr2001beast	G		T	Token Creature - Beast	4	4	T	
+Token - Pegasus	tokens	Ungluedpegasus	w		T	Token Creature - Pegasus	1	1	T	
+Token - Soldier	tokens	UngluedSoldier	w		T	Token Creature - Soldier	1	1	T	
+Token - Zombie	tokens	Ungluedzombie	B		T	Token Creature - Zombie	1	1	T	
+Token - Goblin	tokens	UngluedGoblin	R		T	Token Creature - Goblin	1	1	T	
+Token - Sheep	tokens	Ungluedsheep	G		T	Token Creature - Sheep	1	1	T	
+Token - Squirrel	tokens	UngluedSquirrel	G		T	Token Creature - Squirrel	1	1	T	
+Hornet	tokens	ddpvchornet	A		T	Token Artifact Creature - Hornet	1	1	T	Flying, haste
+Minion	tokens	ddpvcminion	B		T	Token Creature - Minion	*	*	T	
+Saproling	tokens	ddpvcsaproling	G		T	Token Creature - saproling	1	1	T	
+Beast 1	tokens	ddgvlabeast-1	G		T	Token Creature - Beast	3	3	T	
+Beast 2	tokens	ddgvlabeast-2	G		T	Token Creature - Beast	4	4	T	
+Elephant	tokens	ddgvlaelephant	G		T	Token Creature - Elephant	3	3	T	
+Spirit	tokens	dddvdspirit	w		T	Token Creature - Spirit	1	1	T	Flying
+Demon	tokens	dddvddemon	B		T	Token Creature - Demon	*	*	T	Flying
+Thrull	tokens	dddvdthrull	B		T	Token Creature - Thrull	0	1	T	
+Elemental Shaman	tokens	ddjvcElemental-shaman	R		T	Token Creature - Elemental Shaman	3	1	T	
+Elemental	tokens	ddevgelemental	G		T	Token Creature - Elemental	7	7	T	Trample
+Elf Warrior	tokens	ddevgElf-warrior	G		T	Token Creature - Elf Warrior	1	1	T	
+Goblin	tokens	ddevgGoblin	R		T	Token Creature - Goblin	1	1	T	
+Germ	tokens	mbgerm	B		T	Token Creature - Germ	0	0	T	
+Zombie	tokens	mbzombie	B		T	Token Creature - Zombie	2	2	T	
+Golem	tokens	mbgolem	A		T	Token Artifact Creature - Golem	9	9	T	
+Horror	tokens	mbhorror	A		T	Token Artifact Creature - Horror	*	*	T	
+Thopter	tokens	mbthopter	A		T	Token Artifact Creature - Thopter	1	1	T	Flying
+Angel Token	tokens	innistrad_angel_token	W		T	Token Creature - Angel	4	4	T	Flying
+Demon	tokens	innistrad_demon_token	B		T	Token Creature - Demon	5	5	T	Flying
+Homunculus Token	tokens	innistrad_homunculus_token	U		T	Token Creature - Homunculus	2	2	T	
+Ooze Token	tokens	innistrad_ooze_token	G		T	Token Creature - Ooze	*	*	T	
+Spider Token	tokens	innistrad_spider_token	G		T	Token Creature - Spider	1	2	T	Reach
+Spirit Token	tokens	innistrad_spirit_token	W		T	Token Creature - Spirit	1	1	T	Flying
+Vampire Token	tokens	innistrad_vampire_token	B		T	Token Creature - Vampire	2	2	T	Flying
+Wolf Black Token	tokens	innistrad_wolf_black_token	B		T	Token Creature - Wolf	2	2	T	Deathtouch
+Wolf Green Token	tokens	innistrad_wolf_green_token	G		T	Token Creature - Wolf	2	2	T	
+Zombie Token	tokens	innistrad_zombie_token	B		T	Token Creature - Zombie	2	2	T	

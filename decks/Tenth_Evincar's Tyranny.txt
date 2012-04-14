@@ -1,0 +1,21 @@
+17	swamp
+2	vampire bats
+1	drudge skeletons
+1	thrull surgeon
+1	looming shade
+2	severed legion
+1	dross crocodile
+1	gravedigger
+1	mortivore
+1	mass of ghouls
+1	ascendant evincar
+1	bottle gnomes
+1	unholy strength
+1	cruel edict
+1	terror
+1	assassinate
+2	mind rot
+1	diabolic tutor
+1	essence drain
+1	consume spirit
+1	demon's horn

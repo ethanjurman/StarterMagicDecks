@@ -1,0 +1,26 @@
+11	mountain
+13	plains
+2	blinding souleater
+1	cathedral membrane
+2	immolating souleater
+1	inquisitor exarch
+2	kemba's skyguard
+1	lumengrid gargoyle
+1	moltensteel dragon
+1	ogre resister
+3	porcelain legionnaire
+1	shattered angel
+3	slash panther
+2	act of aggression
+1	apostle's blessing
+2	golem's heart
+1	gut shot
+1	incite
+1	lightning bolt
+1	marrow shards
+2	pacifism
+1	phyrexian rebirth
+1	pristine talisman
+2	rage extractor
+1	solemn offering
+2	whitesun's passage

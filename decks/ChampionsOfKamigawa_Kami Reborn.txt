@@ -1,0 +1,23 @@
+12	swamp
+12	forest
+2	ashen-skin zubera
+2	thief of hope
+2	gibbering kami
+2	scuttling death
+1	iname, death aspect
+2	kami of lunacy
+2	hana kami
+2	dripping-tongue zubera
+2	soilshaper
+2	kami of the hunt
+2	burr grafter
+2	venerable kumo
+2	swallowing plague
+1	honden of night's reach
+1	devouring greed
+1	dance of shadows
+2	pull under
+2	kodama's might
+2	kodama's reach
+1	honden of life's web
+1	long-forgotten gohei

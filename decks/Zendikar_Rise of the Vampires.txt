@@ -1,0 +1,18 @@
+2	acolyte of xathrid
+2	guul draz vampire
+2	child of night
+1	gatekeeper of malakir
+1	mindless null
+2	vampire aristocrat
+2	vampire nighthawk
+1	heartstabber mosquito
+1	zombie goliath
+1	malakir bloodwitch
+2	vampire's bite
+2	feast of blood
+1	hideous end
+1	diabolic tutor
+1	rise from the grave
+1	blood tribute
+16	swamp
+2	piranha marsh

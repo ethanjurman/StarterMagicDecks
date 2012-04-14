@@ -1,0 +1,26 @@
+8	island
+16	swamp
+2	plasma elemental
+1	ebon drake
+2	emissary of despair
+3	dross crocodile
+1	steel wall
+3	leaden myr
+1	silver myr
+1	wizard replica
+3	yotian soldier
+2	myr quadropod
+1	pewter golem
+2	arachnoid
+1	annul
+1	acquire
+1	shattered dreams
+1	plunge into darkness
+2	devour in shadow
+1	murderous spoils
+2	consume spirit
+1	slagwurm armor
+1	vulshok gauntlets
+1	ensouled scimitar
+1	loxodon warhammer
+1	whispersilk cloak

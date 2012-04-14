@@ -1,0 +1,31 @@
+12	mountain
+11	forest
+1	spark elemental
+1	slith firewalker
+2	goblin brawler
+2	spikeshot goblin
+1	cosmic larva
+1	vulshok sorcerer
+1	vulshok berserker
+1	iron-barb hellion
+2	sylvok explorer
+1	tangle asp
+1	tel-jilad chosen
+1	eternal witness
+2	tel-jilad exile
+2	viridian lorebearers
+1	tel-jilad lifebreather
+1	fangren hunter
+2	fangren pathcutter
+2	tyrranax
+1	goblin replica
+1	magma jet
+1	barbed lightning
+1	grab the reins
+1	rain of rust
+1	tel-jilad justice
+1	ferocious charge
+1	rite of passage
+1	pyrite spellbomb
+2	talisman of impulse
+1	goblin cannon

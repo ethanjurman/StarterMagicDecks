@@ -1,0 +1,24 @@
+13	island
+11	swamp
+3	nomads en-kor
+1	shaman en-kor
+2	warrior en-kor
+1	soltari champion
+2	knight of dawn
+1	cloudchaser eagle
+4	spirit en-kor
+2	lancers en-kor
+2	lab rats
+1	skeleton scavengers
+1	darkling stalker
+2	gravedigger
+1	screeching harpy
+1	flickering ward
+1	smite
+1	disenchant
+1	temper
+1	death stroke
+2	enfeeblement
+1	dark banishing
+2	evincar's justice
+3	endless scream

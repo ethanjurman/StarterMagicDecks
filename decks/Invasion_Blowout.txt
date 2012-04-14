@@ -1,0 +1,29 @@
+12	swamp
+10	mountain
+2	urborg volcano
+1	hate weaver
+4	ravenous rats
+1	firescreamer
+1	phyrexian slayer
+1	trench wurm
+1	phyrexian reaper
+1	phyrexian delver
+2	thunderscape apprentice
+2	hooded kavu
+2	kavu aggressor
+1	halam djinn
+2	shivan zombie
+1	cinder shade
+2	vicious kavu
+2	addle
+1	hypnotic cloud
+1	mourning
+1	agonizing demise
+1	annihilate
+1	soul burn
+1	breath of darigaaz
+1	maniacal rage
+2	scorching lava
+1	zap
+1	ghitu fire
+1	smoldering tar

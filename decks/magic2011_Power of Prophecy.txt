@@ -1,0 +1,27 @@
+16	island
+9	plains
+2	aether adept
+2	air servant
+1	armored cancrix
+2	augury owl
+1	azure drake
+1	blinding mage
+2	cloud elemental
+1	conundrum sphinx
+1	harbor serpent
+2	maritime guard
+1	scroll thief
+1	stormtide leviathan
+1	wall of frost
+2	water servant
+1	condemn
+1	crystal ball
+2	foresee
+2	jace's ingenuity
+1	mighty leap
+1	mind control
+2	negate
+1	pacifism
+1	safe passage
+2	sleep
+1	solemn offering

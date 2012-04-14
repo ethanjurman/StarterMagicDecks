@@ -1,0 +1,26 @@
+11	island
+13	mountain
+2	blisterstick shaman
+1	fire servant
+1	galvanoth
+2	iron myr
+2	koth's courier
+2	lumengrid gargoyle
+2	neurok commando
+2	ogre resister
+2	peace strider
+1	silver myr
+2	arc trail
+1	burn the impure
+2	call to mind
+1	crush
+2	foresee
+2	lava axe
+1	lightning bolt
+1	melt terrain
+1	preordain
+2	quicksilver geyser
+1	rally the forces
+1	red sun's zenith
+1	sleep
+1	turn the tide

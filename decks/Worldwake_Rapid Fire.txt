@@ -1,0 +1,23 @@
+7	mountain
+9	plains
+2	teetering peaks
+2	cosi's ravager
+1	dragon whelp
+1	fledgling griffin
+1	geyser glider
+1	goblin roughrider
+1	grotag thrasher
+1	kor cartographer
+1	kor firewalker
+1	kor skyfisher
+1	mordant dragon
+2	pilgrim's eye
+1	prodigal pyromancer
+1	ruin ghost
+1	steppe lynx
+1	act of treason
+1	armored ascension
+1	chain reaction
+1	magma rift
+1	narrow escape
+2	searing blaze

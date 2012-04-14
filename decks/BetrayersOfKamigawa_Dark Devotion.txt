@@ -1,0 +1,24 @@
+14	swamp
+10	mountain
+2	bile urchin
+1	bloodthirsty ogre
+3	takenuma bleeder
+3	villainous ogre
+1	blood speaker
+2	scourge of numai
+1	yukora, the prisoner
+2	painwracker oni
+1	deathcurse ogre
+3	hearth kami
+1	shinka gatekeeper
+1	initiate of blood
+1	sokenzan bruiser
+2	frost ogre
+1	heartless hidetsugu
+1	mark of the oni
+2	oni possession
+2	call for blood
+2	swallowing plague
+1	kumano's blessing
+1	overblaze
+2	torrent of stone

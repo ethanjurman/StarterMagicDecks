@@ -1,0 +1,670 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Abyssal Hunter	mirage	1	B	3B	4	Creature - Human Assassin	1	1	R	{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.
+Ashen Powder	mirage	2	B	2BB	4	Sorcery			R	Put target creature card from an opponent's graveyard onto the battlefield under your control.
+Barbed-Back Wurm	mirage	3	B	4B	5	Creature - Wurm	4	3	U	{B}: Target green creature blocking Barbed-Back Wurm gets -1/-1 until end of turn.
+Binding Agony	mirage	4	B	1B	2	Enchantment - Aura			C	Enchant creature Whenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.
+Blighted Shaman	mirage	5	B	1B	2	Creature - Human Cleric Shaman	1	1	U	{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn. {T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.
+Bone Harvest	mirage	6	B	2B	3	Instant			C	Put any number of target creature cards from your graveyard on top of your library. Draw a card at the beginning of the next turn's upkeep.
+Breathstealer	mirage	7	B	2B	3	Creature - Nightstalker	2	2	C	{B}: Breathstealer gets +1/-1 until end of turn.
+Cadaverous Knight	mirage	8	B	2B	3	Creature - Zombie Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {1}{B}{B}: Regenerate Cadaverous Knight.
+Carrion	mirage	9	B	1BB	3	Instant			R	As an additional cost to cast Carrion, sacrifice a creature. Put X 0/1 black Insect creature tokens onto the battlefield, where X is the sacrificed creature's power.
+Catacomb Dragon	mirage	10	B	4BB	6	Creature - Dragon	4	4	R	Flying Whenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.
+Choking Sands	mirage	11	B	1BB	3	Sorcery			C	Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land's controller.
+Crypt Cobra	mirage	12	B	3B	4	Creature - Snake	3	3	U	Whenever Crypt Cobra attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)
+Dark Banishing	mirage	13	B	2B	3	Instant			C	Destroy target nonblack creature. It can't be regenerated.
+Dark Ritual	mirage	14	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Dirtwater Wraith	mirage	15	B	3B	4	Creature - Wraith	1	3	C	Swampwalk {B}: Dirtwater Wraith gets +1/+0 until end of turn.
+Drain Life	mirage	16	B	X1B	2	Sorcery			C	Spend only black mana on X. Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.
+Dread Specter	mirage	17	B	3B	4	Creature - Specter	2	2	U	Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.
+Ebony Charm	mirage	18	B	B	1	Instant			C	Choose one - Target opponent loses 1 life and you gain 1 life; or exile up to three target cards from a single graveyard; or target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Enfeeblement	mirage	19	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets -2/-2.
+Feral Shadow	mirage	20	B	2B	3	Creature - Nightstalker	2	1	C	Flying
+Fetid Horror	mirage	21	B	3B	4	Creature - Shade Horror	1	2	C	{B}: Fetid Horror gets +1/+1 until end of turn.
+Forbidden Crypt	mirage	22	B	3BB	5	Enchantment			R	If you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game. If a card would be put into your graveyard from anywhere, exile that card instead.
+Forsaken Wastes	mirage	23	B	2B	3	World Enchantment			R	Players can't gain life. At the beginning of each player's upkeep, that player loses 1 life. Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.
+Grave Servitude	mirage	24	B	1B	2	Enchantment - Aura			C	You may cast Grave Servitude any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature Enchanted creature gets +3/-1 and is black.
+Gravebane Zombie	mirage	25	B	3B	4	Creature - Zombie	3	2	C	If Gravebane Zombie would be put into a graveyard from the battlefield, put Gravebane Zombie on top of its owner's library instead.
+Harbinger of Night	mirage	26	B	2BB	4	Creature - Spirit	2	3	R	At the beginning of your upkeep, put a -1/-1 counter on each creature.
+Infernal Contract	mirage	27	B	BBB	3	Sorcery			R	Draw four cards. You lose half your life, rounded up.
+Kaervek's Hex	mirage	28	B	3B	4	Sorcery			U	Kaervek's Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.
+Mire Shade	mirage	29	B	1B	2	Creature - Shade	1	1	U	{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.
+Nocturnal Raid	mirage	30	B	2BB	4	Instant			U	Black creatures get +2/+0 until end of turn.
+Painful Memories	mirage	31	B	1B	2	Sorcery			U	Look at target opponent's hand and choose a card from it. Put that card on top of that player's library.
+Phyrexian Tribute	mirage	32	B	2B	3	Sorcery			R	As an additional cost to cast Phyrexian Tribute, sacrifice two creatures. Destroy target artifact.
+Purraj of Urborg	mirage	33	B	3BB	5	Legendary Creature - Cat Warrior	2	3	R	Purraj of Urborg has first strike as long as it's attacking. Whenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on Purraj of Urborg.
+Ravenous Vampire	mirage	34	B	3BB	5	Creature - Vampire	3	3	U	Flying At the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on Ravenous Vampire. If you don't, tap Ravenous Vampire.
+Reign of Terror	mirage	35	B	3BB	5	Sorcery			U	Destroy all green creatures or all white creatures. They can't be regenerated. You lose 2 life for each creature put into a graveyard this way.
+Restless Dead	mirage	36	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Restless Dead.
+Sewer Rats	mirage	37	B	B	1	Creature - Rat	1	1	C	{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.
+Shadow Guildmage	mirage	38	B	B	1	Creature - Human Wizard	1	1	C	{U}, {T}: Put target creature you control on top of its owner's library. {R}, {T}: Shadow Guildmage deals 1 damage to target creature or player and 1 damage to you.
+Shallow Grave	mirage	39	B	1B	2	Instant			R	Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+Shauku, Endbringer	mirage	40	B	5BB	7	Legendary Creature - Vampire	5	5	R	Flying Shauku, Endbringer can't attack if there's another creature on the battlefield. At the beginning of your upkeep, you lose 3 life. {T}: Exile target creature and put a +1/+1 counter on Shauku.
+Skulking Ghost	mirage	41	B	1B	2	Creature - Spirit	2	1	C	Flying When Skulking Ghost becomes the target of a spell or ability, sacrifice it.
+Soul Rend	mirage	42	B	1B	2	Instant			U	Destroy target creature if it's white. A creature destroyed this way can't be regenerated. Draw a card at the beginning of the next turn's upkeep.
+Soulshriek	mirage	43	B	B	1	Instant			C	Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.
+Spirit of the Night	mirage	44	B	6BBB	9	Legendary Creature - Demon Spirit	6	5	R	Flying, trample, haste, protection from black Spirit of the Night has first strike as long as it's attacking.
+Stupor	mirage	45	B	2B	3	Sorcery			U	Target opponent discards a card at random, then discards a card.
+Tainted Specter	mirage	46	B	3B	4	Creature - Specter	2	2	R	Flying {1}{B}{B}, {T}: Target player discards a card unless he or she puts a card from his or her hand on top of his or her library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.
+Tombstone Stairwell	mirage	47	B	2BB	4	World Enchantment			R	Cumulative upkeep {1}{B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) At the beginning of each upkeep, if Tombstone Stairwell is on the battlefield, each player puts a 2/2 black Zombie creature token with haste named Tombspawn onto the battlefield for each creature card in his or her graveyard. At the beginning of the end step or when Tombstone Stairwell leaves the battlefield, destroy all tokens put onto the battlefield with Tombstone Stairwell. They can't be regenerated.
+Urborg Panther	mirage	48	B	2B	3	Creature - Nightstalker Cat	2	2	C	{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther. Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.
+Wall of Corpses	mirage	49	B	1B	2	Creature - Wall	0	2	C	Defender (This creature can't attack.) {B}, Sacrifice Wall of Corpses: Destroy target creature Wall of Corpses is blocking.
+Withering Boon	mirage	50	B	1B	2	Instant			U	As an additional cost to cast Withering Boon, pay 3 life. Counter target creature spell.
+Zombie Mob	mirage	51	B	2BB	4	Creature - Zombie	2	0	U	Zombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard. When Zombie Mob enters the battlefield, exile all creature cards from your graveyard.
+Ancestral Memories	mirage	52	U	2UUU	5	Sorcery			R	Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+Azimaet Drake	mirage	53	U	2U	3	Creature - Drake	1	3	C	Flying {U}: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+Bay Falcon	mirage	54	U	1U	2	Creature - Bird	1	1	C	Flying, vigilance
+Bazaar of Wonders	mirage	55	U	3UU	5	World Enchantment			R	When Bazaar of Wonders enters the battlefield, exile all cards from all graveyards. Whenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.
+Boomerang	mirage	56	U	UU	2	Instant			C	Return target permanent to its owner's hand.
+Cerulean Wyvern	mirage	57	U	4U	5	Creature - Drake	3	3	U	Flying, protection from green
+Cloak of Invisibility	mirage	58	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature has phasing and can't be blocked except by Walls. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Coral Fighters	mirage	59	U	1U	2	Creature - Merfolk Soldier	1	1	U	Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.
+Daring Apprentice	mirage	60	U	1UU	3	Creature - Human Wizard	1	1	R	{T}, Sacrifice Daring Apprentice: Counter target spell.
+Dissipate	mirage	61	U	1UU	3	Instant			U	Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Dream Cache	mirage	62	U	2U	3	Sorcery			C	Draw three cards, then put two cards from your hand both on top of your library or both on the bottom of your library.
+Dream Fighter	mirage	63	U	2U	3	Creature - Human Soldier	1	1	C	Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step. )
+Energy Vortex	mirage	64	U	3UU	5	Enchantment			R	As Energy Vortex enters the battlefield, choose an opponent. At the beginning of your upkeep, remove all energy counters from Energy Vortex. At the beginning of the chosen player's upkeep, Energy Vortex deals 3 damage to that player unless he or she pays {1} for each energy counter on Energy Vortex. {X}: Put X energy counters on Energy Vortex. Activate this ability only during your upkeep.
+Ether Well	mirage	65	U	3U	4	Instant			U	Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.
+Flash	mirage	66	U	1U	2	Instant			R	You may put a creature card from your hand onto the battlefield. If you do, sacrifice it unless you pay its mana cost reduced by up to {2}.
+Floodgate	mirage	67	U	3U	4	Creature - Wall	0	5	U	Defender (This creature can't attack.) When Floodgate has flying, sacrifice it. When Floodgate leaves the battlefield, it deals 1 damage for each two Islands you control to each nonblue creature without flying.
+Hakim, Loreweaver	mirage	68	U	3UU	5	Legendary Creature - Human Wizard	2	4	R	Flying {U}{U}: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted. {U}{U}, {T}: Destroy all Auras attached to Hakim.
+Harmattan Efreet	mirage	69	U	2UU	4	Creature - Efreet	2	2	U	Flying {1}{U}{U}: Target creature gains flying until end of turn.
+Jolt	mirage	70	U	2U	3	Instant			C	You may tap or untap target artifact, creature, or land. Draw a card at the beginning of the next turn's upkeep.
+Kukemssa Pirates	mirage	71	U	3U	4	Creature - Human Pirate	2	2	R	Whenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.
+Kukemssa Serpent	mirage	72	U	3U	4	Creature - Serpent	4	3	C	Kukemssa Serpent can't attack unless defending player controls an Island. {U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn. When you control no Islands, sacrifice Kukemssa Serpent.
+Meddle	mirage	73	U	1U	2	Instant			U	If target spell has only one target and that target is a creature, change that spell's target to another creature.
+Memory Lapse	mirage	74	U	1U	2	Instant			C	Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+Merfolk Raiders	mirage	75	U	1U	2	Creature - Merfolk Soldier	2	3	C	Islandwalk Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Merfolk Seer	mirage	76	U	2U	3	Creature - Merfolk Wizard	2	2	C	When Merfolk Seer is put into a graveyard from the battlefield, you may pay {1}{U}. If you do, draw a card.
+Mind Bend	mirage	77	U	U	1	Instant			U	Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)
+Mind Harness	mirage	78	U	U	1	Enchantment - Aura			U	Enchant red or green creature Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) You control enchanted creature.
+Mist Dragon	mirage	79	U	4UU	6	Creature - Dragon	4	4	R	{0}: Mist Dragon gains flying. (This effect lasts indefinitely.) {0}: Mist Dragon loses flying. (This effect lasts indefinitely.) {3}{U}{U}: Mist Dragon phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Mystical Tutor	mirage	80	U	U	1	Instant			U	Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+Political Trickery	mirage	81	U	2U	3	Sorcery			R	Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)
+Polymorph	mirage	82	U	3U	4	Sorcery			R	Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.
+Power Sink	mirage	83	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Prismatic Lace	mirage	84	U	U	1	Instant			R	Target permanent becomes the color or colors of your choice. (This effect lasts indefinitely.)
+Psychic Transfer	mirage	85	U	4U	5	Sorcery			R	If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.
+Ray of Command	mirage	86	U	3U	4	Instant			C	Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+Reality Ripple	mirage	87	U	1U	2	Instant			C	Target artifact, creature, or land phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step. )
+Sandbar Crocodile	mirage	88	U	4U	5	Creature - Crocodile	6	5	C	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Sapphire Charm	mirage	89	U	U	1	Instant			C	Choose one - Target player draws a card at the beginning of the next turn's upkeep; or target creature gains flying until end of turn; or target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step. )
+Sea Scryer	mirage	90	U	1U	2	Creature - Merfolk Wizard	1	1	C	{T}: Add {1} to your mana pool. {1}, {T}: Add {U} to your mana pool.
+Shaper Guildmage	mirage	91	U	U	1	Creature - Human Wizard	1	1	C	{W}, {T}: Target creature gains first strike until end of turn. {B}, {T}: Target creature gets +1/+0 until end of turn.
+Shimmer	mirage	92	U	2UU	4	Enchantment			R	As Shimmer enters the battlefield, choose a land type. Each land of the chosen type has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Soar	mirage	93	U	1U	2	Enchantment - Aura			C	You may cast Soar any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature Enchanted creature gets +0/+1 and has flying.
+Suq'Ata Firewalker	mirage	94	U	1UU	3	Creature - Human Wizard	0	1	U	Suq'Ata Firewalker can't be the target of red spells or abilities from red sources. {T}: Suq'Ata Firewalker deals 1 damage to target creature or player.
+Taniwha	mirage	95	U	3UU	5	Legendary Creature - Serpent	7	7	R	Trample Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) At the beginning of your upkeep, all lands you control phase out. (They phase in before you untap during your next untap step.)
+Teferi's Curse	mirage	96	U	1U	2	Enchantment - Aura			C	Enchant artifact or creature Enchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Teferi's Drake	mirage	97	U	2U	3	Creature - Drake	3	2	C	Flying Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Teferi's Imp	mirage	98	U	2U	3	Creature - Imp	1	1	R	Flying Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) Whenever Teferi's Imp phases out, discard a card. Whenever Teferi's Imp phases in, draw a card.
+Thirst	mirage	99	U	2U	3	Enchantment - Aura			C	Enchant creature When Thirst enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. At the beginning of your upkeep, sacrifice Thirst unless you pay {U}.
+Tidal Wave	mirage	100	U	2U	3	Instant			U	Put a 5/5 blue Wall creature token with defender onto the battlefield. Sacrifice it at the beginning of the next end step.
+Vaporous Djinn	mirage	101	U	2UU	4	Creature - Djinn	3	4	U	Flying At the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Wave Elemental	mirage	102	U	2UU	4	Creature - Elemental	2	3	U	{U}, {T}, Sacrifice Wave Elemental: Tap up to three target creatures without flying.
+Afiya Grove	mirage	103	G	1G	2	Enchantment			R	Afiya Grove enters the battlefield with three +1/+1 counters on it. At the beginning of your upkeep, move a +1/+1 counter from Afiya Grove onto target creature. When Afiya Grove has no +1/+1 counters on it, sacrifice it.
+Armor of Thorns	mirage	104	G	1G	2	Enchantment - Aura			C	You may cast Armor of Thorns any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant nonblack creature Enchanted creature gets +2/+2.
+Barbed Foliage	mirage	105	G	2GG	4	Enchantment			U	Whenever a creature attacks you, it loses flanking until end of turn. Whenever a creature without flying attacks you, Barbed Foliage deals 1 damage to it.
+Brushwagg	mirage	106	G	1GG	3	Creature - Brushwagg	3	2	R	Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.
+Canopy Dragon	mirage	107	G	4GG	6	Creature - Dragon	4	4	R	Trample {1}{G}: Canopy Dragon gains flying and loses trample until end of turn.
+Crash of Rhinos	mirage	108	G	6GG	8	Creature - Rhino	8	4	C	Trample
+Cycle of Life	mirage	109	G	1GG	3	Enchantment			R	Return Cycle of Life to its owner's hand: Target creature you cast this turn becomes 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.
+Decomposition	mirage	110	G	1G	2	Enchantment - Aura			U	Enchant black creature Enchanted creature has "Cumulative upkeep-Pay 1 life." (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.) When enchanted creature is put into a graveyard, its controller loses 2 life.
+Early Harvest	mirage	111	G	1GG	3	Instant			R	Target player untaps all basic lands he or she controls.
+Fallow Earth	mirage	112	G	2G	3	Sorcery			U	Put target land on top of its owner's library.
+Femeref Archers	mirage	113	G	2G	3	Creature - Human Archer	2	2	U	{T}: Femeref Archers deals 4 damage to target attacking creature with flying.
+Fog	mirage	114	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Foratog	mirage	115	G	2G	3	Creature - Atog	1	2	U	{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.
+Giant Mantis	mirage	116	G	3G	4	Creature - Insect	2	4	C	Reach (This creature can block creatures with flying.)
+Gibbering Hyenas	mirage	117	G	2G	3	Creature - Hyena	3	2	C	Gibbering Hyenas can't block black creatures.
+Granger Guildmage	mirage	118	G	G	1	Creature - Human Wizard	1	1	C	{W}, {T}: Target creature gains first strike until end of turn. {R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.
+Hall of Gemstone	mirage	119	G	1GG	3	World Enchantment			R	At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.
+Jolrael's Centaur	mirage	120	G	1GG	3	Creature - Centaur Archer	2	2	C	Shroud (This permanent can't be the target of spells or abilities.) Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Jungle Patrol	mirage	121	G	3G	4	Creature - Human Soldier	3	2	R	{1}{G}, {T}: Put a 0/1 green Plant Wall creature token with defender onto the battlefield. Sacrifice a Plant Wall token: Add {R} to your mana pool.
+Jungle Wurm	mirage	122	G	3GG	5	Creature - Wurm	5	5	C	Whenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.
+Karoo Meerkat	mirage	123	G	1G	2	Creature - Mongoose	2	1	U	Protection from blue
+Locust Swarm	mirage	124	G	3G	4	Creature - Insect	1	1	U	Flying {G}: Regenerate Locust Swarm. {G}: Untap Locust Swarm. Activate this ability only once each turn.
+Lure of Prey	mirage	125	G	2GG	4	Instant			R	Cast Lure of Prey only if an opponent cast a creature spell this turn. You may put a green creature card from your hand onto the battlefield.
+Maro	mirage	126	G	2GG	4	Creature - Elemental	*	*	R	Maro's power and toughness are each equal to the number of cards in your hand.
+Mindbender Spores	mirage	127	G	2G	3	Creature - Fungus Wall	0	1	R	Defender (This creature can't attack.) Flying Whenever Mindbender Spores blocks a creature, put four fungus counters on that creature. The creature gains "This creature doesn't untap during your untap step if it has a fungus counter on it" and "At the beginning of your upkeep, remove a fungus counter from this creature."
+Mtenda Lion	mirage	128	G	G	1	Creature - Cat	2	1	C	Whenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.
+Natural Balance	mirage	129	G	2GG	4	Sorcery			R	Each player who controls six or more lands chooses five lands he or she controls and sacrifices the rest. Each player who controls four or fewer lands may search his or her library for X basic land cards and put them onto the battlefield, where X is five minus the number of lands he or she controls. Then each player who searched his or her library this way shuffles it.
+Nettletooth Djinn	mirage	130	G	3G	4	Creature - Djinn	4	4	U	At the beginning of your upkeep, Nettletooth Djinn deals 1 damage to you.
+Preferred Selection	mirage	131	G	2GG	4	Enchantment			R	At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice Preferred Selection and pay {2}{G}{G}. If you do, put one of those cards into your hand. If you don't, put one of those cards on the bottom of your library.
+Quirion Elves	mirage	132	G	1G	2	Creature - Elf Druid	1	1	C	As Quirion Elves enters the battlefield, choose a color. {T}: Add {G} to your mana pool. {T}: Add one mana of the chosen color to your mana pool.
+Rampant Growth	mirage	133	G	1G	2	Sorcery			C	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Regeneration	mirage	134	G	1G	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Roots of Life	mirage	135	G	1GG	3	Enchantment			U	As Roots of Life enters the battlefield, choose Islands or Swamps. Whenever a land of the chosen type an opponent controls becomes tapped, you gain 1 life.
+Sabertooth Cobra	mirage	136	G	2G	3	Creature - Snake	2	2	C	Whenever Sabertooth Cobra deals damage to a player, he or she gets a poison counter. That player gets another poison counter at the beginning of his or her next upkeep unless he or she pays {2} before that turn. (A player with ten or more poison counters loses the game.)
+Sandstorm	mirage	137	G	G	1	Instant			C	Sandstorm deals 1 damage to each attacking creature.
+Seedling Charm	mirage	138	G	G	1	Instant			C	Choose one - Return target Aura attached to a creature to its owner's hand; or regenerate target green creature; or target creature gains trample until end of turn.
+Seeds of Innocence	mirage	139	G	1GG	3	Sorcery			R	Destroy all artifacts. They can't be regenerated. The controller of each artifact destroyed this way gains life equal to its converted mana cost.
+Serene Heart	mirage	140	G	1G	2	Instant			C	Destroy all Auras.
+Stalking Tiger	mirage	141	G	3G	4	Creature - Cat	3	3	C	Stalking Tiger can't be blocked by more than one creature.
+Superior Numbers	mirage	142	G	GG	2	Sorcery			U	Superior Numbers deals damage to target creature equal to the number of creatures you control in excess of the number of creatures target opponent controls.
+Tranquil Domain	mirage	143	G	1G	2	Instant			C	Destroy all non-Aura enchantments.
+Tropical Storm	mirage	144	G	XG	1	Sorcery			U	Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.
+Uktabi Faerie	mirage	145	G	1G	2	Creature - Faerie	1	1	C	Flying {3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.
+Uktabi Wildcats	mirage	146	G	4G	5	Creature - Cat	*	*	R	Uktabi Wildcats's power and toughness are each equal to the number of Forests you control. {G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.
+Unseen Walker	mirage	147	G	1G	2	Creature - Dryad	1	1	U	Forestwalk {1}{G}{G}: Target creature gains forestwalk until end of turn.
+Unyaro Bee Sting	mirage	148	G	3G	4	Sorcery			U	Unyaro Bee Sting deals 2 damage to target creature or player.
+Village Elder	mirage	149	G	G	1	Creature - Human Druid	1	1	C	{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+Waiting in the Weeds	mirage	150	G	1GG	3	Sorcery			R	Each player puts a 1/1 green Cat creature token onto the battlefield for each untapped Forest he or she controls.
+Wall of Roots	mirage	151	G	1G	2	Creature - Plant Wall	0	5	C	Defender Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.
+Wild Elephant	mirage	152	G	3G	4	Creature - Elephant	3	3	C	Trample
+Worldly Tutor	mirage	153	G	G	1	Instant			U	Search your library for a creature card and reveal that card. Shuffle your library, then put the revealed card back on top of it.
+Agility	mirage	154	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has flanking. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Aleatory	mirage	155	R	1R	2	Instant			U	Cast Aleatory only during combat after blockers are declared. Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn. Draw a card at the beginning of the next turn's upkeep.
+Armorer Guildmage	mirage	156	R	R	1	Creature - Human Wizard	1	1	C	{B}, {T}: Target creature gets +1/+0 until end of turn. {G}, {T}: Target creature gets +0/+1 until end of turn.
+Barreling Attack	mirage	157	R	2RR	4	Instant			R	Target creature gets +1/+1 for each creature blocking it and gains trample until end of turn.
+Blind Fury	mirage	158	R	2RR	4	Instant			U	Cast Blind Fury only before the combat damage step. All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.
+Blistering Barrier	mirage	159	R	2R	3	Creature - Wall	5	2	C	Defender (This creature can't attack.)
+Builder's Bane	mirage	160	R	XXR	1	Sorcery			C	Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled destroyed this way.
+Burning Palm Efreet	mirage	161	R	2RR	4	Creature - Efreet	2	2	U	{1}{R}{R}: Burning Palm Efreet deals 2 damage to target creature with flying and that creature loses flying until end of turn.
+Burning Shield Askari	mirage	162	R	2R	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {R}{R}: Burning Shield Askari gains first strike until end of turn.
+Chaos Charm	mirage	163	R	R	1	Instant			C	Choose one - Destroy target Wall; or Chaos Charm deals 1 damage to target creature; or target creature gains haste until end of turn.
+Chaosphere	mirage	164	R	2R	3	World Enchantment			R	Creatures with flying can block only creatures with flying. Creatures without flying have reach. (They can block creatures with flying.)
+Cinder Cloud	mirage	165	R	3RR	5	Instant			U	Destroy target creature. If a white creature is put into a graveyard this way, Cinder Cloud deals damage to that creature's controller equal to the creature's power.
+Consuming Ferocity	mirage	166	R	1R	2	Enchantment - Aura			U	Enchant non-Wall creature Enchanted creature gets +1/+0. At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can't be regenerated.
+Crimson Hellkite	mirage	167	R	6RRR	9	Creature - Dragon	6	6	R	Flying {X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana this way.
+Crimson Roc	mirage	168	R	4R	5	Creature - Bird	2	2	U	Flying Whenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.
+Dwarven Miner	mirage	169	R	1R	2	Creature - Dwarf	1	2	U	{2}{R}, {T}: Destroy target nonbasic land.
+Dwarven Nomad	mirage	170	R	2R	3	Creature - Dwarf Nomad	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Ekundu Cyclops	mirage	171	R	3R	4	Creature - Cyclops	3	4	C	If a creature you control attacks, Ekundu Cyclops also attacks if able.
+Emberwilde Djinn	mirage	172	R	2RR	4	Creature - Djinn	5	4	R	Flying At the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.
+Final Fortune	mirage	173	R	RR	2	Instant			R	Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+Firebreathing	mirage	174	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Flame Elemental	mirage	175	R	2RR	4	Creature - Elemental	3	2	U	{R}, {T}, Sacrifice Flame Elemental: Flame Elemental deals damage equal to its power to target creature.
+Flare	mirage	176	R	2R	3	Instant			C	Flare deals 1 damage to target creature or player. Draw a card at the beginning of the next turn's upkeep.
+Goblin Elite Infantry	mirage	177	R	1R	2	Creature - Goblin Warrior	2	2	C	Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
+Goblin Scouts	mirage	178	R	3RR	5	Sorcery			U	Put three 1/1 red Goblin Scout creature tokens with mountainwalk onto the battlefield.
+Goblin Soothsayer	mirage	179	R	R	1	Creature - Goblin Shaman	1	1	U	{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.
+Goblin Tinkerer	mirage	180	R	1R	2	Creature - Goblin Artificer	1	2	C	{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+Hammer of Bogardan	mirage	181	R	1RR	3	Sorcery			R	Hammer of Bogardan deals 3 damage to target creature or player. {2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+Hivis of the Scale	mirage	182	R	3RR	5	Legendary Creature - Viashino Shaman	3	4	R	You may choose not to untap Hivis of the Scale during your untap step. {T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.
+Illicit Auction	mirage	183	R	3RR	5	Sorcery			R	Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. (This effect lasts indefinitely.)
+Incinerate	mirage	184	R	1R	2	Instant			C	Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+Kaervek's Torch	mirage	185	R	XR	1	Sorcery			C	As long as Kaervek's Torch is on the stack, spells that target it cost {2} more to cast. Kaervek's Torch deals X damage to target creature or player.
+Lightning Reflexes	mirage	186	R	1R	2	Enchantment - Aura			C	You may cast Lightning Reflexes any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature Enchanted creature gets +1/+0 and has first strike.
+Pyric Salamander	mirage	187	R	1R	2	Creature - Salamander	1	1	C	{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at the beginning of the next end step.
+Raging Spirit	mirage	188	R	3R	4	Creature - Spirit	3	3	C	{2}: Raging Spirit becomes colorless until end of turn.
+Reckless Embermage	mirage	189	R	3R	4	Creature - Human Wizard	2	2	R	{1}{R}: Reckless Embermage deals 1 damage to target creature or player and 1 damage to itself.
+Reign of Chaos	mirage	190	R	2RR	4	Sorcery			U	Choose one - Destroy target Plains and target white creature; or destroy target Island and target blue creature.
+Searing Spear Askari	mirage	191	R	2R	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {1}{R}: Searing Spear Askari can't be blocked except by two or more creatures this turn.
+Sirocco	mirage	192	R	1R	2	Instant			U	Target player reveals his or her hand. For each blue instant card revealed this way, that player discards that card unless he or she pays 4 life.
+Spitting Earth	mirage	193	R	1R	2	Sorcery			C	Spitting Earth deals damage equal to the number of Mountains you control to target creature.
+Stone Rain	mirage	194	R	2R	3	Sorcery			C	Destroy target land.
+Subterranean Spirit	mirage	195	R	3RR	5	Creature - Elemental Spirit	3	3	R	Protection from red {T}: Subterranean Spirit deals 1 damage to each creature without flying.
+Talruum Minotaur	mirage	196	R	2RR	4	Creature - Minotaur Berserker	3	3	C	Haste
+Telim'Tor	mirage	197	R	4R	5	Legendary Creature - Human Knight	2	2	R	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) Whenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.
+Telim'Tor's Edict	mirage	198	R	R	1	Instant			R	Exile target permanent you own or control. Draw a card at the beginning of the next turn's upkeep.
+Torrent of Lava	mirage	199	R	XRR	2	Sorcery			R	Torrent of Lava deals X damage to each creature without flying. As long as Torrent of Lava is on the stack, each creature has "{T}: Prevent the next 1 damage that would be dealt to this creature by Torrent of Lava this turn."
+Viashino Warrior	mirage	200	R	3R	4	Creature - Viashino Warrior	4	2	C	
+Volcanic Dragon	mirage	201	R	4RR	6	Creature - Dragon	4	4	R	Flying, haste
+Volcanic Geyser	mirage	202	R	XRR	2	Instant			U	Volcanic Geyser deals X damage to target creature or player.
+Wildfire Emissary	mirage	203	R	3R	4	Creature - Efreet	2	4	U	Protection from white {1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
+Zirilan of the Claw	mirage	204	R	3RR	5	Legendary Creature - Viashino Shaman	3	4	R	{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.
+Afterlife	mirage	205	W	2W	3	Instant			U	Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+Alarum	mirage	206	W	1W	2	Instant			C	Untap target nonattacking creature. It gets +1/+3 until end of turn.
+Auspicious Ancestor	mirage	207	W	3W	4	Creature - Human Cleric	2	3	R	When Auspicious Ancestor is put into a graveyard from the battlefield, you gain 3 life. Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.
+Benevolent Unicorn	mirage	208	W	1W	2	Creature - Unicorn	1	2	C	If a spell would deal damage to a creature or player, it deals that much damage minus 1 to that creature or player instead.
+Blinding Light	mirage	209	W	2W	3	Sorcery			U	Tap all nonwhite creatures.
+Celestial Dawn	mirage	210	W	1WW	3	Enchantment			R	Lands you control are Plains. Nonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white. You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.
+Civic Guildmage	mirage	211	W	W	1	Creature - Human Wizard	1	1	C	{G}, {T}: Target creature gets +0/+1 until end of turn. {U}, {T}: Put target creature you control on top of its owner's library.
+Dazzling Beauty	mirage	212	W	2W	3	Instant			C	Cast Dazzling Beauty only during the declare blockers step. Target attacking unblocked creature becomes blocked. Draw a card at the beginning of the next turn's upkeep.
+Disempower	mirage	213	W	1W	2	Instant			C	Put target artifact or enchantment on top of its owner's library.
+Disenchant	mirage	214	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Divine Offering	mirage	215	W	1W	2	Instant			C	Destroy target artifact. You gain life equal to its converted mana cost.
+Divine Retribution	mirage	216	W	1W	2	Instant			R	Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.
+Ekundu Griffin	mirage	217	W	3W	4	Creature - Griffin	2	2	C	Flying, first strike
+Enlightened Tutor	mirage	218	W	W	1	Instant			U	Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+Ethereal Champion	mirage	219	W	2WWW	5	Creature - Avatar	3	4	R	Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.
+Favorable Destiny	mirage	220	W	1W	2	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+2 as long as it's white. Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)
+Femeref Healer	mirage	221	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Femeref Knight	mirage	222	W	2W	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {W}: Femeref Knight gains vigilance until end of turn.
+Femeref Scouts	mirage	223	W	2W	3	Creature - Human Scout	1	4	C	
+Healing Salve	mirage	224	W	W	1	Instant			C	Choose one - Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+Illumination	mirage	225	W	WW	2	Instant			U	Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.
+Iron Tusk Elephant	mirage	226	W	4W	5	Creature - Elephant	3	3	U	Trample
+Ivory Charm	mirage	227	W	W	1	Instant			C	Choose one - All creatures get -2/-0 until end of turn; or tap target creature; or prevent the next 1 damage that would be dealt to target creature or player this turn.
+Jabari's Influence	mirage	228	W	3WW	5	Instant			R	Cast Jabari's Influence only after combat. Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.
+Mangara's Blessing	mirage	229	W	2W	3	Instant			U	You gain 5 life. When a spell or ability an opponent controls causes you to discard Mangara's Blessing, you gain 2 life, and you return Mangara's Blessing from your graveyard to your hand at the beginning of the next end step.
+Mangara's Equity	mirage	230	W	1WW	3	Enchantment			U	As Mangara's Equity enters the battlefield, choose black or red. At the beginning of your upkeep, sacrifice Mangara's Equity unless you pay {1}{W}. Whenever a creature of the chosen color deals damage to you or a white creature you control, Mangara's Equity deals that much damage to that creature.
+Melesse Spirit	mirage	231	W	3WW	5	Creature - Angel Spirit	3	3	U	Flying, protection from black
+Mtenda Griffin	mirage	232	W	3W	4	Creature - Griffin	2	2	U	Flying {W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.
+Mtenda Herder	mirage	233	W	W	1	Creature - Human Scout	1	1	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Noble Elephant	mirage	234	W	3W	4	Creature - Elephant	2	2	C	Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Null Chamber	mirage	235	W	3W	4	World Enchantment			R	As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card. The named cards can't be played.
+Pacifism	mirage	236	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Pearl Dragon	mirage	237	W	4WW	6	Creature - Dragon	4	4	R	Flying {1}{W}: Pearl Dragon gets +0/+1 until end of turn.
+Prismatic Circle	mirage	238	W	2W	3	Enchantment			C	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) As Prismatic Circle enters the battlefield, choose a color. {1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+Rashida Scalebane	mirage	239	W	3WW	5	Legendary Creature - Human Soldier	3	4	R	{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.
+Ritual of Steel	mirage	240	W	2W	3	Enchantment - Aura			C	Enchant creature When Ritual of Steel enters the battlefield, draw a card at the beginning of the next turn's upkeep. Enchanted creature gets +0/+2.
+Sacred Mesa	mirage	241	W	2W	3	Enchantment			R	At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus. {1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+Shadowbane	mirage	242	W	1W	2	Instant			U	The next time a source of your choice would deal damage to you or a creature you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.
+Sidar Jabari	mirage	243	W	3W	4	Legendary Creature - Human Knight	2	2	R	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) Whenever Sidar Jabari attacks, tap target creature defending player controls.
+Soul Echo	mirage	244	W	XWW	2	Enchantment			R	Soul Echo enters the battlefield with X echo counters on it. You don't lose the game for having 0 or less life. At the beginning of your upkeep, sacrifice Soul Echo if there are no echo counters on it. Otherwise, an opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove 1 echo counter from Soul Echo instead.
+Spectral Guardian	mirage	245	W	2WW	4	Creature - Spirit	2	3	R	Noncreature artifacts have shroud as long as Spectral Guardian is untapped. (They can't be the targets of spells or abilities.)
+Sunweb	mirage	246	W	3W	4	Creature - Wall	5	6	R	Defender (This creature can't attack.) Flying Sunweb can't block creatures with power 2 or less.
+Teremko Griffin	mirage	247	W	3W	4	Creature - Griffin	2	2	C	Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Unyaro Griffin	mirage	248	W	3W	4	Creature - Griffin	2	2	U	Flying Sacrifice Unyaro Griffin: Counter target red instant or sorcery spell.
+Vigilant Martyr	mirage	249	W	W	1	Creature - Human Cleric	1	1	U	Sacrifice Vigilant Martyr: Regenerate target creature. {W}{W}, {T}, Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.
+Wall of Resistance	mirage	250	W	1W	2	Creature - Wall	0	3	C	Defender (This creature can't attack.) Flying At the beginning of the end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.
+Ward of Lights	mirage	251	W	WW	2	Enchantment - Aura			C	You may cast Ward of Lights any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature As Ward of Lights enters the battlefield, choose a color. Enchanted creature has protection from the chosen color. This effect doesn't remove Ward of Lights.
+Yare	mirage	252	W	2W	3	Instant			R	Target creature defending player controls gets +3/+0 until end of turn. That creature can block up to two additional creatures this turn.
+Zhalfirin Commander	mirage	253	W	2W	3	Creature - Human Knight	2	2	U	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+Zhalfirin Knight	mirage	254	W	2W	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {W}{W}: Zhalfirin Knight gains first strike until end of turn.
+Zuberi, Golden Feather	mirage	255	W	4W	5	Legendary Creature - Griffin	3	3	R	Flying Other Griffin creatures get +1/+1.
+Acidic Dagger	mirage	256	A	4	4	Artifact			R	{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only during combat before blockers are declared.
+Amber Prison	mirage	257	A	4	4	Artifact			R	You may choose not to untap Amber Prison during your untap step. {4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as Amber Prison remains tapped.
+Amulet of Unmaking	mirage	258	A	5	5	Artifact			R	{5}, {T}, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.
+Basalt Golem	mirage	259	A	5	5	Artifact Creature - Golem	2	4	U	Basalt Golem can't be blocked by artifact creatures. Whenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 colorless Wall artifact creature token with defender onto the battlefield.
+Bone Mask	mirage	260	A	4	4	Artifact			R	{2}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage. For each 1 damage prevented this way, exile the top card of your library.
+Charcoal Diamond	mirage	261	A	2	2	Artifact			U	Charcoal Diamond enters the battlefield tapped. {T}: Add {B} to your mana pool.
+Chariot of the Sun	mirage	262	A	3	3	Artifact			U	{2}, {T}: Until end of turn, target creature you control gains flying and its toughness becomes 1.
+Crystal Golem	mirage	263	A	4	4	Artifact Creature - Golem	3	3	U	At the beginning of your end step, Crystal Golem phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Cursed Totem	mirage	264	A	2	2	Artifact			R	Activated abilities of creatures can't be activated.
+Elixir of Vitality	mirage	265	A	4	4	Artifact			U	Elixir of Vitality enters the battlefield tapped. {T}, Sacrifice Elixir of Vitality: You gain 4 life. {8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.
+Ersatz Gnomes	mirage	266	A	3	3	Artifact Creature - Gnome	1	1	U	{T}: Target spell is colorless. {T}: Target permanent becomes colorless until end of turn.
+Fire Diamond	mirage	267	A	2	2	Artifact			U	Fire Diamond enters the battlefield tapped. {T}: Add {R} to your mana pool.
+Grinning Totem	mirage	268	A	4	4	Artifact			R	{2}, {T}, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.
+Horrible Hordes	mirage	269	A	3	3	Artifact Creature - Spirit	2	2	U	Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)
+Igneous Golem	mirage	270	A	5	5	Artifact Creature - Golem	3	4	U	{2}: Igneous Golem gains trample until end of turn.
+Lead Golem	mirage	271	A	5	5	Artifact Creature - Golem	3	5	U	Whenever Lead Golem attacks, it doesn't untap during its controller's next untap step.
+Lion's Eye Diamond	mirage	272	A	0	0	Artifact			R	Sacrifice Lion's Eye Diamond, Discard your hand: Add three mana of any one color to your mana pool. Activate this ability only any time you could cast an instant.
+Mana Prism	mirage	273	A	3	3	Artifact			U	{T}: Add {1} to your mana pool. {1}, {T}: Add one mana of any color to your mana pool.
+Mangara's Tome	mirage	274	A	5	5	Artifact			R	When Mangara's Tome enters the battlefield, search your library for five cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library. {2}: The next time you would draw a card this turn, instead put the top card of the exiled pile into its owner's hand.
+Marble Diamond	mirage	275	A	2	2	Artifact			U	Marble Diamond enters the battlefield tapped. {T}: Add {W} to your mana pool.
+Misers' Cage	mirage	276	A	3	3	Artifact			R	At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.
+Moss Diamond	mirage	277	A	2	2	Artifact			U	Moss Diamond enters the battlefield tapped. {T}: Add {G} to your mana pool.
+Patagia Golem	mirage	278	A	4	4	Artifact Creature - Golem	2	3	U	{3}: Patagia Golem gains flying until end of turn.
+Paupers' Cage	mirage	279	A	3	3	Artifact			R	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Paupers' Cage deals 2 damage to him or her.
+Phyrexian Dreadnought	mirage	280	A	1	1	Artifact Creature - Dreadnought	12	12	R	Trample When Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.
+Phyrexian Vault	mirage	281	A	3	3	Artifact			U	{2}, {T}, Sacrifice a creature: Draw a card.
+Razor Pendulum	mirage	282	A	4	4	Artifact			R	At the beginning of each player's end step, if that player has 5 or less life, Razor Pendulum deals 2 damage to him or her.
+Sand Golem	mirage	283	A	5	5	Artifact Creature - Golem	3	3	U	When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.
+Sky Diamond	mirage	284	A	2	2	Artifact			U	Sky Diamond enters the battlefield tapped. {T}: Add {U} to your mana pool.
+Teeka's Dragon	mirage	285	A	9	9	Artifact Creature - Dragon	5	5	R	Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)
+Telim'Tor's Darts	mirage	286	A	2	2	Artifact			U	{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.
+Unerring Sling	mirage	287	A	3	3	Artifact			U	{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.
+Ventifact Bottle	mirage	288	A	3	3	Artifact			R	{X}{1}, {T}: Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery. At the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Then add {1} to your mana pool for each charge counter removed this way.
+Bad River	mirage	289	L		0	Land			U	Bad River enters the battlefield tapped. {T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.
+Crystal Vein	mirage	290	L		0	Land			U	{T}: Add {1} to your mana pool. {T}, Sacrifice Crystal Vein: Add {2} to your mana pool.
+Flood Plain	mirage	291	L		0	Land			U	Flood Plain enters the battlefield tapped. {T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+Forest	mirage	292	L		0	Basic Land - Forest			L	G
+Grasslands	mirage	296	L		0	Land			U	Grasslands enters the battlefield tapped. {T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+Island	mirage	297	L		0	Basic Land - Island			L	U
+Mountain	mirage	301	L		0	Basic Land - Mountain			L	R
+Mountain Valley	mirage	305	L		0	Land			U	Mountain Valley enters the battlefield tapped. {T}, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.
+Plains	mirage	306	L		0	Basic Land - Plains			L	W
+Rocky Tar Pit	mirage	310	L		0	Land			U	Rocky Tar Pit enters the battlefield tapped. {T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.
+Swamp	mirage	311	L		0	Basic Land - Swamp			L	B
+Teferi's Isle	mirage	315	L		0	Legendary Land			R	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) Teferi's Isle enters the battlefield tapped. {T}: Add {U}{U} to your mana pool.
+Asmira, Holy Avenger	mirage	316	GW	2GW	4	Legendary Creature - Human Cleric	2	3	R	Flying At the beginning of the end step, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from the battlefield this turn.
+Benthic Djinn	mirage	317	UB	2UB	4	Creature - Djinn	5	3	R	Islandwalk At the beginning of your upkeep, you lose 2 life.
+Cadaverous Bloom	mirage	318	BG	3BG	5	Enchantment			R	Exile a card from your hand: Add {B}{B} or {G}{G} to your mana pool.
+Circle of Despair	mirage	319	WB	1WB	3	Enchantment			R	{1}, Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+Delirium	mirage	320	BR	1BR	3	Instant			U	Cast Delirium only during an opponent's turn. Tap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.
+Discordant Spirit	mirage	321	BR	2BR	4	Creature - Spirit	2	2	R	At the beginning of the end step, if it's an opponent's turn, put a +1/+1 counter on Discordant Spirit for each 1 damage dealt to you this turn. At the beginning of your end step, remove all +1/+1 counters on Discordant Spirit.
+Emberwilde Caliph	mirage	322	UR	2UR	4	Creature - Djinn	4	4	R	Flying, trample Emberwilde Caliph attacks each turn if able. Whenever Emberwilde Caliph deals damage, you lose that much life.
+Energy Bolt	mirage	323	RW	XRW	2	Sorcery			R	Choose one - Energy Bolt deals X damage to target player; or target player gains X life.
+Frenetic Efreet	mirage	324	UR	1UR	3	Creature - Efreet	2	1	R	Flying {0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Grim Feast	mirage	325	BG	1BG	3	Enchantment			R	At the beginning of your upkeep, Grim Feast deals 1 damage to you. Whenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.
+Harbor Guardian	mirage	326	WU	2WU	4	Creature - Gargoyle	3	4	U	Reach (This creature can block creatures with flying.) Whenever Harbor Guardian attacks, defending player may draw a card.
+Haunting Apparition	mirage	327	UB	1UB	3	Creature - Spirit	1+*	2	U	Flying As Haunting Apparition enters the battlefield, choose an opponent. Haunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.
+Hazerider Drake	mirage	328	WU	2WU	4	Creature - Drake	2	3	U	Flying, protection from red
+Jungle Troll	mirage	329	RG	1RG	3	Creature - Troll	2	1	U	{R}: Regenerate Jungle Troll. {G}: Regenerate Jungle Troll.
+Kaervek's Purge	mirage	330	BR	XBR	2	Sorcery			U	Destroy target creature with converted mana cost X. If that creature is put into a graveyard this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.
+Leering Gargoyle	mirage	331	WU	1WU	3	Creature - Gargoyle	2	2	R	Flying {T}: Leering Gargoyle gets -2/+2 and loses flying until end of turn.
+Malignant Growth	mirage	332	GU	3GU	5	Enchantment			R	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) At the beginning of your upkeep, put a growth counter on Malignant Growth. At the beginning of each opponent's draw step, that player draws an additional card for each growth counter on Malignant Growth, then Malignant Growth deals damage to the player equal to the number of cards he or she drew this way.
+Phyrexian Purge	mirage	333	BR	2BR	4	Sorcery			R	Destroy any number of target creatures. Phyrexian Purge costs 3 life more to cast for each target.
+Prismatic Boon	mirage	334	WU	XWU	2	Instant			U	X target creatures gain protection from the color of your choice until end of turn.
+Purgatory	mirage	335	WB	2WB	4	Enchantment			R	Whenever a nontoken creature is put into your graveyard from the battlefield, exile that card. At the beginning of your upkeep, you may pay {4} and 2 life. If you do, return a card exiled with Purgatory to the battlefield.
+Radiant Essence	mirage	336	GW	1GW	3	Creature - Spirit	2	3	U	Radiant Essence gets +1/+2 as long as an opponent controls a black permanent.
+Reflect Damage	mirage	337	RW	3RW	5	Instant			R	The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.
+Reparations	mirage	338	WU	1WU	3	Enchantment			R	Whenever an opponent casts a spell that targets you or a creature you control, you may draw a card.
+Rock Basilisk	mirage	339	RG	4RG	6	Creature - Basilisk	4	5	R	Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+Savage Twister	mirage	340	RG	XRG	2	Sorcery			U	Savage Twister deals X damage to each creature.
+Sawback Manticore	mirage	341	RG	3RG	5	Creature - Manticore	2	4	R	{4}: Sawback Manticore gains flying until end of turn. {1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.
+Sealed Fate	mirage	342	UB	XUB	2	Sorcery			U	Look at the top X cards of target opponent's library. Exile one of those cards and put the rest back on top of that player's library in any order.
+Shauku's Minion	mirage	343	BR	1BR	3	Creature - Human Minion	2	2	U	{B}{R}, {T}: Shauku's Minion deals 2 damage to target white creature.
+Spatial Binding	mirage	344	UB	UB	2	Enchantment			U	Pay 1 life: Until your next upkeep, target permanent can't phase out.
+Unfulfilled Desires	mirage	345	UB	1UB	3	Enchantment			R	{1}, Pay 1 life: Draw a card, then discard a card.
+Vitalizing Cascade	mirage	346	GW	XGW	2	Instant			U	You gain X plus 3 life.
+Warping Wurm	mirage	347	GU	2GU	4	Creature - Wurm	1	1	R	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) At the beginning of your upkeep, you may pay {2}{G}{U}. If you don't, Warping Wurm phases out. When Warping Wurm phases in, put a +1/+1 counter on it.
+Wellspring	mirage	348	GW	1GW	3	Enchantment - Aura			R	Enchant land When Wellspring enters the battlefield, gain control of enchanted land until end of turn. At the beginning of your upkeep, untap enchanted land. You gain control of that land until end of turn.
+Windreaper Falcon	mirage	349	RG	1RG	3	Creature - Bird	1	1	U	Flying, protection from blue
+Zebra Unicorn	mirage	350	GW	2GW	4	Creature - Unicorn	2	2	U	Whenever Zebra Unicorn deals damage, you gain that much life.
+Aku Djinn	visions	1	B	3BB	5	Creature - Djinn	5	6	R	Trample At the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.
+Blanket of Night	visions	2	B	1BB	3	Enchantment			U	Each land is a Swamp in addition to its other land types.
+Brood of Cockroaches	visions	3	B	1B	2	Creature - Insect	1	1	U	When Brood of Cockroaches is put into your graveyard from the battlefield, at the beginning of the next end step, you lose 1 life and return Brood of Cockroaches to your hand.
+Coercion	visions	4	B	2B	3	Sorcery			C	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Crypt Rats	visions	5	B	2B	3	Creature - Rat	1	1	C	{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana this way.
+Dark Privilege	visions	6	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1. Sacrifice a creature: Regenerate enchanted creature.
+Death Watch	visions	7	B	B	1	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, its controller loses life equal to its power and you gain life equal to its toughness.
+Desolation	visions	8	B	1BB	3	Enchantment			U	At the beginning of the end step, each player who tapped a land for mana this turn sacrifices a land. If a Plains is sacrificed this way, Desolation deals 2 damage to that Plains's controller.
+Fallen Askari	visions	9	B	1B	2	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) Fallen Askari can't block.
+Forbidden Ritual	visions	10	B	2BB	4	Sorcery			R	Sacrifice a nontoken permanent. If you do, target opponent loses 2 life unless he or she sacrifices a permanent or discards a card. You may repeat this process any number of times.
+Funeral Charm	visions	11	B	B	1	Instant			C	Choose one - Target player discards a card; or target creature gets +2/-1 until end of turn; or target creature gains swampwalk until end of turn.
+Infernal Harvest	visions	12	B	1B	2	Sorcery			C	As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand. Infernal Harvest deals X damage divided as you choose among any number of target creatures.
+Kaervek's Spite	visions	13	B	BBB	3	Instant			R	As an additional cost to cast Kaervek's Spite, sacrifice all permanents you control and discard your hand. Target player loses 5 life.
+Necromancy	visions	14	B	2B	3	Enchantment			U	You may cast Necromancy any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. When Necromancy enters the battlefield, if it's on the battlefield, it becomes an Aura with "enchant creature put onto the battlefield with Necromancy." Put target creature card from a graveyard onto the battlefield under your control and attach Necromancy to it. When Necromancy leaves the battlefield, that creature's controller sacrifices it.
+Necrosavant	visions	15	B	3BBB	6	Creature - Zombie Giant	5	5	R	{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.
+Nekrataal	visions	16	B	2BB	4	Creature - Human Assassin	2	1	U	First strike (This creature deals combat damage before creatures without first strike.) When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+Pillar Tombs of Aku	visions	17	B	2BB	4	World Enchantment			R	At the beginning of each player's upkeep, that player may sacrifice a creature. If that player doesn't, he or she loses 5 life and you sacrifice Pillar Tombs of Aku.
+Python	visions	18	B	1BB	3	Creature - Snake	3	2	C	
+Suq'Ata Assassin	visions	19	B	1BB	3	Creature - Human Assassin	1	1	U	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Whenever Suq'Ata Assassin attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)
+Tar Pit Warrior	visions	20	B	2B	3	Creature - Cyclops Warrior	3	4	C	When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.
+Urborg Mindsucker	visions	21	B	2B	3	Creature - Horror	2	2	C	{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.
+Vampiric Tutor	visions	22	B	B	1	Instant			R	Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+Vampirism	visions	23	B	1B	2	Enchantment - Aura			U	Enchant creature When Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep. Enchanted creature gets +1/+1 for each other creature you control. Other creatures you control get -1/-1.
+Wake of Vultures	visions	24	B	3B	4	Creature - Bird	3	1	C	Flying {1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.
+Wicked Reward	visions	25	B	1B	2	Instant			C	As an additional cost to cast Wicked Reward, sacrifice a creature. Target creature gets +4/+2 until end of turn.
+Betrayal	visions	26	U	U	1	Enchantment - Aura			C	Enchant creature an opponent controls Whenever enchanted creature becomes tapped, you draw a card.
+Breezekeeper	visions	27	U	3U	4	Creature - Djinn	4	4	C	Flying Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Chronatog	visions	28	U	1U	2	Creature - Atog	1	2	R	{0}: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn.
+Cloud Elemental	visions	29	U	2U	3	Creature - Elemental	2	3	C	Flying (This creature can't be blocked except by creatures with flying or reach.) Cloud Elemental can block only creatures with flying.
+Desertion	visions	30	U	3UU	5	Instant			R	Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.
+Dream Tides	visions	31	U	2UU	4	Enchantment			U	Creatures don't untap during their controllers' untap steps. At the beginning of each player's upkeep, that player may choose any number of tapped nongreen creatures he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.
+Flooded Shoreline	visions	32	U	UU	2	Enchantment			R	{U}{U}, Return two Islands you control to their owner's hand: Return target creature to its owner's hand.
+Foreshadow	visions	33	U	1U	2	Instant			U	Name a card, then put the top card of target opponent's library into his or her graveyard. If that card is the named card, you draw a card. Draw a card at the beginning of the next turn's upkeep.
+Impulse	visions	34	U	1U	2	Instant			C	Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library.
+Inspiration	visions	35	U	3U	4	Instant			C	Target player draws two cards.
+Knight of the Mists	visions	36	U	2U	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) When Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.
+Man-o'-War	visions	37	U	2U	3	Creature - Jellyfish	2	2	C	When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+Mystic Veil	visions	38	U	1U	2	Enchantment - Aura			C	You may cast Mystic Veil any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature Enchanted creature has shroud. (It can't be the target of spells or abilities.)
+Ovinomancer	visions	39	U	2U	3	Creature - Human Wizard	0	1	U	When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand. {T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.
+Prosperity	visions	40	U	XU	1	Sorcery			U	Each player draws X cards.
+Rainbow Efreet	visions	41	U	3U	4	Creature - Efreet	3	1	R	Flying {U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Shimmering Efreet	visions	42	U	2U	3	Creature - Efreet	2	2	U	Flying Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) Whenever Shimmering Efreet phases in, target creature phases out. (It phases in before its controller untaps during his or her next untap step.)
+Shrieking Drake	visions	43	U	U	1	Creature - Drake	1	1	C	Flying When Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.
+Teferi's Realm	visions	44	U	1UU	3	World Enchantment			R	At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they doesn't exist. Each one phases in before its controller untaps during his or her next untap step. )
+Three Wishes	visions	45	U	1UU	3	Instant			R	Exile the top three cards of your library face down. You may look at those cards for as long as they remain exiled. Until your next turn, you may play those cards. At the beginning of your next upkeep, put any of those cards you didn't play into your graveyard.
+Time and Tide	visions	46	U	UU	2	Instant			U	Simultaneously, all creature cards that are phased out phase in and all creatures with phasing phase out.
+Undo	visions	47	U	1UU	3	Sorcery			C	Return two target creatures to their owners' hands.
+Vanishing	visions	48	U	U	1	Enchantment - Aura			C	Enchant creature {U}{U}: Enchanted creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step. )
+Vision Charm	visions	49	U	U	1	Instant			C	Choose one - Target player puts the top four cards of his or her library into his or her graveyard; or choose a land type and a basic land type, and each land of the first chosen type becomes the second chosen type until end of turn; or target artifact phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step. )
+Waterspout Djinn	visions	50	U	2UU	4	Creature - Djinn	4	4	U	Flying At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.
+Bull Elephant	visions	51	G	3G	4	Creature - Elephant	4	4	C	When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.
+City of Solitude	visions	52	G	2G	3	Enchantment			R	Players can cast spells and activate abilities only during their own turns.
+Creeping Mold	visions	53	G	2GG	4	Sorcery			U	Destroy target artifact, enchantment, or land.
+Elephant Grass	visions	54	G	G	1	Enchantment			U	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) Black creatures can't attack you. Nonblack creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Elven Cache	visions	55	G	2GG	4	Sorcery			C	Return target card from your graveyard to your hand.
+Emerald Charm	visions	56	G	G	1	Instant			C	Choose one - Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn.
+Feral Instinct	visions	57	G	1G	2	Instant			C	Target creature gets +1/+1 until end of turn. Draw a card at the beginning of the next turn's upkeep.
+Giant Caterpillar	visions	58	G	3G	4	Creature - Insect	3	3	C	{G}, Sacrifice Giant Caterpillar: Put a 1/1 green Insect creature token with flying named Butterfly onto the battlefield at the beginning of the next end step.
+Katabatic Winds	visions	59	G	2G	3	Enchantment			R	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) Creatures with flying can't attack or block, and their activated abilities with {T} in their costs can't be activated.
+King Cheetah	visions	60	G	3G	4	Creature - Cat	3	2	C	Flash
+Kyscu Drake	visions	61	G	3G	4	Creature - Drake	2	2	U	Flying {G}: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn. Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.
+Lichenthrope	visions	62	G	3GG	5	Creature - Plant Fungus	5	5	R	If damage would be dealt to Lichenthrope, put that many -1/-1 counters on it instead. At the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope.
+Mortal Wound	visions	63	G	G	1	Enchantment - Aura			C	Enchant creature When enchanted creature is dealt damage, destroy it.
+Natural Order	visions	64	G	2GG	4	Sorcery			R	As an additional cost to cast Natural Order, sacrifice a green creature. Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+Panther Warriors	visions	65	G	4G	5	Creature - Cat Warrior	6	3	C	
+Quirion Druid	visions	66	G	2G	3	Creature - Elf Druid	1	2	R	{G}, {T}: Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)
+Quirion Ranger	visions	67	G	G	1	Creature - Elf	1	1	C	Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+River Boa	visions	68	G	1G	2	Creature - Snake	2	1	C	Islandwalk {G}: Regenerate River Boa.
+Rowen	visions	69	G	2GG	4	Enchantment			R	Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.
+Spider Climb	visions	70	G	G	1	Enchantment - Aura			C	You may cast Spider Climb any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant creature Enchanted creature gets +0/+3 and has reach. (It can block creatures with flying.)
+Stampeding Wildebeests	visions	71	G	2GG	4	Creature - Antelope Beast	5	4	U	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) At the beginning of your upkeep, return a green creature you control to its owner's hand.
+Summer Bloom	visions	72	G	1G	2	Sorcery			U	You may play up to three additional lands this turn.
+Uktabi Orangutan	visions	73	G	2G	3	Creature - Ape	2	2	U	When Uktabi Orangutan enters the battlefield, destroy target artifact.
+Warthog	visions	74	G	1GG	3	Creature - Boar	3	2	C	Swampwalk
+Wind Shear	visions	75	G	2G	3	Instant			U	Attacking creatures with flying get -2/-2 and lose flying until end of turn.
+Bogardan Phoenix	visions	76	R	2RRR	5	Creature - Phoenix	3	3	R	Flying When Bogardan Phoenix is put into a graveyard from the battlefield, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.
+Dwarven Vigilantes	visions	77	R	2R	3	Creature - Dwarf	2	2	C	Whenever Dwarven Vigilantes attacks and isn't blocked, you may have it deal damage equal to its power to target creature. If you do, Dwarven Vigilantes assigns no combat damage this turn.
+Elkin Lair	visions	78	R	3R	4	World Enchantment			R	At the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.
+Fireblast	visions	79	R	4RR	6	Instant			C	You may sacrifice two Mountains rather than pay Fireblast's mana cost. Fireblast deals 4 damage to target creature or player.
+Goblin Recruiter	visions	80	R	1R	2	Creature - Goblin	1	1	U	When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+Goblin Swine-Rider	visions	81	R	R	1	Creature - Goblin	1	1	C	Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.
+Hearth Charm	visions	82	R	R	1	Instant			C	Choose one - Destroy target artifact creature; or attacking creatures get +1/+0 until end of turn; or target creature with power 2 or less is unblockable this turn.
+Heat Wave	visions	83	R	2R	3	Enchantment			U	Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) Blue creatures can't block creatures you control. Nonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.
+Hulking Cyclops	visions	84	R	3RR	5	Creature - Cyclops	5	5	U	Hulking Cyclops can't block.
+Keeper of Kookus	visions	85	R	R	1	Creature - Goblin	1	1	C	{R}: Keeper of Kookus gains protection from red until end of turn.
+Kookus	visions	86	R	3RR	5	Creature - Djinn	3	5	R	Trample At the beginning of your upkeep, if you don't control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able. {R}: Kookus gets +1/+0 until end of turn.
+Lightning Cloud	visions	87	R	3R	4	Enchantment			R	Whenever a player casts a red spell, you may pay {R}. If you do, Lightning Cloud deals 1 damage to target creature or player.
+Mob Mentality	visions	88	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature has trample. Whenever all non-Wall creatures you control attack, enchanted creature gets +X/+0 until end of turn, where X is the number of attacking creatures.
+Ogre Enforcer	visions	89	R	3RR	5	Creature - Ogre	4	4	R	Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.
+Raging Gorilla	visions	90	R	2R	3	Creature - Ape	2	3	C	Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.
+Relentless Assault	visions	91	R	2RR	4	Sorcery			R	Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Rock Slide	visions	92	R	XR	1	Instant			C	Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.
+Solfatara	visions	93	R	2R	3	Instant			C	Target player can't play land cards this turn. Draw a card at the beginning of the next turn's upkeep.
+Song of Blood	visions	94	R	1R	2	Sorcery			C	Put the top four cards of your library into your graveyard. Whenever a creature attacks this turn, it gets +1/+0 until end of turn for each creature card put into your graveyard this way.
+Spitting Drake	visions	95	R	3R	4	Creature - Drake	2	2	U	Flying {R}: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+Suq'Ata Lancer	visions	96	R	2R	3	Creature - Human Knight	2	2	C	Haste Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Talruum Champion	visions	97	R	4R	5	Creature - Minotaur	3	3	C	First strike Whenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.
+Talruum Piper	visions	98	R	4R	5	Creature - Minotaur	3	3	U	All creatures with flying able to block Talruum Piper do so.
+Tremor	visions	99	R	R	1	Sorcery			C	Tremor deals 1 damage to each creature without flying.
+Viashino Sandstalker	visions	100	R	1RR	3	Creature - Viashino Warrior	4	2	U	Haste (This creature can attack the turn it comes under your control.) At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)
+Archangel	visions	101	W	5WW	7	Creature - Angel	5	5	R	Flying, vigilance
+Daraja Griffin	visions	102	W	3W	4	Creature - Griffin	2	2	U	Flying Sacrifice Daraja Griffin: Destroy target black creature.
+Equipoise	visions	103	W	2W	3	Enchantment			R	At the beginning of your upkeep, for each artifact target player controls in excess of the number you control, choose an artifact he or she controls. Repeat this process for creatures and lands. The chosen permanents phase out. (While they're phased out, they're treated as though they don't exist. They phase in before that player untaps during his or her next untap step. )
+Eye of Singularity	visions	104	W	3W	4	World Enchantment			R	When Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated. Whenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.
+Freewind Falcon	visions	105	W	1W	2	Creature - Bird	1	1	C	Flying, protection from red
+Gossamer Chains	visions	106	W	WW	2	Enchantment			C	Return Gossamer Chains to its owner's hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.
+Honorable Passage	visions	107	W	1W	2	Instant			U	The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.
+Hope Charm	visions	108	W	W	1	Instant			C	Choose one - Target creature gains first strike until end of turn; or target player gains 2 life; or destroy target Aura.
+Infantry Veteran	visions	109	W	W	1	Creature - Human Soldier	1	1	C	{T}: Target attacking creature gets +1/+1 until end of turn.
+Jamuraan Lion	visions	110	W	2W	3	Creature - Cat	3	1	C	{W}, {T}: Target creature can't block this turn.
+Knight of Valor	visions	111	W	2W	3	Creature - Human Knight	2	2	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {1}{W}: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn.
+Longbow Archer	visions	112	W	WW	2	Creature - Human Soldier Archer	2	2	U	First strike; reach (This creature can block creatures with flying.)
+Miraculous Recovery	visions	113	W	4W	5	Instant			U	Return target creature card from your graveyard to the battlefield with a +1/+1 counter on it.
+Parapet	visions	114	W	1W	2	Enchantment			C	You may cast Parapet any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Creatures you control get +0/+1.
+Peace Talks	visions	115	W	1W	2	Sorcery			U	This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.
+Relic Ward	visions	116	W	1W	2	Enchantment - Aura			U	You may cast Relic Ward any time you could cast an instant. If it was cast any time a sorcery couldn't have been cast, sacrifice it at the beginning of the next cleanup step. Enchant artifact Enchanted artifact has shroud. (It can't be the target of spells or abilities.)
+Remedy	visions	117	W	1W	2	Instant			C	Prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Resistance Fighter	visions	118	W	W	1	Creature - Human Soldier	1	1	C	Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.
+Retribution of the Meek	visions	119	W	2W	3	Sorcery			R	Destroy all creatures with power 4 or greater. They can't be regenerated.
+Righteous Aura	visions	120	W	1W	2	Enchantment			C	{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.
+Sun Clasp	visions	121	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+3. {W}: Return enchanted creature to its owner's hand.
+Teferi's Honor Guard	visions	122	W	2W	3	Creature - Human Knight	2	2	U	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Tithe	visions	123	W	W	1	Instant			R	Search your library for a Plains card. If you control fewer lands than an opponent, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.
+Warrior's Honor	visions	124	W	2W	3	Instant			C	Creatures you control get +1/+1 until end of turn.
+Zhalfirin Crusader	visions	125	W	1WW	3	Creature - Human Knight	2	2	R	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.) {1}{W}: The next 1 damage that would be dealt to Zhalfirin Crusader this turn is dealt to target creature or player instead.
+Army Ants	visions	126	BR	1BR	3	Creature - Insect	1	1	U	{T}, Sacrifice a land: Destroy target land.
+Breathstealer's Crypt	visions	127	UB	2UB	4	Enchantment			R	If a player would draw a card, instead he or she draws a card and reveals it. If it's a creature card, that player discards it unless he or she pays 3 life.
+Corrosion	visions	128	BR	1BR	3	Enchantment			R	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated. When Corrosion leaves the battlefield, remove all rust counters from all permanents.
+Femeref Enchantress	visions	129	GW	GW	2	Creature - Human Druid	1	2	R	Whenever an enchantment is put into a graveyard from the battlefield, draw a card.
+Firestorm Hellkite	visions	130	UR	4UR	6	Creature - Dragon	6	6	R	Flying, trample Cumulative upkeep {U}{R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Guiding Spirit	visions	131	WU	1WU	3	Creature - Angel Spirit	1	2	R	Flying {T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.
+Mundungu	visions	132	UB	1UB	3	Creature - Human Wizard	1	1	U	{T}: Counter target spell unless its controller pays {1} and 1 life.
+Pygmy Hippo	visions	133	GU	GU	2	Creature - Hippo	2	2	R	Whenever Pygmy Hippo attacks and isn't blocked, you may have defending player activate a mana ability of each land he or she controls and empty his or her mana pool. If you do, Pygmy Hippo assigns no combat damage this turn and at the beginning of your postcombat main phase, you add {X} to your mana pool, where X is the amount of mana emptied from defending player's mana pool this way.
+Righteous War	visions	134	WB	1WB	3	Enchantment			R	White creatures you control have protection from black. Black creatures you control have protection from white.
+Scalebane's Elite	visions	135	GW	3GW	5	Creature - Human Soldier	4	4	U	Protection from black
+Simoon	visions	136	RG	RG	2	Instant			U	Simoon deals 1 damage to each creature target opponent controls.
+Squandered Resources	visions	137	BG	BG	2	Enchantment			R	Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.
+Suleiman's Legacy	visions	138	RW	RW	2	Enchantment			R	When Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated. Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.
+Tempest Drake	visions	139	WU	1WU	3	Creature - Drake	2	2	U	Flying, vigilance
+Viashivan Dragon	visions	140	RG	2RRGG	6	Creature - Dragon	4	4	R	Flying {R}: Viashivan Dragon gets +1/+0 until end of turn. {G}: Viashivan Dragon gets +0/+1 until end of turn.
+Anvil of Bogardan	visions	141	A	2	2	Artifact			R	Players have no maximum hand size. At the beginning of each player's draw step, that player draws an additional card, then discards a card.
+Brass-Talon Chimera	visions	142	A	4	4	Artifact Creature - Chimera	2	2	U	First strike Sacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera creature. It gains first strike. (This effect lasts indefinitely.)
+Diamond Kaleidoscope	visions	143	A	4	4	Artifact			R	{3}, {T}: Put a 0/1 colorless Prism artifact creature token onto the battlefield. Sacrifice a Prism token: Add one mana of any color to your mana pool.
+Dragon Mask	visions	144	A	3	3	Artifact			U	{3}, {T}: Target creature you control gets +2/+2 until end of turn. Return it to its owner's hand at the beginning of the next end step.
+Helm of Awakening	visions	145	A	2	2	Artifact			U	Spells cost {1} less to cast.
+Iron-Heart Chimera	visions	146	A	4	4	Artifact Creature - Chimera	2	2	U	Vigilance Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.)
+Juju Bubble	visions	147	A	1	1	Artifact			U	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) When you play a card, sacrifice Juju Bubble. {2}: You gain 1 life.
+Lead-Belly Chimera	visions	148	A	4	4	Artifact Creature - Chimera	2	2	U	Trample Sacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera creature. It gains trample. (This effect lasts indefinitely.)
+Magma Mine	visions	149	A	1	1	Artifact			U	{4}: Put a pressure counter on Magma Mine. {T}, Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.
+Matopi Golem	visions	150	A	5	5	Artifact Creature - Golem	3	3	U	{1}: Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.
+Phyrexian Marauder	visions	151	A	X	0	Artifact Creature - Construct	0	0	R	Phyrexian Marauder enters the battlefield with X +1/+1 counters on it. Phyrexian Marauder can't block. Phyrexian Marauder can't attack unless you pay {1} for each +1/+1 counter on it.
+Phyrexian Walker	visions	152	A	0	0	Artifact Creature - Construct	0	3	C	
+Sands of Time	visions	153	A	4	4	Artifact			R	Each player skips his or her untap step. At the beginning of each player's upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.
+Sisay's Ring	visions	154	A	4	4	Artifact			C	{T}: Add {2} to your mana pool.
+Snake Basket	visions	155	A	4	4	Artifact			R	{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Teferi's Puzzle Box	visions	156	A	4	4	Artifact			R	At the beginning of each player's draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.
+Tin-Wing Chimera	visions	157	A	4	4	Artifact Creature - Chimera	2	2	U	Flying Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera creature. It gains flying. (This effect lasts indefinitely.)
+Triangle of War	visions	158	A	1	1	Artifact			R	{2}, Sacrifice Triangle of War: Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its power to the other.
+Wand of Denial	visions	159	A	2	2	Artifact			R	{T}: Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.
+Coral Atoll	visions	160	L		0	Land			U	Coral Atoll enters the battlefield tapped. When Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand. {T}: Add {1}{U} to your mana pool.
+Dormant Volcano	visions	161	L		0	Land			U	Dormant Volcano enters the battlefield tapped. When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand. {T}: Add {1}{R} to your mana pool.
+Everglades	visions	162	L		0	Land			U	Everglades enters the battlefield tapped. When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand. {T}: Add {1}{B} to your mana pool.
+Griffin Canyon	visions	163	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.
+Jungle Basin	visions	164	L		0	Land			U	Jungle Basin enters the battlefield tapped. When Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand. {T}: Add {1}{G} to your mana pool.
+Karoo	visions	165	L		0	Land			U	Karoo enters the battlefield tapped. When Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand. {T}: Add {1}{W} to your mana pool.
+Quicksand	visions	166	L		0	Land			U	{T}: Add {1} to your mana pool. {T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+Undiscovered Paradise	visions	167	L		0	Land			R	{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.
+Abyssal Gatekeeper	weatherlight	1	B	1B	2	Creature - Horror	1	1	C	When Abyssal Gatekeeper is put into a graveyard from the battlefield, each player sacrifices a creature.
+Agonizing Memories	weatherlight	2	B	2BB	4	Sorcery			U	Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+Barrow Ghoul	weatherlight	3	B	1B	2	Creature - Zombie	4	4	C	At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.
+Bone Dancer	weatherlight	4	B	1BB	3	Creature - Zombie	2	2	R	Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.
+Buried Alive	weatherlight	5	B	2B	3	Sorcery			U	Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+Circling Vultures	weatherlight	6	B	B	1	Creature - Bird	3	2	U	Flying You may discard Circling Vultures any time you could cast an instant. At the beginning of your upkeep, sacrifice Circling Vultures unless you exile the top creature card of your graveyard.
+Coils of the Medusa	weatherlight	7	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/-1. Sacrifice Coils of the Medusa: Destroy all non-Wall creatures blocking enchanted creature.
+Doomsday	weatherlight	8	B	BBB	3	Sorcery			R	Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.
+Fatal Blow	weatherlight	9	B	B	1	Instant			C	Destroy target creature that was dealt damage this turn. It can't be regenerated.
+Festering Evil	weatherlight	10	B	3BB	5	Enchantment			U	At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player. {B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.
+Fledgling Djinn	weatherlight	11	B	1B	2	Creature - Djinn	2	2	C	Flying At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.
+Gallowbraid	weatherlight	12	B	3BB	5	Legendary Creature - Horror	5	5	R	Trample Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Haunting Misery	weatherlight	13	B	1BB	3	Sorcery			C	As an additional cost to cast Haunting Misery, exile X creature cards from your graveyard. Haunting Misery deals X damage to target player.
+Hidden Horror	weatherlight	14	B	1BB	3	Creature - Horror	4	4	U	When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+Infernal Tribute	weatherlight	15	B	BBB	3	Enchantment			R	{2}, Sacrifice a nontoken permanent: Draw a card.
+Mischievous Poltergeist	weatherlight	16	B	2B	3	Creature - Spirit	1	1	U	Flying Pay 1 life: Regenerate Mischievous Poltergeist.
+Morinfen	weatherlight	17	B	3BB	5	Legendary Creature - Horror	5	4	R	Flying Cumulative upkeep-Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Necratog	weatherlight	18	B	1BB	3	Creature - Atog	1	2	U	Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.
+Odylic Wraith	weatherlight	19	B	3B	4	Creature - Wraith	2	2	U	Swampwalk Whenever Odylic Wraith deals damage to a player, that player discards a card.
+Razortooth Rats	weatherlight	20	B	2B	3	Creature - Rat	2	1	C	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Shadow Rider	weatherlight	21	B	2BB	4	Creature - Zombie Knight	3	3	C	Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Shattered Crypt	weatherlight	22	B	XBB	2	Sorcery			C	Return X target creature cards from your graveyard to your hand. You lose X life.
+Spinning Darkness	weatherlight	23	B	4BB	6	Instant			C	You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost. Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.
+Strands of Night	weatherlight	24	B	2BB	4	Enchantment			U	{B}{B}, Pay 2 life, Sacrifice a Swamp: Return target creature card from your graveyard to the battlefield.
+Tendrils of Despair	weatherlight	25	B	B	1	Sorcery			C	As an additional cost to cast Tendrils of Despair, sacrifice a creature. Target opponent discards two cards.
+Urborg Justice	weatherlight	26	B	BB	2	Instant			R	Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.
+Urborg Stalker	weatherlight	27	B	3B	4	Creature - Horror	2	4	R	At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.
+Wave of Terror	weatherlight	28	B	2B	3	Enchantment			R	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated.
+Zombie Scavengers	weatherlight	29	B	2B	3	Creature - Zombie	3	1	C	Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.
+Abduction	weatherlight	30	U	2UU	4	Enchantment - Aura			U	Enchant creature When Abduction enters the battlefield, untap enchanted creature. You control enchanted creature. When enchanted creature is put into a graveyard, return that card to the battlefield under its owner's control.
+Abjure	weatherlight	31	U	U	1	Instant			C	As an additional cost to cast Abjure, sacrifice a blue permanent. Counter target spell.
+Ancestral Knowledge	weatherlight	32	U	1U	2	Enchantment			R	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) When Ancestral Knowledge enters the battlefield, look at the top ten cards of your library, then exile any number of them and put the rest back on top of your library in any order. When Ancestral Knowledge leaves the battlefield, shuffle your library.
+Apathy	weatherlight	33	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step. At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.
+Argivian Restoration	weatherlight	34	U	2UU	4	Sorcery			U	Return target artifact card from your graveyard to the battlefield.
+Avizoa	weatherlight	35	U	3U	4	Creature - Jellyfish	2	2	R	Flying {0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.
+Cloud Djinn	weatherlight	36	U	5U	6	Creature - Djinn	5	4	U	Flying Cloud Djinn can block only creatures with flying.
+Disrupt	weatherlight	37	U	U	1	Instant			C	Counter target instant or sorcery spell unless its controller pays {1}. Draw a card.
+Ertai's Familiar	weatherlight	38	U	1U	2	Creature - Illusion	2	2	R	Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard. {U}: Until your next upkeep, Ertai's Familiar can't phase out.
+Flux	weatherlight	39	U	2U	3	Sorcery			C	Each player discards any number of cards, then draws that many cards. Draw a card.
+Fog Elemental	weatherlight	40	U	2U	3	Creature - Elemental	4	4	C	Flying (This creature can't be blocked except by creatures with flying or reach.) When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+Mana Chains	weatherlight	41	U	U	1	Enchantment - Aura			C	Enchant creature Enchanted creature has "Cumulative upkeep {1}." (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)
+Manta Ray	weatherlight	42	U	1UU	3	Creature - Fish	3	3	C	Manta Ray can't attack unless defending player controls an Island. Manta Ray can't be blocked except by blue creatures. When you control no Islands, sacrifice Manta Ray.
+Merfolk Traders	weatherlight	43	U	1U	2	Creature - Merfolk	1	2	C	When Merfolk Traders enters the battlefield, draw a card, then discard a card.
+Noble Benefactor	weatherlight	44	U	2U	3	Creature - Human Cleric	2	2	U	When Noble Benefactor is put into a graveyard from the battlefield, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.
+Ophidian	weatherlight	45	U	2U	3	Creature - Snake	1	3	C	Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+Paradigm Shift	weatherlight	46	U	1U	2	Sorcery			R	Exile all cards from your library. Then shuffle your graveyard into your library.
+Pendrell Mists	weatherlight	47	U	3U	4	Enchantment			R	All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay {1}."
+Phantom Warrior	weatherlight	48	U	1UU	3	Creature - Illusion Warrior	2	2	U	Phantom Warrior is unblockable.
+Phantom Wings	weatherlight	49	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.
+Psychic Vortex	weatherlight	50	U	2UU	4	Enchantment			R	Cumulative upkeep-Draw a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) At the beginning of your end step, sacrifice a land and discard your hand.
+Relearn	weatherlight	51	U	1UU	3	Sorcery			U	Return target instant or sorcery card from your graveyard to your hand.
+Sage Owl	weatherlight	52	U	1U	2	Creature - Bird	1	1	C	Flying When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+Teferi's Veil	weatherlight	53	U	1U	2	Enchantment			U	Whenever a creature you control attacks, it phases out at end of combat. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step. )
+Timid Drake	weatherlight	54	U	2U	3	Creature - Drake	3	3	U	Flying When another creature enters the battlefield, return Timid Drake to its owner's hand.
+Tolarian Drake	weatherlight	55	U	2U	3	Creature - Drake	2	4	C	Flying Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Tolarian Entrancer	weatherlight	56	U	1U	2	Creature - Human Wizard	1	1	R	Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.
+Tolarian Serpent	weatherlight	57	U	5UU	7	Creature - Serpent	7	7	R	At the beginning of your upkeep, put the top seven cards of your library into your graveyard.
+Vodalian Illusionist	weatherlight	58	U	2U	3	Creature - Merfolk Wizard	2	2	U	{U}{U}, {T}: Target creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step. )
+Aboroth	weatherlight	59	G	4GG	6	Creature - Elemental	9	9	R	Cumulative upkeep-Put a -1/-1 counter on Aboroth. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Arctic Wolves	weatherlight	60	G	3GG	5	Creature - Wolf	4	5	U	Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) When Arctic Wolves enters the battlefield, draw a card.
+Barishi	weatherlight	61	G	2GG	4	Creature - Elemental	4	3	U	When Barishi is put into a graveyard from the battlefield, exile Barishi, then shuffle all creature cards from your graveyard into your library.
+Blossoming Wreath	weatherlight	62	G	G	1	Instant			C	You gain life equal to the number of creature cards in your graveyard.
+Briar Shield	weatherlight	63	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1. Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.
+Call of the Wild	weatherlight	64	G	2GG	4	Enchantment			R	{2}{G}{G}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+Choking Vines	weatherlight	65	G	XG	1	Instant			C	Cast Choking Vines only during the declare blockers step. X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. (This spell works on unblockable creatures.)
+Dense Foliage	weatherlight	66	G	2G	3	Enchantment			R	Creatures can't be the targets of spells.
+Downdraft	weatherlight	67	G	2G	3	Enchantment			U	{G}: Target creature loses flying until end of turn. Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.
+Fallow Wurm	weatherlight	68	G	2G	3	Creature - Wurm	4	4	U	When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.
+Familiar Ground	weatherlight	69	G	2G	3	Enchantment			U	Each creature you control can't be blocked by more than one creature.
+Fungus Elemental	weatherlight	70	G	3G	4	Creature - Fungus Elemental	3	3	R	{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.
+Gaea's Blessing	weatherlight	71	G	1G	2	Sorcery			U	Target player shuffles up to three target cards from his or her graveyard into his or her library. Draw a card. When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.
+Harvest Wurm	weatherlight	72	G	1G	2	Creature - Wurm	3	2	C	When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.
+Liege of the Hollows	weatherlight	73	G	2GG	4	Creature - Spirit	3	4	R	When Liege of the Hollows is put into a graveyard from the battlefield, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+Llanowar Behemoth	weatherlight	74	G	3GG	5	Creature - Elemental	4	4	U	Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
+Llanowar Druid	weatherlight	75	G	1G	2	Creature - Elf Druid	1	2	C	{T}, Sacrifice Llanowar Druid: Untap all Forests.
+Llanowar Sentinel	weatherlight	76	G	2G	3	Creature - Elf	2	3	C	When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+Mwonvuli Ooze	weatherlight	77	G	G	1	Creature - Ooze	1+*	1+*	R	Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.) Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of age counters on it.
+Nature's Kiss	weatherlight	78	G	1G	2	Enchantment - Aura			C	Enchant creature {1}, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.
+Nature's Resurgence	weatherlight	79	G	2GG	4	Sorcery			R	Each player draws a card for each creature card in his or her graveyard.
+Redwood Treefolk	weatherlight	80	G	4G	5	Creature - Treefolk	3	6	C	
+Rogue Elephant	weatherlight	81	G	G	1	Creature - Elephant	3	3	C	When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.
+Striped Bears	weatherlight	82	G	3G	4	Creature - Bear	2	2	C	When Striped Bears enters the battlefield, draw a card.
+Sylvan Hierophant	weatherlight	83	G	1G	2	Creature - Human Cleric	1	2	U	When Sylvan Hierophant is put into a graveyard from the battlefield, exile Sylvan Hierophant, then return another target creature card from your graveyard to your hand.
+Tranquil Grove	weatherlight	84	G	1G	2	Enchantment			R	{1}{G}{G}: Destroy all other enchantments.
+Uktabi Efreet	weatherlight	85	G	2GG	4	Creature - Efreet	5	4	C	Cumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Veteran Explorer	weatherlight	86	G	G	1	Creature - Human Soldier Scout	1	1	U	When Veteran Explorer is put into a graveyard from the battlefield, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it.
+Vitalize	weatherlight	87	G	G	1	Instant			C	Untap all creatures you control.
+Aether Flash	weatherlight	88	R	2RR	4	Enchantment			U	Whenever a creature enters the battlefield, Aether Flash deals 2 damage to it.
+Betrothed of Fire	weatherlight	89	R	1R	2	Enchantment - Aura			C	Enchant creature Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn. Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.
+Bloodrock Cyclops	weatherlight	90	R	2R	3	Creature - Cyclops	3	3	C	Bloodrock Cyclops attacks each turn if able.
+Bogardan Firefiend	weatherlight	91	R	2R	3	Creature - Elemental Spirit	2	1	C	When Bogardan Firefiend is put into a graveyard from the battlefield, it deals 2 damage to target creature.
+Boiling Blood	weatherlight	92	R	2R	3	Instant			C	Target creature attacks this turn if able. Draw a card.
+Cinder Giant	weatherlight	93	R	3R	4	Creature - Giant	5	3	U	At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.
+Cinder Wall	weatherlight	94	R	R	1	Creature - Wall	3	3	C	Defender (This creature can't attack.) When Cinder Wall blocks, destroy it at end of combat.
+Cone of Flame	weatherlight	95	R	3RR	5	Sorcery			U	Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+Desperate Gambit	weatherlight	96	R	R	1	Instant			U	Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.
+Dwarven Berserker	weatherlight	97	R	1R	2	Creature - Dwarf Berserker	1	1	C	Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.
+Dwarven Thaumaturgist	weatherlight	98	R	2R	3	Creature - Dwarf Shaman	1	2	R	{T}: Switch target creature's power and toughness until end of turn.
+Fervor	weatherlight	99	R	2R	3	Enchantment			R	Creatures you control have haste.
+Fire Whip	weatherlight	100	R	1R	2	Enchantment - Aura			C	Enchant creature you control Enchanted creature has "{T}: This creature deals 1 damage to target creature or player." Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.
+Firestorm	weatherlight	101	R	R	1	Instant			R	As an additional cost to cast Firestorm, discard X cards. Firestorm deals X damage to each of X target creatures and/or players.
+Fit of Rage	weatherlight	102	R	1R	2	Sorcery			C	Target creature gets +3/+3 and gains first strike until end of turn.
+Goblin Bomb	weatherlight	103	R	1R	2	Enchantment			R	At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb. Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.
+Goblin Grenadiers	weatherlight	104	R	3R	4	Creature - Goblin	2	2	U	Whenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature and target land.
+Goblin Vandal	weatherlight	105	R	R	1	Creature - Goblin Rogue	1	1	C	Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+Heart of Bogardan	weatherlight	106	R	2RR	4	Enchantment			R	Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) When Heart of Bogardan's cumulative upkeep isn't paid, it deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus two.
+Heat Stroke	weatherlight	107	R	2R	3	Enchantment			R	At end of combat, destroy each creature that blocked or was blocked this turn.
+Hurloon Shaman	weatherlight	108	R	1RR	3	Creature - Minotaur Shaman	2	3	U	When Hurloon Shaman is put into a graveyard from the battlefield, each player sacrifices a land.
+Lava Hounds	weatherlight	109	R	2RR	4	Creature - Hound	4	4	U	Haste When Lava Hounds enters the battlefield, it deals 4 damage to you.
+Lava Storm	weatherlight	110	R	3RR	5	Instant			C	Lava Storm deals 2 damage to each attacking creature or Lava Storm deals 2 damage to each blocking creature.
+Maraxus of Keld	weatherlight	111	R	4RR	6	Legendary Creature - Human Warrior	*	*	R	Maraxus of Keld's power and toughness are each equal to the number of untapped artifacts, creatures, and lands you control.
+Orcish Settlers	weatherlight	112	R	1R	2	Creature - Orc	1	1	U	{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.
+Roc Hatchling	weatherlight	113	R	R	1	Creature - Bird	0	1	U	Roc Hatchling enters the battlefield with four shell counters on it. At the beginning of your upkeep, remove a shell counter from Roc Hatchling. As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flying.
+Sawtooth Ogre	weatherlight	114	R	2RR	4	Creature - Ogre	3	3	C	Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.
+Thunderbolt	weatherlight	115	R	1R	2	Instant			C	Choose one - Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.
+Thundermare	weatherlight	116	R	5R	6	Creature - Elemental Horse	5	5	R	Haste (This creature can attack the turn it comes under your control.) When Thundermare enters the battlefield, tap all other creatures.
+Abeyance	weatherlight	117	W	1W	2	Instant			R	Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities. Draw a card.
+Alabaster Dragon	weatherlight	118	W	4WW	6	Creature - Dragon	4	4	R	Flying When Alabaster Dragon is put into a graveyard from the battlefield, shuffle Alabaster Dragon into its owner's library.
+Alms	weatherlight	119	W	W	1	Enchantment			C	{1}, Exile the top card of your graveyard: Prevent the next 1 damage that would be dealt to target creature this turn.
+Angelic Renewal	weatherlight	120	W	1W	2	Enchantment			C	Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.
+Ardent Militia	weatherlight	121	W	4W	5	Creature - Human Soldier	2	5	C	Vigilance
+Argivian Find	weatherlight	122	W	W	1	Instant			U	Return target artifact or enchantment card from your graveyard to your hand.
+Aura of Silence	weatherlight	123	W	1WW	3	Enchantment			U	Artifact and enchantment spells your opponents cast cost {2} more to cast. Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+Benalish Infantry	weatherlight	124	W	2W	3	Creature - Human Soldier	1	3	C	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+Benalish Knight	weatherlight	125	W	2W	3	Creature - Human Knight	2	2	C	Flash (You may cast this spell any time you could cast an instant.) First strike (This creature deals combat damage before creatures without first strike.)
+Benalish Missionary	weatherlight	126	W	W	1	Creature - Human Cleric	1	1	C	{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.
+Debt of Loyalty	weatherlight	127	W	1WW	3	Instant			R	Regenerate target creature. You gain control of that creature if it regenerates this way this turn.
+Duskrider Falcon	weatherlight	128	W	1W	2	Creature - Bird	1	1	C	Flying, protection from black
+Empyrial Armor	weatherlight	129	W	1WW	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 for each card in your hand.
+Foriysian Brigade	weatherlight	130	W	3W	4	Creature - Human Soldier	2	4	U	Foriysian Brigade can block an additional creature.
+Gerrard's Wisdom	weatherlight	131	W	2WW	4	Sorcery			U	You gain 2 life for each card in your hand.
+Guided Strike	weatherlight	132	W	1W	2	Instant			C	Target creature gets +1/+0 and gains first strike until end of turn. Draw a card.
+Heavy Ballista	weatherlight	133	W	3W	4	Creature - Human Soldier	2	3	C	{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.
+Inner Sanctum	weatherlight	134	W	1WW	3	Enchantment			R	Cumulative upkeep-Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) Prevent all damage that would be dealt to creatures you control.
+Kithkin Armor	weatherlight	135	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature can't be blocked by creatures with power 3 or greater. Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.
+Master of Arms	weatherlight	136	W	2W	3	Creature - Human Soldier	2	2	U	First strike {1}{W}: Tap target creature blocking Master of Arms. Prevent all combat damage that creature would deal this turn.
+Mistmoon Griffin	weatherlight	137	W	3W	4	Creature - Griffin	2	2	U	Flying When Mistmoon Griffin is put into a graveyard from the battlefield, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.
+Peacekeeper	weatherlight	138	W	2W	3	Creature - Human	1	1	R	At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}. Creatures can't attack.
+Revered Unicorn	weatherlight	139	W	1W	2	Creature - Unicorn	2	3	U	Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.) When Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.
+Serenity	weatherlight	140	W	1W	2	Enchantment			R	At the beginning of your upkeep, destroy all artifacts and enchantments. They can't be regenerated.
+Serra's Blessing	weatherlight	141	W	1W	2	Enchantment			U	Creatures you control have vigilance. (Attacking doesn't cause them to tap.)
+Soul Shepherd	weatherlight	142	W	1W	2	Creature - Human Cleric	2	1	C	{W}, Exile a creature card from your graveyard: You gain 1 life.
+Southern Paladin	weatherlight	143	W	2WW	4	Creature - Human Knight	3	3	R	{W}{W}, {T}: Destroy target red permanent.
+Tariff	weatherlight	144	W	1W	2	Sorcery			R	Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two creatures a player controls are tied for highest cost, that player chooses one.
+Volunteer Reserves	weatherlight	145	W	1W	2	Creature - Human Soldier	2	4	U	Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Bosium Strip	weatherlight	146	A	3	3	Artifact			R	{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.
+Bubble Matrix	weatherlight	147	A	4	4	Artifact			R	Prevent all damage that would be dealt to creatures.
+Chimeric Sphere	weatherlight	148	A	3	3	Artifact			U	{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying. {2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature without flying.
+Dingus Staff	weatherlight	149	A	4	4	Artifact			U	Whenever a creature is put into a graveyard from the battlefield, Dingus Staff deals 2 damage to that creature's controller.
+Jabari's Banner	weatherlight	150	A	2	2	Artifact			U	{1}, {T}: Target creature gains flanking until end of turn. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Jangling Automaton	weatherlight	151	A	3	3	Artifact Creature - Construct	3	2	C	Whenever Jangling Automaton attacks, untap all creatures defending player controls.
+Mana Web	weatherlight	152	A	3	3	Artifact			R	Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.
+Mind Stone	weatherlight	153	A	2	2	Artifact			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Mind Stone: Draw a card.
+Null Rod	weatherlight	154	A	2	2	Artifact			R	Activated abilities of artifacts can't be activated.
+Phyrexian Furnace	weatherlight	155	A	1	1	Artifact			U	{T}: Exile the bottom card of target player's graveyard. {1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.
+Serrated Biskelion	weatherlight	156	A	3	3	Artifact Creature - Construct	2	2	U	{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.
+Steel Golem	weatherlight	157	A	3	3	Artifact Creature - Golem	3	4	U	You can't cast creature spells.
+Straw Golem	weatherlight	158	A	1	1	Artifact Creature - Golem	2	3	U	When an opponent casts a creature spell, sacrifice Straw Golem.
+Thran Forge	weatherlight	159	A	3	3	Artifact			U	{2}: Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.
+Thran Tome	weatherlight	160	A	4	4	Artifact			R	{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.
+Touchstone	weatherlight	161	A	2	2	Artifact			U	{T}: Tap target artifact you don't control.
+Well of Knowledge	weatherlight	162	A	3	3	Artifact			R	{2}: Draw a card. Any player may activate this ability but only during his or her draw step.
+Xanthic Statue	weatherlight	163	A	8	8	Artifact			R	{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.
+Gemstone Mine	weatherlight	164	L		0	Land			U	Gemstone Mine enters the battlefield with three mining counters on it. {T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.
+Lotus Vale	weatherlight	165	L		0	Land			R	If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard. {T}: Add three mana of any one color to your mana pool.
+Scorched Ruins	weatherlight	166	L		0	Land			R	If Scorched Ruins would enter the battlefield, sacrifice two untapped lands instead. If you do, put Scorched Ruins onto the battlefield. If you don't, put it into its owner's graveyard. {T}: Add {4} to your mana pool.
+Winding Canyons	weatherlight	167	L		0	Land			R	{T}: Add {1} to your mana pool. {2}, {T}: Until end of turn, you may play creature cards as though they had flash.

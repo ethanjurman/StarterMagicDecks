@@ -1,0 +1,28 @@
+3	plains
+3	island
+3	swamp
+2	mountain
+12	forest
+1	helionaut
+1	wayfaring giant
+1	nomadic elf
+2	quirion elves
+2	urborg elf
+3	penumbra bobcat
+1	quirion trailblazer
+2	penumbra kavu
+1	penumbra wurm
+1	emblazoned golem
+1	stratadon
+2	evasive action
+2	allied strategies
+2	exotic curse
+2	tribal flames
+3	lay of the land
+2	fertile ground
+3	harrow
+1	gaea's balance
+1	captain's maneuver
+1	last stand
+1	life // death
+1	order // chaos

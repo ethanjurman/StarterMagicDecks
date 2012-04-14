@@ -1,0 +1,23 @@
+1	zhalfirin crusader
+1	longbow archer
+2	vigilant martyr
+2	zhalfirin commander
+3	infantry veteran
+2	jamuraan lion
+2	knight of valor
+1	resistance fighter
+2	femeref healer
+3	femeref scouts
+1	retribution of the meek
+2	magma mine
+2	miraculous recovery
+1	afterlife
+1	blinding light
+2	favorable destiny
+2	remedy
+2	sun clasp
+1	warrior's honor
+1	hope charm
+2	pacifism
+1	ward of lights
+23	plains

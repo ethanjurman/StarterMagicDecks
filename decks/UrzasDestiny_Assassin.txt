@@ -1,0 +1,28 @@
+4	polluted mire
+1	spawning pool
+16	swamp
+4	ravenous rats
+2	squirming mass
+1	bone shredder
+2	looming shade
+1	sanguine guard
+2	nightshade seer
+2	slinking skirge
+1	body snatcher
+2	disease carriers
+2	order of yawgmoth
+1	plague dogs
+1	mantis engine
+2	dark ritual
+2	duress
+1	ostracize
+2	sicken
+1	despondency
+1	dying wail
+1	festering wound
+2	scent of nightshade
+1	engineered plague
+1	attrition
+2	unnerve
+1	eradicate
+1	soul feast

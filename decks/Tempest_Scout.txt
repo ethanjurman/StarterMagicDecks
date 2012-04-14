@@ -1,0 +1,5 @@
+2	Mountain
+11	Forest
+3	Plains
+1	Elfhame Palace
+1	Geothermal Crevice

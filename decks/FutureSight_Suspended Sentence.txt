@@ -1,0 +1,24 @@
+10	island
+9	swamp
+3	terramorphic expanse
+2	zoetic cavern
+2	timebender
+2	dream stalker
+1	unblinking bleb
+4	infiltrator il-kor
+1	riftwing cloudskate
+2	augur of skulls
+1	deathspore thallid
+1	deadly grub
+1	shimian specter
+1	nihilith
+2	clockspinning
+3	paradox haze
+3	reality acid
+2	reality strobe
+1	lost hours
+3	ichor slick
+2	festering march
+1	death rattle
+2	mindstab
+1	phthisis

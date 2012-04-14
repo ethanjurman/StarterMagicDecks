@@ -1,0 +1,622 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Alabaster Leech	invasion	1	W	W	1	Creature - Leech	1	3	R	White spells you cast cost {W} more to cast.
+Angel of Mercy	invasion	2	W	4W	5	Creature - Angel	3	3	U	Flying When Angel of Mercy enters the battlefield, you gain 3 life.
+Ardent Soldier	invasion	3	W	1W	2	Creature - Human Soldier	1	2	C	Kicker {2} (You may pay an additional {2} as you cast this spell.) Vigilance If the kicker cost was paid, Ardent Soldier enters the battlefield with a +1/+1 counter on it.
+Atalya, Samite Master	invasion	4	W	3WW	5	Legendary Creature - Human Cleric	2	3	R	{X}, {T}: Choose one - Prevent the next X damage that would be dealt to target creature this turn; or you gain X life. Spend only white mana this way.
+Benalish Emissary	invasion	5	W	2W	3	Creature - Human Wizard	1	4	U	Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.) When Benalish Emissary enters the battlefield, if the kicker cost was paid, destroy target land.
+Benalish Heralds	invasion	6	W	3W	4	Creature - Human Soldier	2	4	U	{3}{U}, {T}: Draw a card.
+Benalish Lancer	invasion	7	W	2W	3	Creature - Human Knight	2	2	C	Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.) If the kicker cost was paid, Benalish Lancer enters the battlefield with two +1/+1 counters on it and with first strike.
+Benalish Trapper	invasion	8	W	1W	2	Creature - Human Soldier	1	2	C	{W}, {T}: Tap target creature.
+Blinding Light	invasion	9	W	2W	3	Sorcery			U	Tap all nonwhite creatures.
+Capashen Unicorn	invasion	10	W	1W	2	Creature - Unicorn	1	2	C	{1}{W}, {T}, Sacrifice Capashen Unicorn: Destroy target artifact or enchantment.
+Crimson Acolyte	invasion	11	W	1W	2	Creature - Human Cleric	1	1	C	Protection from red {W}: Target creature gains protection from red until end of turn.
+Crusading Knight	invasion	12	W	2WW	4	Creature - Human Knight	2	2	R	Protection from black Crusading Knight gets +1/+1 for each Swamp your opponents control.
+Death or Glory	invasion	13	W	4W	5	Sorcery			R	Separate all creature cards in your graveyard into two piles. Exile the pile of an opponent's choice and return the other to the battlefield.
+Dismantling Blow	invasion	14	W	2W	3	Instant			C	Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.) Destroy target artifact or enchantment. If the kicker cost was paid, draw two cards.
+Divine Presence	invasion	15	W	2W	3	Enchantment			R	If a source would deal 4 or more damage to a creature or player, that source deals 3 damage to that creature or player instead.
+Fight or Flight	invasion	16	W	3W	4	Enchantment			R	At the beginning of each opponent's combat phase, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.
+Glimmering Angel	invasion	17	W	3W	4	Creature - Angel	2	2	C	Flying {U}: Glimmering Angel gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Global Ruin	invasion	18	W	4W	5	Sorcery			R	Each player chooses from the lands he or she controls a land of each basic land type, then sacrifices the rest.
+Harsh Judgment	invasion	19	W	2WW	4	Enchantment			R	As Harsh Judgment enters the battlefield, choose a color. If an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.
+Holy Day	invasion	20	W	W	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Liberate	invasion	21	W	1W	2	Instant			U	Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Obsidian Acolyte	invasion	22	W	1W	2	Creature - Human Cleric	1	1	C	Protection from black {W}: Target creature gains protection from black until end of turn.
+Orim's Touch	invasion	23	W	W	1	Instant			C	Kicker {1} (You may pay an additional {1} as you cast this spell.) Prevent the next 2 damage that would be dealt to target creature or player this turn. If the kicker cost was paid, prevent the next 4 damage that would be dealt to that creature or player this turn instead.
+Pledge of Loyalty	invasion	24	W	1W	2	Enchantment - Aura			U	Enchant creature Enchanted creature has protection from the colors of permanents you control. This effect doesn't remove Pledge of Loyalty.
+Prison Barricade	invasion	25	W	1W	2	Creature - Wall	1	3	C	Defender (This creature can't attack.) Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.) If the kicker cost was paid, Prison Barricade enters the battlefield with a +1/+1 counter on it and with "Prison Barricade can attack as though it didn't have defender."
+Protective Sphere	invasion	26	W	2W	3	Enchantment			C	{1}, Pay 1 life: Prevent all damage that would be dealt to you this turn by a source of your choice that shares a color with the mana spent on this activation cost. (Colorless mana prevents no damage.)
+Pure Reflection	invasion	27	W	2W	3	Enchantment			R	Whenever a player casts a creature spell, destroy all Reflections. Then that player puts an X/X white Reflection creature token onto the battlefield, where X is the converted mana cost of that spell.
+Rampant Elephant	invasion	28	W	3W	4	Creature - Elephant	2	2	C	{G}: Target creature blocks Rampant Elephant this turn if able.
+Razorfoot Griffin	invasion	29	W	3W	4	Creature - Griffin	2	2	C	Flying First strike (This creature deals combat damage before creatures without first strike.)
+Restrain	invasion	30	W	2W	3	Instant			C	Prevent all combat damage that would be dealt by target attacking creature this turn. Draw a card.
+Reviving Dose	invasion	31	W	2W	3	Instant			C	You gain 3 life. Draw a card.
+Rewards of Diversity	invasion	32	W	2W	3	Enchantment			U	Whenever an opponent casts a multicolored spell, you gain 4 life.
+Reya Dawnbringer	invasion	33	W	6WWW	9	Legendary Creature - Angel	4	6	R	Flying At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.
+Rout	invasion	34	W	3WW	5	Sorcery			R	You may cast Rout any time you could cast an instant if you pay {2} more to cast it. Destroy all creatures. They can't be regenerated.
+Ruham Djinn	invasion	35	W	5W	6	Creature - Djinn	5	5	U	First strike Ruham Djinn gets -2/-2 as long as white is the most common color among all permanents or is tied for most common.
+Samite Ministration	invasion	36	W	1W	2	Instant			U	Prevent all damage that would be dealt to you this turn by a source of your choice. Whenever damage from a black or red source is prevented this way this turn, you gain that much life.
+Shackles	invasion	37	W	2W	3	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step. {W}: Return Shackles to its owner's hand.
+Spirit of Resistance	invasion	38	W	2W	3	Enchantment			R	If you control a permanent of each color, prevent all damage that would be dealt to you.
+Spirit Weaver	invasion	39	W	1W	2	Creature - Human Wizard	2	1	U	{2}: Target green or blue creature gets +0/+1 until end of turn.
+Strength of Unity	invasion	40	W	3W	4	Enchantment - Aura			C	Enchant creature Domain - Enchanted creature gets +1/+1 for each basic land type among lands you control.
+Sunscape Apprentice	invasion	41	W	W	1	Creature - Human Wizard	1	1	C	{G}, {T}: Target creature gets +1/+1 until end of turn. {U}, {T}: Put target creature you control on top of its owner's library.
+Sunscape Master	invasion	42	W	2WW	4	Creature - Human Wizard	2	2	R	{G}{G}, {T}: Creatures you control get +2/+2 until end of turn. {U}{U}, {T}: Return target creature to its owner's hand.
+Teferi's Care	invasion	43	W	2W	3	Enchantment			U	{W}, Sacrifice an enchantment: Destroy target enchantment. {3}{U}{U}: Counter target enchantment spell.
+Wayfaring Giant	invasion	44	W	5W	6	Creature - Giant	1	3	U	Domain - Wayfaring Giant gets +1/+1 for each basic land type among lands you control.
+Winnow	invasion	45	W	1W	2	Instant			R	Destroy target nonland permanent if another permanent with the same name is on the battlefield. Draw a card.
+Barrin's Unmaking	invasion	46	U	1U	2	Instant			C	Return target permanent to its owner's hand if that permanent shares a color with the most common color among all permanents or a color tied for most common.
+Blind Seer	invasion	47	U	2UU	4	Legendary Creature - Human Wizard	3	3	R	{1}{U}: Target spell or permanent becomes the color of your choice until end of turn.
+Breaking Wave	invasion	48	U	2UU	4	Sorcery			R	You may cast Breaking Wave any time you could cast an instant if you pay {2} more to cast it. Simultaneously untap all tapped creatures and tap all untapped creatures.
+Collective Restraint	invasion	49	U	3U	4	Enchantment			R	Domain - Creatures can't attack you unless their controller pays {X} for each creature he or she controls that's attacking you, where X is the number of basic land types among lands you control.
+Crystal Spray	invasion	50	U	2U	3	Instant			R	Change the text of target spell or permanent by replacing all instances of one color word or basic land type with another until end of turn. Draw a card.
+Disrupt	invasion	51	U	U	1	Instant			U	Counter target instant or sorcery spell unless its controller pays {1}. Draw a card.
+Distorting Wake	invasion	52	U	XUUU	3	Sorcery			R	Return X target nonland permanents to their owners' hands.
+Dream Thrush	invasion	53	U	1U	2	Creature - Bird	1	1	C	Flying {T}: Target land becomes the basic land type of your choice until end of turn.
+Empress Galina	invasion	54	U	3UU	5	Legendary Creature - Merfolk	1	3	R	{U}{U}, {T}: Gain control of target legendary permanent. (This effect lasts indefinitely.)
+Essence Leak	invasion	55	U	U	1	Enchantment - Aura			U	Enchant permanent If enchanted permanent is red or green, it has "At the beginning of your upkeep, sacrifice this permanent unless you pay its mana cost."
+Exclude	invasion	56	U	2U	3	Instant			C	Counter target creature spell. Draw a card.
+Fact or Fiction	invasion	57	U	3U	4	Instant			U	Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Faerie Squadron	invasion	58	U	U	1	Creature - Faerie	1	1	C	Kicker {3}{U} (You may pay an additional {3}{U} as you cast this spell.) If the kicker cost was paid, Faerie Squadron enters the battlefield with two +1/+1 counters on it and with flying.
+Mana Maze	invasion	59	U	1U	2	Enchantment			R	Players can't cast spells that share a color with the spell most recently cast this turn.
+Manipulate Fate	invasion	60	U	1U	2	Sorcery			U	Search your library for three cards, exile them, then shuffle your library. Draw a card.
+Metathran Aerostat	invasion	61	U	2UU	4	Creature - Metathran	2	2	R	Flying {X}{U}: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.
+Metathran Transport	invasion	62	U	1UU	3	Creature - Metathran	1	3	U	Flying Metathran Transport can't be blocked by blue creatures. {U}: Target creature becomes blue until end of turn.
+Metathran Zombie	invasion	63	U	1U	2	Creature - Metathran Zombie	1	1	C	{B}: Regenerate Metathran Zombie.
+Opt	invasion	64	U	U	1	Instant			C	Look at the top card of your library. You may put that card on the bottom of your library. Draw a card.
+Phantasmal Terrain	invasion	65	U	UU	2	Enchantment - Aura			C	Enchant land As Phantasmal Terrain enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Probe	invasion	66	U	2U	3	Sorcery			C	Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.) Draw three cards, then discard two cards. If the kicker cost was paid, target player discards two cards.
+Prohibit	invasion	67	U	1U	2	Instant			C	Kicker {2} (You may pay an additional {2} as you cast this spell.) Counter target spell if its converted mana cost is 2 or less. If the kicker cost was paid, counter that spell if its converted mana cost is 4 or less instead.
+Psychic Battle	invasion	68	U	3UU	5	Enchantment			R	Whenever a player chooses one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn't trigger this ability.
+Rainbow Crow	invasion	69	U	3U	4	Creature - Bird	2	2	U	Flying {1}: Rainbow Crow becomes the color of your choice until end of turn.
+Repulse	invasion	70	U	2U	3	Instant			C	Return target creature to its owner's hand. Draw a card.
+Sapphire Leech	invasion	71	U	1U	2	Creature - Leech	2	2	R	Flying Blue spells you cast cost {U} more to cast.
+Shimmering Wings	invasion	72	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.) {U}: Return Shimmering Wings to its owner's hand.
+Shoreline Raider	invasion	73	U	2U	3	Creature - Merfolk	2	2	C	Protection from Kavu
+Sky Weaver	invasion	74	U	1U	2	Creature - Metathran Wizard	2	1	U	{2}: Target white or black creature gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Stormscape Apprentice	invasion	75	U	U	1	Creature - Human Wizard	1	1	C	{W}, {T}: Tap target creature. {B}, {T}: Target player loses 1 life.
+Stormscape Master	invasion	76	U	2UU	4	Creature - Human Wizard	2	2	R	{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn. {B}{B}, {T}: Target player loses 2 life and you gain 2 life.
+Sway of Illusion	invasion	77	U	1U	2	Instant			U	Any number of target creatures become the color of your choice until end of turn. Draw a card.
+Teferi's Response	invasion	78	U	1U	2	Instant			R	Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent. Draw two cards.
+Temporal Distortion	invasion	79	U	3UU	5	Enchantment			R	Whenever a creature or land becomes tapped, put an hourglass counter on it. Permanents with hourglass counters on them don't untap during their controllers' untap steps. At the beginning of each player's upkeep, remove all hourglass counters from permanents that player controls.
+Tidal Visionary	invasion	80	U	U	1	Creature - Merfolk Wizard	1	1	C	{T}: Target creature becomes the color of your choice until end of turn.
+Tolarian Emissary	invasion	81	U	2U	3	Creature - Human Wizard	1	2	U	Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.) Flying When Tolarian Emissary enters the battlefield, if the kicker cost was paid, destroy target enchantment.
+Tower Drake	invasion	82	U	2U	3	Creature - Drake	2	1	C	Flying {W}: Tower Drake gets +0/+1 until end of turn.
+Traveler's Cloak	invasion	83	U	2U	3	Enchantment - Aura			C	Enchant creature As Traveler's Cloak enters the battlefield, choose a land type. When Traveler's Cloak enters the battlefield, draw a card. Enchanted creature has landwalk of the chosen type.
+Vodalian Hypnotist	invasion	84	U	1U	2	Creature - Merfolk Wizard	1	1	U	{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+Vodalian Merchant	invasion	85	U	1U	2	Creature - Merfolk	1	2	C	When Vodalian Merchant enters the battlefield, draw a card, then discard a card.
+Vodalian Serpent	invasion	86	U	3U	4	Creature - Serpent	2	2	C	Kicker {2} (You may pay an additional {2} as you cast this spell.) Vodalian Serpent can't attack unless defending player controls an Island. If the kicker cost was paid, Vodalian Serpent enters the battlefield with four +1/+1 counters on it.
+Wash Out	invasion	87	U	3U	4	Sorcery			U	Return all permanents of the color of your choice to their owners' hands.
+Well-Laid Plans	invasion	88	U	2U	3	Enchantment			R	Prevent all damage that would be dealt to a creature by another creature if they share a color.
+Worldly Counsel	invasion	89	U	1U	2	Instant			C	Domain - Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+Zanam Djinn	invasion	90	U	5U	6	Creature - Djinn	5	6	U	Flying Zanam Djinn gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.
+Addle	invasion	91	B	1B	2	Sorcery			U	Choose a color. Target player reveals his or her hand and you choose a card of that color from it. That player discards that card.
+Agonizing Demise	invasion	92	B	3B	4	Instant			C	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.) Destroy target nonblack creature. It can't be regenerated. If the kicker cost was paid, Agonizing Demise deals damage equal to that creature's power to the creature's controller.
+Andradite Leech	invasion	93	B	2B	3	Creature - Leech	2	2	R	Black spells you cast cost {B} more to cast. {B}: Andradite Leech gets +1/+1 until end of turn.
+Annihilate	invasion	94	B	3BB	5	Instant			U	Destroy target nonblack creature. It can't be regenerated. Draw a card.
+Bog Initiate	invasion	95	B	1B	2	Creature - Human Wizard	1	1	C	{1}: Add {B} to your mana pool.
+Cremate	invasion	96	B	B	1	Instant			U	Exile target card from a graveyard. Draw a card.
+Crypt Angel	invasion	97	B	4B	5	Creature - Angel	3	3	R	Flying, protection from white When Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand.
+Cursed Flesh	invasion	98	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Defiling Tears	invasion	99	B	2B	3	Instant			U	Until end of turn, target creature becomes black, gets +1/-1, and gains "{B}: Regenerate this creature."
+Desperate Research	invasion	100	B	1B	2	Sorcery			R	Name a card other than a basic land card. Then reveal the top seven cards of your library and put all of them with that name into your hand. Exile the rest.
+Devouring Strossus	invasion	101	B	5BBB	8	Creature - Horror	9	9	R	Flying, trample At the beginning of your upkeep, sacrifice a creature. Sacrifice a creature: Regenerate Devouring Strossus.
+Do or Die	invasion	102	B	1B	2	Sorcery			R	Separate all creatures target player controls into two piles. Destroy all creatures in the pile of that player's choice. They can't be regenerated.
+Dredge	invasion	103	B	B	1	Instant			U	Sacrifice a creature or land. Draw a card.
+Duskwalker	invasion	104	B	B	1	Creature - Human Minion	1	1	C	Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.) If the kicker cost was paid, Duskwalker enters the battlefield with two +1/+1 counters on it and with fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Exotic Curse	invasion	105	B	2B	3	Enchantment - Aura			C	Enchant creature Domain - Enchanted creature gets -1/-1 for each basic land type among lands you control.
+Firescreamer	invasion	106	B	3B	4	Creature - Kavu	2	2	C	{R}: Firescreamer gets +1/+0 until end of turn.
+Goham Djinn	invasion	107	B	5B	6	Creature - Djinn	5	5	U	{1}{B}: Regenerate Goham Djinn. Goham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.
+Hate Weaver	invasion	108	B	1B	2	Creature - Zombie Wizard	2	1	U	{2}: Target blue or red creature gets +1/+0 until end of turn.
+Hypnotic Cloud	invasion	109	B	1B	2	Sorcery			C	Kicker {4} (You may pay an additional {4} as you cast this spell.) Target player discards a card. If the kicker cost was paid, that player discards three cards instead.
+Marauding Knight	invasion	110	B	2BB	4	Creature - Zombie Knight	2	2	R	Protection from white Marauding Knight gets +1/+1 for each Plains your opponents control.
+Mourning	invasion	111	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-0. {B}: Return Mourning to its owner's hand.
+Nightscape Apprentice	invasion	112	B	B	1	Creature - Zombie Wizard	1	1	C	{U}, {T}: Put target creature you control on top of its owner's library. {R}, {T}: Target creature gains first strike until end of turn.
+Nightscape Master	invasion	113	B	2BB	4	Creature - Zombie Wizard	2	2	R	{U}{U}, {T}: Return target creature to its owner's hand. {R}{R}, {T}: Nightscape Master deals 2 damage to target creature.
+Phyrexian Battleflies	invasion	114	B	B	1	Creature - Insect	0	1	C	Flying {B}: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+Phyrexian Delver	invasion	115	B	3BB	5	Creature - Zombie	3	2	R	When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost.
+Phyrexian Infiltrator	invasion	116	B	2B	3	Creature - Minion	2	2	R	{2}{U}{U}: Exchange control of Phyrexian Infiltrator and target creature. (This effect lasts indefinitely.)
+Phyrexian Reaper	invasion	117	B	4B	5	Creature - Zombie	3	3	C	Whenever Phyrexian Reaper becomes blocked by a green creature, destroy that creature. It can't be regenerated.
+Phyrexian Slayer	invasion	118	B	3B	4	Creature - Minion	2	2	C	Flying Whenever Phyrexian Slayer becomes blocked by a white creature, destroy that creature. It can't be regenerated.
+Plague Spitter	invasion	119	B	2B	3	Creature - Horror	2	2	U	At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player. When Plague Spitter is put into a graveyard from the battlefield, Plague Spitter deals 1 damage to each creature and each player.
+Ravenous Rats	invasion	120	B	1B	2	Creature - Rat	1	1	C	When Ravenous Rats enters the battlefield, target opponent discards a card.
+Reckless Spite	invasion	121	B	1BB	3	Instant			U	Destroy two target nonblack creatures. You lose 5 life.
+Recover	invasion	122	B	2B	3	Sorcery			C	Return target creature card from your graveyard to your hand. Draw a card.
+Scavenged Weaponry	invasion	123	B	2B	3	Enchantment - Aura			C	Enchant creature When Scavenged Weaponry enters the battlefield, draw a card. Enchanted creature gets +1/+1.
+Soul Burn	invasion	124	B	X2B	3	Sorcery			C	Spend only black and/or red mana on X. Soul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.
+Spreading Plague	invasion	125	B	4B	5	Enchantment			R	Whenever a creature enters the battlefield, destroy all other creatures that share a color with it. They can't be regenerated.
+Tainted Well	invasion	126	B	2B	3	Enchantment - Aura			C	Enchant land When Tainted Well enters the battlefield, draw a card. Enchanted land is a Swamp.
+Trench Wurm	invasion	127	B	3B	4	Creature - Wurm	3	3	U	{2}{R}, {T}: Destroy target nonbasic land.
+Tsabo's Assassin	invasion	128	B	2BB	4	Creature - Zombie Assassin	1	1	R	{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.
+Tsabo's Decree	invasion	129	B	5B	6	Instant			R	Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.
+Twilight's Call	invasion	130	B	4BB	6	Sorcery			R	You may cast Twilight's Call any time you could cast an instant if you pay {2} more to cast it. Each player returns all creature cards from his or her graveyard to the battlefield.
+Urborg Emissary	invasion	131	B	2B	3	Creature - Human Wizard	3	1	U	Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.) When Urborg Emissary enters the battlefield, if the kicker cost was paid, return target permanent to its owner's hand.
+Urborg Phantom	invasion	132	B	2B	3	Creature - Spirit Minion	3	1	C	Urborg Phantom can't block. {U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.
+Urborg Shambler	invasion	133	B	2BB	4	Creature - Horror	4	3	U	Other black creatures get -1/-1.
+Urborg Skeleton	invasion	134	B	B	1	Creature - Skeleton	0	1	C	Kicker {3} (You may pay an additional {3} as you cast this spell.) {B}: Regenerate Urborg Skeleton. If the kicker cost was paid, Urborg Skeleton enters the battlefield with a +1/+1 counter on it.
+Yawgmoth's Agenda	invasion	135	B	3BB	5	Enchantment			R	You can't cast more than one spell each turn. You may play cards from your graveyard. If a card would be put into your graveyard from anywhere, exile it instead.
+Ancient Kavu	invasion	136	R	3R	4	Creature - Kavu	3	3	C	{2}: Ancient Kavu becomes colorless until end of turn.
+Bend or Break	invasion	137	R	3R	4	Sorcery			R	Each player separates all lands he or she controls into two piles. For each player, an opponent chooses a pile. Destroy all lands in the chosen piles. Tap all lands in the other piles.
+Breath of Darigaaz	invasion	138	R	1R	2	Sorcery			U	Kicker {2} (You may pay an additional {2} as you cast this spell.) Breath of Darigaaz deals 1 damage to each creature without flying and each player. If the kicker cost was paid, Breath of Darigaaz deals 4 damage to each creature without flying and each player instead.
+Callous Giant	invasion	139	R	4RR	6	Creature - Giant	4	4	R	If a source would deal 3 or less damage to Callous Giant, prevent that damage.
+Chaotic Strike	invasion	140	R	1R	2	Instant			U	Cast Chaotic Strike only during combat after blockers are declared. Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn. Draw a card.
+Collapsing Borders	invasion	141	R	3R	4	Enchantment			R	Domain - At the beginning of each player's upkeep, that player gains 1 life for each basic land type among lands he or she controls. Then Collapsing Borders deals 3 damage to him or her.
+Crown of Flames	invasion	142	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn. {R}: Return Crown of Flames to its owner's hand.
+Firebrand Ranger	invasion	143	R	1R	2	Creature - Human Soldier	2	1	U	{G}, {T}: You may put a basic land card from your hand onto the battlefield.
+Ghitu Fire	invasion	144	R	XR	1	Sorcery			R	You may cast Ghitu Fire any time you could cast an instant if you pay {2} more to cast it. Ghitu Fire deals X damage to target creature or player.
+Goblin Spy	invasion	145	R	R	1	Creature - Goblin Rogue	1	1	U	Play with the top card of your library revealed.
+Halam Djinn	invasion	146	R	5R	6	Creature - Djinn	6	5	U	Haste Halam Djinn gets -2/-2 as long as red is the most common color among all permanents or is tied for most common.
+Hooded Kavu	invasion	147	R	2R	3	Creature - Kavu	2	2	C	{B}: Hooded Kavu gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Kavu Aggressor	invasion	148	R	2R	3	Creature - Kavu	3	2	C	Kicker {4} (You may pay an additional {4} as you cast this spell.) Kavu Aggressor can't block. If the kicker cost was paid, Kavu Aggressor enters the battlefield with a +1/+1 counter on it.
+Kavu Monarch	invasion	149	R	2RR	4	Creature - Kavu	3	3	R	Kavu creatures have trample. Whenever another Kavu enters the battlefield, put a +1/+1 counter on Kavu Monarch.
+Kavu Runner	invasion	150	R	3R	4	Creature - Kavu	3	3	U	Kavu Runner has haste as long as no opponent controls a white or blue creature.
+Kavu Scout	invasion	151	R	2R	3	Creature - Kavu Scout	0	2	C	Domain - Kavu Scout gets +1/+0 for each basic land type among lands you control.
+Lightning Dart	invasion	152	R	1R	2	Instant			U	Lightning Dart deals 1 damage to target creature. If that creature is white or blue, Lightning Dart deals 4 damage to it instead.
+Loafing Giant	invasion	153	R	4R	5	Creature - Giant	4	6	R	Whenever Loafing Giant attacks or blocks, put the top card of your library into your graveyard. If that card is a land card, prevent all combat damage that Loafing Giant would deal this turn.
+Mages' Contest	invasion	154	R	1RR	3	Instant			R	You and target spell's controller bid life. You start the bidding with a bid of 1. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid. If you win the bidding, counter that spell.
+Maniacal Rage	invasion	155	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and can't block.
+Obliterate	invasion	156	R	6RR	8	Sorcery			R	Obliterate can't be countered. Destroy all artifacts, creatures, and lands. They can't be regenerated.
+Overload	invasion	157	R	R	1	Instant			C	Kicker {2} (You may pay an additional {2} as you cast this spell.) Destroy target artifact if its converted mana cost is 2 or less. If the kicker cost was paid, destroy that artifact if its converted mana cost is 5 or less instead.
+Pouncing Kavu	invasion	158	R	1R	2	Creature - Kavu	1	1	C	Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.) First strike If the kicker cost was paid, Pouncing Kavu enters the battlefield with two +1/+1 counters on it and with haste.
+Rage Weaver	invasion	159	R	1R	2	Creature - Human Wizard	2	1	U	{2}: Target black or green creature gains haste until end of turn. (It can attack and {T} this turn.)
+Rogue Kavu	invasion	160	R	1R	2	Creature - Kavu	1	1	C	Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.
+Ruby Leech	invasion	161	R	1R	2	Creature - Leech	2	2	R	First strike Red spells you cast cost {R} more to cast.
+Savage Offensive	invasion	162	R	1R	2	Sorcery			C	Kicker {G} (You may pay an additional {G} as you cast this spell.) Creatures you control gain first strike until end of turn. If the kicker cost was paid, they get +1/+1 until end of turn.
+Scarred Puma	invasion	163	R	R	1	Creature - Cat	2	1	C	Scarred Puma can't attack unless a black or green creature also attacks.
+Scorching Lava	invasion	164	R	1R	2	Instant			C	Kicker {R} (You may pay an additional {R} as you cast this spell.) Scorching Lava deals 2 damage to target creature or player. If the kicker cost was paid, that creature can't be regenerated this turn and if it would be put into a graveyard this turn, exile it instead.
+Searing Rays	invasion	165	R	2R	3	Sorcery			U	Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.
+Shivan Emissary	invasion	166	R	2R	3	Creature - Human Wizard	1	1	U	Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.) When Shivan Emissary enters the battlefield, if the kicker cost was paid, destroy target nonblack creature. It can't be regenerated.
+Shivan Harvest	invasion	167	R	1R	2	Enchantment			U	{1}{R}, Sacrifice a creature: Destroy target nonbasic land.
+Skittish Kavu	invasion	168	R	1R	2	Creature - Kavu	1	1	U	Skittish Kavu gets +1/+1 as long as no opponent controls a white or blue creature.
+Skizzik	invasion	169	R	3R	4	Creature - Elemental	5	3	R	Kicker {R} (You may pay an additional {R} as you cast this spell.) Trample, haste At the beginning of the end step, sacrifice Skizzik unless the kicker cost was paid.
+Slimy Kavu	invasion	170	R	2R	3	Creature - Kavu	2	2	C	{T}: Target land becomes a Swamp until end of turn.
+Stand or Fall	invasion	171	R	3R	4	Enchantment			R	At the beginning of your combat phase, separate all creatures defending player controls into two piles. Only creatures in the pile of that player's choice can block this turn.
+Stun	invasion	172	R	1R	2	Instant			C	Target creature can't block this turn. Draw a card.
+Tectonic Instability	invasion	173	R	2R	3	Enchantment			R	Whenever a land enters the battlefield, tap all lands its controller controls.
+Thunderscape Apprentice	invasion	174	R	R	1	Creature - Human Wizard	1	1	C	{B}, {T}: Target player loses 1 life. {G}, {T}: Target creature gets +1/+1 until end of turn.
+Thunderscape Master	invasion	175	R	2RR	4	Creature - Human Wizard	2	2	R	{B}{B}, {T}: Target player loses 2 life and you gain 2 life. {G}{G}, {T}: Creatures you control get +2/+2 until end of turn.
+Tribal Flames	invasion	176	R	1R	2	Sorcery			C	Domain - Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.
+Turf Wound	invasion	177	R	2R	3	Instant			C	Target player can't play land cards this turn. Draw a card.
+Urza's Rage	invasion	178	R	2R	3	Instant			R	Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.) Urza's Rage can't be countered by spells or abilities. Urza's Rage deals 3 damage to target creature or player. If the kicker cost was paid, instead Urza's Rage deals 10 damage to that creature or player and the damage can't be prevented.
+Viashino Grappler	invasion	179	R	2R	3	Creature - Viashino	3	1	C	{G}: Viashino Grappler gains trample until end of turn.
+Zap	invasion	180	R	2R	3	Instant			C	Zap deals 1 damage to target creature or player. Draw a card.
+Aggressive Urge	invasion	181	G	1G	2	Instant			C	Target creature gets +1/+1 until end of turn. Draw a card.
+Bind	invasion	182	G	1G	2	Instant			R	Counter target activated ability. (Mana abilities can't be targeted.) Draw a card.
+Blurred Mongoose	invasion	183	G	1G	2	Creature - Mongoose	2	1	R	Blurred Mongoose can't be countered. Shroud (This permanent can't be the target of spells or abilities.)
+Canopy Surge	invasion	184	G	1G	2	Sorcery			U	Kicker {2} (You may pay an additional {2} as you cast this spell.) Canopy Surge deals 1 damage to each creature with flying and each player. If the kicker cost was paid, Canopy Surge deals 4 damage to each creature with flying and each player instead.
+Elfhame Sanctuary	invasion	185	G	1G	2	Enchantment			U	At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.
+Elvish Champion	invasion	186	G	1GG	3	Creature - Elf	2	2	R	Other Elf creatures get +1/+1 and have forestwalk. (They're unblockable as long as defending player controls a Forest.)
+Explosive Growth	invasion	187	G	G	1	Instant			C	Kicker {5} (You may pay an additional {5} as you cast this spell.) Target creature gets +2/+2 until end of turn. If the kicker cost was paid, that creature gets +5/+5 until end of turn instead.
+Fertile Ground	invasion	188	G	1G	2	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).
+Harrow	invasion	189	G	2G	3	Instant			C	As an additional cost to cast Harrow, sacrifice a land. Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+Jade Leech	invasion	190	G	2GG	4	Creature - Leech	5	5	R	Green spells you cast cost {G} more to cast.
+Kavu Chameleon	invasion	191	G	3GG	5	Creature - Kavu	4	4	U	Kavu Chameleon can't be countered. {G}: Kavu Chameleon becomes the color of your choice until end of turn.
+Kavu Climber	invasion	192	G	3GG	5	Creature - Kavu	3	3	C	When Kavu Climber enters the battlefield, draw a card.
+Kavu Lair	invasion	193	G	2G	3	Enchantment			R	Whenever a creature with power 4 or greater enters the battlefield, its controller draws a card.
+Kavu Titan	invasion	194	G	1G	2	Creature - Kavu	2	2	R	Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.) If the kicker cost was paid, Kavu Titan enters the battlefield with three +1/+1 counters on it and with trample.
+Llanowar Cavalry	invasion	195	G	2G	3	Creature - Human Soldier	1	4	C	{W}: Llanowar Cavalry gains vigilance until end of turn.
+Llanowar Elite	invasion	196	G	G	1	Creature - Elf	1	1	C	Kicker {8} (You may pay an additional {8} as you cast this spell.) Trample If the kicker cost was paid, Llanowar Elite enters the battlefield with five +1/+1 counters on it.
+Llanowar Vanguard	invasion	197	G	2G	3	Creature - Dryad	1	1	C	{T}: Llanowar Vanguard gets +0/+4 until end of turn.
+Might Weaver	invasion	198	G	1G	2	Creature - Human Wizard	2	1	U	{2}: Target red or white creature gains trample until end of turn. (If the creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Molimo, Maro-Sorcerer	invasion	199	G	4GGG	7	Legendary Creature - Elemental	*	*	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+Nomadic Elf	invasion	200	G	1G	2	Creature - Elf Nomad	2	2	C	{1}{G}: Add one mana of any color to your mana pool.
+Pincer Spider	invasion	201	G	2G	3	Creature - Spider	2	3	C	Kicker {3} (You may pay an additional {3} as you cast this spell.) Reach (This creature can block creatures with flying.) If the kicker cost was paid, Pincer Spider enters the battlefield with a +1/+1 counter on it.
+Pulse of Llanowar	invasion	202	G	3G	4	Enchantment			U	If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.
+Quirion Elves	invasion	203	G	1G	2	Creature - Elf Druid	1	1	C	As Quirion Elves enters the battlefield, choose a color. {T}: Add {G} to your mana pool. {T}: Add one mana of the chosen color to your mana pool.
+Quirion Sentinel	invasion	204	G	1G	2	Creature - Elf Druid	2	1	C	When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.
+Quirion Trailblazer	invasion	205	G	3G	4	Creature - Elf Scout	1	2	C	When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.
+Restock	invasion	206	G	3GG	5	Sorcery			R	Return two target cards from your graveyard to your hand. Exile Restock.
+Rooting Kavu	invasion	207	G	2GG	4	Creature - Kavu	4	3	U	When Rooting Kavu is put into a graveyard from the battlefield, you may exile it. If you do, shuffle all creature cards from your graveyard into your library.
+Saproling Infestation	invasion	208	G	1G	2	Enchantment			R	Whenever a player pays a kicker cost, you put a 1/1 green Saproling creature token onto the battlefield.
+Saproling Symbiosis	invasion	209	G	3G	4	Sorcery			R	You may cast Saproling Symbiosis any time you could cast an instant if you pay {2} more to cast it. Put a 1/1 green Saproling creature token onto the battlefield for each creature you control.
+Scouting Trek	invasion	210	G	1G	2	Sorcery			U	Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.
+Serpentine Kavu	invasion	211	G	4G	5	Creature - Kavu	4	4	C	{R}: Serpentine Kavu gains haste until end of turn.
+Sulam Djinn	invasion	212	G	5G	6	Creature - Djinn	6	6	U	Trample Sulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.
+Tangle	invasion	213	G	1G	2	Instant			U	Prevent all combat damage that would be dealt this turn. Each attacking creature doesn't untap during its controller's next untap step.
+Thicket Elemental	invasion	214	G	3GG	5	Creature - Elemental	4	4	R	Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.) When Thicket Elemental enters the battlefield, if the kicker cost was paid, you may reveal cards from the top of your library until you reveal a creature card. If you do, put that card onto the battlefield and shuffle all other cards revealed this way into your library.
+Thornscape Apprentice	invasion	215	G	G	1	Creature - Human Wizard	1	1	C	{W}, {T}: Tap target creature. {R}, {T}: Target creature gains first strike until end of turn.
+Thornscape Master	invasion	216	G	2GG	4	Creature - Human Wizard	2	2	R	{R}{R}, {T}: Thornscape Master deals 2 damage to target creature. {W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.
+Tranquility	invasion	217	G	2G	3	Sorcery			C	Destroy all enchantments.
+Treefolk Healer	invasion	218	G	4G	5	Creature - Treefolk Cleric	2	3	U	{2}{W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Utopia Tree	invasion	219	G	1G	2	Creature - Plant	0	2	R	{T}: Add one mana of any color to your mana pool.
+Verdeloth the Ancient	invasion	220	G	4GG	6	Legendary Creature - Treefolk	4	7	R	Kicker {X} (You may pay an additional {X} as you cast this spell.) Other Treefolk creatures and Saproling creatures get +1/+1. When Verdeloth the Ancient enters the battlefield, if the kicker cost was paid, put X 1/1 green Saproling creature tokens onto the battlefield.
+Verduran Emissary	invasion	221	G	2G	3	Creature - Human Wizard	2	3	U	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.) When Verduran Emissary enters the battlefield, if the kicker cost was paid, destroy target artifact. It can't be regenerated.
+Vigorous Charge	invasion	222	G	G	1	Instant			C	Kicker {W} (You may pay an additional {W} as you cast this spell.) Target creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if the kicker cost was paid, you gain life equal to that damage.
+Wallop	invasion	223	G	1G	2	Sorcery			U	Destroy target blue or black creature with flying.
+Wandering Stream	invasion	224	G	2G	3	Sorcery			C	Domain - You gain 2 life for each basic land type among lands you control.
+Whip Silk	invasion	225	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature has reach. (It can block creatures with flying.) {G}: Return Whip Silk to its owner's hand.
+Absorb	invasion	226	WU	WUU	3	Instant			R	Counter target spell. You gain 3 life.
+Aether Rift	invasion	227	RG	1RG	3	Enchantment			R	At the beginning of your upkeep, discard a card at random from your hand. If you discard a creature card this way, return it from your graveyard to the battlefield unless any player pays 5 life.
+Angelic Shield	invasion	228	WU	WU	2	Enchantment			U	Creatures you control get +0/+1. Sacrifice Angelic Shield: Return target creature to its owner's hand.
+Armadillo Cloak	invasion	229	GW	1GW	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and has trample. Whenever enchanted creature deals damage, you gain that much life.
+Armored Guardian	invasion	230	WU	3WU	5	Creature - Cat Soldier	2	5	R	{1}{W}{W}: Target creature you control gains protection from the color of your choice until end of turn. {1}{U}{U}: Armored Guardian gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Artifact Mutation	invasion	231	RG	RG	2	Instant			R	Destroy target artifact. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that artifact's converted mana cost.
+Aura Mutation	invasion	232	GW	GW	2	Instant			R	Destroy target enchantment. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that enchantment's converted mana cost.
+Aura Shards	invasion	233	GW	1GW	3	Enchantment			U	Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.
+Backlash	invasion	234	BR	1BR	3	Instant			U	Tap target untapped creature. That creature deals damage equal to its power to its controller.
+Barrin's Spite	invasion	235	UB	2UB	4	Sorcery			R	Choose two target creatures controlled by the same player. Their controller chooses and sacrifices one of them. Return the other to its owner's hand.
+Blazing Specter	invasion	236	BR	2BR	4	Creature - Specter	2	2	R	Flying, haste Whenever Blazing Specter deals combat damage to a player, that player discards a card.
+Captain Sisay	invasion	237	GW	2GW	4	Legendary Creature - Human Soldier	2	2	R	{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.
+Cauldron Dance	invasion	238	BR	4BR	6	Instant			U	Cast Cauldron Dance only during combat. Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step. You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step.
+Charging Troll	invasion	239	GW	2GW	4	Creature - Troll	3	3	U	Vigilance {G}: Regenerate Charging Troll.
+Cinder Shade	invasion	240	BR	1BR	3	Creature - Shade	1	1	U	{B}: Cinder Shade gets +1/+1 until end of turn. {R}, Sacrifice Cinder Shade: Cinder Shade deals damage equal to its power to target creature.
+Coalition Victory	invasion	241	WUBRG	3WUBRG	8	Sorcery			R	You win the game if you control a land of each basic land type and a creature of each color.
+Crosis, the Purger	invasion	242	UBR	3UBR	6	Legendary Creature - Dragon	6	6	R	Flying Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color. That player reveals his or her hand and discards all cards of that color.
+Darigaaz, the Igniter	invasion	243	BRG	3BRG	6	Legendary Creature - Dragon	6	6	R	Flying Whenever Darigaaz, the Igniter deals combat damage to a player, you may pay {2}{R}. If you do, choose a color. That player reveals his or her hand and Darigaaz deals X damage to him or her, where X is the number of cards revealed of that color.
+Dromar, the Banisher	invasion	244	WUB	3WUB	6	Legendary Creature - Dragon	6	6	R	Flying Whenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color. Return all creatures of that color to their owners' hands.
+Dueling Grounds	invasion	245	GW	1GW	3	Enchantment			R	No more than one creature can attack each turn. No more than one creature can block each turn.
+Fires of Yavimaya	invasion	246	RG	1RG	3	Enchantment			U	Creatures you control have haste. Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+Frenzied Tilling	invasion	247	RG	3RG	5	Sorcery			C	Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Galina's Knight	invasion	248	WU	WU	2	Creature - Merfolk Knight	2	2	C	Protection from red
+Hanna, Ship's Navigator	invasion	249	WU	1WU	3	Legendary Creature - Human Artificer	1	2	R	{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.
+Heroes' Reunion	invasion	250	GW	GW	2	Instant			U	Target player gains 7 life.
+Horned Cheetah	invasion	251	GW	2GW	4	Creature - Cat	2	2	U	Whenever Horned Cheetah deals damage, you gain that much life.
+Hunting Kavu	invasion	252	RG	1RG	3	Creature - Kavu	2	3	U	{1}{R}{G}, {T}: Exile Hunting Kavu and target creature without flying that's attacking you.
+Kangee, Aerie Keeper	invasion	253	WU	2WU	4	Legendary Creature - Bird Wizard	2	2	R	Kicker {X}{2} (You may pay an additional {X}{2} as you cast this spell.) Flying When Kangee, Aerie Keeper enters the battlefield, if the kicker cost was paid, put X feather counters on it. Other Bird creatures get +1/+1 for each feather counter on Kangee, Aerie Keeper.
+Llanowar Knight	invasion	254	GW	GW	2	Creature - Elf Knight	2	2	C	Protection from black
+Lobotomy	invasion	255	UB	2UB	4	Sorcery			U	Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library.
+Meteor Storm	invasion	256	RG	RG	2	Enchantment			R	{2}{R}{G}, Discard two cards at random: Meteor Storm deals 4 damage to target creature or player.
+Noble Panther	invasion	257	GW	1GW	3	Creature - Cat	3	3	R	{1}: Noble Panther gains first strike until end of turn.
+Ordered Migration	invasion	258	WU	3WU	5	Sorcery			U	Domain - Put a 1/1 blue Bird creature token with flying onto the battlefield for each basic land type among lands you control.
+Overabundance	invasion	259	RG	1RG	3	Enchantment			R	Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced, and Overabundance deals 1 damage to him or her.
+Plague Spores	invasion	260	BR	4BR	6	Sorcery			C	Destroy target nonblack creature and target land. They can't be regenerated.
+Pyre Zombie	invasion	261	BR	1BR	3	Creature - Zombie	2	1	R	At the beginning of your upkeep, if Pyre Zombie is in your graveyard, you may pay {1}{B}{B}. If you do, return Pyre Zombie from your graveyard to your hand. {1}{R}{R}, Sacrifice Pyre Zombie: Pyre Zombie deals 2 damage to target creature or player.
+Raging Kavu	invasion	262	RG	1RG	3	Creature - Kavu	3	1	R	Flash Haste
+Reckless Assault	invasion	263	BR	2BR	4	Enchantment			R	{1}, Pay 2 life: Reckless Assault deals 1 damage to target creature or player.
+Recoil	invasion	264	UB	1UB	3	Instant			C	Return target permanent to its owner's hand. Then that player discards a card.
+Reviving Vapors	invasion	265	WU	2WU	4	Instant			U	Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.
+Riptide Crab	invasion	266	WU	1WU	3	Creature - Crab	1	3	U	Vigilance When Riptide Crab is put into a graveyard from the battlefield, draw a card.
+Rith, the Awakener	invasion	267	RGW	3RGW	6	Legendary Creature - Dragon	6	6	R	Flying Whenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color. Put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.
+Sabertooth Nishoba	invasion	268	GW	4GW	6	Creature - Cat Beast Warrior	5	5	R	Trample, protection from blue and from red
+Samite Archer	invasion	269	WU	1WU	3	Creature - Human Cleric Archer	1	1	U	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. {T}: Samite Archer deals 1 damage to target creature or player.
+Seer's Vision	invasion	270	UB	2UB	4	Enchantment			U	Your opponents play with their hands revealed. Sacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+Shivan Zombie	invasion	271	BR	BR	2	Creature - Barbarian Zombie	2	2	C	Protection from white
+Simoon	invasion	272	RG	RG	2	Instant			U	Simoon deals 1 damage to each creature target opponent controls.
+Sleeper's Robe	invasion	273	UB	UB	2	Enchantment - Aura			U	Enchant creature Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.) Whenever enchanted creature deals combat damage to an opponent, you may draw a card.
+Slinking Serpent	invasion	274	UB	2UB	4	Creature - Serpent	2	3	U	Forestwalk
+Smoldering Tar	invasion	275	BR	2BR	4	Enchantment			U	At the beginning of your upkeep, target player loses 1 life. Sacrifice Smoldering Tar: Smoldering Tar deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+Spinal Embrace	invasion	276	UB	3UUB	6	Instant			R	Cast Spinal Embrace only during combat. Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.
+Stalking Assassin	invasion	277	UB	1UB	3	Creature - Human Assassin	1	1	R	{3}{U}, {T}: Tap target creature. {3}{B}, {T}: Destroy target tapped creature.
+Sterling Grove	invasion	278	GW	GW	2	Enchantment			U	Other enchantments you control have shroud. (They can't be the targets of spells or abilities.) {1}, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it.
+Teferi's Moat	invasion	279	WU	3WU	5	Enchantment			R	As Teferi's Moat enters the battlefield, choose a color. Creatures of the chosen color without flying can't attack you.
+Treva, the Renewer	invasion	280	GWU	3GWU	6	Legendary Creature - Dragon	6	6	R	Flying Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color. You gain 1 life for each permanent of that color.
+Tsabo Tavoc	invasion	281	BR	5BR	7	Legendary Creature - Horror	7	4	R	First strike, protection from legendary creatures {B}{B}, {T}: Destroy target legendary creature. It can't be regenerated.
+Undermine	invasion	282	UB	UUB	3	Instant			R	Counter target spell. Its controller loses 3 life.
+Urborg Drake	invasion	283	UB	1UB	3	Creature - Drake	2	3	U	Flying Urborg Drake attacks each turn if able.
+Vicious Kavu	invasion	284	BR	1BR	3	Creature - Kavu	2	2	U	Whenever Vicious Kavu attacks, it gets +2/+0 until end of turn.
+Vile Consumption	invasion	285	UB	1UB	3	Enchantment			R	All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay 1 life."
+Vodalian Zombie	invasion	286	UB	UB	2	Creature - Merfolk Zombie	2	2	C	Protection from green
+Void	invasion	287	BR	3BR	5	Sorcery			R	Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number.
+Voracious Cobra	invasion	288	RG	2RG	4	Creature - Snake	2	2	U	First strike Whenever Voracious Cobra deals combat damage to a creature, destroy that creature.
+Wings of Hope	invasion	289	WU	WU	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+3 and has flying.
+Yavimaya Barbarian	invasion	290	RG	RG	2	Creature - Elf Barbarian	2	2	C	Protection from blue
+Yavimaya Kavu	invasion	291	RG	2RG	4	Creature - Kavu	*	*	U	Yavimaya Kavu's power is equal to the number of red creatures on the battlefield. Yavimaya Kavu's toughness is equal to the number of green creatures on the battlefield.
+Stand // Deliver	invasion	292	W/U	W/2U	4	Instant			U	Prevent the next 2 damage that would be dealt to target creature this turn./Return target permanent to its owner's hand.
+Spite // Malice	invasion	293	U/B	3U/3B	8	Instant			U	Counter target noncreature spell./Destroy target nonblack creature. It can't be regenerated.
+Pain // Suffering	invasion	294	B/R	B/3R	5	Sorcery			U	Target player discards a card./Destroy target land.
+Assault // Battery	invasion	295	R/G	R/3G	5	Sorcery			U	Assault deals 2 damage to target creature or player./Put a 3/3 green Elephant creature token onto the battlefield.
+Wax // Wane	invasion	296	W/G	W/G	2	Instant			U	Target creature gets +2/+2 until end of turn./Destroy target enchantment.
+Alloy Golem	invasion	297	A	6	6	Artifact Creature - Golem	4	4	U	As Alloy Golem enters the battlefield, choose a color. Alloy Golem is the chosen color. (It's still an artifact.)
+Bloodstone Cameo	invasion	298	A	3	3	Artifact			U	{T}: Add {B} or {R} to your mana pool.
+Chromatic Sphere	invasion	299	A	1	1	Artifact			U	{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.
+Crosis's Attendant	invasion	300	A	5	5	Artifact Creature - Golem	3	3	U	{1}, Sacrifice Crosis's Attendant: Add {U}{B}{R} to your mana pool.
+Darigaaz's Attendant	invasion	301	A	5	5	Artifact Creature - Golem	3	3	U	{1}, Sacrifice Darigaaz's Attendant: Add {B}{R}{G} to your mana pool.
+Drake-Skull Cameo	invasion	302	A	3	3	Artifact			U	{T}: Add {U} or {B} to your mana pool.
+Dromar's Attendant	invasion	303	A	5	5	Artifact Creature - Golem	3	3	U	{1}, Sacrifice Dromar's Attendant: Add {W}{U}{B} to your mana pool.
+Juntu Stakes	invasion	304	A	2	2	Artifact			R	Creatures with power 1 or less don't untap during their controllers' untap steps.
+Lotus Guardian	invasion	305	A	7	7	Artifact Creature - Dragon	4	4	R	Flying {T}: Add one mana of any color to your mana pool.
+Phyrexian Altar	invasion	306	A	3	3	Artifact			R	Sacrifice a creature: Add one mana of any color to your mana pool.
+Phyrexian Lens	invasion	307	A	3	3	Artifact			R	{T}, Pay 1 life: Add one mana of any color to your mana pool.
+Planar Portal	invasion	308	A	6	6	Artifact			R	{6}, {T}: Search your library for a card and put that card into your hand. Then shuffle your library.
+Power Armor	invasion	309	A	4	4	Artifact			U	Domain - {3}, {T}: Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+Rith's Attendant	invasion	310	A	5	5	Artifact Creature - Golem	3	3	U	{1}, Sacrifice Rith's Attendant: Add {R}{G}{W} to your mana pool.
+Seashell Cameo	invasion	311	A	3	3	Artifact			U	{T}: Add {W} or {U} to your mana pool.
+Sparring Golem	invasion	312	A	3	3	Artifact Creature - Golem	2	2	U	Whenever Sparring Golem becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Tek	invasion	313	A	5	5	Artifact Creature - Dragon	2	2	R	Tek gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.
+Tigereye Cameo	invasion	314	A	3	3	Artifact			U	{T}: Add {G} or {W} to your mana pool.
+Treva's Attendant	invasion	315	A	5	5	Artifact Creature - Golem	3	3	U	{1}, Sacrifice Treva's Attendant: Add {G}{W}{U} to your mana pool.
+Troll-Horn Cameo	invasion	316	A	3	3	Artifact			U	{T}: Add {R} or {G} to your mana pool.
+Tsabo's Web	invasion	317	A	2	2	Artifact			R	When Tsabo's Web enters the battlefield, draw a card. Each land with an activated ability that isn't a mana ability doesn't untap during its controller's untap step.
+Urza's Filter	invasion	318	A	4	4	Artifact			R	Multicolored spells cost up to {2} less to cast.
+Ancient Spring	invasion	319	L		0	Land			C	Ancient Spring enters the battlefield tapped. {T}: Add {U} to your mana pool. {T}, Sacrifice Ancient Spring: Add {W}{B} to your mana pool.
+Archaeological Dig	invasion	320	L		0	Land			U	{T}: Add {1} to your mana pool. {T}, Sacrifice Archaeological Dig: Add one mana of any color to your mana pool.
+Coastal Tower	invasion	321	L		0	Land			U	Coastal Tower enters the battlefield tapped. {T}: Add {W} or {U} to your mana pool.
+Elfhame Palace	invasion	322	L		0	Land			U	Elfhame Palace enters the battlefield tapped. {T}: Add {G} or {W} to your mana pool.
+Geothermal Crevice	invasion	323	L		0	Land			C	Geothermal Crevice enters the battlefield tapped. {T}: Add {R} to your mana pool. {T}, Sacrifice Geothermal Crevice: Add {B}{G} to your mana pool.
+Irrigation Ditch	invasion	324	L		0	Land			C	Irrigation Ditch enters the battlefield tapped. {T}: Add {W} to your mana pool. {T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.
+Keldon Necropolis	invasion	325	L		0	Legendary Land			R	{T}: Add {1} to your mana pool. {4}{R}, {T}, Sacrifice a creature: Keldon Necropolis deals 2 damage to target creature or player.
+Salt Marsh	invasion	326	L		0	Land			U	Salt Marsh enters the battlefield tapped. {T}: Add {U} or {B} to your mana pool.
+Shivan Oasis	invasion	327	L		0	Land			U	Shivan Oasis enters the battlefield tapped. {T}: Add {R} or {G} to your mana pool.
+Sulfur Vent	invasion	328	L		0	Land			C	Sulfur Vent enters the battlefield tapped. {T}: Add {B} to your mana pool. {T}, Sacrifice Sulfur Vent: Add {U}{R} to your mana pool.
+Tinder Farm	invasion	329	L		0	Land			C	Tinder Farm enters the battlefield tapped. {T}: Add {G} to your mana pool. {T}, Sacrifice Tinder Farm: Add {R}{W} to your mana pool.
+Urborg Volcano	invasion	330	L		0	Land			U	Urborg Volcano enters the battlefield tapped. {T}: Add {B} or {R} to your mana pool.
+Plains	invasion	331	L		0	Basic Land - Plains			L	W
+Island	invasion	335	L		0	Basic Land - Island			L	U
+Swamp	invasion	339	L		0	Basic Land - Swamp			L	B
+Mountain	invasion	343	L		0	Basic Land - Mountain			L	R
+Forest	invasion	347	L		0	Basic Land - Forest			L	G
+Aura Blast	planeshift	1	W	1W	2	Instant			C	Destroy target enchantment. Draw a card.
+Aurora Griffin	planeshift	2	W	3W	4	Creature - Griffin	2	2	C	Flying {W}: Target permanent becomes white until end of turn.
+Disciple of Kangee	planeshift	3	W	2W	3	Creature - Human Wizard	2	2	C	{U}, {T}: Target creature gains flying and becomes blue until end of turn.
+Dominaria's Judgment	planeshift	4	W	2W	3	Instant			R	Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.
+Guard Dogs	planeshift	5	W	3W	4	Creature - Hound	2	2	U	{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.
+Heroic Defiance	planeshift	6	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.
+Hobble	planeshift	7	W	2W	3	Enchantment - Aura			C	Enchant creature When Hobble enters the battlefield, draw a card. Enchanted creature can't attack. Enchanted creature can't block if it's black.
+Honorable Scout	planeshift	8	W	W	1	Creature - Human Soldier Scout	1	1	C	When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.
+Lashknife Barrier	planeshift	9	W	2W	3	Enchantment			U	When Lashknife Barrier enters the battlefield, draw a card. If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.
+March of Souls	planeshift	10	W	4W	5	Sorcery			R	Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+Orim's Chant	planeshift	11	W	W	1	Instant			R	Kicker {W} (You may pay an additional {W} as you cast this spell.) Target player can't cast spells this turn. If the kicker cost was paid, creatures can't attack this turn.
+Planeswalker's Mirth	planeshift	12	W	2W	3	Enchantment			R	{3}{W}: Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.
+Pollen Remedy	planeshift	13	W	W	1	Instant			C	Kicker-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.) Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If the kicker cost was paid, prevent the next 6 damage this way instead.
+Samite Elder	planeshift	14	W	2W	3	Creature - Human Cleric	1	2	R	{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.
+Samite Pilgrim	planeshift	15	W	1W	2	Creature - Human Cleric	1	1	C	Domain - {T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.
+Sunscape Battlemage	planeshift	16	W	2W	3	Creature - Human Wizard	2	2	U	Kicker {1}{G} and/or {2}{U} (You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.) When Sunscape Battlemage enters the battlefield, if the {1}{G} kicker cost was paid, destroy target creature with flying. When Sunscape Battlemage enters the battlefield, if the {2}{U} kicker cost was paid, draw two cards.
+Sunscape Familiar	planeshift	17	W	1W	2	Creature - Wall	0	3	C	Defender (This creature can't attack.) Green spells and blue spells you cast cost {1} less to cast.
+Surprise Deployment	planeshift	18	W	3W	4	Instant			U	Cast Surprise Deployment only during combat. You may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. (Return it only if it's on the battlefield.)
+Voice of All	planeshift	19	W	2WW	4	Creature - Angel	2	2	U	Flying (This creature can't be blocked except by creatures with flying or reach.) As Voice of All enters the battlefield, choose a color. Voice of All has protection from the chosen color. (It can't be blocked, targeted, dealt damage, or enchanted by anything of the chosen color.)
+Allied Strategies	planeshift	20	U	4U	5	Sorcery			U	Domain - Target player draws a card for each basic land type among lands he or she controls.
+Arctic Merfolk	planeshift	21	U	1U	2	Creature - Merfolk	1	1	C	Kicker-Return a creature you control to its owner's hand. (You may return a creature you control to its owner's hand in addition to any other costs as you cast this spell.) If the kicker cost was paid, Arctic Merfolk enters the battlefield with a +1/+1 counter on it.
+Confound	planeshift	22	U	1U	2	Instant			C	Counter target spell that targets one or more creatures. Draw a card.
+Dralnu's Pet	planeshift	23	U	1UU	3	Creature - Shapeshifter	2	2	R	Kicker-{2}{B}, Discard a creature card. (You may pay {2}{B} and discard a creature card in addition to any other costs as you cast this spell.) If the kicker cost was paid, Dralnu's Pet enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.
+Ertai's Trickery	planeshift	24	U	U	1	Instant			U	Counter target spell if a kicker cost was paid for it.
+Escape Routes	planeshift	25	U	2U	3	Enchantment			C	{2}{U}: Return target white or black creature you control to its owner's hand.
+Gainsay	planeshift	26	U	1U	2	Instant			U	Counter target blue spell.
+Hunting Drake	planeshift	27	U	4U	5	Creature - Drake	2	2	C	Flying When Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.
+Planar Overlay	planeshift	28	U	2U	3	Sorcery			R	Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.
+Planeswalker's Mischief	planeshift	29	U	2U	3	Enchantment			R	{3}{U}: Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.
+Rushing River	planeshift	30	U	2U	3	Instant			C	Kicker-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.) Return target nonland permanent to its owner's hand. If the kicker cost was paid, return another target nonland permanent to its owner's hand.
+Sea Snidd	planeshift	31	U	4U	5	Creature - Beast	3	3	C	{T}: Target land becomes the basic land type of your choice until end of turn.
+Shifting Sky	planeshift	32	U	2U	3	Enchantment			U	As Shifting Sky enters the battlefield, choose a color. All nonland permanents are the chosen color.
+Sisay's Ingenuity	planeshift	33	U	U	1	Enchantment - Aura			C	Enchant creature When Sisay's Ingenuity enters the battlefield, draw a card. Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."
+Sleeping Potion	planeshift	34	U	1U	2	Enchantment - Aura			C	Enchant creature When Sleeping Potion enters the battlefield, tap enchanted creature. Enchanted creature doesn't untap during its controller's untap step. When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.
+Stormscape Battlemage	planeshift	35	U	2U	3	Creature - Metathran Wizard	2	2	U	Kicker {W} and/or {2}{B} (You may pay an additional {W} and/or {2}{B} as you cast this spell.) When Stormscape Battlemage enters the battlefield, if the {W} kicker cost was paid, you gain 3 life. When Stormscape Battlemage enters the battlefield, if the {2}{B} kicker cost was paid, destroy target nonblack creature. That creature can't be regenerated.
+Stormscape Familiar	planeshift	36	U	1U	2	Creature - Bird	1	1	C	Flying White spells and black spells you cast cost {1} less to cast.
+Sunken Hope	planeshift	37	U	3UU	5	Enchantment			R	At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+Waterspout Elemental	planeshift	38	U	3UU	5	Creature - Elemental	3	4	R	Kicker {U} (You may pay an additional {U} as you cast this spell.) Flying When Waterspout Elemental enters the battlefield, if the kicker cost was paid, return all other creatures to their owners' hands and you skip your next turn.
+Bog Down	planeshift	39	B	2B	3	Sorcery			C	Kicker-Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.) Target player discards two cards. If the kicker cost was paid, that player discards three cards instead.
+Dark Suspicions	planeshift	40	B	2BB	4	Enchantment			R	At the beginning of each opponent's upkeep, that player loses 1 life for each card in his or her hand more than you have in your hand.
+Death Bomb	planeshift	41	B	3B	4	Instant			C	As an additional cost to cast Death Bomb, sacrifice a creature. Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.
+Diabolic Intent	planeshift	42	B	1B	2	Sorcery			R	As an additional cost to cast Diabolic Intent, sacrifice a creature. Search your library for a card and put that card into your hand. Then shuffle your library.
+Exotic Disease	planeshift	43	B	4B	5	Sorcery			U	Domain - Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.
+Lord of the Undead	planeshift	44	B	1BB	3	Creature - Zombie	2	2	R	Other Zombie creatures get +1/+1. {1}{B}, {T}: Return target Zombie card from your graveyard to your hand.
+Maggot Carrier	planeshift	45	B	B	1	Creature - Zombie	1	1	C	When Maggot Carrier enters the battlefield, each player loses 1 life.
+Morgue Toad	planeshift	46	B	2B	3	Creature - Frog	2	2	C	Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+Nightscape Battlemage	planeshift	47	B	2B	3	Creature - Zombie Wizard	2	2	U	Kicker {2}{U} and/or {2}{R} (You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.) When Nightscape Battlemage enters the battlefield, if the {2}{U} kicker cost was paid, return up to two target nonblack creatures to their owners' hands. When Nightscape Battlemage enters the battlefield, if the {2}{R} kicker cost was paid, destroy target land.
+Nightscape Familiar	planeshift	48	B	1B	2	Creature - Zombie	1	1	C	Blue spells and red spells you cast cost {1} less to cast. {1}{B}: Regenerate Nightscape Familiar.
+Noxious Vapors	planeshift	49	B	1BB	3	Sorcery			U	Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.
+Phyrexian Bloodstock	planeshift	50	B	4B	5	Creature - Zombie	3	3	C	When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.
+Phyrexian Scuta	planeshift	51	B	3B	4	Creature - Zombie	3	3	R	Kicker-Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.) If the kicker cost was paid, Phyrexian Scuta enters the battlefield with two +1/+1 counters on it.
+Planeswalker's Scorn	planeshift	52	B	2B	3	Enchantment			R	{3}{B}: Target opponent reveals a card at random from his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.
+Shriek of Dread	planeshift	53	B	1B	2	Instant			C	Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Sinister Strength	planeshift	54	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+1 and is black.
+Slay	planeshift	55	B	2B	3	Instant			U	Destroy target green creature. It can't be regenerated. Draw a card.
+Volcano Imp	planeshift	56	B	3B	4	Creature - Imp	2	2	C	Flying {1}{R}: Volcano Imp gains first strike until end of turn.
+Warped Devotion	planeshift	57	B	2B	3	Enchantment			U	Whenever a permanent is returned to a player's hand, that player discards a card.
+Caldera Kavu	planeshift	58	R	2R	3	Creature - Kavu	2	2	C	{1}{B}: Caldera Kavu gets +1/+1 until end of turn. {G}: Caldera Kavu becomes the color of your choice until end of turn.
+Deadapult	planeshift	59	R	2R	3	Enchantment			R	{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.
+Flametongue Kavu	planeshift	60	R	3R	4	Creature - Kavu	4	2	U	When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+Goblin Game	planeshift	61	R	5RR	7	Sorcery			R	Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.
+Implode	planeshift	62	R	4R	5	Sorcery			U	Destroy target land. Draw a card.
+Insolence	planeshift	63	R	2R	3	Enchantment - Aura			C	Enchant creature Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.
+Kavu Recluse	planeshift	64	R	2R	3	Creature - Kavu	2	2	C	{T}: Target land becomes a Forest until end of turn.
+Keldon Mantle	planeshift	65	R	1R	2	Enchantment - Aura			C	Enchant creature {B}: Regenerate enchanted creature. {R}: Enchanted creature gets +1/+0 until end of turn. {G}: Enchanted creature gains trample until end of turn.
+Magma Burst	planeshift	66	R	3R	4	Instant			C	Kicker-Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.) Magma Burst deals 3 damage to target creature or player. If the kicker cost was paid, Magma Burst deals 3 damage to another target creature or player.
+Mire Kavu	planeshift	67	R	3R	4	Creature - Kavu	3	2	C	Mire Kavu gets +1/+1 as long as you control a Swamp.
+Mogg Jailer	planeshift	68	R	1R	2	Creature - Goblin	2	2	U	Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
+Mogg Sentry	planeshift	69	R	R	1	Creature - Goblin Warrior	1	1	R	Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
+Planeswalker's Fury	planeshift	70	R	2R	3	Enchantment			R	{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.
+Singe	planeshift	71	R	R	1	Instant			C	Singe deals 1 damage to target creature. That creature becomes black until end of turn.
+Slingshot Goblin	planeshift	72	R	2R	3	Creature - Goblin	2	2	C	{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.
+Strafe	planeshift	73	R	R	1	Sorcery			U	Strafe deals 3 damage to target nonred creature.
+Tahngarth, Talruum Hero	planeshift	74	R	3RR	5	Legendary Creature - Minotaur Warrior	4	4	R	Vigilance {1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.
+Thunderscape Battlemage	planeshift	75	R	2R	3	Creature - Human Wizard	2	2	U	Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.) When Thunderscape Battlemage enters the battlefield, if the {1}{B} kicker cost was paid, target player discards two cards. When Thunderscape Battlemage enters the battlefield, if the {G} kicker cost was paid, destroy target enchantment.
+Thunderscape Familiar	planeshift	76	R	1R	2	Creature - Kavu	1	1	C	First strike Black spells and green spells you cast cost {1} less to cast.
+Alpha Kavu	planeshift	77	G	2G	3	Creature - Kavu	2	2	U	{1}{G}: Target Kavu creature gets -1/+1 until end of turn.
+Amphibious Kavu	planeshift	78	G	2G	3	Creature - Kavu	2	2	C	Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.
+Falling Timber	planeshift	79	G	2G	3	Instant			C	Kicker-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.) Prevent all combat damage target creature would deal this turn. If the kicker cost was paid, prevent all combat damage another target creature would deal this turn.
+Gaea's Herald	planeshift	80	G	1G	2	Creature - Elf	1	1	R	Creature spells can't be countered.
+Gaea's Might	planeshift	81	G	G	1	Instant			C	Domain - Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+Magnigoth Treefolk	planeshift	82	G	4G	5	Creature - Treefolk	2	6	R	Domain - For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type.
+Mirrorwood Treefolk	planeshift	83	G	3G	4	Creature - Treefolk	2	4	U	{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.
+Multani's Harmony	planeshift	84	G	G	1	Enchantment - Aura			U	Enchant creature Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+Nemata, Grove Guardian	planeshift	85	G	4GG	6	Legendary Creature - Treefolk	4	5	R	{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield. Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.
+Planeswalker's Favor	planeshift	86	G	2G	3	Enchantment			R	{3}{G}: Target opponent reveals a card at random from his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.
+Primal Growth	planeshift	87	G	2G	3	Sorcery			C	Kicker-Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.) Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If the kicker cost was paid, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.
+Pygmy Kavu	planeshift	88	G	3G	4	Creature - Kavu	1	2	C	When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.
+Quirion Dryad	planeshift	89	G	1G	2	Creature - Dryad	1	1	R	Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+Quirion Explorer	planeshift	90	G	1G	2	Creature - Elf Druid Scout	1	1	C	{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+Root Greevil	planeshift	91	G	3G	4	Creature - Beast	2	3	C	{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.
+Skyshroud Blessing	planeshift	92	G	1G	2	Instant			U	Lands gain shroud until end of turn. (They can't be the targets of spells or abilities.) Draw a card.
+Stone Kavu	planeshift	93	G	4G	5	Creature - Kavu	3	3	C	{R}: Stone Kavu gets +1/+0 until end of turn. {W}: Stone Kavu gets +0/+1 until end of turn.
+Thornscape Battlemage	planeshift	94	G	2G	3	Creature - Elf Wizard	2	2	U	Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.) When Thornscape Battlemage enters the battlefield, if the {R} kicker cost was paid, it deals 2 damage to target creature or player. When Thornscape Battlemage enters the battlefield, if the {W} kicker cost was paid, destroy target artifact.
+Thornscape Familiar	planeshift	95	G	1G	2	Creature - Insect	2	1	C	Red spells and white spells you cast cost {1} less to cast.
+Ancient Spider	planeshift	96	GW	2GW	4	Creature - Spider	2	5	R	First strike; reach (This creature can block creatures with flying.)
+Cavern Harpy	planeshift	97	UB	UB	2	Creature - Harpy Beast	2	1	C	Flying When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand. Pay 1 life: Return Cavern Harpy to its owner's hand.
+Cloud Cover	planeshift	98	WU	2WU	4	Enchantment			R	Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.
+Crosis's Charm	planeshift	99	UBR	UBR	3	Instant			U	Choose one - Return target permanent to its owner's hand; or destroy target nonblack creature, and it can't be regenerated; or destroy target artifact.
+Darigaaz's Charm	planeshift	100	BRG	BRG	3	Instant			U	Choose one - Return target creature card from your graveyard to your hand; or Darigaaz's Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn.
+Daring Leap	planeshift	101	WU	1WU	3	Instant			C	Target creature gets +1/+1 and gains flying and first strike until end of turn.
+Destructive Flow	planeshift	102	BRG	BRG	3	Enchantment			R	At the beginning of each player's upkeep, that player sacrifices a nonbasic land.
+Doomsday Specter	planeshift	103	UB	2UB	4	Creature - Specter	2	3	R	Flying When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand. Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.
+Dralnu's Crusade	planeshift	104	BR	1BR	3	Enchantment			R	Goblin creatures get +1/+1. All Goblins are black and are Zombies in addition to their other creature types.
+Dromar's Charm	planeshift	105	WUB	WUB	3	Instant			U	Choose one - You gain 5 life; or counter target spell; or target creature gets -2/-2 until end of turn.
+Eladamri's Call	planeshift	106	GW	GW	2	Instant			R	Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+Ertai, the Corrupted	planeshift	107	WUB	2WUB	5	Legendary Creature - Human Wizard	3	4	R	{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+Fleetfoot Panther	planeshift	108	GW	1GW	3	Creature - Cat	3	4	U	Flash When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+Gerrard's Command	planeshift	109	GW	GW	2	Instant			C	Untap target creature. It gets +3/+3 until end of turn.
+Horned Kavu	planeshift	110	RG	RG	2	Creature - Kavu	3	4	C	When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.
+Hull Breach	planeshift	111	RG	RG	2	Sorcery			C	Choose one - Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.
+Keldon Twilight	planeshift	112	BR	1BR	3	Enchantment			R	At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.
+Lava Zombie	planeshift	113	BR	1BR	3	Creature - Zombie	4	3	C	When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand. {2}: Lava Zombie gets +1/+0 until end of turn.
+Malicious Advice	planeshift	114	UB	XUB	2	Instant			C	Tap X target artifacts, creatures, and/or lands. You lose X life.
+Marsh Crocodile	planeshift	115	UB	2UB	4	Creature - Crocodile	4	4	U	When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand. When Marsh Crocodile enters the battlefield, each player discards a card.
+Meddling Mage	planeshift	116	WU	WU	2	Creature - Human Wizard	2	2	R	As Meddling Mage enters the battlefield, name a nonland card. The named card can't be cast.
+Natural Emergence	planeshift	117	RG	2RG	4	Enchantment			R	When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand. Lands you control are 2/2 creatures with first strike. They're still lands.
+Phyrexian Tyranny	planeshift	118	UBR	UBR	3	Enchantment			R	Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.
+Questing Phelddagrif	planeshift	119	GWU	1GWU	4	Creature - Phelddagrif	4	4	R	{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield. {W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life. {U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+Radiant Kavu	planeshift	120	RGW	RGW	3	Creature - Kavu	3	3	R	{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.
+Razing Snidd	planeshift	121	BR	4BR	6	Creature - Beast	3	3	U	When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand. When Razing Snidd enters the battlefield, each player sacrifices a land.
+Rith's Charm	planeshift	122	RGW	RGW	3	Instant			U	Choose one - Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens onto the battlefield; or prevent all damage a source of your choice would deal this turn.
+Sawtooth Loon	planeshift	123	WU	2WU	4	Creature - Bird	2	2	U	Flying When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand. When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+Shivan Wurm	planeshift	124	RG	3RG	5	Creature - Wurm	7	7	R	Trample When Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.
+Silver Drake	planeshift	125	WU	1WU	3	Creature - Drake	3	3	C	Flying When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.
+Sparkcaster	planeshift	126	RG	2RG	4	Creature - Kavu	5	3	U	When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand. When Sparkcaster enters the battlefield, it deals 1 damage to target player.
+Steel Leaf Paladin	planeshift	127	GW	4GW	6	Creature - Elf Knight	4	4	C	First strike When Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.
+Terminate	planeshift	128	BR	BR	2	Instant			C	Destroy target creature. It can't be regenerated.
+Treva's Charm	planeshift	129	GWU	GWU	3	Instant			U	Choose one - Destroy target enchantment; or exile target attacking creature; or draw a card, then discard a card.
+Urza's Guilt	planeshift	130	UB	2UB	4	Sorcery			R	Each player draws two cards, then discards three cards, then loses 4 life.
+Draco	planeshift	131	A	16	7	Artifact Creature - Dragon	9	9	R	Domain - Draco costs {2} less to cast for each basic land type among lands you control. Flying Domain - At the beginning of your upkeep, sacrifice Draco unless you pay {1}0}. This cost is reduced by {2} for each basic land type among lands you control.
+Mana Cylix	planeshift	132	A	1	1	Artifact			U	{1}, {T}: Add one mana of any color to your mana pool.
+Skyship Weatherlight	planeshift	133	A	4	4	Legendary Artifact			R	When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library. {4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
+Star Compass	planeshift	134	A	2	2	Artifact			U	Star Compass enters the battlefield tapped. {T}: Add to your mana pool one mana of any color a basic land you control could produce.
+Stratadon	planeshift	135	A	10	1	Artifact Creature - Beast	5	5	U	Domain - Stratadon costs {1} less to cast for each basic land type among lands you control. Trample
+Crosis's Catacombs	planeshift	136	L		0	Land - Lair			U	When Crosis's Catacombs enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand. {T}: Add {U}, {B}, or {R} to your mana pool.
+Darigaaz's Caldera	planeshift	137	L		0	Land - Lair			U	When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand. {T}: Add {B}, {R}, or {G} to your mana pool.
+Dromar's Cavern	planeshift	138	L		0	Land - Lair			U	When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand. {T}: Add {W}, {U}, or {B} to your mana pool.
+Forsaken City	planeshift	139	L		0	Land			R	Forsaken City doesn't untap during your untap step. At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City. {T}: Add one mana of any color to your mana pool.
+Meteor Crater	planeshift	140	L		0	Land			R	{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.
+Rith's Grove	planeshift	141	L		0	Land - Lair			U	When Rith's Grove enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand. {T}: Add {R}, {G}, or {W} to your mana pool.
+Terminal Moraine	planeshift	142	L		0	Land			U	{T}: Add {1} to your mana pool. {2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Treva's Ruins	planeshift	143	L		0	Land - Lair			U	When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand. {T}: Add {G}, {W}, or {U} to your mana pool.
+Angelfire Crusader	apocalypse	1	W	3W	4	Creature - Human Soldier Knight	2	3	U	{R}: Angelfire Crusader gets +1/+0 until end of turn.
+Coalition Flag	apocalypse	2	W	W	1	Enchantment - Aura			C	Enchant creature you control Enchanted creature is a Flagbearer. Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer on the battlefield but doesn't, that opponent changes one of its targets to a Flagbearer.
+Coalition Honor Guard	apocalypse	3	W	3W	4	Creature - Human Flagbearer	2	4	R	Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer on the battlefield but doesn't, that opponent changes one of its targets to a Flagbearer.
+Dega Disciple	apocalypse	4	W	W	1	Creature - Human Wizard	1	1	C	{B}, {T}: Target creature gets -2/-0 until end of turn. {R}, {T}: Target creature gets +2/+0 until end of turn.
+Dega Sanctuary	apocalypse	5	W	2W	3	Enchantment			R	At the beginning of your upkeep, if you control a black or red permanent, you gain 2 life. If you control a black permanent and a red permanent, you gain 4 life instead.
+Degavolver	apocalypse	6	W	1W	2	Creature - Volver	1	1	C	Kicker {1}{B} and/or {R} (You may pay an additional {1}{B} and/or {R} as you cast this spell.) If the {1}{B} kicker cost was paid, Degavolver enters the battlefield with two +1/+1 counters on it and with "Pay 3 life: Regenerate Degavolver." If the {R} kicker cost was paid, Degavolver enters the battlefield with a +1/+1 counter on it and with first strike.
+Diversionary Tactics	apocalypse	7	W	3W	4	Enchantment			U	Tap two untapped creatures you control: Tap target creature.
+Divine Light	apocalypse	8	W	W	1	Sorcery			U	Prevent all damage that would be dealt this turn to creatures you control.
+Enlistment Officer	apocalypse	9	W	3W	4	Creature - Human Soldier	2	3	R	First strike When Enlistment Officer enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library.
+False Dawn	apocalypse	10	W	1W	2	Sorcery			R	Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color. Draw a card.
+Gerrard Capashen	apocalypse	11	W	3WW	5	Legendary Creature - Human Soldier	3	4	U	At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand. {3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.
+Haunted Angel	apocalypse	12	W	2W	3	Creature - Angel	3	3	U	Flying When Haunted Angel is put into a graveyard from the battlefield, exile Haunted Angel and each other player puts a 3/3 black Angel creature token with flying onto the battlefield.
+Helionaut	apocalypse	13	W	2W	3	Creature - Human Soldier	1	2	C	Flying {1}, {T}: Add one mana of any color to your mana pool.
+Manacles of Decay	apocalypse	14	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack. {B}: Enchanted creature gets -1/-1 until end of turn. {R}: Enchanted creature can't block this turn.
+Orim's Thunder	apocalypse	15	W	2W	3	Instant			C	Kicker {R} (You may pay an additional {R} as you cast this spell.) Destroy target artifact or enchantment. If the kicker cost was paid, Orim's Thunder deals damage equal to that artifact or enchantment's converted mana cost to target creature.
+Shield of Duty and Reason	apocalypse	16	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has protection from green and from blue.
+Spectral Lynx	apocalypse	17	W	1W	2	Creature - Cat Spirit	2	1	R	Protection from green {B}: Regenerate Spectral Lynx.
+Standard Bearer	apocalypse	18	W	1W	2	Creature - Human Flagbearer	1	1	C	Whenever a spell or ability an opponent controls is put onto the stack, if that spell or ability could target a Flagbearer on the battlefield but doesn't, that opponent changes one of its targets to a Flagbearer.
+Ceta Disciple	apocalypse	19	U	U	1	Creature - Merfolk Wizard	1	1	U	{R}, {T}: Target creature gets +2/+0 until end of turn. {G}, {T}: Add one mana of any color to your mana pool.
+Ceta Sanctuary	apocalypse	20	U	2U	3	Enchantment			R	At the beginning of your upkeep, if you control a red or green permanent, draw a card, then discard a card. If you control a red permanent and a green permanent, instead draw two cards, then discard a card.
+Cetavolver	apocalypse	21	U	1U	2	Creature - Volver	1	1	U	Kicker {1}{R} and/or {G} (You may pay an additional {1}{R} and/or {G} as you cast this spell.) If the {1}{R} kicker cost was paid, Cetavolver enters the battlefield with two +1/+1 counters on it and with first strike. If the {G} kicker cost was paid, Cetavolver enters the battlefield with a +1/+1 counter on it and with trample.
+Coastal Drake	apocalypse	22	U	2U	3	Creature - Drake	2	1	R	Flying {1}{U}, {T}: Return target Kavu to its owner's hand.
+Evasive Action	apocalypse	23	U	1U	2	Instant			R	Domain - Counter target spell unless its controller pays {1} for each basic land type among lands you control.
+Ice Cave	apocalypse	24	U	3UU	5	Enchantment			R	Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)
+Index	apocalypse	25	U	U	1	Sorcery			C	Look at the top five cards of your library, then put them back in any order.
+Jaded Response	apocalypse	26	U	1U	2	Instant			C	Counter target spell if it shares a color with a creature you control.
+Jilt	apocalypse	27	U	1U	2	Instant			C	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.) Return target creature to its owner's hand. If the kicker cost was paid, Jilt deals 2 damage to another target creature.
+Living Airship	apocalypse	28	U	3U	4	Creature - Metathran	2	3	C	Flying {2}{G}: Regenerate Living Airship.
+Reef Shaman	apocalypse	29	U	U	1	Creature - Merfolk Shaman	0	2	C	{T}: Target land becomes the basic land type of your choice until end of turn.
+Shimmering Mirage	apocalypse	30	U	1U	2	Instant			C	Target land becomes the basic land type of your choice until end of turn. Draw a card.
+Tidal Courier	apocalypse	31	U	3U	4	Creature - Merfolk	1	2	U	When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library. {3}{U}: Tidal Courier gains flying until end of turn.
+Unnatural Selection	apocalypse	32	U	1U	2	Enchantment			R	{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+Vodalian Mystic	apocalypse	33	U	1U	2	Creature - Merfolk Wizard	1	1	U	{T}: Target instant or sorcery spell becomes the color of your choice.
+Whirlpool Drake	apocalypse	34	U	3U	4	Creature - Drake	2	2	U	Flying When Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards. When Whirlpool Drake is put into a graveyard from the battlefield, shuffle the cards from your hand into your library, then draw that many cards.
+Whirlpool Rider	apocalypse	35	U	1U	2	Creature - Merfolk	1	1	C	When Whirlpool Rider enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.
+Whirlpool Warrior	apocalypse	36	U	2U	3	Creature - Merfolk Warrior	2	2	R	When Whirlpool Warrior enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards. {R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Dead Ringers	apocalypse	37	B	4B	5	Sorcery			C	Destroy two target nonblack creatures unless either one is a color the other isn't. They can't be regenerated.
+Desolation Angel	apocalypse	38	B	3BB	5	Creature - Angel	5	4	U	Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.) Flying When Desolation Angel enters the battlefield, destroy all lands you control. If the kicker cost was paid, destroy all lands instead.
+Foul Presence	apocalypse	39	B	2B	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/-1 and has "{T}: Target creature gets -1/-1 until end of turn."
+Grave Defiler	apocalypse	40	B	3B	4	Creature - Zombie	2	1	C	When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library. {1}{B}: Regenerate Grave Defiler.
+Last Caress	apocalypse	41	B	2B	3	Sorcery			C	Target player loses 1 life and you gain 1 life. Draw a card.
+Mind Extraction	apocalypse	42	B	2B	3	Sorcery			C	As an additional cost to cast Mind Extraction, sacrifice a creature. Target player reveals his or her hand and discards all cards of each of the sacrificed creature's colors.
+Mournful Zombie	apocalypse	43	B	2B	3	Creature - Zombie	2	1	C	{W}, {T}: Target player gains 1 life.
+Necra Disciple	apocalypse	44	B	B	1	Creature - Human Wizard	1	1	C	{G}, {T}: Add one mana of any color to your mana pool. {W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Necra Sanctuary	apocalypse	45	B	2B	3	Enchantment			U	At the beginning of your upkeep, if you control a green or white permanent, target player loses 1 life. If you control a green permanent and a white permanent, that player loses 3 life instead.
+Necravolver	apocalypse	46	B	2B	3	Creature - Volver	2	2	R	Kicker {1}{G} and/or {W} (You may pay an additional {1}{G} and/or {W} as you cast this spell.) If the {1}{G} kicker cost was paid, Necravolver enters the battlefield with two +1/+1 counters on it and with trample. If the {W} kicker cost was paid, Necravolver enters the battlefield with a +1/+1 counter on it and with "Whenever Necravolver deals damage, you gain that much life."
+Phyrexian Arena	apocalypse	47	B	1BB	3	Enchantment			R	At the beginning of your upkeep, you draw a card and you lose 1 life.
+Phyrexian Gargantua	apocalypse	48	B	4BB	6	Creature - Horror	4	4	U	When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.
+Phyrexian Rager	apocalypse	49	B	2B	3	Creature - Horror	2	2	C	When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+Planar Despair	apocalypse	50	B	3BB	5	Sorcery			R	Domain - All creatures get -1/-1 until end of turn for each basic land type among lands you control.
+Quagmire Druid	apocalypse	51	B	2B	3	Creature - Zombie Druid	2	2	C	{G}, {T}, Sacrifice a creature: Destroy target enchantment.
+Suppress	apocalypse	52	B	2B	3	Sorcery			U	Target player exiles all cards from his or her hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to his or her hand.
+Urborg Uprising	apocalypse	53	B	4B	5	Sorcery			C	Return up to two target creature cards from your graveyard to your hand. Draw a card.
+Zombie Boa	apocalypse	54	B	4B	5	Creature - Zombie Snake	3	3	C	{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.
+Bloodfire Colossus	apocalypse	55	R	6RR	8	Creature - Giant	6	6	C	{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+Bloodfire Dwarf	apocalypse	56	R	R	1	Creature - Dwarf	1	1	R	{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.
+Bloodfire Infusion	apocalypse	57	R	2R	3	Enchantment - Aura			R	Enchant creature you control {R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.
+Bloodfire Kavu	apocalypse	58	R	2RR	4	Creature - Kavu	2	2	R	{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.
+Desolation Giant	apocalypse	59	R	2RR	4	Creature - Giant	3	3	C	Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.) When Desolation Giant enters the battlefield, destroy all other creatures you control. If the kicker cost was paid, destroy all other creatures instead.
+Dwarven Landslide	apocalypse	60	R	3R	4	Sorcery			C	Kicker-{2}{R}, Sacrifice a land. (You may pay {2}{R} and sacrifice a land in addition to any other costs as you cast this spell.) Destroy target land. If the kicker cost was paid, destroy another target land.
+Dwarven Patrol	apocalypse	61	R	2R	3	Creature - Dwarf	4	2	R	Dwarven Patrol doesn't untap during your untap step. Whenever you cast a nonred spell, untap Dwarven Patrol.
+Goblin Ringleader	apocalypse	62	R	3R	4	Creature - Goblin	2	2	C	Haste When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library.
+Illuminate	apocalypse	63	R	XR	1	Sorcery			U	Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.) Illuminate deals X damage to target creature. If the {2}{R} kicker cost was paid, Illuminate deals X damage to that creature's controller. If the {3}{U} kicker cost was paid, you draw X cards.
+Kavu Glider	apocalypse	64	R	2R	3	Creature - Kavu	2	1	C	{W}: Kavu Glider gets +0/+1 until end of turn. {U}: Kavu Glider gains flying until end of turn.
+Minotaur Tactician	apocalypse	65	R	3R	4	Creature - Minotaur	1	1	C	Haste Minotaur Tactician gets +1/+1 as long as you control a white creature. Minotaur Tactician gets +1/+1 as long as you control a blue creature.
+Raka Disciple	apocalypse	66	R	R	1	Creature - Minotaur Wizard	1	1	C	{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. {U}, {T}: Target creature gains flying until end of turn.
+Raka Sanctuary	apocalypse	67	R	2R	3	Enchantment			U	At the beginning of your upkeep, if you control a white or blue permanent, Raka Sanctuary deals 1 damage to target creature. If you control a white permanent and a blue permanent, Raka Sanctuary deals 3 damage to that creature instead.
+Rakavolver	apocalypse	68	R	2R	3	Creature - Volver	2	2	R	Kicker {1}{W} and/or {U} (You may pay an additional {1}{W} and/or {U} as you cast this spell.) If the {1}{W} kicker cost was paid, Rakavolver enters the battlefield with two +1/+1 counters on it and with "Whenever Rakavolver deals damage, you gain that much life." If the {U} kicker cost was paid, Rakavolver enters the battlefield with a +1/+1 counter on it and with flying.
+Smash	apocalypse	69	R	2R	3	Instant			C	Destroy target artifact. Draw a card.
+Tahngarth's Glare	apocalypse	70	R	R	1	Sorcery			C	Look at the top three cards of target opponent's library, then put them back in any order. That player looks at the top three cards of your library, then puts them back in any order.
+Tundra Kavu	apocalypse	71	R	2R	3	Creature - Kavu	2	2	C	{T}: Target land becomes a Plains or an Island until end of turn.
+Wild Research	apocalypse	72	R	2R	3	Enchantment			R	{1}{W}: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library. {1}{U}: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.
+Ana Disciple	apocalypse	73	G	G	1	Creature - Human Wizard	1	1	C	{U}, {T}: Target creature gains flying until end of turn. {B}, {T}: Target creature gets -2/-0 until end of turn.
+Ana Sanctuary	apocalypse	74	G	2G	3	Enchantment			U	At the beginning of your upkeep, if you control a blue or black permanent, target creature gets +1/+1 until end of turn. If you control a blue permanent and a black permanent, that creature gets +5/+5 until end of turn instead.
+Anavolver	apocalypse	75	G	3G	4	Creature - Volver	3	3	U	Kicker {1}{U} and/or {B} (You may pay an additional {1}{U} and/or {B} as you cast this spell.) If the {1}{U} kicker cost was paid, Anavolver enters the battlefield with two +1/+1 counters on it and with flying. If the {B} kicker cost was paid, Anavolver enters the battlefield with a +1/+1 counter on it and with "Pay 3 life: Regenerate Anavolver."
+Bog Gnarr	apocalypse	76	G	4G	5	Creature - Beast	2	2	C	Whenever a player casts a black spell, Bog Gnarr gets +2/+2 until end of turn.
+Gaea's Balance	apocalypse	77	G	3G	4	Sorcery			C	As an additional cost to cast Gaea's Balance, sacrifice five lands. Search your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.
+Glade Gnarr	apocalypse	78	G	5G	6	Creature - Beast	4	4	C	Whenever a player casts a blue spell, Glade Gnarr gets +2/+2 until end of turn.
+Kavu Howler	apocalypse	79	G	4GG	6	Creature - Kavu	4	5	U	When Kavu Howler enters the battlefield, reveal the top four cards of your library. Put all Kavu cards revealed this way into your hand and the rest on the bottom of your library.
+Kavu Mauler	apocalypse	80	G	4GG	6	Creature - Kavu	4	4	R	Trample Whenever Kavu Mauler attacks, it gets +1/+1 until end of turn for each other attacking Kavu.
+Lay of the Land	apocalypse	81	G	G	1	Sorcery			C	Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+Penumbra Bobcat	apocalypse	82	G	2G	3	Creature - Cat	2	1	C	When Penumbra Bobcat is put into a graveyard from the battlefield, put a 2/1 black Cat creature token onto the battlefield.
+Penumbra Kavu	apocalypse	83	G	4G	5	Creature - Kavu	3	3	U	When Penumbra Kavu is put into a graveyard from the battlefield, put a 3/3 black Kavu creature token onto the battlefield.
+Penumbra Wurm	apocalypse	84	G	5GG	7	Creature - Wurm	6	6	R	Trample When Penumbra Wurm is put into a graveyard from the battlefield, put a 6/6 black Wurm creature token with trample onto the battlefield.
+Savage Gorilla	apocalypse	85	G	4G	5	Creature - Ape	3	3	C	{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.
+Strength of Night	apocalypse	86	G	2G	3	Instant			C	Kicker {B} (You may pay an additional {B} as you cast this spell.) Creatures you control get +1/+1 until end of turn. If the kicker cost was paid, Zombie creatures you control get an additional +2/+2 until end of turn.
+Sylvan Messenger	apocalypse	87	G	3G	4	Creature - Elf	2	2	U	Trample When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.
+Symbiotic Deployment	apocalypse	88	G	2G	3	Enchantment			R	Skip your draw step. {1}, Tap two untapped creatures you control: Draw a card.
+Tranquil Path	apocalypse	89	G	4G	5	Sorcery			C	Destroy all enchantments. Draw a card.
+Urborg Elf	apocalypse	90	G	1G	2	Creature - Elf Druid	1	1	C	{T}: Add {G}, {U}, or {B} to your mana pool.
+Aether Mutation	apocalypse	91	GU	3GU	5	Sorcery			R	Return target creature to its owner's hand. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.
+Captain's Maneuver	apocalypse	92	RW	XRW	2	Instant			U	The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead.
+Consume Strength	apocalypse	93	BG	1BG	3	Instant			C	Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.
+Cromat	apocalypse	94	WUBRG	WUBRG	5	Legendary Creature - Illusion	5	5	C	{W}{B}: Destroy target creature blocking or blocked by Cromat. {U}{R}: Cromat gains flying until end of turn. {B}{G}: Regenerate Cromat. {R}{W}: Cromat gets +1/+1 until end of turn. {G}{U}: Put Cromat on top of its owner's library.
+Death Grasp	apocalypse	95	WB	XWB	2	Sorcery			U	Death Grasp deals X damage to target creature or player. You gain X life.
+Death Mutation	apocalypse	96	BG	6BG	8	Sorcery			R	Destroy target nonblack creature. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.
+Ebony Treefolk	apocalypse	97	BG	1BG	3	Creature - Treefolk	3	3	C	{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.
+Fervent Charge	apocalypse	98	WBR	1WBR	4	Enchantment			C	Whenever a creature you control attacks, it gets +2/+2 until end of turn.
+Flowstone Charger	apocalypse	99	RW	2RW	4	Creature - Beast	2	5	U	Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.
+Fungal Shambler	apocalypse	100	GUB	4GUB	7	Creature - Fungus Beast	6	4	R	Trample Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.
+Gaea's Skyfolk	apocalypse	101	GU	GU	2	Creature - Elf Merfolk	2	2	C	Flying
+Gerrard's Verdict	apocalypse	102	WB	WB	2	Sorcery			R	Target player discards two cards. You gain 3 life for each land card discarded this way.
+Goblin Legionnaire	apocalypse	103	RW	RW	2	Creature - Goblin Soldier	2	2	U	{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player. {W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Goblin Trenches	apocalypse	104	RW	1RW	3	Enchantment			R	{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.
+Guided Passage	apocalypse	105	URG	URG	3	Sorcery			U	Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.
+Jungle Barrier	apocalypse	106	GU	2GU	4	Creature - Plant Wall	2	6	U	Defender (This creature can't attack.) When Jungle Barrier enters the battlefield, draw a card.
+Last Stand	apocalypse	107	WUBRG	WUBRG	5	Sorcery			R	Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.
+Lightning Angel	apocalypse	108	RWU	1RWU	4	Creature - Angel	3	4	R	Flying, vigilance, haste
+Llanowar Dead	apocalypse	109	BG	BG	2	Creature - Zombie Elf	2	2	C	{T}: Add {B} to your mana pool.
+Martyrs' Tomb	apocalypse	110	WB	2WB	4	Enchantment			U	Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.
+Minotaur Illusionist	apocalypse	111	UR	3UR	5	Creature - Minotaur Wizard	3	4	U	{1}{U}: Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.) {R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.
+Mystic Snake	apocalypse	112	GU	1GUU	4	Creature - Snake	2	2	R	Flash (You may cast this spell any time you could cast an instant.) When Mystic Snake enters the battlefield, counter target spell.
+Overgrown Estate	apocalypse	113	BGW	BGW	3	Enchantment			R	Sacrifice a land: You gain 3 life.
+Pernicious Deed	apocalypse	114	BG	1BG	3	Enchantment			R	{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.
+Powerstone Minefield	apocalypse	115	RW	2RW	4	Enchantment			R	Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.
+Prophetic Bolt	apocalypse	116	UR	3UR	5	Instant			R	Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library.
+Putrid Warrior	apocalypse	117	WB	WB	2	Creature - Zombie Soldier Warrior	2	2	C	Whenever Putrid Warrior deals damage, choose one - each player loses 1 life; or each player gains 1 life.
+Quicksilver Dagger	apocalypse	118	UR	1UR	3	Enchantment - Aura			C	Enchant creature Enchanted creature has "{T}: This creature deals 1 damage to target player. You draw a card."
+Razorfin Hunter	apocalypse	119	UR	UR	2	Creature - Merfolk Goblin	1	1	C	{T}: Razorfin Hunter deals 1 damage to target creature or player.
+Soul Link	apocalypse	120	WB	1WB	3	Enchantment - Aura			C	Enchant creature Whenever enchanted creature deals damage, you gain that much life. Whenever enchanted creature is dealt damage, you gain that much life.
+Spiritmonger	apocalypse	121	BG	3BG	5	Creature - Beast	6	6	R	Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger. {B}: Regenerate Spiritmonger. {G}: Spiritmonger becomes the color of your choice until end of turn.
+Squee's Embrace	apocalypse	122	RW	RW	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2. When enchanted creature is put into a graveyard, return that card to its owner's hand.
+Squee's Revenge	apocalypse	123	UR	1UR	3	Sorcery			U	Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.
+Suffocating Blast	apocalypse	124	UR	1UUR	4	Instant			R	Counter target spell and Suffocating Blast deals 3 damage to target creature.
+Temporal Spring	apocalypse	125	GU	1GU	3	Sorcery			C	Put target permanent on top of its owner's library.
+Vindicate	apocalypse	126	WB	1WB	3	Sorcery			R	Destroy target permanent.
+Yavimaya's Embrace	apocalypse	127	GU	5GUU	8	Enchantment - Aura			R	Enchant creature You control enchanted creature. Enchanted creature gets +2/+2 and has trample.
+Fire // Ice	apocalypse	128	R/U	1R/1U	4	Instant			U	Fire deals 2 damage divided as you choose among any number of target creatures and/or players./Tap target permanent. Draw a card.
+Illusion // Reality	apocalypse	129	U/G	U/2G	4	Instant			U	Target spell or permanent becomes the color of your choice until end of turn./Destroy target artifact.
+Life // Death	apocalypse	130	G/B	G/1B	3	Sorcery			U	All lands you control become 1/1 creatures until end of turn. They're still lands./Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.
+Night // Day	apocalypse	131	B/W	B/2W	4	Instant			C	Target creature gets -1/-1 until end of turn./Creatures target player controls get +1/+1 until end of turn.
+Order // Chaos	apocalypse	132	W/R	3W/2R	7	Instant			U	Exile target attacking creature./Creatures can't block this turn.
+Brass Herald	apocalypse	133	A	6	6	Artifact Creature - Golem	2	2	U	As Brass Herald enters the battlefield, choose a creature type. When Brass Herald enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order. Creatures of the chosen type get +1/+1.
+Dodecapod	apocalypse	134	A	4	4	Artifact Creature - Golem	3	3	U	If a spell or ability an opponent controls causes you to discard Dodecapod, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.
+Dragon Arch	apocalypse	135	A	5	5	Artifact			R	{2}, {T}: You may put a multicolored creature card from your hand onto the battlefield.
+Emblazoned Golem	apocalypse	136	A	2	2	Artifact Creature - Golem	1	2	R	Kicker {X} (You may pay an additional {X} as you cast this spell.) Spend only colored mana on X. No more than one mana of each color may be spent this way. If the kicker cost was paid, Emblazoned Golem enters the battlefield with X +1/+1 counters on it.
+Legacy Weapon	apocalypse	137	A	7	7	Legendary Artifact			R	{W}{U}{B}{R}{G}: Exile target permanent. If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.
+Mask of Intolerance	apocalypse	138	A	2	2	Artifact			R	At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.
+Battlefield Forge	apocalypse	139	L		0	Land			C	{T}: Add {1} to your mana pool. {T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.
+Caves of Koilos	apocalypse	140	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.
+Llanowar Wastes	apocalypse	141	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.
+Shivan Reef	apocalypse	142	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.
+Yavimaya Coast	apocalypse	143	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.

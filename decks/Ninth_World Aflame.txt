@@ -1,0 +1,14 @@
+17	mountain
+3	balduvian barbarians
+3	hill giant
+1	magnivore
+2	anarchist
+1	dancing scimitar
+3	volcanic hammer
+1	panic attack
+2	stone rain
+2	demolish
+2	lava axe
+1	wildfire
+1	blaze
+1	dragon's claw

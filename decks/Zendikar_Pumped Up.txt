@@ -1,0 +1,21 @@
+1	raging goblin
+1	goblin piker
+1	aether figment
+2	welkin tern
+2	molten ravager
+1	prodigal pyromancer
+2	torch slinger
+1	phantom warrior
+1	canyon minotaur
+1	dragon whelp
+1	hellkite charger
+2	burst lightning
+1	into the roil
+1	act of treason
+1	sleep
+1	rite of replication
+2	spire barrage
+1	fireball
+10	mountain
+7	island
+1	terramorphic expanse

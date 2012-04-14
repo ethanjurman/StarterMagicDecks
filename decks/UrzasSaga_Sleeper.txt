@@ -1,0 +1,25 @@
+18	plains
+2	darting merfolk
+2	pacifism
+1	disenchant
+4	brilliant halo
+1	sanctum custodian
+3	pegasus charger
+3	opal gargoyle
+2	monk realist
+1	disciple of law
+1	disciple of grace
+3	angelic page
+2	opal caryatid
+4	drifting meadow
+2	dragon blood
+1	endoskeleton
+1	serra's embrace
+1	waylay
+2	humble
+2	clear
+1	voice of grace
+1	monk idealist
+2	songstitcher
+1	barrin's codex
+1	opal titan

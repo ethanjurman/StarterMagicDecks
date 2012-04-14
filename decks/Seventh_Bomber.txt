@@ -1,0 +1,21 @@
+17	island
+1	merfolk of the pearl trident
+1	coral merfolk
+1	merfolk looter
+1	sage owl
+1	glacial wall
+1	horned turtle
+1	prodigal sorcerer
+2	wind drake
+1	daring apprentice
+1	wall of air
+1	fighting drake
+1	thieving magpie
+1	air elemental
+1	force spike
+1	unsummon
+2	boomerang
+2	counterspell
+1	inspiration
+1	ancestral memories
+1	confiscate

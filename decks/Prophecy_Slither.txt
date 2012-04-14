@@ -1,0 +1,24 @@
+10	forest
+14	mountain
+4	spur grappler
+3	keldon berserker
+1	zerapa minotaur
+1	latulla, keldon overseer
+2	scoria cat
+1	stampede driver
+2	vine trellis
+1	vintara snapper
+4	silt crawler
+2	squallmonger
+1	mungha wurm
+2	seal of fire
+1	citadel of pain
+2	rhystic lightning
+1	war cadence
+1	flameshot
+1	barbed field
+1	kyren negotiations
+2	invigorate
+1	reverent silence
+1	desert twister
+1	chimeric idol

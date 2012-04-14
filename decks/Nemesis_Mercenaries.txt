@@ -1,0 +1,27 @@
+23	swamp
+1	rampart crawler
+3	misshapen fiend
+4	spineless thug
+1	cateran brute
+2	phyrexian driver
+1	skulking fugitive
+2	strongarm thug
+1	alley grifters
+1	carrion wall
+1	rathi intimidator
+1	phyrexian prowler
+1	rathi fiend
+1	cateran kidnappers
+1	rathi assassin
+1	battlefield percher
+1	cateran enforcer
+1	cateran summons
+2	dark ritual
+2	mind swords
+3	parallax dementia
+1	haunted crossroads
+1	seal of doom
+1	massacre
+1	dark triumph
+1	intimidation
+1	belbe's portal

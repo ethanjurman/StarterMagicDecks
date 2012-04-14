@@ -1,0 +1,20 @@
+1	kookus
+1	ogre enforcer
+2	goblin recruiter
+2	goblin soothsayer
+2	talruum piper
+1	flame elemental
+1	viashino sandstalker
+3	keeper of kookus
+3	goblin swine-rider
+2	goblin elite infantry
+2	goblin tinkerer
+2	talruum champion
+2	mob mentality
+2	goblin scouts
+1	unerring sling
+3	chaos charm
+3	flare
+2	fireblast
+2	song of blood
+23	mountain

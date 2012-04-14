@@ -1,0 +1,26 @@
+11	swamp
+11	forest
+1	golgari rot farm
+1	svogthos, the restless tomb
+1	thoughtpicker witch
+2	infectious host
+2	stinkweed imp
+2	elves of deep shadow
+1	elvish skysweeper
+2	golgari brownscale
+3	greater mossdog
+1	golgari grave-troll
+1	savra, queen of the golgari
+2	shambling shell
+2	woodwraith strangler
+2	golgari rotwurm
+2	drooling groodion
+1	golgari guildmage
+2	darkblast
+2	last gasp
+1	necromantic thirst
+1	vigor mortis
+1	moldervine cloak
+2	recollect
+1	rolling spoil
+2	putrefy

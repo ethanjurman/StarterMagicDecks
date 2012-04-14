@@ -1,0 +1,24 @@
+12	forest
+12	island
+2	nettle sentinel
+2	nurturer initiate
+2	wickerbough elder
+1	drowner initiate
+1	merrow levitator
+1	slippery bogle
+2	groundling pouncer
+3	shorecrasher mimic
+3	selkie hedge-mage
+3	wistful selkie
+1	grazing kelpie
+2	sturdy hatchling
+1	viridescent wisps
+1	monstrify
+1	cerulean wisps
+1	dream fracture
+2	favor of the overbeing
+3	snakeform
+1	invert the skies
+1	spitting image
+1	fable of wolf and owl
+1	trip noose

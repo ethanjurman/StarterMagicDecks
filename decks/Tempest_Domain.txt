@@ -1,0 +1,30 @@
+3	Plains
+3	Island
+3	Swamp
+3	Mountain
+8	Forest
+2	Terminal Moraine
+3	Samite Pilgrim
+1	Wayfaring Giant
+1	Kavu Recluse
+2	Kavu Scout
+1	Quirion Dryad
+2	Quirion Explorer
+2	Quirion Trailblazer
+1	Magnigoth Treefolk
+2	Stratadon
+1	Strength of Unity
+1	Confound
+2	Worldly Counsel
+2	Allied Strategies
+2	Exotic Curse
+2	Exotic Disease
+1	Breath of Darigaaz
+3	Tribal Flames
+1	Gaea's Might
+3	Harrow
+1	Primal Growth
+1	Wandering Stream
+1	Ordered Migration
+1	Rith's Charm
+1	Treva's Charm

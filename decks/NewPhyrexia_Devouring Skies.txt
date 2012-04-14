@@ -1,0 +1,24 @@
+13	island
+11	swamp
+2	augury owl
+2	blind zealot
+2	brass squire
+1	darkslick drake
+2	dementia bat
+3	hovermyr
+2	impaler shrike
+1	kiln walker
+2	mortis dogs
+1	necrogen scudder
+1	neurok invisimancer
+1	phyrexian ingester
+1	silver myr
+2	spire monitor
+1	argentum armor
+2	copper carapace
+1	doom blade
+1	necropouncer
+2	sickleslicer
+2	vapor snag
+2	viridian claw
+2	warlord's axe

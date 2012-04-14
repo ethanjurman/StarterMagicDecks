@@ -1,0 +1,26 @@
+12	plains
+9	island
+2	azorius chancery
+1	prahv, spires of order
+3	beacon hawk
+2	mistral charger
+2	benevolent ancestor
+3	soulsworn jury
+2	stoic ephemera
+1	wakestone gargoyle
+1	paladin of prahv
+3	tidewater minion
+1	zephyr spirit
+2	azorius first-wing
+2	sky hussar
+1	isperia the inscrutable
+2	minister of impediments
+1	azorius guildmage
+1	to arms!
+1	steeling stance
+1	faith's fetters
+1	sinstriker's will
+1	halcyon glaze
+2	ocular halo
+2	plumes of peace
+1	palliation accord

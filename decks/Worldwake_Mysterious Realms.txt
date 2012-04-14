@@ -1,0 +1,22 @@
+8	forest
+2	halimar depths
+8	island
+1	baloth woodcrasher
+2	calcite snapper
+1	coral merfolk
+1	frontier guide
+1	goliath sphinx
+1	hedron rover
+1	living tsunami
+1	merfolk wayfinder
+1	territorial baloth
+1	tideforce elemental
+1	walking atlas
+1	aether tradewinds
+1	mysteries of the deep
+2	paralyzing grasp
+1	seer's sundial
+1	telepathy
+2	treasure hunt
+1	vapor snare
+2	wind zendikon

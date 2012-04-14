@@ -1,0 +1,24 @@
+7	swamp
+11	forest
+4	plains
+2	terramorphic expanse
+1	sengir autocrat
+1	bog serpent
+1	twisted abomination
+3	phantasmagorian
+2	essence warden
+2	greenseeker
+3	fa'adiyah seer
+1	wall of roots
+1	spike feeder
+2	havenwood wurm
+1	jedit ojanen of efrava
+2	icatian crier
+2	jedit's dragoons
+1	teneb, the harvester
+3	dread return
+3	evolution charm
+2	search for tomorrow
+2	harmonize
+2	rebuff the wicked
+1	resurrection

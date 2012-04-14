@@ -1,0 +1,27 @@
+20	forest
+2	hickory woodlot
+2	deepwood wolverine
+2	spore frog
+1	stampede driver
+2	pygmy razorback
+2	vine trellis
+2	darba
+2	hunted wumpus
+2	blastoderm
+1	lumbering satyr
+1	silverglade elemental
+1	vintara elephant
+1	spitting spider
+3	thresher beast
+1	avatar of might
+2	animate land
+1	seal of strength
+1	jolrael's favor
+1	treetop bracers
+2	wild might
+1	invigorate
+1	tranquility
+1	skyshroud claim
+2	snag
+2	living terrain
+1	vitalizing wind

@@ -1,0 +1,26 @@
+13	island
+11	plains
+2	master decoy
+2	soltari lancer
+1	knight of dawn
+1	cloudchaser eagle
+1	avenging angel
+2	wind drake
+2	horned turtle
+1	sky spirit
+1	anoint
+1	disenchant
+3	pacifism
+1	invulnerability
+2	repentance
+2	power sink
+1	spell blast
+3	counterspell
+1	legacy's allure
+1	time ebb
+1	dream cache
+2	gaseous form
+2	dismiss
+1	precognition
+1	puppet strings
+1	emmessi tome

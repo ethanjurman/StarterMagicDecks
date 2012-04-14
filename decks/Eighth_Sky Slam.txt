@@ -1,0 +1,18 @@
+17	island
+1	sage owl
+1	spiketail hatchling
+1	fleeting image
+2	horned turtle
+1	puppeteer
+2	wind drake
+1	phantom warrior
+1	aven fisher
+1	fighting drake
+2	thieving magpie
+1	coastal hornclaw
+1	air elemental
+3	unsummon
+1	mana leak
+2	remove soul
+1	dehydration
+1	urza's armor

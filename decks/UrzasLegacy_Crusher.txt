@@ -1,0 +1,29 @@
+4	plains
+17	forest
+3	drifting meadow
+1	elvish herder
+3	simian grunts
+2	yavimaya granger
+1	argothian swine
+2	yavimaya scion
+3	yavimaya wurm
+1	erase
+1	disenchant
+2	pacifism
+1	radiant's judgment
+1	rancor
+1	silk net
+1	symbiosis
+1	gaea's bounty
+1	treetop village
+2	mother of runes
+1	lone wolf
+2	cradle guard
+1	gang of elk
+1	ticking gnomes
+2	humble
+1	crosswinds
+1	wing snare
+1	gaea's embrace
+1	weatherseed treefolk
+1	defense of the heart

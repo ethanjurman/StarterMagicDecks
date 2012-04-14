@@ -1,0 +1,24 @@
+14	forest
+10	plains
+1	traproot kami
+2	loam dweller
+2	petalmane baku
+3	kami of the hunt
+1	budoka pupil
+1	kodama of the center tree
+2	scaled hulk
+1	orbweaver kumo
+2	lantern kami
+2	waxmane baku
+2	faithful squire
+2	horizon seed
+1	kami of tattered shoji
+1	oyobi, who split the heavens
+2	kodama's might
+2	vital surge
+1	wear away
+1	roar of jukai
+2	unchecked growth
+2	blessed breath
+1	otherworldly journey
+2	terashi's verdict

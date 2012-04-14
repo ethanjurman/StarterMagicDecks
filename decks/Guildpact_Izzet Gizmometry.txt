@@ -1,0 +1,25 @@
+12	island
+10	mountain
+2	izzet boilerworks
+1	nivix, aerie of the firemind
+1	gelectrode
+2	wee dragonauts
+1	tibor and lumia
+2	izzet chronarch
+1	izzet guildmage
+2	petrahydrox
+1	mark of eviction
+2	peel from reality
+2	telling time
+3	train of thought
+2	convolute
+2	runeboggle
+2	thunderheads
+1	vacuumelt
+2	frazzle
+2	repeal
+3	pyromatics
+1	rain of embers
+1	reroute
+1	leyline of lightning
+1	electrolyze

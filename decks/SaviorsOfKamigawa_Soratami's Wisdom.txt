@@ -1,0 +1,28 @@
+12	plains
+11	island
+2	kitsune loreweaver
+1	kitsune bonesetter
+2	descendant of kiyomaro
+1	eiganjo free-riders
+1	floodbringer
+2	minamo scrollkeeper
+2	soratami cloudskater
+1	kami of the crescent moon
+1	graceful adept
+2	moonbow illusionist
+1	soratami rainshaper
+2	descendant of soramaro
+2	oboro envoy
+1	kiri-onna
+1	soramaro, first to dream
+2	cowed by wisdom
+2	plow through reito
+1	terashi's verdict
+2	cage of hands
+1	presence of the wise
+1	charge across the araba
+1	hail of arrows
+2	counsel of the soratami
+1	freed from the real
+1	overwhelming intellect
+1	hankyu

@@ -1,0 +1,24 @@
+7	plains
+12	swamp
+1	corrupt
+4	pestilence
+1	befoul
+2	expunge
+1	sicken
+2	rune of protection: black
+2	disenchant
+1	blood vassal
+3	unworthy dead
+1	silent attendant
+3	disciple of grace
+2	polluted mire
+3	drifting meadow
+2	urza's armor
+2	humble
+3	wall of junk
+1	flesh reaver
+3	voice of grace
+1	sanctum guardian
+1	opal acrolith
+1	worship
+1	pariah

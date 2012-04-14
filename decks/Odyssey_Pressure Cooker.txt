@@ -1,0 +1,28 @@
+1	bog wreckage
+2	cabal pit
+1	ravaged highlands
+11	swamp
+9	mountain
+2	barbarian lunatic
+1	braids, cabal minion
+2	childhood horror
+1	crypt creeper
+1	dwarven strike force
+1	face of fear
+2	famished ghoul
+1	frightcrawler
+2	chainflinger
+1	halberdier
+3	pardic firecat
+1	repentant vampire
+2	engulfing flames
+2	firebolt
+3	flame burst
+2	ghastly demise
+1	innocent blood
+1	liquid fire
+2	morbid hunger
+1	morgue theft
+1	reckless charge
+2	shadowblood egg
+1	thermal blast

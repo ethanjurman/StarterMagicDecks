@@ -1,0 +1,56 @@
+12	swamp
+12	mountain
+2	thrull surgeon
+1	dauthi slayer
+2	dauthi jackal
+2	vampire hounds
+1	monstrous hound
+1	scalding salamander
+3	anarchist
+1	thopter squadron
+3	diabolic edict
+1	nausea
+3	rain of tears
+1	evincar's justice
+1	volrath's dungeon
+1	necrologia
+1	searing touch
+3	shock
+4	stone rain
+3	flowstone flood
+2	aftershock
+1	city of brass
+1	forest
+2	karplusan forest
+3	mountain
+3	quicksand
+3	reflecting pool
+2	sulfurous springs
+3	swamp
+2	undiscovered paradise
+4	wasteland
+1	plaguebearer
+3	orcish settlers
+2	monstrous hound
+1	ravenous baboons
+2	anarchist
+1	orgg
+2	uktabi orangutan
+1	dirtcowl wurm
+1	army ants
+3	diabolic edict
+4	rain of tears
+2	earthquake
+2	searing touch
+4	incinerate
+4	stone rain
+1	hammer of bogardan
+2	flowstone flood
+2	perish
+1	earthquake
+2	boil
+1	ravenous baboons
+2	city of solitude
+2	tranquility
+2	uktabi orangutan
+3	nevinyrral's disk

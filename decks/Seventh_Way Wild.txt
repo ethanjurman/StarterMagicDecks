@@ -1,0 +1,21 @@
+14	forest
+2	llanowar elves
+3	grizzly bears
+1	fyndhorn elder
+1	wood elves
+2	trained armodon
+2	giant spider
+1	gorilla chieftain
+1	redwood treefolk
+1	spined wurm
+1	pride of lions
+1	ancient silverback
+1	thorn elemental
+1	giant growth
+1	wild growth
+1	regeneration
+1	blanchwood armor
+1	lure
+2	creeping mold
+1	stream of life
+1	rod of ruin

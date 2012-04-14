@@ -1,0 +1,24 @@
+1	maze of shadows
+19	mountain
+5	plains
+4	mogg fanatic
+3	fireslinger
+1	firefly
+2	lightning elemental
+2	wild wurm
+1	flowstone giant
+1	sandstone warrior
+1	flowstone salamander
+1	magmasaur
+1	soltari guerrillas
+1	coiled tinviper
+2	disenchant
+1	tahngarth's rage
+1	searing touch
+1	blood frenzy
+1	goblin bombardment
+4	kindle
+2	rolling thunder
+3	lightning blast
+1	furnace of rath
+1	squee's toy

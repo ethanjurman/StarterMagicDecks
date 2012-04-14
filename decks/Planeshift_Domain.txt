@@ -1,0 +1,30 @@
+3	plains
+3	island
+3	swamp
+3	mountain
+8	forest
+2	terminal moraine
+3	samite pilgrim
+1	wayfaring giant
+1	kavu recluse
+2	kavu scout
+1	quirion dryad
+2	quirion explorer
+2	quirion trailblazer
+1	magnigoth treefolk
+2	stratadon
+1	strength of unity
+1	confound
+2	worldly counsel
+2	allied strategies
+2	exotic curse
+2	exotic disease
+1	breath of darigaaz
+3	tribal flames
+1	gaea's might
+3	harrow
+1	primal growth
+1	wandering stream
+1	ordered migration
+1	rith's charm
+1	treva's charm

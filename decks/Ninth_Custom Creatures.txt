@@ -1,0 +1,19 @@
+16	forest
+1	llanowar elves
+2	norwood ranger
+2	elvish warrior
+1	yavimaya enchantress
+2	trained armodon
+1	verduran enchantress
+1	emperor crocodile
+1	giant spider
+1	kavu climber
+2	craw wurm
+1	bottle gnomes
+1	web
+1	naturalize
+1	regeneration
+1	treetop bracers
+2	blanchwood armor
+2	overgrowth
+1	wurm's tooth

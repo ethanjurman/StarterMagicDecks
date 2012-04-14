@@ -1,0 +1,613 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Armament Master	zendikar	1	W	WW	2	Creature - Kor Soldier	2	2	R	Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.
+Arrow Volley Trap	zendikar	2	W	3WW	5	Instant - Trap			U	If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost. Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+Bold Defense	zendikar	3	W	2W	3	Instant			C	Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.) Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.
+Brave the Elements	zendikar	4	W	W	1	Instant			U	Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+Caravan Hurda	zendikar	5	W	4W	5	Creature - Giant	1	5	C	Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Celestial Mantle	zendikar	6	W	3WWW	6	Enchantment - Aura			R	Enchant creature Enchanted creature gets +3/+3. Whenever enchanted creature deals combat damage to a player, double its controller's life total.
+Cliff Threader	zendikar	7	W	1W	2	Creature - Kor Scout	2	1	C	Mountainwalk
+Conqueror's Pledge	zendikar	8	W	2WWW	5	Sorcery			R	Kicker {6} (You may pay an additional {6} as you cast this spell.) Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.
+Day of Judgment	zendikar	9	W	2WW	4	Sorcery			R	Destroy all creatures.
+Devout Lightcaster	zendikar	10	W	WWW	3	Creature - Kor Cleric	2	2	R	Protection from black When Devout Lightcaster enters the battlefield, exile target black permanent.
+Emeria Angel	zendikar	11	W	2WW	4	Creature - Angel	3	3	R	Flying Landfall - Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.
+Felidar Sovereign	zendikar	12	W	4WW	6	Creature - Cat Beast	4	6	M	Vigilance, lifelink At the beginning of your upkeep, if you have 40 or more life, you win the game.
+Iona, Shield of Emeria	zendikar	13	W	6WWW	9	Legendary Creature - Angel	7	7	M	Flying As Iona, Shield of Emeria enters the battlefield, choose a color. Your opponents can't cast spells of the chosen color.
+Journey to Nowhere	zendikar	14	W	1W	2	Enchantment			C	When Journey to Nowhere enters the battlefield, exile target creature. When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Kabira Evangel	zendikar	15	W	2W	3	Creature - Human Cleric Ally	2	3	R	Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.
+Kazandu Blademaster	zendikar	16	W	WW	2	Creature - Human Soldier Ally	1	1	U	First strike, vigilance Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.
+Kor Aeronaut	zendikar	17	W	WW	2	Creature - Kor Soldier	2	2	U	Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.) Flying When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.
+Kor Cartographer	zendikar	18	W	3W	4	Creature - Kor Scout	2	2	C	When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+Kor Duelist	zendikar	19	W	W	1	Creature - Kor Soldier	1	1	U	As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)
+Kor Hookmaster	zendikar	20	W	2W	3	Creature - Kor Soldier	2	2	C	When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+Kor Outfitter	zendikar	21	W	WW	2	Creature - Kor Soldier	2	2	C	When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+Kor Sanctifiers	zendikar	22	W	2W	3	Creature - Kor Cleric	2	3	C	Kicker {W} (You may pay an additional {W} as you cast this spell.) When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+Kor Skyfisher	zendikar	23	W	1W	2	Creature - Kor Soldier	2	3	C	Flying When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+Landbind Ritual	zendikar	24	W	3WW	5	Sorcery			U	You gain 2 life for each Plains you control.
+Luminarch Ascension	zendikar	25	W	1W	2	Enchantment			R	At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.) {1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+Makindi Shieldmate	zendikar	26	W	2W	3	Creature - Kor Soldier Ally	0	3	C	Defender Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+Narrow Escape	zendikar	27	W	2W	3	Instant			C	Return target permanent you control to its owner's hand. You gain 4 life.
+Nimbus Wings	zendikar	28	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2 and has flying.
+Noble Vestige	zendikar	29	W	2W	3	Creature - Spirit	1	2	C	Flying {T}: Prevent the next 1 damage that would be dealt to target player this turn.
+Ondu Cleric	zendikar	30	W	1W	2	Creature - Kor Cleric Ally	1	1	C	Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.
+Pillarfield Ox	zendikar	31	W	3W	4	Creature - Ox	2	4	C	
+Pitfall Trap	zendikar	32	W	2W	3	Instant - Trap			U	If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost. Destroy target attacking creature without flying.
+Quest for the Holy Relic	zendikar	33	W	W	1	Enchantment			U	Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic. Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+Shepherd of the Lost	zendikar	34	W	4W	5	Creature - Angel	3	3	U	Flying, first strike, vigilance
+Shieldmate's Blessing	zendikar	35	W	W	1	Instant			C	Prevent the next 3 damage that would be dealt to target creature or player this turn.
+Steppe Lynx	zendikar	36	W	W	1	Creature - Cat	0	1	C	Landfall - Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.
+Sunspring Expedition	zendikar	37	W	W	1	Enchantment			C	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition. Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.
+Windborne Charge	zendikar	38	W	2WW	4	Sorcery			U	Two target creatures you control each get +2/+2 and gain flying until end of turn.
+World Queller	zendikar	39	W	3WW	5	Creature - Avatar	4	4	R	At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.
+Aether Figment	zendikar	40	U	1U	2	Creature - Illusion	1	1	U	Kicker {3} (You may pay an additional {3} as you cast this spell.) Aether Figment is unblockable. If Aether Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+Archive Trap	zendikar	41	U	3UU	5	Instant - Trap			R	If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost. Target opponent puts the top thirteen cards of his or her library into his or her graveyard.
+Archmage Ascension	zendikar	42	U	2U	3	Enchantment			R	At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension. As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.
+Caller of Gales	zendikar	43	U	U	1	Creature - Merfolk Wizard	1	1	C	{1}{U}, {T}: Target creature gains flying until end of turn.
+Cancel	zendikar	44	U	1UU	3	Instant			C	Counter target spell.
+Cosi's Trickster	zendikar	45	U	U	1	Creature - Merfolk Wizard	1	1	R	Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.
+Gomazoa	zendikar	46	U	2U	3	Creature - Jellyfish	0	3	U	Defender, flying {T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+Hedron Crab	zendikar	47	U	U	1	Creature - Crab	0	2	U	Landfall - Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+Into the Roil	zendikar	48	U	1U	2	Instant			C	Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.) Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+Ior Ruin Expedition	zendikar	49	U	1U	2	Enchantment			C	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition. Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
+Kraken Hatchling	zendikar	50	U	U	1	Creature - Kraken	0	4	C	
+Lethargy Trap	zendikar	51	U	3U	4	Instant - Trap			C	If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost. Attacking creatures get -3/-0 until end of turn.
+Living Tsunami	zendikar	52	U	2UU	4	Creature - Elemental	4	4	U	Flying At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+Lorthos, the Tidemaker	zendikar	53	U	5UUU	8	Legendary Creature - Octopus	8	8	M	Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.
+Lullmage Mentor	zendikar	54	U	1UU	3	Creature - Merfolk Wizard	2	2	R	Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield. Tap seven untapped Merfolk you control: Counter target spell.
+Merfolk Seastalkers	zendikar	55	U	3U	4	Creature - Merfolk Scout	2	3	U	Islandwalk {2}{U}: Tap target creature without flying.
+Merfolk Wayfinder	zendikar	56	U	2U	3	Creature - Merfolk Scout	1	2	U	Flying When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Mindbreak Trap	zendikar	57	U	2UU	4	Instant - Trap			M	If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost. Exile any number of target spells.
+Paralyzing Grasp	zendikar	58	U	2U	3	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step.
+Quest for Ancient Secrets	zendikar	59	U	U	1	Enchantment			U	Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets. Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.
+Reckless Scholar	zendikar	60	U	2U	3	Creature - Human Wizard	2	1	C	{T}: Target player draws a card, then discards a card.
+Rite of Replication	zendikar	61	U	2UU	4	Sorcery			R	Kicker {5} (You may pay an additional {5} as you cast this spell.) Put a token onto the battlefield that's a copy of target creature. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.
+Roil Elemental	zendikar	62	U	3UUU	6	Creature - Elemental	3	2	R	Flying Landfall - Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.
+Sea Gate Loremaster	zendikar	63	U	4U	5	Creature - Merfolk Wizard Ally	1	3	R	{T}: Draw a card for each Ally you control.
+Seascape Aerialist	zendikar	64	U	4U	5	Creature - Merfolk Wizard Ally	2	3	U	Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.
+Shoal Serpent	zendikar	65	U	5U	6	Creature - Serpent	5	5	C	Defender Landfall - Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.
+Sky Ruin Drake	zendikar	66	U	4U	5	Creature - Drake	2	5	C	Flying
+Spell Pierce	zendikar	67	U	U	1	Instant			C	Counter target noncreature spell unless its controller pays {2}.
+Sphinx of Jwar Isle	zendikar	68	U	4UU	6	Creature - Sphinx	5	5	R	Flying, shroud You may look at the top card of your library. (You may do this at any time.)
+Sphinx of Lost Truths	zendikar	69	U	3UU	5	Creature - Sphinx	3	5	R	Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.) Flying When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.
+Spreading Seas	zendikar	70	U	1U	2	Enchantment - Aura			C	Enchant land When Spreading Seas enters the battlefield, draw a card. Enchanted land is an Island.
+Summoner's Bane	zendikar	71	U	2UU	4	Instant			U	Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+Tempest Owl	zendikar	72	U	1U	2	Creature - Bird	1	2	C	Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.) Flying When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
+Trapfinder's Trick	zendikar	73	U	1U	2	Sorcery			C	Target player reveals his or her hand and discards all Trap cards.
+Trapmaker's Snare	zendikar	74	U	1U	2	Instant			U	Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.
+Umara Raptor	zendikar	75	U	2U	3	Creature - Bird Ally	1	1	C	Flying Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+Welkin Tern	zendikar	76	U	1U	2	Creature - Bird	2	1	C	Flying Welkin Tern can block only creatures with flying.
+Whiplash Trap	zendikar	77	U	3UU	5	Instant - Trap			C	If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost. Return two target creatures to their owners' hands.
+Windrider Eel	zendikar	78	U	3U	4	Creature - Fish	2	2	C	Flying Landfall - Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.
+Bala Ged Thief	zendikar	79	B	3B	4	Creature - Human Rogue Ally	2	2	R	Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.
+Blood Seeker	zendikar	80	B	1B	2	Creature - Vampire Shaman	1	1	C	Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+Blood Tribute	zendikar	81	B	4BB	6	Sorcery			R	Kicker-Tap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.) Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.
+Bloodchief Ascension	zendikar	82	B	B	1	Enchantment			R	At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. (Damage causes loss of life.) Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.
+Bloodghast	zendikar	83	B	BB	2	Creature - Vampire Spirit	2	1	R	Bloodghast can't block. Bloodghast has haste as long as an opponent has 10 or less life. Landfall - Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.
+Bog Tatters	zendikar	84	B	4B	5	Creature - Wraith	4	2	C	Swampwalk
+Crypt Ripper	zendikar	85	B	2BB	4	Creature - Shade	2	2	C	Haste {B}: Crypt Ripper gets +1/+1 until end of turn.
+Desecrated Earth	zendikar	86	B	4B	5	Sorcery			C	Destroy target land. Its controller discards a card.
+Disfigure	zendikar	87	B	B	1	Instant			C	Target creature gets -2/-2 until end of turn.
+Feast of Blood	zendikar	88	B	1B	2	Sorcery			U	Cast Feast of Blood only if you control two or more Vampires. Destroy target creature. You gain 4 life.
+Gatekeeper of Malakir	zendikar	89	B	BB	2	Creature - Vampire Warrior	2	2	U	Kicker {B} (You may pay an additional {B} as you cast this spell.) When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+Giant Scorpion	zendikar	90	B	2B	3	Creature - Scorpion	1	3	C	Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Grim Discovery	zendikar	91	B	1B	2	Sorcery			C	Choose one or both - Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.
+Guul Draz Specter	zendikar	92	B	2BB	4	Creature - Specter	2	2	R	Flying Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand. Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.
+Guul Draz Vampire	zendikar	93	B	B	1	Creature - Vampire Rogue	1	1	C	As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Hagra Crocodile	zendikar	94	B	3B	4	Creature - Crocodile	3	1	C	Hagra Crocodile can't block. Landfall - Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.
+Hagra Diabolist	zendikar	95	B	4B	5	Creature - Ogre Shaman Ally	3	2	U	Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.
+Halo Hunter	zendikar	96	B	2BBB	5	Creature - Demon	6	3	R	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.) When Halo Hunter enters the battlefield, destroy target Angel.
+Heartstabber Mosquito	zendikar	97	B	3B	4	Creature - Insect	2	2	C	Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.) Flying When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.
+Hideous End	zendikar	98	B	1BB	3	Instant			C	Destroy target nonblack creature. Its controller loses 2 life.
+Kalitas, Bloodchief of Ghet	zendikar	99	B	5BB	7	Legendary Creature - Vampire Warrior	5	5	M	{B}{B}{B}, {T}: Destroy target creature. If that creature is put into a graveyard this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.
+Malakir Bloodwitch	zendikar	100	B	3BB	5	Creature - Vampire Shaman	4	4	R	Flying, protection from white When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.
+Marsh Casualties	zendikar	101	B	BB	2	Sorcery			U	Kicker {3} (You may pay an additional {3} as you cast this spell.) Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+Mind Sludge	zendikar	102	B	4B	5	Sorcery			U	Target player discards a card for each Swamp you control.
+Mindless Null	zendikar	103	B	2B	3	Creature - Zombie	2	2	C	Mindless Null can't block unless you control a Vampire.
+Mire Blight	zendikar	104	B	B	1	Enchantment - Aura			C	Enchant creature When enchanted creature is dealt damage, destroy it.
+Needlebite Trap	zendikar	105	B	5BB	7	Instant - Trap			U	If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost. Target player loses 5 life and you gain 5 life.
+Nimana Sell-Sword	zendikar	106	B	3B	4	Creature - Human Warrior Ally	2	2	C	Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.
+Ob Nixilis, the Fallen	zendikar	107	B	3BB	5	Legendary Creature - Demon	3	3	M	Landfall - Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.
+Quest for the Gravelord	zendikar	108	B	B	1	Enchantment			U	Whenever a creature is put into a graveyard from the battlefield, you may put a quest counter on Quest for the Gravelord. Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.
+Ravenous Trap	zendikar	109	B	2BB	4	Instant - Trap			U	If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost. Exile all cards from target player's graveyard.
+Sadistic Sacrament	zendikar	110	B	BBB	3	Sorcery			R	Kicker {7} (You may pay an additional {7} as you cast this spell.) Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.
+Sorin Markov	zendikar	111	B	3BBB	6	Planeswalker - Sorin	4		M	+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life. -3: Target opponent's life total becomes 10. -7: You control target player's next turn.
+Soul Stair Expedition	zendikar	112	B	B	1	Enchantment			C	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition. Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.
+Surrakar Marauder	zendikar	113	B	1B	2	Creature - Surrakar	2	1	C	Landfall - Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Vampire Hexmage	zendikar	114	B	BB	2	Creature - Vampire Shaman	2	1	U	First strike Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+Vampire Lacerator	zendikar	115	B	B	1	Creature - Vampire Warrior	2	2	C	At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+Vampire Nighthawk	zendikar	116	B	1BB	3	Creature - Vampire Shaman	2	3	U	Flying Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.) Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Vampire's Bite	zendikar	117	B	B	1	Instant			C	Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.) Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Bladetusk Boar	zendikar	118	R	3R	4	Creature - Boar	3	2	C	Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Burst Lightning	zendikar	119	R	R	1	Instant			C	Kicker {4} (You may pay an additional {4} as you cast this spell.) Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.
+Chandra Ablaze	zendikar	120	R	4RR	6	Planeswalker - Chandra	5		M	+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player. -2: Each player discards his or her hand, then draws three cards. -7: Cast any number of red instant and/or sorcery cards from your gravey
+Demolish	zendikar	121	R	3R	4	Sorcery			C	Destroy target artifact or land.
+Electropotence	zendikar	122	R	2R	3	Enchantment			R	Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.
+Elemental Appeal	zendikar	123	R	RRRR	4	Sorcery			R	Kicker {5} (You may pay an additional {5} as you cast this spell.) Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.
+Geyser Glider	zendikar	124	R	3RR	5	Creature - Elemental Beast	4	4	U	Landfall - Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+Goblin Bushwhacker	zendikar	125	R	R	1	Creature - Goblin Warrior	1	1	C	Kicker {R} (You may pay an additional {R} as you cast this spell.) When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.
+Goblin Guide	zendikar	126	R	R	1	Creature - Goblin Scout	2	2	R	Haste Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.
+Goblin Ruinblaster	zendikar	127	R	2R	3	Creature - Goblin Shaman	2	1	U	Kicker {R} (You may pay an additional {R} as you cast this spell.) Haste When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.
+Goblin Shortcutter	zendikar	128	R	1R	2	Creature - Goblin Scout	2	1	C	When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+Goblin War Paint	zendikar	129	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and has haste.
+Hellfire Mongrel	zendikar	130	R	2R	3	Creature - Elemental Hound	2	2	U	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+Hellkite Charger	zendikar	131	R	4RR	6	Creature - Dragon	5	5	R	Flying, haste Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+Highland Berserker	zendikar	132	R	1R	2	Creature - Human Berserker Ally	2	1	C	Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.
+Inferno Trap	zendikar	133	R	3R	4	Instant - Trap			U	If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost. Inferno Trap deals 4 damage to target creature.
+Kazuul Warlord	zendikar	134	R	4R	5	Creature - Minotaur Warrior Ally	3	3	R	Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.
+Lavaball Trap	zendikar	135	R	6RR	8	Instant - Trap			R	If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost. Destroy two target lands. Lavaball Trap deals 4 damage to each creature.
+Magma Rift	zendikar	136	R	2R	3	Sorcery			C	As an additional cost to cast Magma Rift, sacrifice a land. Magma Rift deals 5 damage to target creature.
+Mark of Mutiny	zendikar	137	R	2R	3	Sorcery			U	Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+Molten Ravager	zendikar	138	R	2R	3	Creature - Elemental	0	4	C	{R}: Molten Ravager gets +1/+0 until end of turn.
+Murasa Pyromancer	zendikar	139	R	4RR	6	Creature - Human Shaman Ally	3	2	U	Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
+Obsidian Fireheart	zendikar	140	R	1RRR	4	Creature - Elemental	4	4	M	{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." (The land continues to burn after Obsidian Fireheart has left the battlefield.)
+Plated Geopede	zendikar	141	R	1R	2	Creature - Insect	1	1	C	First strike Landfall - Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+Punishing Fire	zendikar	142	R	1R	2	Instant			U	Punishing Fire deals 2 damage to target creature or player. Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+Pyromancer Ascension	zendikar	143	R	1R	2	Enchantment			R	Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension. Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.
+Quest for Pure Flame	zendikar	144	R	R	1	Enchantment			U	Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame. Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+Ruinous Minotaur	zendikar	145	R	1RR	3	Creature - Minotaur Warrior	5	2	C	Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
+Runeflare Trap	zendikar	146	R	4RR	6	Instant - Trap			U	If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost. Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.
+Seismic Shudder	zendikar	147	R	1R	2	Instant			C	Seismic Shudder deals 1 damage to each creature without flying.
+Shatterskull Giant	zendikar	148	R	2RR	4	Creature - Giant Warrior	4	3	C	
+Slaughter Cry	zendikar	149	R	2R	3	Instant			C	Target creature gets +3/+0 and gains first strike until end of turn.
+Spire Barrage	zendikar	150	R	4R	5	Sorcery			C	Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+Torch Slinger	zendikar	151	R	2R	3	Creature - Goblin Shaman	2	2	C	Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.) When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.
+Tuktuk Grunts	zendikar	152	R	4R	5	Creature - Goblin Warrior Ally	2	2	C	Haste Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.
+Unstable Footing	zendikar	153	R	R	1	Instant			U	Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.) Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.
+Warren Instigator	zendikar	154	R	RR	2	Creature - Goblin Berserker	1	1	M	Double strike Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+Zektar Shrine Expedition	zendikar	155	R	1R	2	Enchantment			C	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition. Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.
+Baloth Cage Trap	zendikar	156	G	3GG	5	Instant - Trap			U	If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost. Put a 4/4 green Beast creature token onto the battlefield.
+Baloth Woodcrasher	zendikar	157	G	4GG	6	Creature - Beast	4	4	U	Landfall - Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+Beast Hunt	zendikar	158	G	3G	4	Sorcery			C	Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+Beastmaster Ascension	zendikar	159	G	2G	3	Enchantment			R	Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension. As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.
+Cobra Trap	zendikar	160	G	4GG	6	Instant - Trap			U	If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost. Put four 1/1 green Snake creature tokens onto the battlefield.
+Frontier Guide	zendikar	161	G	1G	2	Creature - Elf Scout	1	1	U	{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Gigantiform	zendikar	162	G	3GG	5	Enchantment - Aura			R	Kicker {4} Enchant creature Enchanted creature is 8/8 and has trample. When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.
+Grazing Gladehart	zendikar	163	G	2G	3	Creature - Antelope	2	2	C	Landfall - Whenever a land enters the battlefield under your control, you may gain 2 life.
+Greenweaver Druid	zendikar	164	G	2G	3	Creature - Elf Druid	1	1	U	{T}: Add {G}{G} to your mana pool.
+Harrow	zendikar	165	G	2G	3	Instant			C	As an additional cost to cast Harrow, sacrifice a land. Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+Joraga Bard	zendikar	166	G	3G	4	Creature - Elf Rogue Ally	1	4	C	Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.
+Khalni Heart Expedition	zendikar	167	G	1G	2	Enchantment			C	Landfall - Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition. Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+Lotus Cobra	zendikar	168	G	1G	2	Creature - Snake	2	1	M	Landfall - Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.
+Mold Shambler	zendikar	169	G	3G	4	Creature - Fungus Beast	3	3	C	Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.) When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+Nissa Revane	zendikar	170	G	2GG	4	Planeswalker - Nissa	2		M	+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library. +1: You gain 2 life for each Elf you control. -7: Search your library for any number of Elf creature cards and put them onto the battlefiel
+Nissa's Chosen	zendikar	171	G	GG	2	Creature - Elf Warrior	2	3	C	If Nissa's Chosen would be put into a graveyard from the battlefield, put it on the bottom of its owner's library instead.
+Oracle of Mul Daya	zendikar	172	G	3G	4	Creature - Elf Shaman	2	2	R	You may play an additional land on each of your turns. Play with the top card of your library revealed. You may play the top card of your library if it's a land card.
+Oran-Rief Recluse	zendikar	173	G	2G	3	Creature - Spider	1	3	C	Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.) Reach (This creature can block creatures with flying.) When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+Oran-Rief Survivalist	zendikar	174	G	1G	2	Creature - Human Warrior Ally	1	1	C	Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.
+Predatory Urge	zendikar	175	G	3G	4	Enchantment - Aura			R	Enchant creature Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+Primal Bellow	zendikar	176	G	G	1	Instant			U	Target creature gets +1/+1 until end of turn for each Forest you control.
+Quest for the Gemblades	zendikar	177	G	1G	2	Enchantment			U	Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades. Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.
+Rampaging Baloths	zendikar	178	G	4GG	6	Creature - Beast	6	6	M	Trample Landfall - Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.
+Relic Crush	zendikar	179	G	4G	5	Instant			C	Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+River Boa	zendikar	180	G	1G	2	Creature - Snake	2	1	U	Islandwalk {G}: Regenerate River Boa.
+Savage Silhouette	zendikar	181	G	2G	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."
+Scute Mob	zendikar	182	G	G	1	Creature - Insect	1	1	R	At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.
+Scythe Tiger	zendikar	183	G	G	1	Creature - Cat	3	2	C	Shroud (This creature can't be the target of spells or abilities.) When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.
+Summoning Trap	zendikar	184	G	4GG	6	Instant - Trap			R	If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost. Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Tajuru Archer	zendikar	185	G	2G	3	Creature - Elf Archer Ally	1	2	U	Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.
+Tanglesap	zendikar	186	G	1G	2	Instant			C	Prevent all combat damage that would be dealt this turn by creatures without trample.
+Terra Stomper	zendikar	187	G	3GGG	6	Creature - Beast	8	8	R	Terra Stomper can't be countered. Trample
+Territorial Baloth	zendikar	188	G	4G	5	Creature - Beast	4	4	C	Landfall - Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.
+Timbermaw Larva	zendikar	189	G	3G	4	Creature - Beast	2	2	C	Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.
+Turntimber Basilisk	zendikar	190	G	1GG	3	Creature - Basilisk	2	1	U	Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.) Landfall - Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.
+Turntimber Ranger	zendikar	191	G	3GG	5	Creature - Elf Scout Ally	2	2	R	Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.
+Vastwood Gorger	zendikar	192	G	5G	6	Creature - Wurm	5	6	C	
+Vines of Vastwood	zendikar	193	G	G	1	Instant			C	Kicker {G} (You may pay an additional {G} as you cast this spell.) Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.
+Zendikar Farguide	zendikar	194	G	4G	5	Creature - Elemental	3	3	C  	Forestwalk
+Adventuring Gear	zendikar	195	A	1	1	Artifact - Equipment			C	Landfall - Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn. Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Blade of the Bloodchief	zendikar	196	A	1	1	Artifact - Equipment			R	Whenever a creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead. Equip {1}
+Blazing Torch	zendikar	197	A	1	1	Artifact - Equipment			U	Equipped creature can't be blocked by Vampires or Zombies. Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player." Equip {1}
+Carnage Altar	zendikar	198	A	2	2	Artifact			U	{3}, Sacrifice a creature: Draw a card.
+Eldrazi Monument	zendikar	199	A	5	5	Artifact			M	Creatures you control get +1/+1, have flying, and are indestructible. At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.
+Eternity Vessel	zendikar	200	A	6	6	Artifact			M	Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total. Landfall - Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.
+Expedition Map	zendikar	201	A	1	1	Artifact			C	{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+Explorer's Scope	zendikar	202	A	1	1	Artifact - Equipment			C	Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Grappling Hook	zendikar	203	A	4	4	Artifact - Equipment			R	Equipped creature has double strike. Whenever equipped creature attacks, you may have target creature block it this turn if able. Equip {4}
+Hedron Scrabbler	zendikar	204	A	2	2	Artifact Creature - Construct	1	1	C	Landfall - Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.
+Khalni Gem	zendikar	205	A	4	4	Artifact			U	When Khalni Gem enters the battlefield, return two lands you control to their owner's hand. {T}: Add two mana of any one color to your mana pool.
+Spidersilk Net	zendikar	206	A	0	0	Artifact - Equipment			C	Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Stonework Puma	zendikar	207	A	3	3	Artifact Creature - Cat Ally	2	2	C	
+Trailblazer's Boots	zendikar	208	A	2	2	Artifact - Equipment			U	Equipped creature has nonbasic landwalk. (It's unblockable as long as defending player controls a nonbasic land.) Equip {2}
+Trusty Machete	zendikar	209	A	1	1	Artifact - Equipment			U	Equipped creature gets +2/+1. Equip {2}
+Akoum Refuge	zendikar	210	L		0	Land			U	Akoum Refuge enters the battlefield tapped. When Akoum Refuge enters the battlefield, you gain 1 life. {T}: Add {B} or {R} to your mana pool.
+Arid Mesa	zendikar	211	L		0	Land			R	{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.
+Crypt of Agadeem	zendikar	212	L		0	Land			R	Crypt of Agadeem enters the battlefield tapped. {T}: Add {B} to your mana pool. {2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.
+Emeria, the Sky Ruin	zendikar	213	L		0	Land			R	Emeria, the Sky Ruin enters the battlefield tapped. At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield. {T}: Add {W} to your mana pool.
+Graypelt Refuge	zendikar	214	L		0	Land			U	Graypelt Refuge enters the battlefield tapped. When Graypelt Refuge enters the battlefield, you gain 1 life. {T}: Add {G} or {W} to your mana pool.
+Jwar Isle Refuge	zendikar	215	L		0	Land			U	Jwar Isle Refuge enters the battlefield tapped. When Jwar Isle Refuge enters the battlefield, you gain 1 life. {T}: Add {U} or {B} to your mana pool.
+Kabira Crossroads	zendikar	216	L		0	Land			C	Kabira Crossroads enters the battlefield tapped. When Kabira Crossroads enters the battlefield, you gain 2 life. {T}: Add {W} to your mana pool.
+Kazandu Refuge	zendikar	217	L		0	Land			U	Kazandu Refuge enters the battlefield tapped. When Kazandu Refuge enters the battlefield, you gain 1 life. {T}: Add {R} or {G} to your mana pool.
+Magosi, the Waterveil	zendikar	218	L		0	Land			R	Magosi, the Waterveil enters the battlefield tapped. {T}: Add {U} to your mana pool. {U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn. {T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.
+Marsh Flats	zendikar	219	L		0	Land			R	{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.
+Misty Rainforest	zendikar	220	L		0	Land			R	{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.
+Oran-Rief, the Vastwood	zendikar	221	L		0	Land			R	Oran-Rief, the Vastwood enters the battlefield tapped. {T}: Add {G} to your mana pool. {T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+Piranha Marsh	zendikar	222	L		0	Land			C	Piranha Marsh enters the battlefield tapped. When Piranha Marsh enters the battlefield, target player loses 1 life. {T}: Add {B} to your mana pool.
+Scalding Tarn	zendikar	223	L		0	Land			R	{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.
+Sejiri Refuge	zendikar	224	L		0	Land			U	Sejiri Refuge enters the battlefield tapped. When Sejiri Refuge enters the battlefield, you gain 1 life. {T}: Add {W} or {U} to your mana pool.
+Soaring Seacliff	zendikar	225	L		0	Land			C	Soaring Seacliff enters the battlefield tapped. When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn. {T}: Add {U} to your mana pool.
+Teetering Peaks	zendikar	226	L		0	Land			C	Teetering Peaks enters the battlefield tapped. When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn. {T}: Add {R} to your mana pool.
+Turntimber Grove	zendikar	227	L		0	Land			C	Turntimber Grove enters the battlefield tapped. When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn. {T}: Add {G} to your mana pool.
+Valakut, the Molten Pinnacle	zendikar	228	L		0	Land			R	Valakut, the Molten Pinnacle enters the battlefield tapped. Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player. {T}: Add {R} to your mana pool.
+Verdant Catacombs	zendikar	229	L		0	Land			R	{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.
+Plains	zendikar	230	L		0	Basic Land - Plains			L	W
+Island	zendikar	234	L		0	Basic Land - Island			L	U
+Swamp	zendikar	238	L		0	Basic Land - Swamp			L	B
+Mountain	zendikar	242	L		0	Basic Land - Mountain			L	R
+Forest	zendikar	246	L		0	Basic Land - Forest			L	G
+Admonition Angel	worldwake	1	W	3WWW	6	Creature - Angel	6	6	M	Flying Landfall - Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel. When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.
+Apex Hawks	worldwake	2	W	2W	3	Creature - Bird	2	2	C	Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.) Flying Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Archon of Redemption	worldwake	3	W	3WW	5	Creature - Archon	3	4	R	Flying Whenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.
+Battle Hurda	worldwake	4	W	4W	5	Creature - Giant	3	3	C	First strike
+Fledgling Griffin	worldwake	5	W	1W	2	Creature - Griffin	2	2	C	Landfall - Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.
+Guardian Zendikon	worldwake	6	W	2W	3	Enchantment - Aura			C	Enchant land Enchanted land is a 2/6 white Wall creature with defender. It's still a land. When enchanted land is put into a graveyard, return that card to its owner's hand.
+Hada Freeblade	worldwake	7	W	W	1	Creature - Human Soldier Ally	0	1	U	Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.
+Iona's Judgment	worldwake	8	W	4W	5	Sorcery			C	Exile target creature or enchantment.
+Join the Ranks	worldwake	9	W	3W	4	Instant			C	Put two 1/1 white Soldier Ally creature tokens onto the battlefield.
+Kitesail Apprentice	worldwake	10	W	W	1	Creature - Kor Soldier	1	1	C	As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.
+Kor Firewalker	worldwake	11	W	WW	2	Creature - Kor Soldier	2	2	U	Protection from red Whenever a player casts a red spell, you may gain 1 life.
+Lightkeeper of Emeria	worldwake	12	W	3W	4	Creature - Angel	2	4	U	Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.) Flying When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.
+Loam Lion	worldwake	13	W	W	1	Creature - Cat	1	1	U	Loam Lion gets +1/+2 as long as you control a Forest.
+Marsh Threader	worldwake	14	W	1W	2	Creature - Kor Scout	2	1	C	Swampwalk
+Marshal's Anthem	worldwake	15	W	2WW	4	Enchantment			R	Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.) Creatures you control get +1/+1. When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.
+Perimeter Captain	worldwake	16	W	W	1	Creature - Human Soldier	0	4	U	Defender Whenever a creature you control with defender blocks, you may gain 2 life.
+Refraction Trap	worldwake	17	W	3W	4	Instant - Trap			U	If an opponent cast a red instant or sorcery spell this turn, you may pay {W} rather than pay Refraction Trap's mana cost. Prevent the next 3 damage that a source of your choice would deal to you and/or permanents you control this turn. If damage is prevented this way, Refraction Trap deals that much damage to target creature or player.
+Rest for the Weary	worldwake	18	W	1W	2	Instant			C	Target player gains 4 life. Landfall - If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.
+Ruin Ghost	worldwake	19	W	1W	2	Creature - Spirit	1	1	U	{W}, {T}: Exile target land you control, then return it to the battlefield under your control.
+Stoneforge Mystic	worldwake	20	W	1W	2	Creature - Kor Artificer	1	2	R	When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library. {1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.
+Talus Paladin	worldwake	21	W	3W	4	Creature - Human Knight Ally	2	3	R	Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.
+Terra Eternal	worldwake	22	W	2W	3	Enchantment			R	All lands are indestructible.
+Veteran's Reflexes	worldwake	23	W	W	1	Instant			C	Target creature gets +1/+1 until end of turn. Untap that creature.
+Aether Tradewinds	worldwake	24	U	2U	3	Instant			C	Return target permanent you control and target permanent you don't control to their owners' hands.
+Calcite Snapper	worldwake	25	U	1UU	3	Creature - Turtle	1	4	C	Shroud (This creature can't be the target of spells or abilities.) Landfall - Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.
+Dispel	worldwake	26	U	U	1	Instant			C	Counter target instant spell.
+Enclave Elite	worldwake	27	U	2U	3	Creature - Merfolk Soldier	2	2	C	Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.) Islandwalk Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Goliath Sphinx	worldwake	28	U	5UU	7	Creature - Sphinx	8	7	R	Flying
+Halimar Excavator	worldwake	29	U	1U	2	Creature - Human Wizard Ally	1	3	C	Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.
+Horizon Drake	worldwake	30	U	1UU	3	Creature - Drake	3	1	U	Flying, protection from lands
+Jace, the Mind Sculptor	worldwake	31	U	2UU	4	Planeswalker - Jace	3		M	+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library. 0: Draw three cards, then put two cards from your hand on top of your library in any order. -1: Return target creature to its owner's hand. -12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.
+Jwari Shapeshifter	worldwake	32	U	1U	2	Creature - Shapeshifter Ally	0	0	R	You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.
+Mysteries of the Deep	worldwake	33	U	4U	5	Instant			C	Draw two cards. Landfall - If you had a land enter the battlefield under your control this turn, draw three cards instead.
+Permafrost Trap	worldwake	34	U	2UU	4	Instant - Trap			U	If an opponent had a green creature enter the battlefield under his or her control this turn, you may pay {U} rather than pay Permafrost Trap's mana cost. Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Quest for Ula's Temple	worldwake	35	U	U	1	Enchantment			R	At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple. At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.
+Sejiri Merfolk	worldwake	36	U	1U	2	Creature - Merfolk Soldier	2	1	U	As long as you control a Plains, Sejiri Merfolk has first strike and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+Selective Memory	worldwake	37	U	3U	4	Sorcery			R	Search your library for any number of nonland cards and exile them. Then shuffle your library.
+Spell Contortion	worldwake	38	U	2U	3	Instant			U	Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.) Counter target spell unless its controller pays {2}. Draw a card for each time Spell Contortion was kicked.
+Surrakar Banisher	worldwake	39	U	4U	5	Creature - Surrakar	3	3	C	When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.
+Thada Adel, Acquisitor	worldwake	40	U	1UU	3	Legendary Creature - Merfolk Rogue	2	2	R	Islandwalk Whenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles his or her library. Until end of turn, you may play that card.
+Tideforce Elemental	worldwake	41	U	2U	3	Creature - Elemental	2	1	U	{U}, {T}: You may tap or untap another target creature. Landfall - Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.
+Treasure Hunt	worldwake	42	U	1U	2	Sorcery			C	Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.
+Twitch	worldwake	43	U	2U	3	Instant			C	You may tap or untap target artifact, creature, or land. Draw a card.
+Vapor Snare	worldwake	44	U	4U	5	Enchantment - Aura			U	Enchant creature You control enchanted creature. At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.
+Voyager Drake	worldwake	45	U	3U	4	Creature - Drake	3	3	U	Multikicker {U} (You may pay an additional {U} any number of times as you cast this spell.) Flying When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.
+Wind Zendikon	worldwake	46	U	U	1	Enchantment - Aura			C	Enchant land Enchanted land is a 2/2 blue Elemental creature with flying. It's still a land. When enchanted land is put into a graveyard, return that card to its owner's hand.
+Abyssal Persecutor	worldwake	47	B	2BB	4	Creature - Demon	6	6	M	Flying, trample You can't win the game and your opponents can't lose the game.
+Agadeem Occultist	worldwake	48	B	2B	3	Creature - Human Shaman Ally	0	2	R	{T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.
+Anowon, the Ruin Sage	worldwake	49	B	3BB	5	Legendary Creature - Vampire Shaman	4	3	R	At the beginning of your upkeep, each player sacrifices a non-Vampire creature.
+Bloodhusk Ritualist	worldwake	50	B	2B	3	Creature - Vampire Shaman	2	2	U	Multikicker {B} (You may pay an additional {B} any number of times as you cast this spell.) When Bloodhusk Ritualist enters the battlefield, target opponent discards a card for each time it was kicked.
+Bojuka Brigand	worldwake	51	B	1B	2	Creature - Human Warrior Ally	1	1	C	Bojuka Brigand can't block. Whenever Bojuka Brigand or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Bojuka Brigand.
+Brink of Disaster	worldwake	52	B	2BB	4	Enchantment - Aura			C	Enchant creature or land When enchanted permanent becomes tapped, destroy it.
+Butcher of Malakir	worldwake	53	B	5BB	7	Creature - Vampire Warrior	5	4	R	Flying Whenever Butcher of Malakir or another creature you control is put into a graveyard from the battlefield, each opponent sacrifices a creature.
+Caustic Crawler	worldwake	54	B	3BB	5	Creature - Insect	4	3	U	Landfall - Whenever a land enters the battlefield under your control, you may have target creature get -1/-1 until end of turn.
+Corrupted Zendikon	worldwake	55	B	1B	2	Enchantment - Aura			C	Enchant land Enchanted land is a 3/3 black Ooze creature. It's still a land. When enchanted land is put into a graveyard, return that card to its owner's hand.
+Dead Reckoning	worldwake	56	B	1BB	3	Sorcery			C	You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.
+Death's Shadow	worldwake	57	B	B	1	Creature - Avatar	13	13	R	Death's Shadow gets -X/-X, where X is your life total.
+Jagwasp Swarm	worldwake	58	B	3B	4	Creature - Insect	3	2	C	Flying
+Kalastria Highborn	worldwake	59	B	BB	2	Creature - Vampire Shaman	2	2	R	Whenever Kalastria Highborn or another Vampire you control is put into a graveyard from the battlefield, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.
+Mire's Toll	worldwake	60	B	B	1	Sorcery			C	Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.
+Nemesis Trap	worldwake	61	B	4BB	6	Instant - Trap			U	If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost. Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.
+Pulse Tracker	worldwake	62	B	B	1	Creature - Vampire Rogue	1	1	C	Whenever Pulse Tracker attacks, each opponent loses 1 life.
+Quag Vampires	worldwake	63	B	B	1	Creature - Vampire Rogue	1	1	C	Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.) Swampwalk Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Quest for the Nihil Stone	worldwake	64	B	B	1	Enchantment			R	Whenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone. At the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.
+Ruthless Cullblade	worldwake	65	B	1B	2	Creature - Vampire Warrior	2	1	C	Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.
+Scrib Nibblers	worldwake	66	B	2B	3	Creature - Rat	1	1	U	{T}: Exile the top card of target player's library. If it's a land card, you gain 1 life. Landfall - Whenever a land enters the battlefield under your control, you may untap Scrib Nibblers.
+Shoreline Salvager	worldwake	67	B	3B	4	Creature - Surrakar	3	3	U	Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.
+Smother	worldwake	68	B	1B	2	Instant			U	Destroy target creature with converted mana cost 3 or less. It can't be regenerated.
+Tomb Hex	worldwake	69	B	2B	3	Instant			C	Target creature gets -2/-2 until end of turn. Landfall - If you had a land enter the battlefield under your control this turn, that creature gets -4/-4 until end of turn instead.
+Urge to Feed	worldwake	70	B	BB	2	Instant			U	Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+Akoum Battlesinger	worldwake	71	R	1R	2	Creature - Human Berserker Ally	1	1	C	Haste Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.
+Bazaar Trader	worldwake	72	R	1R	2	Creature - Goblin	1	1	R	{T}: Target player gains control of target artifact, creature, or land you control.
+Bull Rush	worldwake	73	R	R	1	Instant			C	Target creature gets +2/+0 until end of turn.
+Chain Reaction	worldwake	74	R	2RR	4	Sorcery			R	Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.
+Claws of Valakut	worldwake	75	R	1RR	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0 for each Mountain you control and has first strike.
+Comet Storm	worldwake	76	R	XRR	2	Instant			M	Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.) Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.
+Cosi's Ravager	worldwake	77	R	3R	4	Creature - Elemental	2	2	C	Landfall - Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.
+Crusher Zendikon	worldwake	78	R	2R	3	Enchantment - Aura			C	Enchant land Enchanted land is a 4/2 red Beast creature with trample. It's still a land. When enchanted land is put into a graveyard, return that card to its owner's hand.
+Cunning Sparkmage	worldwake	79	R	2R	3	Creature - Human Shaman	0	1	U	Haste {T}: Cunning Sparkmage deals 1 damage to target creature or player.
+Deathforge Shaman	worldwake	80	R	4R	5	Creature - Ogre Shaman	4	3	U	Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.) When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.
+Dragonmaster Outcast	worldwake	81	R	R	1	Creature - Human Shaman	1	1	M	At the beginning of your upkeep, if you control six or more lands, put a 5/5 red Dragon creature token with flying onto the battlefield.
+Goblin Roughrider	worldwake	82	R	2R	3	Creature - Goblin Knight	3	2	C	
+Grotag Thrasher	worldwake	83	R	4R	5	Creature - Lizard	3	3	C	Whenever Grotag Thrasher attacks, target creature can't block this turn.
+Kazuul, Tyrant of the Cliffs	worldwake	84	R	3RR	5	Legendary Creature - Ogre Warrior	5	4	R	Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.
+Mordant Dragon	worldwake	85	R	3RRR	6	Creature - Dragon	5	5	R	Flying {1}{R}: Mordant Dragon gets +1/+0 until end of turn. Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+Quest for the Goblin Lord	worldwake	86	R	R	1	Enchantment			U	Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord. As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.
+Ricochet Trap	worldwake	87	R	3R	4	Instant - Trap			U	If an opponent cast a blue spell this turn, you may pay {R} rather than pay Ricochet Trap's mana cost. Change the target of target spell with a single target.
+Roiling Terrain	worldwake	88	R	2RR	4	Sorcery			C	Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.
+Rumbling Aftershocks	worldwake	89	R	4R	5	Enchantment			U	Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal damage to target creature or player equal to the number of times that spell was kicked.
+Searing Blaze	worldwake	90	R	RR	2	Instant			C	Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls. Landfall - If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.
+Skitter of Lizards	worldwake	91	R	R	1	Creature - Lizard	1	1	C	Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.) Haste Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Slavering Nulls	worldwake	92	R	1R	2	Creature - Goblin Zombie	2	1	U	Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+Stone Idol Trap	worldwake	93	R	5R	6	Instant - Trap			R	Stone Idol Trap costs {1} less to cast for each attacking creature. Put a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.
+Tuktuk Scrapper	worldwake	94	R	3R	4	Creature - Goblin Artificer Ally	2	2	U	Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the number of Allies you control.
+Arbor Elf	worldwake	95	G	G	1	Creature - Elf Druid	1	1	C	{T}: Untap target Forest.
+Avenger of Zendikar	worldwake	96	G	5GG	7	Creature - Elemental	5	5	M	When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control. Landfall - Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.
+Bestial Menace	worldwake	97	G	3GG	5	Sorcery			U	Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.
+Canopy Cover	worldwake	98	G	1G	2	Enchantment - Aura			U	Enchant creature Enchanted creature can't be blocked except by creatures with flying or reach. Enchanted creature can't be the target of spells or abilities your opponents control.
+Explore	worldwake	99	G	1G	2	Sorcery			C	You may play an additional land this turn. Draw a card.
+Feral Contest	worldwake	100	G	3G	4	Sorcery			C	Put a +1/+1 counter on target creature you control. Another target creature blocks it this turn if able.
+Gnarlid Pack	worldwake	101	G	1G	2	Creature - Beast	2	2	C	Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.) Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Grappler Spider	worldwake	102	G	1G	2	Creature - Spider	2	1	C	Reach (This creature can block creatures with flying.)
+Graypelt Hunter	worldwake	103	G	3G	4	Creature - Human Warrior Ally	2	2	C	Trample Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.
+Groundswell	worldwake	104	G	G	1	Instant			C	Target creature gets +2/+2 until end of turn. Landfall - If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.
+Harabaz Druid	worldwake	105	G	1G	2	Creature - Human Druid Ally	0	1	R	{T}: Add X mana of any one color to your mana pool, where X is the number of Allies you control.
+Joraga Warcaller	worldwake	106	G	G	1	Creature - Elf Warrior	1	1	R	Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.) Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked. Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.
+Leatherback Baloth	worldwake	107	G	GGG	3	Creature - Beast	4	5	U	
+Nature's Claim	worldwake	108	G	G	1	Instant			C	Destroy target artifact or enchantment. Its controller gains 4 life.
+Omnath, Locus of Mana	worldwake	109	G	2G	3	Legendary Creature - Elemental	1	1	M	Green mana doesn't empty from your mana pool as steps and phases end. Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.
+Quest for Renewal	worldwake	110	G	1G	2	Enchantment			U	Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal. As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.
+Slingbow Trap	worldwake	111	G	3G	4	Instant - Trap			U	If a black creature with flying is attacking, you may pay {G} rather than pay Slingbow Trap's mana cost. Destroy target attacking creature with flying.
+Snapping Creeper	worldwake	112	G	2G	3	Creature - Plant	2	3	C	Landfall - Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.
+Strength of the Tajuru	worldwake	113	G	XGG	2	Instant			R	Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.) Choose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.
+Summit Apes	worldwake	114	G	3G	4	Creature - Ape	5	2	U	As long as you control a Mountain, Summit Apes can't be blocked except by two or more creatures.
+Terastodon	worldwake	115	G	6GG	8	Creature - Elephant	9	9	R	When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+Vastwood Animist	worldwake	116	G	2G	3	Creature - Elf Shaman Ally	1	1	U	{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.
+Vastwood Zendikon	worldwake	117	G	4G	5	Enchantment - Aura			C	Enchant land Enchanted land is a 6/4 green Elemental creature. It's still a land. When enchanted land is put into a graveyard, return that card to its owner's hand.
+Wolfbriar Elemental	worldwake	118	G	2GG	4	Creature - Elemental	4	4	R	Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.) When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.
+Novablast Wurm	worldwake	119	GW	3GGWW	7	Creature - Wurm	7	7	M	Whenever Novablast Wurm attacks, destroy all other creatures.
+Wrexial, the Risen Deep	worldwake	120	UB	3UUB	6	Legendary Creature - Kraken	5	8	M	Islandwalk, swampwalk Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.
+Amulet of Vigor	worldwake	121	A	1	1	Artifact			R	Whenever a permanent enters the battlefield tapped and under your control, untap it.
+Basilisk Collar	worldwake	122	A	1	1	Artifact - Equipment			R	Equipped creature has deathtouch and lifelink. Equip {2}
+Everflowing Chalice	worldwake	123	A	0	0	Artifact			U	Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.) Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked. {T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+Hammer of Ruin	worldwake	124	A	2	2	Artifact - Equipment			U	Equipped creature gets +2/+0. Whenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls. Equip {2}
+Hedron Rover	worldwake	125	A	4	4	Artifact Creature - Construct	2	2	C	Landfall - Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.
+Kitesail	worldwake	126	A	2	2	Artifact - Equipment			C	Equipped creature gets +1/+0 and has flying. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Lodestone Golem	worldwake	127	A	4	4	Artifact Creature - Golem	5	3	R	Nonartifact spells cost {1} more to cast.
+Pilgrim's Eye	worldwake	128	A	3	3	Artifact Creature - Thopter	1	1	C	Flying When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Razor Boomerang	worldwake	129	A	3	3	Artifact - Equipment			U	Equipped creature has "{T}, Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand." Equip {2}
+Seer's Sundial	worldwake	130	A	4	4	Artifact			R	Landfall - Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.
+Walking Atlas	worldwake	131	A	2	2	Artifact Creature - Construct	1	1	C	{T}: You may put a land card from your hand onto the battlefield.
+Bojuka Bog	worldwake	132	L		0	Land			C	Bojuka Bog enters the battlefield tapped. When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard. {T}: Add {B} to your mana pool.
+Celestial Colonnade	worldwake	133	L		0	Land			R	Celestial Colonnade enters the battlefield tapped. {T}: Add {W} or {U} to your mana pool. {3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.
+Creeping Tar Pit	worldwake	134	L		0	Land			R	Creeping Tar Pit enters the battlefield tapped. {T}: Add {U} or {B} to your mana pool. {1}{U}{B}: Until end of turn, Creeping Tar Pit becomes a 3/2 blue and black Elemental creature and is unblockable. It's still a land.
+Dread Statuary	worldwake	135	L		0	Land			U	{T}: Add {1} to your mana pool. {4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.
+Eye of Ugin	worldwake	136	L		0	Legendary Land			M	Colorless Eldrazi spells you cast cost {2} less to cast. {7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.
+Halimar Depths	worldwake	137	L		0	Land			C	Halimar Depths enters the battlefield tapped. When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order. {T}: Add {U} to your mana pool.
+Khalni Garden	worldwake	138	L		0	Land			C	Khalni Garden enters the battlefield tapped. When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield. {T}: Add {G} to your mana pool.
+Lavaclaw Reaches	worldwake	139	L		0	Land			R	Lavaclaw Reaches enters the battlefield tapped. {T}: Add {B} or {R} to your mana pool. {1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with "{X}: This creature gets +X/+0 until end of turn." It's still a land.
+Quicksand	worldwake	140	L		0	Land			C	{T}: Add {1} to your mana pool. {T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+Raging Ravine	worldwake	141	L		0	Land			R	Raging Ravine enters the battlefield tapped. {T}: Add {R} or {G} to your mana pool. {2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with "Whenever this creature attacks, put a +1/+1 counter on it." It's still a land.
+Sejiri Steppe	worldwake	142	L		0	Land			C	Sejiri Steppe enters the battlefield tapped. When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn. {T}: Add {W} to your mana pool.
+Smoldering Spires	worldwake	143	L		0	Land			c	Smoldering Spires enters the battlefield tapped. When Smoldering Spires enters the battlefield, target creature can't block this turn. {T}: Add {R} to your mana pool.
+Stirring Wildwood	worldwake	144	L		0	Land			R	Stirring Wildwood enters the battlefield tapped. {T}: Add {G} or {W} to your mana pool. {1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.
+Tectonic Edge	worldwake	145	L		0	Land			U	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.
+All Is Dust	roe	1		7	7	Tribal Sorcery - Eldrazi			M	Each player sacrifices all colored permanents he or she controls.
+Artisan of Kozilek	roe	2		9	9	Creature - Eldrazi	10	9	U	When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield. Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)
+Eldrazi Conscription	roe	3		8	8	Tribal Enchantment - Eldrazi Aura			R	Enchant creature Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)
+Emrakul, the Aeons Torn	roe	4		15	15	Legendary Creature - Eldrazi	15	15	M	Emrakul, the Aeons Torn can't be countered. When you cast Emrakul, take an extra turn after this one. Flying, protection from colored spells, annihilator 6 When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Hand of Emrakul	roe	5		9	9	Creature - Eldrazi	7	7	C	You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost. Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)
+Kozilek, Butcher of Truth	roe	6		10	10	Legendary Creature - Eldrazi	12	12	M	When you cast Kozilek, Butcher of Truth, draw four cards. Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.) When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+It That Betrays	roe	7		12	12	Creature - Eldrazi	11	11	R	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.) Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
+Not of This World	roe	8		7	7	Tribal Instant - Eldrazi			U	Counter target spell or ability that targets a permanent you control. Not of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.
+Pathrazer of Ulamog	roe	9		11	11	Creature - Eldrazi	9	9	U	Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.) Pathrazer of Ulamog can't be blocked except by three or more creatures.
+Skittering Invasion	roe	10		7	7	Tribal Sorcery - Eldrazi			U	Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Spawnsire of Ulamog	roe	11		10	10	Creature - Eldrazi	7	11	R	Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.) {4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool." {2}0}: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.
+Ulamog, the Infinite Gyre	roe	12		11	11	Legendary Creature - Eldrazi	10	10	M	When you cast Ulamog, the Infinite Gyre, destroy target permanent. Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.) Ulamog is indestructible. When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Ulamog's Crusher	roe	13		8	8	Creature - Eldrazi	8	8	C	Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.) Ulamog's Crusher attacks each turn if able.
+Affa Guard Hound	roe	14	W	2W	3	Creature - Hound	2	2	U	Flash When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.
+Caravan Escort	roe	15	W	W	1	Creature - Human Knight	1	1	C	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-4 2/2, LEVEL 5+ 5/5 First strike
+Dawnglare Invoker	roe	16	W	2W	3	Creature - Kor Wizard	2	1	C	Flying {8}: Tap all creatures target player controls.
+Deathless Angel	roe	17	W	4WW	6	Creature - Angel	5	7	R	Flying {W}{W}: Target creature is indestructible this turn.
+Demystify	roe	18	W	W	1	Instant			C	Destroy target enchantment.
+Eland Umbra	roe	19	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +0/+4. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Emerge Unscathed	roe	20	W	W	1	Instant			U	Target creature you control gains protection from the color of your choice until end of turn. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Gideon Jura	roe	21	W	3WW	5	Planeswalker - Gideon	6		M	+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able. -2: Destroy target tapped creature. 0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+Glory Seeker	roe	22	W	1W	2	Creature - Human Soldier	2	2	C	
+Guard Duty	roe	23	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has defender.
+Harmless Assault	roe	24	W	2WW	4	Instant			C	Prevent all combat damage that would be dealt this turn by attacking creatures.
+Hedron-Field Purists	roe	25	W	2W	3	Creature - Human Cleric	0	3	R	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-4 1/4 If a source would deal damage to you or a creature you control, prevent 1 of that damage. LEVEL 5+ 2/5 If a source would deal damage to you or a creature you control, prevent 2 of that damage.
+Hyena Umbra	roe	26	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has first strike. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Ikiral Outrider	roe	27	W	1W	2	Creature - Human Soldier	1	2	C	Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-3 2/6 Vigilance LEVEL 4+ 3/10 Vigilance
+Kabira Vindicator	roe	28	W	3W	4	Creature - Human Knight	2	4	U	Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-4 3/6 Other creatures you control get +1/+1. LEVEL 5+ 4/8 Other creatures you control get +2/+2.
+Knight of Cliffhaven	roe	29	W	1W	2	Creature - Kor Knight	2	2	C	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-3 2/3 Flying LEVEL 4+ 4/4 Flying, vigilance
+Kor Line-Slinger	roe	30	W	1W	2	Creature - Kor Scout	0	1	C	{T}: Tap target creature with power 3 or less.
+Kor Spiritdancer	roe	31	W	1W	2	Creature - Kor Wizard	0	2	R	Kor Spiritdancer gets +2/+2 for each Aura attached to it. Whenever you cast an Aura spell, you may draw a card.
+Lightmine Field	roe	32	W	2WW	4	Enchantment			R	Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.
+Linvala, Keeper of Silence	roe	33	W	2WW	4	Legendary Creature - Angel	3	4	M	Flying Activated abilities of creatures your opponents control can't be activated.
+Lone Missionary	roe	34	W	1W	2	Creature - Kor Monk	2	1	C	When Lone Missionary enters the battlefield, you gain 4 life.
+Luminous Wake	roe	35	W	2W	3	Enchantment - Aura			U	Enchant creature Whenever enchanted creature attacks or blocks, you gain 4 life.
+Makindi Griffin	roe	36	W	3W	4	Creature - Griffin	2	4	C	Flying
+Mammoth Umbra	roe	37	W	4W	5	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3 and has vigilance. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Near-Death Experience	roe	38	W	2WWW	5	Enchantment			R	At the beginning of your upkeep, if you have exactly 1 life, you win the game.
+Nomads' Assembly	roe	39	W	4WW	6	Sorcery			R	Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Oust	roe	40	W	W	1	Sorcery			U	Put target creature into its owner's library second from the top. Its controller gains 3 life.
+Puncturing Light	roe	41	W	1W	2	Instant			C	Destroy target attacking or blocking creature with power 3 or less.
+Repel the Darkness	roe	42	W	2W	3	Instant			C	Tap up to two target creatures. Draw a card.
+Smite	roe	43	W	W	1	Instant			C	Destroy target blocked creature.
+Soul's Attendant	roe	44	W	W	1	Creature - Human Cleric	1	1	C	Whenever another creature enters the battlefield, you may gain 1 life.
+Soulbound Guardians	roe	45	W	4W	5	Creature - Kor Spirit	4	5	U	Defender, flying
+Stalwart Shield-Bearers	roe	46	W	1W	2	Creature - Human Soldier	0	3	C	Defender Other creatures you control with defender get +0/+2.
+Student of Warfare	roe	47	W	W	1	Creature - Human Knight	1	1	R	Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-6 3/3 First strike LEVEL 7+ 4/4 Double strike
+Survival Cache	roe	48	W	2W	3	Sorcery			U	You gain 2 life. Then if you have more life than an opponent, draw a card. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Time of Heroes	roe	49	W	1W	2	Enchantment			U	Each creature you control with a level counter on it gets +2/+2.
+Totem-Guide Hartebeest	roe	50	W	4W	5	Creature - Antelope	2	5	C	When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+Transcendent Master	roe	51	W	1WW	3	Creature - Human Cleric Avatar	3	3	M	Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.) LEVEL 6-11 6/6 Lifelink LEVEL 12+ 9/9 Lifelink Transcendent Master is indestructible.
+Umbra Mystic	roe	52	W	2W	3	Creature - Human Wizard	2	2	R	Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)
+Wall of Omens	roe	53	W	1W	2	Creature - Wall	0	4	U	Defender When Wall of Omens enters the battlefield, draw a card.
+Aura Finesse	roe	54	U	U	1	Instant			C	Attach target Aura you control to target creature. Draw a card.
+Cast Through Time	roe	55	U	4UUU	7	Enchantment			M	Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+Champion's Drake	roe	56	U	1U	2	Creature - Drake	1	1	C	Flying Champion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.
+Coralhelm Commander	roe	57	U	UU	2	Creature - Merfolk Soldier	2	2	R	Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-3 3/3 Flying LEVEL 4+ 4/4 Flying Other Merfolk creatures you control get +1/+1.
+Crab Umbra	roe	58	U	U	1	Enchantment - Aura			U	Enchant creature {2}{U}: Untap enchanted creature. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Deprive	roe	59	U	UU	2	Instant			C	As an additional cost to cast Deprive, return a land you control to its owner's hand. Counter target spell.
+Distortion Strike	roe	60	U	U	1	Sorcery			C	Target creature gets +1/+0 until end of turn and is unblockable this turn. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Domestication	roe	61	U	2UU	4	Enchantment - Aura			U	Enchant creature You control enchanted creature. At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+Dormant Gomazoa	roe	62	U	1UU	3	Creature - Jellyfish	5	5	R	Flying Dormant Gomazoa enters the battlefield tapped. Dormant Gomazoa doesn't untap during your untap step. Whenever you become the target of a spell, you may untap Dormant Gomazoa.
+Drake Umbra	roe	63	U	4U	5	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3 and has flying. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Echo Mage	roe	64	U	1UU	3	Creature - Human Wizard	2	3	R	Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-3 2/4 {U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy. LEVEL 4+ 2/5 {U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+Eel Umbra	roe	65	U	1U	2	Enchantment - Aura			C	Flash (You may cast this spell any time you could cast an instant.) Enchant creature Enchanted creature gets +1/+1. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Enclave Cryptologist	roe	66	U	U	1	Creature - Merfolk Wizard	0	1	U	Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 0/1 {T}: Draw a card, then discard a card. LEVEL 3+ 0/1 {T}: Draw a card.
+Fleeting Distraction	roe	67	U	U	1	Instant			C	Target creature gets -1/-0 until end of turn. Draw a card.
+Frostwind Invoker	roe	68	U	4U	5	Creature - Merfolk Wizard	3	3	C	Flying {8}: Creatures you control gain flying until end of turn.
+Gravitational Shift	roe	69	U	3UU	5	Enchantment			R	Creatures with flying get +2/+0. Creatures without flying get -2/-0.
+Guard Gomazoa	roe	70	U	2U	3	Creature - Jellyfish	1	3	U	Defender, flying Prevent all combat damage that would be dealt to Guard Gomazoa.
+Hada Spy Patrol	roe	71	U	1U	2	Creature - Human Rogue	1	1	U	Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 2/2 Hada Spy Patrol is unblockable. LEVEL 3+ 3/3 Shroud Hada Spy Patrol is unblockable.
+Halimar Wavewatch	roe	72	U	1U	2	Creature - Merfolk Soldier	0	3	C	Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-4 0/6, LEVEL 5+ 6/6 Islandwalk
+Jwari Scuttler	roe	73	U	2U	3	Creature - Crab	2	3	C	
+Lay Bare	roe	74	U	2UU	4	Instant			C	Counter target spell. Look at its controller's hand.
+Lighthouse Chronologist	roe	75	U	1U	2	Creature - Human Wizard	1	3	M	Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.) LEVEL 4-6 2/4, LEVEL 7+ 3/5 At the beginning of each end step, if it's not your turn, take an extra turn after this one.
+Merfolk Observer	roe	76	U	1U	2	Creature - Merfolk Rogue	2	1	C	When Merfolk Observer enters the battlefield, look at the top card of target player's library.
+Merfolk Skyscout	roe	77	U	2UU	4	Creature - Merfolk Scout	2	3	U	Flying Whenever Merfolk Skyscout attacks or blocks, untap target permanent.
+Mnemonic Wall	roe	78	U	4U	5	Creature - Wall	0	4	C	Defender When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+Narcolepsy	roe	79	U	1U	2	Enchantment - Aura			C	Enchant creature At the beginning of each upkeep, if enchanted creature is untapped, tap it.
+Phantasmal Abomination	roe	80	U	1UU	3	Creature - Illusion	5	5	U	Defender When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.
+Reality Spasm	roe	81	U	XUU	2	Instant			U	Choose one \84 Tap X target permanents; or untap X target permanents.
+Recurring Insight	roe	82	U	4UU	6	Sorcery			R	Draw cards equal to the number of cards in target opponent's hand. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Regress	roe	83	U	2U	3	Instant			C	Return target permanent to its owner's hand.
+Renegade Doppelganger	roe	84	U	1U	2	Creature - Shapeshifter	0	1	R	Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)
+Sea Gate Oracle	roe	85	U	2U	3	Creature - Human Wizard	1	3	C	When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+See Beyond	roe	86	U	1U	2	Sorcery			C	Draw two cards, then shuffle a card from your hand into your library.
+Shared Discovery	roe	87	U	U	1	Sorcery			C	As an additional cost to cast Shared Discovery, tap four untapped creatures you control. Draw three cards.
+Skywatcher Adept	roe	88	U	U	1	Creature - Merfolk Wizard	1	1	C	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 2/2 Flying LEVEL 3+ 4/2 Flying
+Sphinx of Magosi	roe	89	U	3UUU	6	Creature - Sphinx	6	6	R	Flying {2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.
+Surrakar Spellblade	roe	90	U	1UU	3	Creature - Surrakar	2	1	R	Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade. Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.
+Training Grounds	roe	91	U	U	1	Enchantment			R	Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+Unified Will	roe	92	U	1U	2	Instant			U	Counter target spell if you control more creatures than that spell's controller.
+Venerated Teacher	roe	93	U	2U	3	Creature - Human Wizard	2	2	C	When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.
+Arrogant Bloodlord	roe	94	B	1BB	3	Creature - Vampire Knight	4	4	U	Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.
+Bala Ged Scorpion	roe	95	B	3B	4	Creature - Scorpion	2	3	C	When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.
+Baneful Omen	roe	96	B	4BBB	7	Enchantment			R	At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.
+Bloodrite Invoker	roe	97	B	2B	3	Creature - Vampire Shaman	3	1	C	{8}: Target player loses 3 life and you gain 3 life.
+Bloodthrone Vampire	roe	98	B	1B	2	Creature - Vampire	1	1	C	Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+Cadaver Imp	roe	99	B	1BB	3	Creature - Imp	1	1	C	Flying When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.
+Consume the Meek	roe	100	B	3BB	5	Instant			R	Destroy each creature with converted mana cost 3 or less. They can't be regenerated.
+Consuming Vapors	roe	101	B	3B	4	Sorcery			R	Target player sacrifices a creature. You gain life equal to that creature's toughness. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Contaminated Ground	roe	102	B	1B	2	Enchantment - Aura			C	Enchant land Enchanted land is a Swamp. Whenever enchanted land becomes tapped, its controller loses 2 life.
+Corpsehatch	roe	103	B	3BB	5	Sorcery			U	Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Curse of Wizardry	roe	104	B	2BB	4	Enchantment			U	As Curse of Wizardry enters the battlefield, choose a color. Whenever a player casts a spell of the chosen color, that player loses 1 life.
+Death Cultist	roe	105	B	B	1	Creature - Human Wizard	1	1	C	Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.
+Demonic Appetite	roe	106	B	B	1	Enchantment - Aura			C	Enchant creature you control Enchanted creature gets +3/+3. At the beginning of your upkeep, sacrifice a creature.
+Drana, Kalastria Bloodchief	roe	107	B	3BB	5	Legendary Creature - Vampire Shaman	4	4	R	Flying {X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+Dread Drone	roe	108	B	4B	5	Creature - Eldrazi Drone	4	1	C	When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Escaped Null	roe	109	B	3B	4	Creature - Zombie Berserker	1	2	U	Lifelink Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.
+Essence Feed	roe	110	B	5B	6	Sorcery			C	Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Gloomhunter	roe	111	B	2B	3	Creature - Bat	2	1	C	Flying
+Guul Draz Assassin	roe	112	B	B	1	Creature - Vampire Assassin	1	1	R	Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-3 2/2 {B}, {T}: Target creature gets -2/-2 until end of turn. LEVEL 4+ 4/4 {B}, {T}: Target creature gets -4/-4 until end of turn.
+Hellcarver Demon	roe	113	B	3BBB	6	Creature - Demon	6	6	M	Flying Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.
+Induce Despair	roe	114	B	2B	3	Instant			C	As an additional cost to cast Induce Despair, reveal a creature card from your hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.
+Inquisition of Kozilek	roe	115	B	B	1	Sorcery			U	Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+Last Kiss	roe	116	B	2B	3	Instant			C	Last Kiss deals 2 damage to target creature and you gain 2 life.
+Mortician Beetle	roe	117	B	B	1	Creature - Insect	1	1	R	Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.
+Nighthaze	roe	118	B	B	1	Sorcery			C	Target creature gains swampwalk until end of turn. Draw a card.
+Nirkana Cutthroat	roe	119	B	2B	3	Creature - Vampire Warrior	3	2	U	Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 4/3 Deathtouch LEVEL 3+ 5/4 First strike, deathtouch
+Nirkana Revenant	roe	120	B	4BB	6	Creature - Vampire Shade	4	4	M	Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces). {B}: Nirkana Revenant gets +1/+1 until end of turn.
+Null Champion	roe	121	B	1B	2	Creature - Zombie Warrior	1	1	C	Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-3 4/2, LEVEL 4+ 7/3 {B}: Regenerate Null Champion.
+Pawn of Ulamog	roe	122	B	1BB	3	Creature - Vampire Shaman	2	2	U	Whenever Pawn of Ulamog or another nontoken creature you control is put into a graveyard from the battlefield, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Perish the Thought	roe	123	B	2B	3	Sorcery			C	Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.
+Pestilence Demon	roe	124	B	5BBB	8	Creature - Demon	7	6	R	Flying {B}: Pestilence Demon deals 1 damage to each creature and each player.
+Repay in Kind	roe	125	B	5BB	7	Sorcery			R	Each player's life total becomes the lowest life total among all players.
+Shrivel	roe	126	B	1B	2	Sorcery			C	All creatures get -1/-1 until end of turn.
+Skeletal Wurm	roe	127	B	7B	8	Creature - Skeleton Wurm	7	6	U	{B}: Regenerate Skeletal Wurm.
+Suffer the Past	roe	128	B	XB	1	Instant			U	Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.
+Thought Gorger	roe	129	B	2BB	4	Creature - Horror	2	2	R	Trample When Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand. When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.
+Vendetta	roe	130	B	B	1	Instant			C	Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.
+Virulent Swipe	roe	131	B	B	1	Instant			U	Target creature gets +2/+0 and gains deathtouch until end of turn. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Zof Shade	roe	132	B	3B	4	Creature - Shade	2	2	C	{2}{B}: Zof Shade gets +2/+2 until end of turn.
+Zulaport Enforcer	roe	133	B	B	1	Creature - Human Warrior	1	1	C	Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 3/3, LEVEL 3+ 5/5 Zulaport Enforcer can't be blocked except by black creatures.
+Akoum Boulderfoot	roe	134	R	4RR	6	Creature - Giant Warrior	4	5	U	When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.
+Battle Rampart	roe	135	R	2R	3	Creature - Wall	1	3	C	Defender {T}: Target creature gains haste until end of turn.
+Battle-Rattle Shaman	roe	136	R	3R	4	Creature - Goblin Shaman	2	2	C	At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.
+Brimstone Mage	roe	137	R	2R	3	Creature - Human Shaman	2	2	U	Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-2 2/3 {T}: Brimstone Mage deals 1 damage to target creature or player. LEVEL 3+ 2/4 {T}: Brimstone Mage deals 3 damage to target creature or player.
+Brood Birthing	roe	138	R	1R	2	Sorcery			C	If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool." Otherwise, put one of those tokens onto the battlefield.
+Conquering Manticore	roe	139	R	4RR	6	Creature - Manticore	5	5	R	Flying When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Devastating Summons	roe	140	R	R	1	Sorcery			R	As an additional cost to cast Devastating Summons, sacrifice X lands. Put two X/X red Elemental creature tokens onto the battlefield.
+Disaster Radius	roe	141	R	5RR	7	Sorcery			R	As an additional cost to cast Disaster Radius, reveal a creature card from your hand. Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+Emrakul's Hatcher	roe	142	R	4R	5	Creature - Eldrazi Drone	3	3	C	When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Explosive Revelation	roe	143	R	3RR	5	Sorcery			U	Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.
+Fissure Vent	roe	144	R	3RR	5	Sorcery			C	Choose one or both \84 Destroy target artifact; and/or destroy target nonbasic land.
+Flame Slash	roe	145	R	R	1	Sorcery			C	Flame Slash deals 4 damage to target creature.
+Forked Bolt	roe	146	R	R	1	Sorcery			U	Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
+Goblin Arsonist	roe	147	R	R	1	Creature - Goblin Shaman	1	1	C	When Goblin Arsonist is put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.
+Goblin Tunneler	roe	148	R	1R	2	Creature - Goblin Rogue	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Grotag Siege-Runner	roe	149	R	1R	2	Creature - Goblin Rogue	2	1	C	{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.
+Heat Ray	roe	150	R	XR	1	Instant			C	Heat Ray deals X damage to target creature.
+Hellion Eruption	roe	151	R	5R	6	Sorcery			R	Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+Kargan Dragonlord	roe	152	R	RR	2	Creature - Human Warrior	2	2	M	Level up {R} ({R}: Put a level counter on this. Level up only as a sorcery.) LEVEL 4-7 4/4 Flying LEVEL 8+ 8/8 Flying, trample {R}: Kargan Dragonlord gets +1/+0 until end of turn.
+Kiln Fiend	roe	153	R	1R	2	Creature - Elemental Beast	1	2	C	Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.
+Lagac Lizard	roe	154	R	3R	4	Creature - Lizard	3	3	C	
+Lavafume Invoker	roe	155	R	2R	3	Creature - Goblin Shaman	2	2	C	{8}: Creatures you control get +3/+0 until end of turn.
+Lord of Shatterskull Pass	roe	156	R	3R	4	Creature - Minotaur Shaman	3	3	R	Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-5 6/6, LEVEL 6+ 6/6 Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.
+Lust for War	roe	157	R	2R	3	Enchantment - Aura			U	Enchant creature Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller. Enchanted creature attacks each turn if able.
+Magmaw	roe	158	R	3RR	5	Creature - Elemental	4	4	R	{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.
+Ogre Sentry	roe	159	R	1R	2	Creature - Ogre Warrior	3	3	C	Defender
+Rage Nimbus	roe	160	R	2R	3	Creature - Elemental	5	3	R	Defender, flying {1}{R}: Target creature attacks this turn if able.
+Raid Bombardment	roe	161	R	2R	3	Enchantment			C	Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.
+Rapacious One	roe	162	R	5R	6	Creature - Eldrazi Drone	5	4	U	Trample Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Soulsurge Elemental	roe	163	R	3R	4	Creature - Elemental	*	1	U	First strike Soulsurge Elemental's power is equal to the number of creatures you control.
+Spawning Breath	roe	164	R	1R	2	Instant			C	Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Splinter Twin	roe	165	R	2RR	4	Enchantment - Aura			R	Enchant creature Enchanted creature has "{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step."
+Staggershock	roe	166	R	2R	3	Instant			C	Staggershock deals 2 damage to target creature or player. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Surreal Memoir	roe	167	R	3R	4	Sorcery			U	Return an instant card at random from your graveyard to your hand. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Traitorous Instinct	roe	168	R	3R	4	Sorcery			U	Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.
+Tuktuk the Explorer	roe	169	R	2R	3	Legendary Creature - Goblin	1	1	R	Haste When Tuktuk the Explorer is put into a graveyard from the battlefield, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.
+Valakut Fireboar	roe	170	R	4R	5	Creature - Elemental Boar	1	7	U	Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.
+Vent Sentinel	roe	171	R	3R	4	Creature - Elemental	2	4	C	Defender {1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+World at War	roe	172	R	3RR	5	Sorcery			R	After the first postcombat main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Wrap in Flames	roe	173	R	3R	4	Sorcery			C	Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.
+Ancient Stirrings	roe	174	G	G	1	Sorcery			C	Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.)
+Aura Gnarlid	roe	175	G	2G	3	Creature - Beast	2	2	C	Creatures with power less than Aura Gnarlid's power can't block it. Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+Awakening Zone	roe	176	G	2G	3	Enchantment			R	At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Bear Umbra	roe	177	G	2GG	4	Enchantment - Aura			R	Enchant creature Enchanted creature gets +2/+2 and has "Whenever this creature attacks, untap all lands you control." Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Beastbreaker of Bala Ged	roe	178	G	1G	2	Creature - Human Warrior	2	2	U	Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-3 4/4, LEVEL 4+ 6/6 Trample
+Boar Umbra	roe	179	G	2G	3	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3. Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Bramblesnap	roe	180	G	1G	2	Creature - Elemental	1	1	U	Trample Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.
+Broodwarden	roe	181	G	3GG	5	Creature - Eldrazi Drone	4	4	U	Eldrazi Spawn creatures you control get +2/+1.
+Daggerback Basilisk	roe	182	G	2G	3	Creature - Basilisk	2	2	C	Deathtouch
+Gelatinous Genesis	roe	183	G	XXG	1	Sorcery			R	Put X X/X green Ooze creature tokens onto the battlefield.
+Gigantomancer	roe	184	G	7G	8	Creature - Human Shaman	1	1	R	{1}: Target creature you control becomes 7/7 until end of turn.
+Gravity Well	roe	185	G	1GG	3	Enchantment			U	Whenever a creature with flying attacks, it loses flying until end of turn.
+Growth Spasm	roe	186	G	2G	3	Sorcery			C	Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Haze Frog	roe	187	G	3GG	5	Creature - Frog	2	1	C	Flash (You may cast this spell any time you could cast an instant.) When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.
+Irresistible Prey	roe	188	G	G	1	Sorcery			U	Target creature must be blocked this turn if able. Draw a card.
+Jaddi Lifestrider	roe	189	G	4G	5	Creature - Elemental	2	8	U	When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.
+Joraga Treespeaker	roe	190	G	G	1	Creature - Elf Druid	1	1	U	Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.) LEVEL 1-4 1/2 {T}: Add {G}{G} to your mana pool. LEVEL 5+ 1/4 Elves you control have "{T}: Add {G}{G} to your mana pool."
+Kazandu Tuskcaller	roe	191	G	1G	2	Creature - Human Shaman	1	1	R	Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.) LEVEL 2-5 1/1 {T}: Put a 3/3 green Elephant creature token onto the battlefield. LEVEL 6+ 1/1 {T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
+Khalni Hydra	roe	192	G	GGGGGGGG	8	Creature - Hydra	8	8	M	Khalni Hydra costs {G} less to cast for each green creature you control. Trample
+Kozilek's Predator	roe	193	G	3G	4	Creature - Eldrazi Drone	3	3	C	When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Leaf Arrow	roe	194	G	G	1	Instant			C	Leaf Arrow deals 3 damage to target creature with flying.
+Living Destiny	roe	195	G	3G	4	Instant			C	As an additional cost to cast Living Destiny, reveal a creature card from your hand. You gain life equal to the revealed card's converted mana cost.
+Might of the Masses	roe	196	G	G	1	Instant			C	Target creature gets +1/+1 until end of turn for each creature you control.
+Momentous Fall	roe	197	G	2GG	4	Instant			R	As an additional cost to cast Momentous Fall, sacrifice a creature. You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.
+Mul Daya Channelers	roe	198	G	1GG	3	Creature - Elf Druid Shaman	2	2	R	Play with the top card of your library revealed. As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3. As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."
+Naturalize	roe	199	G	1G	2	Instant			C	Destroy target artifact or enchantment.
+Nema Siltlurker	roe	200	G	4G	5	Creature - Lizard	3	5	C	
+Nest Invader	roe	201	G	1G	2	Creature - Eldrazi Drone	2	2	C	When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Ondu Giant	roe	202	G	3G	4	Creature - Giant Druid	2	4	C	When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+Overgrown Battlement	roe	203	G	1G	2	Creature - Wall	0	4	C	Defender {T}: Add {G} to your mana pool for each creature with defender you control.
+Pelakka Wurm	roe	204	G	4GGG	7	Creature - Wurm	7	7	U	Trample When Pelakka Wurm enters the battlefield, you gain 7 life. When Pelakka Wurm is put into a graveyard from the battlefield, draw a card.
+Prey's Vengeance	roe	205	G	G	1	Instant			U	Target creature gets +2/+2 until end of turn. Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Realms Uncharted	roe	206	G	2G	3	Instant			R	Search your library for four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+Snake Umbra	roe	207	G	2G	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card." Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Spider Umbra	roe	208	G	G	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has reach. (It can block creatures with flying.) Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Sporecap Spider	roe	209	G	2G	3	Creature - Spider	1	5	C	Reach (This creature can block creatures with flying.)
+Stomper Cub	roe	210	G	3GG	5	Creature - Beast	5	3	C	Trample
+Tajuru Preserver	roe	211	G	1G	2	Creature - Elf Shaman	2	1	R	Spells and abilities your opponents control can't cause you to sacrifice permanents.
+Vengevine	roe	212	G	2GG	4	Creature - Elemental	4	3	M	Haste Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.
+Wildheart Invoker	roe	213	G	2GG	4	Creature - Elf Shaman	4	3	C	{8}: Target creature gets +5/+5 and gains trample until end of turn.
+Sarkhan the Mad	roe	214	BR	3BR	5	Planeswalker - Sarkhan	7		M	0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost. -2: Target creature's controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield. -4: Each Dragon creature you control deals damage equal to its power to target player.
+Angelheart Vial	roe	215	A	5	5	Artifact			R	Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial. {2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.
+Dreamstone Hedron	roe	216	A	6	6	Artifact			U	{T}: Add {3} to your mana pool. {3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+Enatu Golem	roe	217	A	6	6	Artifact Creature - Golem	3	5	U	When Enatu Golem is put into a graveyard from the battlefield, you gain 4 life.
+Hedron Matrix	roe	218	A	4	4	Artifact - Equipment			R	Equipped creature gets +X/+X, where X is its converted mana cost. Equip {4}
+Keening Stone	roe	219	A	6	6	Artifact			R	{5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.
+Ogre's Cleaver	roe	220	A	2	2	Artifact - Equipment			U	Equipped creature gets +5/+0. Equip {5}
+Pennon Blade	roe	221	A	3	3	Artifact - Equipment			U	Equipped creature gets +1/+1 for each creature you control. Equip {4}
+Prophetic Prism	roe	222	A	2	2	Artifact			C	When Prophetic Prism enters the battlefield, draw a card. {1}, {T}: Add one mana of any color to your mana pool.
+Reinforced Bulwark	roe	223	A	3	3	Artifact Creature - Wall	0	4	C	Defender {T}: Prevent the next 1 damage that would be dealt to you this turn.
+Runed Servitor	roe	224	A	2	2	Artifact Creature - Construct	2	2	U	When Runed Servitor is put into a graveyard from the battlefield, each player draws a card.
+Sphinx-Bone Wand	roe	225	A	7	7	Artifact			R	Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.
+Warmonger's Chariot	roe	226	A	2	2	Artifact - Equipment			U	Equipped creature gets +2/+2. As long as equipped creature has defender, it can attack as though it didn't have defender. Equip {3}
+Eldrazi Temple	roe	227	L		0	Land			R	{T}: Add {1} to your mana pool. {T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.
+Evolving Wilds	roe	228	L		0	Land			C	{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Plains	roe	229	L		0	Basic Land - Plains			L	W
+Island	roe	233	L		0	Basic Land - Island			L	U
+Swamp	roe	237	L		0	Basic Land - Swamp			L	B
+Mountain	roe	241	L		0	Basic Land - Mountain			L	R
+Forest	roe	245	L		0	Basic Land - Forest			L	G

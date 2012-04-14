@@ -1,0 +1,26 @@
+11	mountain
+12	forest
+1	skarrg, the rage pits
+1	scorched rusalka
+2	sparkmage apprentice
+2	bloodscale prowler
+1	indentured oaf
+2	dryad sophisticate
+2	gatherer of graces
+2	gruul scrapper
+2	dowsing shaman
+2	bramble elemental
+1	gruul nodorog
+1	battering wurm
+1	scab-clan mauler
+1	burning-tree bloodscale
+1	streetbreaker wurm
+2	skarrgan skybreaker
+1	borborygmos
+1	wild cantor
+1	gruul guildmage
+3	fencer's magemark
+2	fists of ironwood
+3	beastmaster's magemark
+1	wildsize
+1	wurmweaver coil

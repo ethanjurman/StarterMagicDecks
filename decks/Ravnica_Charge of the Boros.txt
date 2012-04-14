@@ -1,0 +1,25 @@
+10	mountain
+10	plains
+2	boros garrison
+1	sunhome, fortress of the legion
+2	war-torch goblin
+2	viashino slasher
+2	ordruun commando
+1	greater forgeling
+2	nightguard patrol
+1	screeching griffin
+2	boros swiftblade
+3	thundersong trumpeter
+3	skyknight legionnaire
+2	flame-kin zealot
+1	agrus kos, wojek veteran
+3	boros recruit
+1	boros guildmage
+2	dogpile
+2	cleansing beam
+1	bathe in light
+2	lightning helix
+2	rally the righteous
+1	terrarion
+1	cyclopean snare
+1	sunforger

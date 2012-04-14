@@ -1,0 +1,25 @@
+1	buried ruin
+10	island
+14	swamp
+2	azure mage
+2	belltower sphinx
+2	child of night
+1	devouring swarm
+1	drifting shade
+1	gravedigger
+2	merfolk looter
+2	reassembling skeleton
+1	rune-scarred demon
+3	warpath ghoul
+2	zombie goliath
+1	brink of disaster
+2	crown of empires
+1	diabolic tutor
+1	disentomb
+2	divination
+3	doom blade
+1	frost breath
+1	ponder
+2	scepter of empires
+1	sorin's thirst
+1	throne of empires

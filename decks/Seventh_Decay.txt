@@ -1,0 +1,21 @@
+16	swamp
+2	blood pet
+1	bog imp
+2	drudge skeletons
+1	foul imp
+1	crypt rats
+1	looming shade
+1	serpent warrior
+2	gravedigger
+1	abyssal specter
+1	fallen angel
+1	dakmor lancer
+1	phyrexian hulk
+1	duress
+1	ostracize
+2	dark banishing
+1	mind rot
+1	greed
+1	befoul
+1	corrupt
+1	charcoal diamond

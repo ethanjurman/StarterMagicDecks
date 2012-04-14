@@ -1,0 +1,27 @@
+11	plains
+12	forest
+1	tranquil garden
+3	ghost-lit redeemer
+2	silent-chant zubera
+1	nikko-onna
+1	rune-tail, kitsune ascendant
+1	shinen of stars' light
+2	moonwing moth
+1	eiganjo free-riders
+2	torii watchward
+1	kami of the honored dead
+2	dripping-tongue zubera
+1	shinen of life's roar
+2	elder pine of jukai
+1	gnarled mass
+2	haru-onna
+2	briarknit kami
+2	nightsoil kami
+1	bounteous kirin
+2	spiritual visit
+1	terashi's grasp
+1	honden of cleansing fire
+1	kodama's might
+2	vital surge
+1	dosan's oldest chant
+1	honden of life's web

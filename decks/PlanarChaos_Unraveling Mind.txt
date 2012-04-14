@@ -1,0 +1,24 @@
+14	swamp
+7	mountain
+3	terramorphic expanse
+4	mindlash sliver
+1	ridged kusite
+3	undertaker
+1	dauthi slayer
+3	trespasser il-vec
+2	big game hunter
+2	brain gorgers
+1	mirri the cursed
+2	nightshade assassin
+2	gorgon recluse
+2	muck drubb
+2	phantasmagorian
+2	reckless wurm
+1	magus of the arena
+1	kor dirge
+1	treacherous urge
+1	dark withering
+2	lightning axe
+1	browbeat
+1	fiery temper
+1	disintegrate

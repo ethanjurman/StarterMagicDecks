@@ -1,0 +1,23 @@
+12	forest
+9	mountain
+4	spike drone
+1	bayou dragonfly
+1	canopy spider
+1	hermit druid
+4	skyshroud elf
+1	lowland basilisk
+2	pincher beetles
+3	spike worker
+1	tempting licid
+2	spike feeder
+1	spike breeder
+2	spike soldier
+2	spike colony
+2	shock
+4	kindle
+1	fanning the flames
+1	elven rite
+2	rampant growth
+1	verdant touch
+1	tranquility
+2	heartstone

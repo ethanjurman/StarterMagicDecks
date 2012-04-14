@@ -1,0 +1,24 @@
+12	swamp
+9	mountain
+2	tainted peak
+3	mesmeric fiend
+1	gravegouger
+1	slithery stalker
+3	faceless butcher
+3	soul scourge
+1	chainer, dementia master
+1	enslaved dwarf
+3	barbarian outcast
+2	pardic collaborator
+3	petravark
+1	petradon
+1	malevolent awakening
+2	rancid earth
+1	shade's form
+1	caustic tar
+2	firebolt
+2	flame burst
+2	pyromania
+1	demolish
+2	temporary insanity
+1	flaming gambit

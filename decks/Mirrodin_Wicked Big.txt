@@ -1,0 +1,20 @@
+24	forest
+2	brown ouphe
+2	tel-jilad chosen
+1	slith predator
+2	viridian shaman
+2	tel-jilad exile
+2	tel-jilad archers
+4	fangren hunter
+2	trolls of tel-jilad
+1	plated slagwurm
+1	living hive
+4	copper myr
+2	needlebug
+2	battlegrowth
+2	predator's strike
+1	deconstruct
+2	journey of discovery
+1	bloodscent
+2	creeping mold
+1	one dozen eyes

@@ -1,0 +1,27 @@
+12	snow-covered island
+11	snow-covered swamp
+1	frost marsh
+3	rimewind taskmage
+1	viscerid drone
+2	mistfolk
+1	balduvian frostwaker
+2	frost raptor
+2	rimewind cryomancer
+1	heidar, rimewind master
+1	storm elemental
+1	rimefeather owl
+3	rimebound dead
+1	chilling shade
+1	gangrenous zombies
+2	legions of lim-dul
+2	drift of the dead
+1	phantasmal fiend
+2	zombie musher
+1	blizzard specter
+2	essence flare
+2	snow devil
+1	browse
+1	iceberg
+1	chill to the bone
+1	arcum's weathervane
+1	coldsteel heart

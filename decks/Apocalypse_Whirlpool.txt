@@ -1,0 +1,26 @@
+12	island
+12	mountain
+2	faerie squadron
+3	whirlpool rider
+1	coastal drake
+1	whirlpool warrior
+1	rainbow crow
+2	whirlpool drake
+1	metathran transport
+2	bloodfire dwarf
+1	dwarven patrol
+1	flametongue kavu
+2	bloodfire kavu
+2	razorfin hunter
+2	minotaur illusionist
+1	opt
+1	confound
+2	jilt
+1	exclude
+1	scorching lava
+2	stun
+1	bloodfire infusion
+2	quicksilver dagger
+1	suffocating blast
+1	fire // ice
+2	chromatic sphere

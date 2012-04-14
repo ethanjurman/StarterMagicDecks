@@ -1,0 +1,19 @@
+17	island
+1	storm crow
+3	horned turtle
+1	puppeteer
+3	wind drake
+1	aven fisher
+1	azure drake
+1	archivist
+1	thieving magpie
+1	aven windreader
+1	mahamoti djinn
+1	sleight of hand
+1	telepathy
+1	mana leak
+1	remove soul
+2	boomerang
+1	confiscate
+1	kraken's eye
+1	rod of ruin

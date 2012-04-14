@@ -1,0 +1,30 @@
+12	plains
+7	island
+2	ancient den
+2	seat of the synod
+1	auriok glaivemaster
+2	leonin elder
+3	leonin squire
+2	skyhunter prowler
+1	skyhunter skirmisher
+2	auriok salvagers
+1	auriok windwalker
+3	trinket mage
+2	qumulox
+1	ornithopter
+1	myr moonvessel
+1	ferropede
+2	synod centurion
+1	steelshaper's gift
+1	vanquish
+1	fold into aether
+1	aether spellbomb
+1	bonesplitter
+3	chromatic sphere
+1	conjurer's bauble
+1	leonin bola
+1	skullclamp
+1	sunbeam spellbomb
+1	viridian longbow
+1	healer's headdress
+1	salvaging station

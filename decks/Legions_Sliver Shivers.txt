@@ -1,0 +1,19 @@
+7	forest
+9	plains
+5	island
+2	lonely sandbar
+4	secluded steppe
+4	quick sliver
+1	root sliver
+1	brood sliver
+4	plated sliver
+1	essence sliver
+3	ward sliver
+3	mistform dreamer
+3	shifting sliver
+1	crown of vigor
+2	explosive vegetation
+2	tribal unity
+4	pacifism
+2	akroma's blessing
+2	mage's guile

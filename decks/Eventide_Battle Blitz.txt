@@ -1,0 +1,22 @@
+13	mountain
+11	plains
+1	hatchet bully
+2	outrage shaman
+1	hateflayer
+1	patrol signaler
+1	safehold sentry
+2	ballynock cohort
+2	ballynock trapper
+2	kithkin spellduster
+2	duergar assailant
+2	battlegate mimic
+3	duergar mine-captain
+3	hearthfire hobgoblin
+2	belligerent hatchling
+1	balefire liege
+2	power of fire
+2	puncture bolt
+2	puncture blast
+1	revelsong horn
+2	niveous wisps
+2	scourge of the nobilis

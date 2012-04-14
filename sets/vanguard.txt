@@ -1,0 +1,107 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Akroma, Angel of Wrath Avatar	vanguard	1	V			Vanguard	H+1	L+7	V	Whenever a creature enters the battlefield under your control, it gains two abilities chosen at random from flying, first strike, trample, haste, protection from black, protection from red, and vigilance.
+Arcanis, the Omnipotent Avatar	vanguard	2	V			Vanguard	H+1	L-3	V	{X}, Return a creature you control with converted mana cost X to its owner's hand: Draw a number of cards chosen at random between 0 and X. X can't be 0.
+Arcbound Overseer Avatar	vanguard	3	V			Vanguard	H+0	L+3	V	At the beginning of your upkeep, you may put a +1/+1 counter on target creature you control. At the beginning of your upkeep, you may put a charge counter on target permanent you control.
+Ashling the Pilgrim Avatar	vanguard	4	V			Vanguard	H-1	L+6	V	{2}: Ashling the Pilgrim Avatar deals 1 damage to each creature and each player.
+Ashling, the Extinguisher Avatar	vanguard	5	V			Vanguard	H+1	L-3	V	{5}: Destroy all nonland permanents. Activate this ability only once and only during your turn.
+Ashnod	vanguard	6	V			Vanguard	H+1	L-8	V	Whenever a creature deals damage to you, destroy it.
+Barrin	vanguard	7	V			Vanguard	H+0	L+6	V	Sacrifice a permanent: Return target creature to its owner's hand.
+Birds of Paradise Avatar	vanguard	8	V			Vanguard	H+0	L-3	V	Lands you control have "{T}: Add one mana of any color to your mana pool."
+Bosh, Iron Golem Avatar	vanguard	9	V			Vanguard	H+0	L-2	V	{X}, Sacrifice an artifact with converted mana cost X: Bosh, Iron Golem Avatar deals X damage to target creature or player.
+Braids, Conjurer Adept Avatar	vanguard	10	V			Vanguard	H+0	L+3	V	{2}: Each player may put a land card from his or her hand onto the battlefield tapped. {3}: Each player may put a noncreature artifact card from his or her hand onto the battlefield. {4}: Each player may put a creature card from his or her hand onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Chronatog Avatar	vanguard	11	V			Vanguard	H-1	L+1	V	You have no maximum hand size. {0}: Draw three cards. You skip your next turn. Activate this ability only once each turn.
+Crovax	vanguard	12	V			Vanguard	H+2	L+0	V	Whenever a creature you control deals damage to a creature or player, you gain 1 life.
+Dakkon Blackblade Avatar	vanguard	13	V			Vanguard	H+1	L+0	V	You may play any colored card from your hand as a copy of a basic land card chosen at random that can produce mana of one of the card's colors.
+Dauntless Escort Avatar	vanguard	14	V			Vanguard	H+1	L+1	V	Creatures you control have exalted. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)
+Diamond Faerie Avatar	vanguard	15	V			Vanguard	H+0	L+5	V	{S}i}: Target creature you control gets +1/+1 until end of turn.
+Eight-and-a-Half-Tails Avatar	vanguard	16	V			Vanguard	H+2	L-3	V	{1}: Until end of turn, target permanent you control gains protection from a color chosen at random from colors it doesn't have protection from.
+Eladamri	vanguard	17	V			Vanguard	H-1	L+15	V	{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.
+Eladamri, Lord of Leaves Avatar	vanguard	18	V			Vanguard	H-1	L+2	V	At the beginning of each player's precombat main phase, that player adds {G}{G} to his or her mana pool.
+Elvish Champion Avatar	vanguard	19	V			Vanguard	H+0	L-5	V	You begin the game with a 1/1 green Elf creature token on the battlefield. It has "{T}: Add {G} to your mana pool."
+Enigma Sphinx Avatar	vanguard	20	V			Vanguard	H+0	L+5	V	Whenever you cast a colored artifact spell for the first time in a turn, search your library for a colored artifact card chosen at random whose converted mana cost is less than that spell's converted mana cost. You may play that card without paying its mana cost. If you don't, put that card on the bottom of your library.
+Erhnam Djinn Avatar	vanguard	21	V			Vanguard	H+0	L+3	V	Whenever you cast a creature spell, put a 1/1 green Saproling creature token onto the battlefield.
+Ertai	vanguard	22	V			Vanguard	H-1	L+4	V	Creatures you control can't be the targets of spells or abilities your opponents control.
+Etched Oracle Avatar	vanguard	23	V			Vanguard	H+1	L-4	V	You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+Fallen Angel Avatar	vanguard	24	V			Vanguard	H+0	L-5	V	Whenever a creature you control is put into a graveyard from the battlefield, target opponent loses 1 life and you gain 1 life.
+Figure of Destiny Avatar	vanguard	25	V			Vanguard	H+0	L+3	V	{X}: Put a +1/+1 counter on target creature with fewer than X +1/+1 counters on it.
+Flametongue Kavu Avatar	vanguard	26	V			Vanguard	H+0	L-6	V	Whenever a nontoken creature enters the battlefield under your control, that creature deals X damage to target creature, where X is a number chosen at random from 0 to 4.
+Frenetic Efreet Avatar	vanguard	27	V			Vanguard	H-1	L-3	V	Each permanent you control has phasing. (It phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.) At the beginning of your end step, flip a coin. If you win the flip, take an extra turn after this one.
+Gerrard	vanguard	28	V			Vanguard	H-4	L+0	V	At the beginning of your draw step, draw an additional card.
+Gix	vanguard	29	V			Vanguard	H-2	L+18	V	{3}: Return target creature card from your graveyard to your hand.
+Goblin Warchief Avatar	vanguard	30	V			Vanguard	H+1	L+2	V	Attacking creatures you control get +1/+0.
+Greven il-Vec	vanguard	31	V			Vanguard	H-1	L+2	V	Whenever a creature you control deals damage to a creature, destroy the other creature. It can't be regenerated.
+Grinning Demon Avatar	vanguard	32	V			Vanguard	H-1	L-2	V	Whenever a nontoken creature you control is put into a graveyard from the battlefield, target opponent discards a card.
+Haakon, Stromgald Scourge Avatar	vanguard	33	V			Vanguard	H+0	L-3	V	Pay 1 life: You may play target creature card in your graveyard this turn. Whenever you play a creature card from your graveyard, it becomes a black Zombie Knight. If a Zombie Knight would be put into your graveyard from the battlefield, exile it instead.
+Hanna	vanguard	34	V			Vanguard	H+1	L-5	V	Spells you cast cost {1} less to cast.
+Heartwood Storyteller Avatar	vanguard	35	V			Vanguard	H-1	L+4	V	The first creature spell you cast each turn costs {1} less to cast. The first noncreature spell each opponent casts each turn costs {1} more to cast.
+Hell's Caretaker Avatar	vanguard	36	V			Vanguard	H-1	L-4	V	{3}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield.
+Hermit Druid Avatar	vanguard	37	V			Vanguard	H-2	L-2	V	At the beginning of your upkeep, put a land card from your library chosen at random onto the battlefield.
+Higure, the Still Wind Avatar	vanguard	38	V			Vanguard	H-1	L+3	V	Whenever a nontoken creature you control deals combat damage to an opponent, choose a creature card at random from your library, reveal that card, and put it into your hand. Then shuffle your library.
+Ink-Eyes, Servant of Oni Avatar	vanguard	39	V			Vanguard	H+0	L-3	V	At the beginning of the game, look at target opponent's hand and choose a nonland card from it. That player discards that card. {X}, Pay X life: Put target creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control.
+Jaya Ballard Avatar	vanguard	40	V			Vanguard	H+0	L+1	V	{X}: Jaya Ballard Avatar deals an amount of damage chosen at random from 0 to X to target creature or player. Activate this ability only once each turn.
+Jhoira of the Ghitu Avatar	vanguard	41	V			Vanguard	H+1	L+0	V	{3}, Discard a card: Copy three instant cards chosen at random. You may cast one of the copies without paying its mana cost. {3}, Discard a card: Copy three sorcery cards chosen at random. You may cast one of the copies without paying its mana cost. Activate this ability only any time you could cast a sorcery.
+Karn	vanguard	42	V			Vanguard	H+1	L+6	V	Each noncreature artifact you control is an artifact creature with power and toughness each equal to its converted mana cost.
+Karona, False God Avatar	vanguard	43	V			Vanguard	H-1	L+8	V	At the beginning of your upkeep, exchange control of a permanent you control chosen at random and a permanent target opponent controls chosen at random.
+Kresh the Bloodbraided Avatar	vanguard	44	V			Vanguard	H+1	L-3	V	Whenever a creature you control is devoured, put an X/X green Ooze creature token onto the battlefield, where X is the devoured creature's power.
+Loxodon Hierarch Avatar	vanguard	45	V			Vanguard	H+0	L+12	V	Sacrifice a permanent: Regenerate target creature you control.
+Lyna	vanguard	46	V			Vanguard	H+2	L-4	V	Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)
+Lyzolda, the Blood Witch Avatar	vanguard	47	V			Vanguard	H-1	L-1	V	Hellbent — As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead. Hellbent — At the beginning of your end step, if you have no cards in hand, each of your opponents discards a card.
+Maelstrom Archangel Avatar	vanguard	48	V			Vanguard	H+0	L+5	V	At end of combat, for each creature you controlled at the time it dealt combat damage to a player this turn, copy a random card with the same mana cost as that creature. You may pay {3}. If you do, choose one of those copies. If a copy of a permanent card is chosen, you may put a token onto the battlefield that's a copy of that card. If a copy of an instant or sorcery card is chosen, you may cast the copy without paying its mana cost.
+Malfegor Avatar	vanguard	49	V			Vanguard	H+2	L-2	V	Whenever a creature enters the battlefield under your control, if it was unearthed, it gets +3/+0. Whenever a creature you control is exiled, if it was unearthed, shuffle that card into its owner's library.
+Maralen of the Mornsong Avatar	vanguard	50	V			Vanguard	H+0	L-3	V	At the beginning of the game, you may pay any amount of life. You can't draw cards. At the beginning of your draw step, look at the top X cards of your library, where X is the amount of life paid with Maralen of the Mornsong Avatar. Put one of them into your hand, then shuffle your library.
+Maraxus	vanguard	51	V			Vanguard	H+1	L+2	V	Creatures you control get +1/+0.
+Maro Avatar	vanguard	52	V			Vanguard	H+2	L-7	V	Tap an untapped creature you control, Discard a card: Target creature you control gets +X/+X until end of turn, where X is the number of cards in your hand.
+Master of the Wild Hunt Avatar	vanguard	53	V			Vanguard	H+1	L+3	V	{2}{G}: Put a green creature token onto the battlefield that's a 2/2 Wolf, a 2/3 Antelope with forestwalk, a 3/2 Cat with shroud, or a 4/4 green Rhino with trample, chosen at random.
+Mayael the Anima Avatar	vanguard	54	V			Vanguard	H+1	L+5	V	At the beginning of your upkeep, reveal the top card of your library. If it's a creature card with power 5 or greater, put it into your hand. Otherwise, you may put it on the bottom of your library.
+Mirri	vanguard	55	V			Vanguard	H+0	L+5	V	If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.
+Mirri the Cursed Avatar	vanguard	56	V			Vanguard	H-2	L-3	V	Creatures you control have "{T}: Another target creature gets -1/-1 until end of turn. Put a +1/+1 counter on this creature."
+Mirror Entity Avatar	vanguard	57	V			Vanguard	H+1	L-2	V	{X}: Choose a creature type. Until end of turn, creatures you control of the chosen type become X/X and gain all creature types.
+Mishra	vanguard	58	V			Vanguard	H+0	L-3	V	If a creature you control would deal damage, it deals double that damage instead.
+Momir Vig, Simic Visionary Avatar	vanguard	59	V			Vanguard	H+0	L+4	V	{X}, Discard a card: Put a token onto the battlefield that's a copy of a creature card with converted mana cost X chosen at random. Activate this ability only any time you could cast a sorcery and only once each turn.
+Morinfen Avatar	vanguard	60	V			Vanguard	H+0	L+30	V	At the beginning of your upkeep, you lose 1 life for each permanent you control.
+Multani	vanguard	61	V			Vanguard	H-3	L-2	V	Creatures you control get +X/+0, where X is the number of cards in your hand.
+Murderous Redcap Avatar	vanguard	62	V			Vanguard	H+0	L-2	V	Whenever a creature enters the battlefield under your control with a counter on it, you may have it deal damage equal to its power to target creature or player.
+Necropotence Avatar	vanguard	63	V			Vanguard	H+0	L+4	V	Skip your draw step. At the beginning of your end step, if it's not the first turn of the game, put a death counter on Necropotence Avatar. You draw X cards and you lose X life, where X is the number of death counters on Necropotence Avatar.
+Nekrataal Avatar	vanguard	64	V			Vanguard	H-1	L-4	V	Creature spells you cast cost {B} less to cast. This effect reduces only the amount of colored mana you pay.
+Oni of Wild Places Avatar	vanguard	65	V			Vanguard	H+0	L-2	V	Creatures you control have haste. At the beginning of your upkeep, return a creature you control to its owner's hand.
+Oracle	vanguard	66	V			Vanguard	H+1	L+9	V	{0}: Untap target attacking creature you control and remove it from combat.
+Orcish Squatters Avatar	vanguard	67	V			Vanguard	H-1	L-1	V	At the beginning of your precombat main phase, add {X} to your mana pool, where X is the number of lands target opponent controls.
+Orim	vanguard	68	V			Vanguard	H+0	L+12	V	Creatures you control have reach.
+Peacekeeper Avatar	vanguard	69	V			Vanguard	H+0	L+9	V	{3}: For each opponent who controls a creature, put a token onto the battlefield that's a copy of a card named Arrest and attach it to a creature that player controls chosen at random.
+Phage the Untouchable Avatar	vanguard	70	V			Vanguard	H+0	L-5	V	Pay 1 life: Until end of turn, whenever a creature deals combat damage to you, destroy that creature. Pay 1 life: Until end of turn, whenever target creature you control deals combat damage to a creature, destroy the damaged creature.
+Platinum Angel Avatar	vanguard	71	V			Vanguard	H-1	L-2	V	If you control an artifact, a creature, an enchantment, and a land, you can't lose the game and your opponents can't win the game.
+Prodigal Sorcerer Avatar	vanguard	72	V			Vanguard	H+0	L+5	V	At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+Raksha Golden Cub Avatar	vanguard	73	V			Vanguard	H+1	L+9	V	Creatures you control get +0/+1. Equipped creatures you control get +1/+0 and have first strike.
+Reaper King Avatar	vanguard	74	V			Vanguard	H-2	L-5	V	Each creature you control gets +1/+1 for each of its colors.
+Rith, the Awakener Avatar	vanguard	75	V			Vanguard	H+0	L+6	V	Whenever a creature you control deals combat damage to a player, you may pay {5}. If you do, put a 5/5 red Dragon creature token with flying onto the battlefield.
+Rofellos	vanguard	76	V			Vanguard	H-2	L+4	V	Whenever a creature you control is put into a graveyard from the battlefield, draw a card.
+Royal Assassin Avatar	vanguard	77	V			Vanguard	H-2	L+0	V	At the beginning of your upkeep, you draw a card and you lose 1 life.
+Rumbling Slum Avatar	vanguard	78	V			Vanguard	H+1	L+1	V	At the beginning of your upkeep, Rumbling Slum Avatar deals 1 damage to each opponent.
+Sakashima the Impostor Avatar	vanguard	79	V			Vanguard	H+0	L+1	V	{2}: Choose a creature you control. It becomes a copy of target creature except for its name.
+Selenia	vanguard	80	V			Vanguard	H+1	L+7	V	Creatures you control have vigilance.
+Serra	vanguard	81	V			Vanguard	H+1	L+1	V	Creatures you control get +0/+2.
+Serra Angel Avatar	vanguard	82	V			Vanguard	H+0	L-1	V	Whenever you cast a spell, you gain 2 life.
+Seshiro the Anointed Avatar	vanguard	83	V			Vanguard	H+0	L-1	V	At the beginning of the game, choose a creature type. Creatures you control, creature spells you control, and creature cards you own in any zone other than the battlefield or the stack have the chosen type in addition to their other types.
+Sidar Kondo	vanguard	84	V			Vanguard	H-1	L+12	V	{3}: Target creature gets +3/+3 until end of turn.
+Sisay	vanguard	85	V			Vanguard	H-2	L-3	V	Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+Sisters of Stone Death Avatar	vanguard	86	V			Vanguard	H+1	L-5	V	Each creature you control must be blocked if able. {4}: Exile target creature that's blocking a creature you control.
+Sliver Queen Avatar	vanguard	87	V			Vanguard	H+0	L+7	V	Whenever you cast a non-Sliver creature spell, exile that spell. If you do, put a token onto the battlefield that's a copy of a random non-Shapeshifter Sliver creature card with the same converted mana cost as that spell.
+Sliver Queen, Brood Mother	vanguard	88	V			Vanguard	H+0	L+8	V	{3}: Put a 1/1 colorless Sliver creature token onto the battlefield.
+Squee	vanguard	89	V			Vanguard	H+3	L-4	V	Your opponents play with their hands revealed.
+Squee, Goblin Nabob Avatar	vanguard	90	V			Vanguard	H+3	L-4	V	{1}: Prevent the next 1 damage that would be dealt to target creature you control this turn.
+Stalking Tiger Avatar	vanguard	91	V			Vanguard	H+0	L+2	V	Whenever you cast a creature spell, you may pay {1}. If you do, draw a card.
+Starke	vanguard	92	V			Vanguard	H+0	L-2	V	At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library.
+Stonehewer Giant Avatar	vanguard	93	V			Vanguard	H+1	L-5	V	Whenever a creature enters the battlefield under your control, put a token onto the battlefield that's a copy of a random Equipment card with converted mana cost less than or equal to that creature's converted mana cost. Attach that Equipment to that creature.
+Stuffy Doll Avatar	vanguard	94	V			Vanguard	H+0	L-6	V	{0}: If damage would be dealt to you this turn by a source of your choice, prevent that damage. Stuffy Doll Avatar deals damage to you and target opponent equal to half the damage prevented this way, rounded up. Activate this ability only once each turn.
+Tahngarth	vanguard	95	V			Vanguard	H-1	L+7	V	Creatures you control have haste.
+Takara	vanguard	96	V			Vanguard	H+3	L-8	V	Sacrifice a creature: Takara deals 1 damage to target creature or player.
+Tawnos	vanguard	97	V			Vanguard	H+3	L-4	V	You may cast artifact, creature, and enchantment spells as though they had flash.
+Teysa, Orzhov Scion Avatar	vanguard	98	V			Vanguard	H+0	L-2	V	Whenever a nontoken creature is put into a graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Titania	vanguard	99	V			Vanguard	H+2	L-5	V	You may play an additional land on each of your turns.
+Tradewind Rider Avatar	vanguard	100	V			Vanguard	H+1	L+4	V	{3}: Each player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.
+Two-Headed Giant of Foriys Avatar	vanguard	101	V			Vanguard	H+1	L-4	V	Each creature you control can block an additional creature each combat. Each creature you control can't be blocked except by two or more creatures.
+Urza	vanguard	102	V			Vanguard	H-1	L+10	V	{3}: Urza deals 1 damage to target creature or player.
+Vampire Nocturnus Avatar	vanguard	103	V			Vanguard	H-1	L-2	V	Play with the top card of your library revealed. As long as the top card of your library is black, black creatures you control get +2/+1.
+Viridian Zealot Avatar	vanguard	104	V			Vanguard	H+0	L+2	V	{2}, Sacrifice a creature: Destroy target artifact or enchantment. Search your library for a card with the same name as the sacrificed creature, reveal that card, and put it into your hand. Then shuffle your library.
+Volrath	vanguard	105	V			Vanguard	H+2	L-3	V	Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library.
+Xantcha	vanguard	106	V			Vanguard	H+1	L+3	V	Sacrifice a permanent: Regenerate target creature.

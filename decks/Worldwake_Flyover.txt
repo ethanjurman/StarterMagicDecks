@@ -1,0 +1,24 @@
+1	dread statuary
+7	island
+9	plains
+1	terramorphic expanse
+2	apex hawks
+1	archon of redemption
+1	enclave elite
+1	gomazoa
+2	kor cartographer
+1	lightkeeper of emeria
+1	silvercoat lion
+1	stormfront pegasus
+1	surrakar banisher
+1	voyager drake
+1	divine verdict
+1	everflowing chalice
+2	guardian zendikon
+1	iona's judgment
+1	marshal's anthem
+1	pacifism
+1	righteousness
+1	sleep
+1	unsummon
+1	veteran's reflexes

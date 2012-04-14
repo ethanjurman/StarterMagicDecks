@@ -1,0 +1,23 @@
+12	island
+12	mountain
+2	hapless researcher
+2	skywing aven
+2	wormfang turtle
+2	aven fisher
+1	wonder
+1	scalpelexis
+1	aven windreader
+2	dwarven scorcher
+2	barbarian bully
+2	barbarian lunatic
+1	chainflinger
+1	worldgorger dragon
+2	compulsion
+2	churning eddy
+1	concentrate
+2	flash of insight
+3	lava dart
+2	fiery temper
+2	swelter
+1	violent eruption
+2	shower of coals

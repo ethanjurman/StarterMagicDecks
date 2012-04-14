@@ -1,0 +1,30 @@
+1	plains
+2	island
+2	swamp
+12	mountain
+1	forest
+2	shimmering grotto
+1	vivid crag
+1	wispmare
+1	dawnfluke
+1	mulldrifter
+2	aethersnipe
+1	shriekmaw
+2	mournwhelk
+1	flamekin bladewhirl
+2	flamekin brawler
+2	flamekin harbinger
+3	smokebraider
+3	soulbright flamekin
+1	incandescent soulstoke
+2	inner-flame igniter
+1	inner-flame acolyte
+2	ceaseless searblades
+2	changeling berserker
+1	faultgrinder
+1	briarhorn
+1	changeling titan
+1	horde of notions
+3	consuming bonfire
+2	springleaf drum
+3	wanderer's twig

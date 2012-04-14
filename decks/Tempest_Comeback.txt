@@ -1,0 +1,33 @@
+4	Plains
+7	Island
+6	Swamp
+1	Ancient Spring
+1	Coastal Tower
+2	Dromar's Cavern
+1	Salt Marsh
+1	Terminal Moraine
+1	Honorable Scout
+1	Guard Dogs
+1	Faerie Squadron
+1	Stormscape Apprentice
+3	Tidal Visionary
+1	Arctic Merfolk
+3	Stormscape Familiar
+1	Vodalian Merchant
+1	Stormscape Battlemage
+2	Hunting Drake
+1	Waterspout Elemental
+1	Nightscape Familiar
+2	Ravenous Rats
+2	Phyrexian Bloodstock
+1	Galina's Knight
+2	Silver Drake
+1	Sawtooth Loon
+3	Cavern Harpy
+2	Marsh Crocodile
+2	Sisay's Ingenuity
+1	Confound
+1	Planeswalker's Scorn
+1	Slay
+1	Dromar's Charm
+1	Mana Cylix

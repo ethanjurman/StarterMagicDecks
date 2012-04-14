@@ -1,0 +1,624 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Akroma's Blessing	onslaught	1	W	2W	3	Instant			U	Creatures you control gain protection from the color of your choice until end of turn. Cycling {W} ({W}, Discard this card: Draw a card.)
+Akroma's Vengeance	onslaught	2	W	4WW	6	Sorcery			R	Destroy all artifacts, creatures, and enchantments. Cycling {3} ({3}, Discard this card: Draw a card.)
+Ancestor's Prophet	onslaught	3	W	4W	5	Creature - Human Cleric	1	5	R	Tap five untapped Clerics you control: You gain 10 life.
+Astral Slide	onslaught	4	W	2W	3	Enchantment			U	Whenever a player cycles a card, you may exile target creature. If you do, return the exiled card to the battlefield under its owner's control at the beginning of the next end step.
+Aura Extraction	onslaught	5	W	1W	2	Instant			U	Put target enchantment on top of its owner's library. Cycling {2} ({2}, Discard this card: Draw a card.)
+Aurification	onslaught	6	W	2WW	4	Enchantment			R	Whenever a creature deals damage to you, put a gold counter on it. Each creature with a gold counter on it is a Wall in addition to its other creature types and has defender. (Those creatures can't attack.) When Aurification leaves the battlefield, remove all gold counters from all creatures.
+Aven Brigadier	onslaught	7	W	3WWW	6	Creature - Bird Soldier	3	5	R	Flying Other Bird creatures get +1/+1. Other Soldier creatures get +1/+1.
+Aven Soulgazer	onslaught	8	W	3WW	5	Creature - Bird Cleric	3	3	U	Flying {2}{W}: Look at target face-down creature.
+Battlefield Medic	onslaught	9	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.
+Catapult Master	onslaught	10	W	3WW	5	Creature - Human Soldier	3	3	R	Tap five untapped Soldiers you control: Exile target creature.
+Catapult Squad	onslaught	11	W	1W	2	Creature - Human Soldier	2	1	U	Tap two untapped Soldiers you control: Catapult Squad deals 2 damage to target attacking or blocking creature.
+Chain of Silence	onslaught	12	W	1W	2	Instant			U	Prevent all damage target creature would deal this turn. That creature's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.
+Circle of Solace	onslaught	13	W	3W	4	Enchantment			R	As Circle of Solace enters the battlefield, choose a creature type. {1}{W}: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.
+Convalescent Care	onslaught	14	W	1WW	3	Enchantment			R	At the beginning of your upkeep, if you have 5 or less life, you gain 3 life and draw a card.
+Crowd Favorites	onslaught	15	W	6W	7	Creature - Human Soldier	4	4	U	{3}{W}: Tap target creature. {3}{W}: Crowd Favorites gets +0/+5 until end of turn.
+Crown of Awe	onslaught	16	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature has protection from black and from red. Sacrifice Crown of Awe: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.
+Crude Rampart	onslaught	17	W	3W	4	Creature - Wall	4	5	U	Defender (This creature can't attack.) Morph {4}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Daru Cavalier	onslaught	18	W	3W	4	Creature - Human Soldier	2	2	C	First strike When Daru Cavalier enters the battlefield, you may search your library for a card named Daru Cavalier, reveal it, and put it into your hand. If you do, shuffle your library.
+Daru Healer	onslaught	19	W	2W	3	Creature - Human Cleric	1	2	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Daru Lancer	onslaught	20	W	4WW	6	Creature - Human Soldier	3	4	C	First strike Morph {2}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Daunting Defender	onslaught	21	W	4W	5	Creature - Human Cleric	3	3	C	If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.
+Dawning Purist	onslaught	22	W	2W	3	Creature - Human Cleric	2	2	U	Whenever Dawning Purist deals combat damage to a player, you may destroy target enchantment that player controls. Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Defensive Maneuvers	onslaught	23	W	3W	4	Instant			C	Creatures of the creature type of your choice get +0/+4 until end of turn.
+Demystify	onslaught	24	W	W	1	Instant			C	Destroy target enchantment.
+Disciple of Grace	onslaught	25	W	1W	2	Creature - Human Cleric	1	2	C	Protection from black Cycling {2} ({2}, Discard this card: Draw a card.)
+Dive Bomber	onslaught	26	W	3W	4	Creature - Bird Soldier	2	2	C	Flying {T}, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.
+Doubtless One	onslaught	27	W	3W	4	Creature - Cleric Avatar	*	*	U	Doubtless One's power and toughness are each equal to the number of Clerics on the battlefield. Whenever Doubtless One deals damage, you gain that much life.
+Exalted Angel	onslaught	28	W	4WW	6	Creature - Angel	4	5	R	Flying Whenever Exalted Angel deals damage, you gain that much life. Morph {2}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Foothill Guide	onslaught	29	W	W	1	Creature - Human Cleric	1	1	C	Protection from Goblins Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Glarecaster	onslaught	30	W	4WW	6	Creature - Bird Cleric	3	3	R	Flying {5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.
+Glory Seeker	onslaught	31	W	1W	2	Creature - Human Soldier	2	2	C	
+Grassland Crusader	onslaught	32	W	5W	6	Creature - Human Cleric Soldier	2	4	C	{T}: Target Elf or Soldier creature gets +2/+2 until end of turn.
+Gravel Slinger	onslaught	33	W	3W	4	Creature - Human Soldier	1	3	C	{T}: Gravel Slinger deals 1 damage to target attacking or blocking creature. Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Gustcloak Harrier	onslaught	34	W	1WW	3	Creature - Bird Soldier	2	2	C	Flying Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.
+Gustcloak Runner	onslaught	35	W	W	1	Creature - Human Soldier	1	1	C	Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.
+Gustcloak Savior	onslaught	36	W	4W	5	Creature - Bird Soldier	3	4	R	Flying Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.
+Gustcloak Sentinel	onslaught	37	W	2WW	4	Creature - Human Soldier	3	3	U	Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.
+Gustcloak Skirmisher	onslaught	38	W	3W	4	Creature - Bird Soldier	2	3	U	Flying Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.
+Harsh Mercy	onslaught	39	W	2W	3	Sorcery			R	Each player chooses a creature type. Destroy all creatures that aren't of a type chosen this way. They can't be regenerated.
+Improvised Armor	onslaught	40	W	3W	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+5. Cycling {3} ({3}, Discard this card: Draw a card.)
+Inspirit	onslaught	41	W	2W	3	Instant			U	Untap target creature. It gets +2/+4 until end of turn.
+Ironfist Crusher	onslaught	42	W	4W	5	Creature - Human Soldier	2	4	U	Ironfist Crusher can block any number of creatures. Morph {3}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Jareth, Leonine Titan	onslaught	43	W	3WWW	6	Legendary Creature - Cat Giant	4	7	R	Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn. {W}: Jareth gains protection from the color of your choice until end of turn.
+Mobilization	onslaught	44	W	2W	3	Enchantment			R	Soldier creatures have vigilance. (Attacking doesn't cause them to tap.) {2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.
+Nova Cleric	onslaught	45	W	W	1	Creature - Human Cleric	1	2	U	{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.
+Oblation	onslaught	46	W	2W	3	Instant			R	The owner of target nonland permanent shuffles it into his or her library, then draws two cards.
+Pacifism	onslaught	47	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Pearlspear Courier	onslaught	48	W	2W	3	Creature - Human Soldier	2	1	U	You may choose not to untap Pearlspear Courier during your untap step. {2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as Pearlspear Courier remains tapped.
+Piety Charm	onslaught	49	W	W	1	Instant			C	Choose one - Destroy target Aura attached to a creature; or target Soldier creature gets +2/+2 until end of turn; or creatures you control gain vigilance until end of turn.
+Renewed Faith	onslaught	50	W	2W	3	Instant			C	You gain 6 life. Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.) When you cycle Renewed Faith, you may gain 2 life.
+Righteous Cause	onslaught	51	W	3WW	5	Enchantment			U	Whenever a creature attacks, you gain 1 life.
+Sandskin	onslaught	52	W	2W	3	Enchantment - Aura			C	Enchant creature Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Shared Triumph	onslaught	53	W	1W	2	Enchantment			R	As Shared Triumph enters the battlefield, choose a creature type. Creatures of the chosen type get +1/+1.
+Shieldmage Elder	onslaught	54	W	5W	6	Creature - Human Cleric Wizard	2	3	U	Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn. Tap two untapped Wizards you control: Prevent all damage target spell would deal this turn.
+Sigil of the New Dawn	onslaught	55	W	3W	4	Enchantment			R	Whenever a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return that card to your hand.
+Sunfire Balm	onslaught	56	W	2W	3	Instant			U	Prevent the next 4 damage that would be dealt to target creature or player this turn. Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.) When you cycle Sunfire Balm, you may prevent the next 1 damage that would be dealt to target creature or player this turn.
+True Believer	onslaught	57	W	WW	2	Creature - Human Cleric	2	2	R	You have shroud. (You can't be the target of spells or abilities.)
+Unified Strike	onslaught	58	W	W	1	Instant			C	Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.
+Weathered Wayfarer	onslaught	59	W	W	1	Creature - Human Nomad Cleric	1	1	R	{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.
+Whipcorder	onslaught	60	W	WW	2	Creature - Human Soldier Rebel	2	2	U	{W}, {T}: Tap target creature. Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Words of Worship	onslaught	61	W	2W	3	Enchantment			R	{1}: The next time you would draw a card this turn, you gain 5 life instead.
+Airborne Aid	onslaught	62	U	3U	4	Sorcery			C	Draw a card for each Bird on the battlefield.
+Annex	onslaught	63	U	2UU	4	Enchantment - Aura			U	Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.) You control enchanted land.
+Aphetto Alchemist	onslaught	64	U	1U	2	Creature - Human Wizard	1	2	U	{T}: Untap target artifact or creature. Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Aphetto Grifter	onslaught	65	U	2U	3	Creature - Human Wizard	1	1	U	Tap two untapped Wizards you control: Tap target permanent.
+Arcanis the Omnipotent	onslaught	66	U	3UUU	6	Legendary Creature - Wizard	3	4	R	{T}: Draw three cards. {2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+Artificial Evolution	onslaught	67	U	U	1	Instant			R	Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can't be Wall. (This effect lasts indefinitely.)
+Ascending Aven	onslaught	68	U	2UU	4	Creature - Bird Soldier	3	2	C	Flying Ascending Aven can block only creatures with flying. Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Aven Fateshaper	onslaught	69	U	6U	7	Creature - Bird Wizard	4	5	U	Flying When Aven Fateshaper enters the battlefield, look at the top four cards of your library, then put them back in any order. {4}{U}: Look at the top four cards of your library, then put them back in any order.
+Backslide	onslaught	70	U	1U	2	Instant			C	Turn target creature with morph face down. Cycling {U} ({U}, Discard this card: Draw a card.)
+Blatant Thievery	onslaught	71	U	4UUU	7	Sorcery			R	For each opponent, gain control of target permanent that player controls. (This effect lasts indefinitely.)
+Callous Oppressor	onslaught	72	U	1UU	3	Creature - Cephalid	1	2	R	You may choose not to untap Callous Oppressor during your untap step. As Callous Oppressor enters the battlefield, an opponent chooses a creature type. {T}: Gain control of target creature that isn't of the chosen type for as long as Callous Oppressor remains tapped.
+Chain of Vapor	onslaught	73	U	U	1	Instant			U	Return target nonland permanent to its owner's hand. Then that permanent's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.
+Choking Tethers	onslaught	74	U	3U	4	Instant			C	Tap up to four target creatures. Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.) When you cycle Choking Tethers, you may tap target creature.
+Clone	onslaught	75	U	3U	4	Creature - Shapeshifter	0	0	R	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Complicate	onslaught	76	U	2U	3	Instant			U	Counter target spell unless its controller pays {3}. Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.) When you cycle Complicate, you may counter target spell unless its controller pays {1}.
+Crafty Pathmage	onslaught	77	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Target creature with power 2 or less is unblockable this turn.
+Crown of Ascension	onslaught	78	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.
+Discombobulate	onslaught	79	U	2UU	4	Instant			U	Counter target spell. Look at the top four cards of your library, then put them back in any order.
+Dispersing Orb	onslaught	80	U	3UU	5	Enchantment			U	{3}{U}, Sacrifice a permanent: Return target permanent to its owner's hand.
+Disruptive Pitmage	onslaught	81	U	2U	3	Creature - Human Wizard	1	1	C	{T}: Counter target spell unless its controller pays {1}. Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Essence Fracture	onslaught	82	U	3UU	5	Sorcery			U	Return two target creatures to their owners' hands. Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+Fleeting Aven	onslaught	83	U	1UU	3	Creature - Bird Wizard	2	2	U	Flying Whenever a player cycles a card, return Fleeting Aven to its owner's hand.
+Future Sight	onslaught	84	U	2UUU	5	Enchantment			R	Play with the top card of your library revealed. You may play the top card of your library.
+Ghosthelm Courier	onslaught	85	U	2U	3	Creature - Human Wizard	2	1	U	You may choose not to untap Ghosthelm Courier during your untap step. {2}{U}, {T}: Target Wizard creature gets +2/+2 and has shroud for as long as Ghosthelm Courier remains tapped. (It can't be the target of spells or abilities.)
+Graxiplon	onslaught	86	U	5U	6	Creature - Beast	3	4	U	Graxiplon is unblockable unless defending player controls three or more creatures that share a creature type.
+Imagecrafter	onslaught	87	U	U	1	Creature - Human Wizard	1	1	C	{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+Information Dealer	onslaught	88	U	1U	2	Creature - Human Wizard	1	1	C	{T}: Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.
+Ixidor, Reality Sculptor	onslaught	89	U	3UU	5	Legendary Creature - Human Wizard	3	4	R	Face-down creatures get +1/+1. {2}{U}: Turn target face-down creature face up.
+Ixidor's Will	onslaught	90	U	2U	3	Instant			C	Counter target spell unless its controller pays {2} for each Wizard on the battlefield.
+Mage's Guile	onslaught	91	U	1U	2	Instant			C	Target creature gains shroud until end of turn. (It can't be the target of spells or abilities.) Cycling {U} ({U}, Discard this card: Draw a card.)
+Meddle	onslaught	92	U	1U	2	Instant			U	If target spell has only one target and that target is a creature, change that spell's target to another creature.
+Mistform Dreamer	onslaught	93	U	2U	3	Creature - Illusion	2	1	C	Flying {1}: Mistform Dreamer becomes the creature type of your choice until end of turn.
+Mistform Mask	onslaught	94	U	1U	2	Enchantment - Aura			C	Enchant creature {1}: Enchanted creature becomes the creature type of your choice until end of turn.
+Mistform Mutant	onslaught	95	U	4UU	6	Creature - Illusion Mutant	3	4	U	{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.
+Mistform Shrieker	onslaught	96	U	3UU	5	Creature - Illusion	3	3	U	Flying {1}: Mistform Shrieker becomes the creature type of your choice until end of turn. Morph {3}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Mistform Skyreaver	onslaught	97	U	5UU	7	Creature - Illusion	6	6	R	Flying {1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.
+Mistform Stalker	onslaught	98	U	1U	2	Creature - Illusion	1	1	U	{1}: Mistform Stalker becomes the creature type of your choice until end of turn. {2}{U}{U}: Mistform Stalker gets +2/+2 and gains flying until end of turn.
+Mistform Wall	onslaught	99	U	2U	3	Creature - Illusion Wall	1	4	C	Mistform Wall has defender as long as it's a Wall. {1}: Mistform Wall becomes the creature type of your choice until end of turn.
+Nameless One	onslaught	100	U	3U	4	Creature - Wizard Avatar	*	*	U	Nameless One's power and toughness are each equal to the number of Wizards on the battlefield. Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Peer Pressure	onslaught	101	U	3U	4	Sorcery			R	Choose a creature type. If you control more creatures of that type than any other player, you gain control of all creatures of that type. (This effect lasts indefinitely.)
+Psychic Trance	onslaught	102	U	2UU	4	Instant			R	Until end of turn, Wizards you control gain "{T}: Counter target spell."
+Quicksilver Dragon	onslaught	103	U	4UU	6	Creature - Dragon	5	5	R	Flying {U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature. Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Read the Runes	onslaught	104	U	XU	1	Instant			R	Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.
+Reminisce	onslaught	105	U	2U	3	Sorcery			U	Target player shuffles his or her graveyard into his or her library.
+Riptide Biologist	onslaught	106	U	1U	2	Creature - Human Wizard	1	2	C	Protection from Beasts Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Riptide Chronologist	onslaught	107	U	3UU	5	Creature - Human Wizard	1	3	U	{U}, Sacrifice Riptide Chronologist: Untap all creatures of the creature type of your choice.
+Riptide Entrancer	onslaught	108	U	1UU	3	Creature - Human Wizard	1	1	R	Whenever Riptide Entrancer deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect lasts indefinitely.) Morph {U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Riptide Shapeshifter	onslaught	109	U	3UU	5	Creature - Shapeshifter	3	3	U	{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.
+Rummaging Wizard	onslaught	110	U	3U	4	Creature - Human Wizard	2	2	U	{2}{U}: Look at the top card of your library. You may put that card into your graveyard.
+Sage Aven	onslaught	111	U	3U	4	Creature - Bird Wizard	1	3	C	Flying (This creature can't be blocked except by creatures with flying or reach.) When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.
+Screaming Seahawk	onslaught	112	U	4U	5	Creature - Bird	2	2	C	Flying When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.
+Sea's Claim	onslaught	113	U	U	1	Enchantment - Aura			C	Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.) Enchanted land is an Island.
+Slipstream Eel	onslaught	114	U	5UU	7	Creature - Fish Beast	6	6	C	Slipstream Eel can't attack unless defending player controls an Island. Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+Spy Network	onslaught	115	U	U	1	Instant			C	Look at target player's hand, the top card of that player's library, and any face-down creatures he or she controls. Look at the top four cards of your library, then put them back in any order.
+Standardize	onslaught	116	U	UU	2	Instant			R	Choose a creature type other than Wall. Each creature becomes that type until end of turn.
+Supreme Inquisitor	onslaught	117	U	3UU	5	Creature - Human Wizard	1	3	R	Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles his or her library.
+Trade Secrets	onslaught	118	U	1UU	3	Sorcery			R	Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.
+Trickery Charm	onslaught	119	U	U	1	Instant			C	Choose one - Target creature gains flying until end of turn; or target creature becomes the creature type of your choice until end of turn; or look at the top four cards of your library, then put them back in any order.
+Voidmage Prodigy	onslaught	120	U	UU	2	Creature - Human Wizard	2	1	R	{U}{U}, Sacrifice a Wizard: Counter target spell. Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Wheel and Deal	onslaught	121	U	3U	4	Instant			R	Any number of target opponents each discards his or her hand and draws seven cards. Draw a card.
+Words of Wind	onslaught	122	U	2U	3	Enchantment			R	{1}: The next time you would draw a card this turn, each player returns a permanent he or she controls to its owner's hand instead.
+Accursed Centaur	onslaught	123	B	B	1	Creature - Zombie Centaur	2	2	C	When Accursed Centaur enters the battlefield, sacrifice a creature.
+Anurid Murkdiver	onslaught	124	B	4BB	6	Creature - Zombie Frog Beast	4	3	C	Swampwalk
+Aphetto Dredging	onslaught	125	B	3B	4	Sorcery			C	Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+Aphetto Vulture	onslaught	126	B	4BB	6	Creature - Zombie Bird	3	2	U	Flying When Aphetto Vulture is put into a graveyard from the battlefield, you may put target Zombie card from your graveyard on top of your library.
+Blackmail	onslaught	127	B	B	1	Sorcery			U	Target player reveals three cards from his or her hand and you choose one of them. That player discards that card.
+Boneknitter	onslaught	128	B	1B	2	Creature - Zombie Cleric	1	1	U	{1}{B}: Regenerate target Zombie. Morph {2}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Cabal Archon	onslaught	129	B	2B	3	Creature - Human Cleric	2	2	U	{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.
+Cabal Executioner	onslaught	130	B	2BB	4	Creature - Human Cleric	2	2	U	Whenever Cabal Executioner deals combat damage to a player, that player sacrifices a creature. Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Cabal Slaver	onslaught	131	B	2B	3	Creature - Human Cleric	2	1	U	Whenever a Goblin deals combat damage to a player, that player discards a card.
+Chain of Smog	onslaught	132	B	1B	2	Sorcery			U	Target player discards two cards. That player may copy this spell and may choose a new target for that copy.
+Cover of Darkness	onslaught	133	B	1B	2	Enchantment			R	As Cover of Darkness enters the battlefield, choose a creature type. Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)
+Crown of Suspicion	onslaught	134	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/-1. Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.
+Cruel Revival	onslaught	135	B	4B	5	Instant			C	Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.
+Death Match	onslaught	136	B	3B	4	Enchantment			R	Whenever a creature enters the battlefield, that creature's controller may have target creature of his or her choice get -3/-3 until end of turn.
+Death Pulse	onslaught	137	B	2BB	4	Instant			U	Target creature gets -4/-4 until end of turn. Cycling {1}{B}{B} ({1}{B}{B}, Discard this card: Draw a card.) When you cycle Death Pulse, you may have target creature get -1/-1 until end of turn.
+Dirge of Dread	onslaught	138	B	2B	3	Sorcery			C	All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.) Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.) When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.
+Disciple of Malice	onslaught	139	B	1B	2	Creature - Human Cleric	1	2	C	Protection from white Cycling {2} ({2}, Discard this card: Draw a card.)
+Doomed Necromancer	onslaught	140	B	2B	3	Creature - Human Cleric Mercenary	2	2	R	{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.
+Ebonblade Reaper	onslaught	141	B	2B	3	Creature - Human Cleric	1	1	R	Whenever Ebonblade Reaper attacks, you lose half your life, rounded up. Whenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up. Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Endemic Plague	onslaught	142	B	3B	4	Sorcery			R	As an additional cost to cast Endemic Plague, sacrifice a creature. Destroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.
+Entrails Feaster	onslaught	143	B	B	1	Creature - Zombie Cat	1	1	R	At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on Entrails Feaster. If you don't, tap Entrails Feaster.
+Fade from Memory	onslaught	144	B	B	1	Instant			U	Exile target card from a graveyard. Cycling {B} ({B}, Discard this card: Draw a card.)
+Fallen Cleric	onslaught	145	B	4B	5	Creature - Zombie Cleric	4	2	C	Protection from Clerics Morph {4}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+False Cure	onslaught	146	B	BB	2	Instant			R	Until end of turn, whenever a player gains life, that player loses 2 life for each 1 life he or she gained.
+Feeding Frenzy	onslaught	147	B	2B	3	Instant			U	Target creature gets -X/-X until end of turn, where X is the number of Zombies on the battlefield.
+Festering Goblin	onslaught	148	B	B	1	Creature - Zombie Goblin	1	1	C	When Festering Goblin is put into a graveyard from the battlefield, target creature gets -1/-1 until end of turn.
+Frightshroud Courier	onslaught	149	B	2B	3	Creature - Zombie	2	1	U	You may choose not to untap Frightshroud Courier during your untap step. {2}{B}, {T}: Target Zombie creature gets +2/+2 and has fear for as long as Frightshroud Courier remains tapped. (It can't be blocked except by artifact creatures and/or black creatures.)
+Gangrenous Goliath	onslaught	150	B	3BB	5	Creature - Zombie Giant	4	4	R	Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.
+Gluttonous Zombie	onslaught	151	B	4B	5	Creature - Zombie	3	3	U	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Gravespawn Sovereign	onslaught	152	B	4BB	6	Creature - Zombie	3	3	R	Tap five untapped Zombies you control: Put target creature card from a graveyard onto the battlefield under your control.
+Grinning Demon	onslaught	153	B	2BB	4	Creature - Demon	6	6	R	At the beginning of your upkeep, you lose 2 life. Morph {2}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Haunted Cadaver	onslaught	154	B	3B	4	Creature - Zombie	2	2	C	Whenever Haunted Cadaver deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards. Morph {1}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Head Games	onslaught	155	B	3BB	5	Sorcery			R	Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.
+Headhunter	onslaught	156	B	1B	2	Creature - Human Cleric	1	1	U	Whenever Headhunter deals combat damage to a player, that player discards a card. Morph {B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Infest	onslaught	157	B	1BB	3	Sorcery			U	All creatures get -2/-2 until end of turn.
+Misery Charm	onslaught	158	B	B	1	Instant			C	Choose one - Destroy target Cleric; or return target Cleric card from your graveyard to your hand; or target player loses 2 life.
+Nantuko Husk	onslaught	159	B	2B	3	Creature - Zombie Insect	2	2	C	Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+Oversold Cemetery	onslaught	160	B	1B	2	Enchantment			R	At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.
+Patriarch's Bidding	onslaught	161	B	3BB	5	Sorcery			R	Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to the battlefield.
+Profane Prayers	onslaught	162	B	2BB	4	Sorcery			C	Profane Prayers deals X damage to target creature or player and you gain X life, where X is the number of Clerics on the battlefield.
+Prowling Pangolin	onslaught	163	B	3BB	5	Creature - Anteater Beast	6	5	U	When Prowling Pangolin enters the battlefield, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.
+Rotlung Reanimator	onslaught	164	B	2B	3	Creature - Zombie Cleric	2	2	R	Whenever Rotlung Reanimator or another Cleric is put into a graveyard from the battlefield, put a 2/2 black Zombie creature token onto the battlefield.
+Screeching Buzzard	onslaught	165	B	3B	4	Creature - Bird	2	2	C	Flying When Screeching Buzzard is put into a graveyard from the battlefield, each opponent discards a card.
+Severed Legion	onslaught	166	B	1BB	3	Creature - Zombie	2	2	C	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Shade's Breath	onslaught	167	B	1B	2	Instant			U	Until end of turn, each creature you control becomes black, its creature type becomes Shade, and it gains "{B}: This creature gets +1/+1 until end of turn."
+Shepherd of Rot	onslaught	168	B	1B	2	Creature - Zombie Cleric	1	1	C	{T}: Each player loses 1 life for each Zombie on the battlefield.
+Silent Specter	onslaught	169	B	4BB	6	Creature - Specter	4	4	R	Flying Whenever Silent Specter deals combat damage to a player, that player discards two cards. Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Smother	onslaught	170	B	1B	2	Instant			U	Destroy target creature with converted mana cost 3 or less. It can't be regenerated.
+Soulless One	onslaught	171	B	3B	4	Creature - Zombie Avatar	*	*	U	Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.
+Spined Basher	onslaught	172	B	2B	3	Creature - Zombie Beast	3	1	C	Morph {2}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Strongarm Tactics	onslaught	173	B	1B	2	Sorcery			R	Each player discards a card. Then each player who didn't discard a creature card this way loses 4 life.
+Swat	onslaught	174	B	1BB	3	Instant			C	Destroy target creature with power 2 or less. Cycling {2} ({2}, Discard this card: Draw a card.)
+Syphon Mind	onslaught	175	B	3B	4	Sorcery			C	Each other player discards a card. You draw a card for each card discarded this way.
+Syphon Soul	onslaught	176	B	2B	3	Sorcery			C	Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+Thrashing Mudspawn	onslaught	177	B	3BB	5	Creature - Beast	4	4	U	Whenever Thrashing Mudspawn is dealt damage, you lose that much life. Morph {1}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Undead Gladiator	onslaught	178	B	1BB	3	Creature - Zombie Barbarian	3	1	R	{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep. Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+Visara the Dreadful	onslaught	179	B	3BBB	6	Legendary Creature - Gorgon	5	5	R	Flying {T}: Destroy target creature. It can't be regenerated.
+Walking Desecration	onslaught	180	B	2B	3	Creature - Zombie	1	1	U	{B}, {T}: Creatures of the creature type of your choice attack this turn if able.
+Withering Hex	onslaught	181	B	B	1	Enchantment - Aura			U	Enchant creature Whenever a player cycles a card, put a plague counter on Withering Hex. Enchanted creature gets -1/-1 for each plague counter on Withering Hex.
+Words of Waste	onslaught	182	B	2B	3	Enchantment			R	{1}: The next time you would draw a card this turn, each opponent discards a card instead.
+Wretched Anurid	onslaught	183	B	1B	2	Creature - Zombie Frog Beast	3	3	C	Whenever another creature enters the battlefield, you lose 1 life.
+Aether Charge	onslaught	184	R	4R	5	Enchantment			U	Whenever a Beast enters the battlefield under your control, you may have it deal 4 damage to target opponent.
+Aggravated Assault	onslaught	185	R	2R	3	Enchantment			R	{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.
+Airdrop Condor	onslaught	186	R	4R	5	Creature - Bird	2	2	U	Flying {1}{R}, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature's power to target creature or player.
+Avarax	onslaught	187	R	3RR	5	Creature - Beast	3	3	U	Haste When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library. {1}{R}: Avarax gets +1/+0 until end of turn.
+Battering Craghorn	onslaught	188	R	2RR	4	Creature - Goat Beast	3	1	C	First strike Morph {1}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Blistering Firecat	onslaught	189	R	1RRR	4	Creature - Elemental Cat	7	1	R	Trample, haste At the beginning of the end step, sacrifice Blistering Firecat. Morph {R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Break Open	onslaught	190	R	1R	2	Instant			C	Turn target face-down creature an opponent controls face up.
+Brightstone Ritual	onslaught	191	R	R	1	Instant			C	Add {R} to your mana pool for each Goblin on the battlefield.
+Butcher Orgg	onslaught	192	R	4RRR	7	Creature - Orgg	6	6	R	You may divide Butcher Orgg's combat damage as you choose among defending player and/or any number of creatures he or she controls.
+Chain of Plasma	onslaught	193	R	1R	2	Instant			U	Chain of Plasma deals 3 damage to target creature or player. Then that player or that creature's controller may discard a card. If the player does, he or she may copy this spell and may choose a new target for that copy.
+Charging Slateback	onslaught	194	R	4R	5	Creature - Beast	4	3	C	Charging Slateback can't block. Morph {4}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Commando Raid	onslaught	195	R	2R	3	Instant			U	Until end of turn, target creature you control gains "When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls."
+Crown of Fury	onslaught	196	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0 and has first strike. Sacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.
+Custody Battle	onslaught	197	R	1R	2	Enchantment - Aura			U	Enchant creature Enchanted creature has "At the beginning of your upkeep, target opponent gains control of this creature unless you sacrifice a land."
+Dragon Roost	onslaught	198	R	4RR	6	Enchantment			R	{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)
+Dwarven Blastminer	onslaught	199	R	1R	2	Creature - Dwarf	1	1	U	{2}{R}, {T}: Destroy target nonbasic land. Morph {R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Embermage Goblin	onslaught	200	R	3R	4	Creature - Goblin Wizard	1	1	U	When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library. {T}: Embermage Goblin deals 1 damage to target creature or player.
+Erratic Explosion	onslaught	201	R	2R	3	Sorcery			C	Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.
+Fever Charm	onslaught	202	R	R	1	Instant			C	Choose one - Target creature gains haste until end of turn; or target creature gets +2/+0 until end of turn; or Fever Charm deals 3 damage to target Wizard creature.
+Flamestick Courier	onslaught	203	R	2R	3	Creature - Goblin	2	1	U	You may choose not to untap Flamestick Courier during your untap step. {2}{R}, {T}: Target Goblin creature gets +2/+2 and has haste for as long as Flamestick Courier remains tapped.
+Goblin Machinist	onslaught	204	R	4R	5	Creature - Goblin	0	5	U	{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.
+Goblin Piledriver	onslaught	205	R	1R	2	Creature - Goblin Warrior	1	2	R	Protection from blue Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.
+Goblin Pyromancer	onslaught	206	R	3R	4	Creature - Goblin Wizard	2	2	R	When Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn. At the beginning of the end step, destroy all Goblins.
+Goblin Sharpshooter	onslaught	207	R	2R	3	Creature - Goblin	1	1	R	Goblin Sharpshooter doesn't untap during your untap step. Whenever a creature is put into a graveyard from the battlefield, untap Goblin Sharpshooter. {T}: Goblin Sharpshooter deals 1 damage to target creature or player.
+Goblin Sky Raider	onslaught	208	R	2R	3	Creature - Goblin Warrior	1	2	C	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Goblin Sledder	onslaught	209	R	R	1	Creature - Goblin	1	1	C	Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+Goblin Taskmaster	onslaught	210	R	R	1	Creature - Goblin	1	1	C	{1}{R}: Target Goblin creature gets +1/+0 until end of turn. Morph {R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Grand Melee	onslaught	211	R	3R	4	Enchantment			R	All creatures attack each turn if able. All creatures block each turn if able.
+Gratuitous Violence	onslaught	212	R	2RRR	5	Enchantment			R	If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+Insurrection	onslaught	213	R	5RRR	8	Sorcery			R	Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.
+Kaboom!	onslaught	214	R	4R	5	Sorcery			R	Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom deals damage equal to that card's converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.
+Lavamancer's Skill	onslaught	215	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature has "{T}: This creature deals 1 damage to target creature." If enchanted creature is a Wizard, it has "{T}: This creature deals 2 damage to target creature."
+Lay Waste	onslaught	216	R	3R	4	Sorcery			C	Destroy target land. Cycling {2} ({2}, Discard this card: Draw a card.)
+Lightning Rift	onslaught	217	R	1R	2	Enchantment			U	Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to target creature or player.
+Mana Echoes	onslaught	218	R	2RR	4	Enchantment			R	Whenever a creature enters the battlefield, you may add {1} to your mana pool for each creature you control that shares a creature type with it.
+Menacing Ogre	onslaught	219	R	3RR	5	Creature - Ogre	3	3	R	Trample, haste When Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.
+Nosy Goblin	onslaught	220	R	2R	3	Creature - Goblin	2	1	C	{T}, Sacrifice Nosy Goblin: Destroy target face-down creature.
+Pinpoint Avalanche	onslaught	221	R	3RR	5	Instant			C	Pinpoint Avalanche deals 4 damage to target creature. The damage can't be prevented.
+Reckless One	onslaught	222	R	3R	4	Creature - Goblin Avatar	*	*	U	Haste Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.
+Risky Move	onslaught	223	R	3RRR	6	Enchantment			R	At the beginning of each player's upkeep, that player gains control of Risky Move. When you gain control of Risky Move from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.
+Rorix Bladewing	onslaught	224	R	3RRR	6	Legendary Creature - Dragon	6	5	R	Flying, haste
+Searing Flesh	onslaught	225	R	6R	7	Sorcery			U	Searing Flesh deals 7 damage to target opponent.
+Shaleskin Bruiser	onslaught	226	R	6R	7	Creature - Beast	4	4	U	Trample Whenever Shaleskin Bruiser attacks, it gets +3/+0 until end of turn for each other attacking Beast.
+Shock	onslaught	227	R	R	1	Instant			C	Shock deals 2 damage to target creature or player.
+Skirk Commando	onslaught	228	R	1RR	3	Creature - Goblin	2	1	C	Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls. Morph {2}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Skirk Fire Marshal	onslaught	229	R	3RR	5	Creature - Goblin	2	2	R	Protection from red Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
+Skirk Prospector	onslaught	230	R	R	1	Creature - Goblin	1	1	C	Sacrifice a Goblin: Add {R} to your mana pool.
+Skittish Valesk	onslaught	231	R	6R	7	Creature - Beast	5	5	U	At the beginning of your upkeep, flip a coin. If you lose the flip, turn Skittish Valesk face down. Morph {5}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Slice and Dice	onslaught	232	R	4RR	6	Sorcery			U	Slice and Dice deals 4 damage to each creature. Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.) When you cycle Slice and Dice, you may have it deal 1 damage to each creature.
+Snapping Thragg	onslaught	233	R	4R	5	Creature - Beast	3	3	U	Whenever Snapping Thragg deals combat damage to a player, you may have it deal 3 damage to target creature that player controls. Morph {4}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Solar Blast	onslaught	234	R	3R	4	Instant			C	Solar Blast deals 3 damage to target creature or player. Cycling {1}{R}{R} ({1}{R}{R}, Discard this card: Draw a card.) When you cycle Solar Blast, you may have it deal 1 damage to target creature or player.
+Sparksmith	onslaught	235	R	1R	2	Creature - Goblin	1	1	C	{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.
+Spitfire Handler	onslaught	236	R	1R	2	Creature - Goblin	1	1	U	Spitfire Handler can't block creatures with power greater than Spitfire Handler's power. {R}: Spitfire Handler gets +1/+0 until end of turn.
+Spurred Wolverine	onslaught	237	R	4R	5	Creature - Wolverine Beast	3	2	C	Tap two untapped Beasts you control: Target creature gains first strike until end of turn.
+Starstorm	onslaught	238	R	XRR	2	Instant			R	Starstorm deals X damage to each creature. Cycling {3} ({3}, Discard this card: Draw a card.)
+Tephraderm	onslaught	239	R	4R	5	Creature - Beast	4	5	R	Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature. Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.
+Thoughtbound Primoc	onslaught	240	R	2R	3	Creature - Bird Beast	2	3	U	Flying At the beginning of your upkeep, if a player controls more Wizards than any other player, he or she gains control of Thoughtbound Primoc.
+Threaten	onslaught	241	R	2R	3	Sorcery			U	Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)
+Thunder of Hooves	onslaught	242	R	3R	4	Sorcery			U	Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts on the battlefield.
+Wave of Indifference	onslaught	243	R	XR	1	Sorcery			C	X target creatures can't block this turn.
+Words of War	onslaught	244	R	2R	3	Enchantment			R	{1}: The next time you would draw a card this turn, Words of War deals 2 damage to target creature or player instead.
+Animal Magnetism	onslaught	245	G	4G	5	Sorcery			R	Reveal the top five cards of your library. An opponent chooses a creature card from among them. Put that card onto the battlefield and the rest into your graveyard.
+Barkhide Mauler	onslaught	246	G	4G	5	Creature - Beast	4	4	C	Cycling {2} ({2}, Discard this card: Draw a card.)
+Biorhythm	onslaught	247	G	6GG	8	Sorcery			R	Each player's life total becomes the number of creatures he or she controls.
+Birchlore Rangers	onslaught	248	G	G	1	Creature - Elf Druid	1	1	C	Tap two untapped Elves you control: Add one mana of any color to your mana pool. Morph {G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Bloodline Shaman	onslaught	249	G	1G	2	Creature - Elf Wizard Shaman	1	1	U	{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard.
+Broodhatch Nantuko	onslaught	250	G	1G	2	Creature - Insect Druid	1	1	U	Whenever Broodhatch Nantuko is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield. Morph {2}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Centaur Glade	onslaught	251	G	3GG	5	Enchantment			U	{2}{G}{G}: Put a 3/3 green Centaur creature token onto the battlefield.
+Chain of Acid	onslaught	252	G	3G	4	Sorcery			U	Destroy target noncreature permanent. Then that permanent's controller may copy this spell and may choose a new target for that copy.
+Crown of Vigor	onslaught	253	G	1G	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1. Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.
+Elven Riders	onslaught	254	G	3GG	5	Creature - Elf	3	3	U	Elven Riders can't be blocked except by Walls and/or creatures with flying.
+Elvish Guidance	onslaught	255	G	2G	3	Enchantment - Aura			C	Enchant land Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf on the battlefield (in addition to the mana the land produces).
+Elvish Pathcutter	onslaught	256	G	3G	4	Creature - Elf Scout	1	2	C	{2}{G}: Target Elf creature gains forestwalk until end of turn.
+Elvish Pioneer	onslaught	257	G	G	1	Creature - Elf Druid	1	1	C	When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.
+Elvish Scrapper	onslaught	258	G	G	1	Creature - Elf	1	1	U	{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.
+Elvish Vanguard	onslaught	259	G	1G	2	Creature - Elf Warrior	1	1	R	Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.
+Elvish Warrior	onslaught	260	G	GG	2	Creature - Elf Warrior	2	3	C	
+Enchantress's Presence	onslaught	261	G	2G	3	Enchantment			R	Whenever you cast an enchantment spell, draw a card.
+Everglove Courier	onslaught	262	G	2G	3	Creature - Elf	2	1	U	You may choose not to untap Everglove Courier during your untap step. {2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.
+Explosive Vegetation	onslaught	263	G	3G	4	Sorcery			U	Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+Gigapede	onslaught	264	G	3GG	5	Creature - Insect	6	1	R	Shroud (This permanent can't be the target of spells or abilities.) At the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.
+Heedless One	onslaught	265	G	3G	4	Creature - Elf Avatar	*	*	U	Trample Heedless One's power and toughness are each equal to the number of Elves on the battlefield.
+Hystrodon	onslaught	266	G	4G	5	Creature - Beast	3	4	R	Trample Whenever Hystrodon deals combat damage to a player, you may draw a card. Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Invigorating Boon	onslaught	267	G	1G	2	Enchantment			U	Whenever a player cycles a card, you may put a +1/+1 counter on target creature.
+Kamahl, Fist of Krosa	onslaught	268	G	4GG	6	Legendary Creature - Human Druid	4	3	R	{G}: Target land becomes a 1/1 creature until end of turn. It's still a land. {2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.
+Kamahl's Summons	onslaught	269	G	3G	4	Sorcery			U	Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token onto the battlefield for each card he or she revealed this way.
+Krosan Colossus	onslaught	270	G	6GGG	9	Creature - Beast	9	9	R	Morph {6}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Krosan Groundshaker	onslaught	271	G	4GGG	7	Creature - Beast	6	6	U	{G}: Target Beast creature gains trample until end of turn.
+Krosan Tusker	onslaught	272	G	5GG	7	Creature - Boar Beast	6	5	C	Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.) When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+Leery Fogbeast	onslaught	273	G	2G	3	Creature - Beast	4	2	C	Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.
+Mythic Proportions	onslaught	274	G	4GGG	7	Enchantment - Aura			R	Enchant creature Enchanted creature gets +8/+8 and has trample.
+Naturalize	onslaught	275	G	1G	2	Instant			C	Destroy target artifact or enchantment.
+Overwhelming Instinct	onslaught	276	G	2G	3	Enchantment			U	Whenever you attack with three or more creatures, draw a card.
+Primal Boost	onslaught	277	G	2G	3	Instant			U	Target creature gets +4/+4 until end of turn. Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.) When you cycle Primal Boost, you may have target creature get +1/+1 until end of turn.
+Ravenous Baloth	onslaught	278	G	2GG	4	Creature - Beast	4	4	R	Sacrifice a Beast: You gain 4 life.
+Run Wild	onslaught	279	G	G	1	Instant			U	Until end of turn, target creature gains trample and "{G}: Regenerate this creature."
+Serpentine Basilisk	onslaught	280	G	2GG	4	Creature - Basilisk	2	3	U	Whenever Serpentine Basilisk deals combat damage to a creature, destroy that creature at end of combat. Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Silklash Spider	onslaught	281	G	3GG	5	Creature - Spider	2	7	R	Reach (This creature can block creatures with flying.) {X}{G}{G}: Silklash Spider deals X damage to each creature with flying.
+Silvos, Rogue Elemental	onslaught	282	G	3GGG	6	Legendary Creature - Elemental	8	5	R	Trample {G}: Regenerate Silvos, Rogue Elemental.
+Snarling Undorak	onslaught	283	G	2GG	4	Creature - Beast	3	3	C	{2}{G}: Target Beast creature gets +1/+1 until end of turn. Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Spitting Gourna	onslaught	284	G	3GG	5	Creature - Beast	3	4	C	Reach (This creature can block creatures with flying.) Morph {4}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Stag Beetle	onslaught	285	G	3GG	5	Creature - Insect	0	0	R	Stag Beetle enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.
+Steely Resolve	onslaught	286	G	1G	2	Enchantment			R	As Steely Resolve enters the battlefield, choose a creature type. Creatures of the chosen type have shroud. (They can't be the targets of spells or abilities.)
+Symbiotic Beast	onslaught	287	G	4GG	6	Creature - Insect Beast	4	4	U	When Symbiotic Beast is put into a graveyard from the battlefield, put four 1/1 green Insect creature tokens onto the battlefield.
+Symbiotic Elf	onslaught	288	G	3G	4	Creature - Elf	2	2	C	When Symbiotic Elf is put into a graveyard from the battlefield, put two 1/1 green Insect creature tokens onto the battlefield.
+Symbiotic Wurm	onslaught	289	G	5GGG	8	Creature - Wurm	7	7	R	When Symbiotic Wurm is put into a graveyard from the battlefield, put seven 1/1 green Insect creature tokens onto the battlefield.
+Taunting Elf	onslaught	290	G	G	1	Creature - Elf	0	1	C	All creatures able to block Taunting Elf do so.
+Tempting Wurm	onslaught	291	G	1G	2	Creature - Wurm	5	5	R	When Tempting Wurm enters the battlefield, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand onto the battlefield.
+Towering Baloth	onslaught	292	G	6GG	8	Creature - Beast	7	6	U	Morph {6}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Treespring Lorian	onslaught	293	G	5G	6	Creature - Beast	5	4	C	Morph {5}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Tribal Unity	onslaught	294	G	X2G	3	Instant			U	Creatures of the creature type of your choice get +X/+X until end of turn.
+Venomspout Brackus	onslaught	295	G	6G	7	Creature - Beast	5	5	U	{1}{G}, {T}: Venomspout Brackus deals 5 damage to target attacking or blocking creature with flying. Morph {3}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Vitality Charm	onslaught	296	G	G	1	Instant			C	Choose one - Put a 1/1 green Insect creature token onto the battlefield; or target creature gets +1/+1 and gains trample until end of turn; or regenerate target Beast.
+Voice of the Woods	onslaught	297	G	3GG	5	Creature - Elf	2	2	R	Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.
+Wall of Mulch	onslaught	298	G	1G	2	Creature - Wall	0	4	U	Defender (This creature can't attack.) {G}, Sacrifice a Wall: Draw a card.
+Weird Harvest	onslaught	299	G	XGG	2	Sorcery			R	Each player may search his or her library for up to X creature cards, reveal those cards, and put them into his or her hand. Then each player who searched his or her library this way shuffles it.
+Wellwisher	onslaught	300	G	1G	2	Creature - Elf	1	1	C	{T}: You gain 1 life for each Elf on the battlefield.
+Wirewood Elf	onslaught	301	G	1G	2	Creature - Elf Druid	1	2	C	{T}: Add {G} to your mana pool.
+Wirewood Herald	onslaught	302	G	1G	2	Creature - Elf	1	1	C	When Wirewood Herald is put into a graveyard from the battlefield, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.
+Wirewood Pride	onslaught	303	G	G	1	Instant			C	Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.
+Wirewood Savage	onslaught	304	G	2G	3	Creature - Elf	2	2	C	Whenever a Beast enters the battlefield, you may draw a card.
+Words of Wilding	onslaught	305	G	2G	3	Enchantment			R	{1}: The next time you would draw a card this turn, put a 2/2 green Bear creature token onto the battlefield instead.
+Cryptic Gateway	onslaught	306	A	5	5	Artifact			R	Tap two untapped creatures you control: You may put a creature card from your hand that shares a creature type with each creature tapped this way onto the battlefield.
+Doom Cannon	onslaught	307	A	6	6	Artifact			R	As Doom Cannon enters the battlefield, choose a creature type. {3}, {T}, Sacrifice a creature of the chosen type: Doom Cannon deals 3 damage to target creature or player.
+Dream Chisel	onslaught	308	A	2	2	Artifact			R	Face-down creature spells you cast cost {1} less to cast.
+Riptide Replicator	onslaught	309	A	X4	4	Artifact			R	As Riptide Replicator enters the battlefield, choose a color and a creature type. Riptide Replicator enters the battlefield with X charge counters on it. {4}, {T}: Put an X/X creature token of the chosen color and type onto the battlefield, where X is the number of charge counters on Riptide Replicator.
+Slate of Ancestry	onslaught	310	A	4	4	Artifact			R	{4}, {T}, Discard your hand: Draw a card for each creature you control.
+Tribal Golem	onslaught	311	A	6	6	Artifact Creature - Golem	4	4	R	Tribal Golem has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and "{B}: Regenerate Tribal Golem" as long as you control a Zombie.
+Barren Moor	onslaught	312	L		0	Land			C	Barren Moor enters the battlefield tapped. {T}: Add {B} to your mana pool. Cycling {B} ({B}, Discard this card: Draw a card.)
+Bloodstained Mire	onslaught	313	L		0	Land			R	{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.
+Contested Cliffs	onslaught	314	L		0	Land			R	{T}: Add {1} to your mana pool. {R}{G}, {T}: Choose target Beast creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its power to the other.
+Daru Encampment	onslaught	315	L		0	Land			U	{T}: Add {1} to your mana pool. {W}, {T}: Target Soldier creature gets +1/+1 until end of turn.
+Flooded Strand	onslaught	316	L		0	Land			R	{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+Forgotten Cave	onslaught	317	L		0	Land			C	Forgotten Cave enters the battlefield tapped. {T}: Add {R} to your mana pool. Cycling {R} ({R}, Discard this card: Draw a card.)
+Goblin Burrows	onslaught	318	L		0	Land			U	{T}: Add {1} to your mana pool. {1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.
+Grand Coliseum	onslaught	319	L		0	Land			R	Grand Coliseum enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add one mana of any color to your mana pool. Grand Coliseum deals 1 damage to you.
+Lonely Sandbar	onslaught	320	L		0	Land			C	Lonely Sandbar enters the battlefield tapped. {T}: Add {U} to your mana pool. Cycling {U} ({U}, Discard this card: Draw a card.)
+Polluted Delta	onslaught	321	L		0	Land			R	{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.
+Riptide Laboratory	onslaught	322	L		0	Land			R	{T}: Add {1} to your mana pool. {1}{U}, {T}: Return target Wizard you control to its owner's hand.
+Seaside Haven	onslaught	323	L		0	Land			U	{T}: Add {1} to your mana pool. {W}{U}, {T}, Sacrifice a Bird: Draw a card.
+Secluded Steppe	onslaught	324	L		0	Land			C	Secluded Steppe enters the battlefield tapped. {T}: Add {W} to your mana pool. Cycling {W} ({W}, Discard this card: Draw a card.)
+Starlit Sanctum	onslaught	325	L		0	Land			U	{T}: Add {1} to your mana pool. {W}, {T}, Sacrifice a Cleric creature: You gain life equal to the sacrificed creature's toughness. {B}, {T}, Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature's power.
+Tranquil Thicket	onslaught	326	L		0	Land			C	Tranquil Thicket enters the battlefield tapped. {T}: Add {G} to your mana pool. Cycling {G} ({G}, Discard this card: Draw a card.)
+Unholy Grotto	onslaught	327	L		0	Land			R	{T}: Add {1} to your mana pool. {B}, {T}: Put target Zombie card from your graveyard on top of your library.
+Windswept Heath	onslaught	328	L		0	Land			R	{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+Wirewood Lodge	onslaught	329	L		0	Land			U	{T}: Add {1} to your mana pool. {G}, {T}: Untap target Elf.
+Wooded Foothills	onslaught	330	L		0	Land			R	{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.
+Plains	onslaught	331	L		0	Basic Land - Plains			L	W
+Island	onslaught	335	L		0	Basic Land - Island			L	U
+Swamp	onslaught	339	L		0	Basic Land - Swamp			L	B
+Mountain	onslaught	343	L		0	Basic Land - Mountain			L	R
+Forest	onslaught	347	L		0	Basic Land - Forest			L	G
+Akroma, Angel of Wrath	legions	1	W	5WWW	8	Legendary Creature - Angel	6	6	R	Flying, first strike, vigilance, trample, haste, protection from black and from red
+Akroma's Devoted	legions	2	W	3W	4	Creature - Human Cleric	2	4	U	Cleric creatures have vigilance.
+Aven Redeemer	legions	3	W	3W	4	Creature - Bird Cleric	2	2	C	Flying {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Aven Warhawk	legions	4	W	4W	5	Creature - Bird Soldier	2	2	U	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.) Flying
+Beacon of Destiny	legions	5	W	1W	2	Creature - Human Cleric	1	3	R	{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.
+Celestial Gatekeeper	legions	6	W	3WW	5	Creature - Bird Cleric	2	2	R	Flying When Celestial Gatekeeper is put into a graveyard from the battlefield, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.
+Cloudreach Cavalry	legions	7	W	1W	2	Creature - Human Soldier	1	1	U	As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.
+Daru Mender	legions	8	W	W	1	Creature - Human Cleric	1	1	U	Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Daru Mender is turned face up, regenerate target creature.
+Daru Sanctifier	legions	9	W	3W	4	Creature - Human Cleric	1	4	C	Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Daru Sanctifier is turned face up, destroy target enchantment.
+Daru Stinger	legions	10	W	3W	4	Creature - Human Soldier	1	1	C	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Human and/or Soldier card you reveal in your hand.) {T}: Daru Stinger deals damage equal to the number of +1/+1 counters on it to target attacking or blocking creature.
+Defender of the Order	legions	11	W	3W	4	Creature - Human Cleric	2	4	R	Morph {W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Defender of the Order is turned face up, creatures you control get +0/+2 until end of turn.
+Deftblade Elite	legions	12	W	W	1	Creature - Human Soldier	1	1	C	Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.) {1}{W}: Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.
+Essence Sliver	legions	13	W	3W	4	Creature - Sliver	3	3	R	Whenever a Sliver deals damage, its controller gains that much life.
+Gempalm Avenger	legions	14	W	5W	6	Creature - Human Soldier	3	5	C	Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.) When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.
+Glowrider	legions	15	W	2W	3	Creature - Human Cleric	2	1	R	Noncreature spells cost {1} more to cast.
+Liege of the Axe	legions	16	W	3W	4	Creature - Human Soldier	2	3	U	Vigilance Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Liege of the Axe is turned face up, untap it.
+Lowland Tracker	legions	17	W	4W	5	Creature - Human Soldier	2	2	C	First strike Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Planar Guide	legions	18	W	W	1	Creature - Human Cleric	1	1	R	{3}{W}, Exile Planar Guide: Exile all creatures. At the beginning of the next end step, return those cards to the battlefield under their owners' control.
+Plated Sliver	legions	19	W	W	1	Creature - Sliver	1	1	C	All Sliver creatures get +0/+1.
+Starlight Invoker	legions	20	W	1W	2	Creature - Human Cleric Mutant	1	3	C	{7}{W}: You gain 5 life.
+Stoic Champion	legions	21	W	WW	2	Creature - Human Soldier	2	2	U	Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.
+Sunstrike Legionnaire	legions	22	W	1W	2	Creature - Human Soldier	1	2	R	Sunstrike Legionnaire doesn't untap during your untap step. Whenever another creature enters the battlefield, untap Sunstrike Legionnaire. {T}: Tap target creature with converted mana cost 3 or less.
+Swooping Talon	legions	23	W	4WW	6	Creature - Bird Soldier	2	6	U	Flying {1}: Swooping Talon loses flying until end of turn. Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Wall of Hope	legions	24	W	W	1	Creature - Wall	0	3	C	Defender (This creature can't attack.) Whenever Wall of Hope is dealt damage, you gain that much life.
+Ward Sliver	legions	25	W	4W	5	Creature - Sliver	2	2	U	As Ward Sliver enters the battlefield, choose a color. All Slivers have protection from the chosen color.
+Whipgrass Entangler	legions	26	W	2W	3	Creature - Human Cleric	1	3	C	{1}{W}: Until end of turn, target creature gains "This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield."
+White Knight	legions	27	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+Windborn Muse	legions	28	W	3W	4	Creature - Spirit	2	3	R	Flying (This creature can't be blocked except by creatures with flying or reach.) Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Wingbeat Warrior	legions	29	W	2W	3	Creature - Bird Soldier Warrior	2	1	C	Flying Morph {2}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.
+Aven Envoy	legions	30	U	U	1	Creature - Bird Soldier	0	2	C	Flying
+Cephalid Pathmage	legions	31	U	2U	3	Creature - Cephalid Wizard	1	2	C	Cephalid Pathmage is unblockable. {T}, Sacrifice Cephalid Pathmage: Target creature is unblockable this turn.
+Chromeshell Crab	legions	32	U	4U	5	Creature - Crab Beast	3	3	R	Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.
+Covert Operative	legions	33	U	4U	5	Creature - Human Wizard	3	2	C	Covert Operative is unblockable.
+Crookclaw Elder	legions	34	U	5U	6	Creature - Bird Wizard	3	2	U	Flying Tap two untapped Birds you control: Draw a card. Tap two untapped Wizards you control: Target creature gains flying until end of turn.
+Dermoplasm	legions	35	U	2U	3	Creature - Shapeshifter	1	1	R	Flying Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.
+Dreamborn Muse	legions	36	U	2UU	4	Creature - Spirit	2	2	R	At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.
+Echo Tracer	legions	37	U	2U	3	Creature - Human Wizard	2	2	C	Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Echo Tracer is turned face up, return target creature to its owner's hand.
+Fugitive Wizard	legions	38	U	U	1	Creature - Human Wizard	1	1	C	
+Gempalm Sorcerer	legions	39	U	2U	3	Creature - Human Wizard	2	2	U	Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.) When you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.
+Glintwing Invoker	legions	40	U	4U	5	Creature - Human Wizard Mutant	3	3	C	{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.
+Keeneye Aven	legions	41	U	3U	4	Creature - Bird Soldier	2	3	C	Flying Cycling {2} ({2}, Discard this card: Draw a card.)
+Keeper of the Nine Gales	legions	42	U	2U	3	Creature - Bird Wizard	1	2	R	Flying {T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.
+Master of the Veil	legions	43	U	2UU	4	Creature - Human Wizard	2	3	U	Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Master of the Veil is turned face up, you may turn target creature with morph face down.
+Merchant of Secrets	legions	44	U	2U	3	Creature - Human Wizard	1	1	C	When Merchant of Secrets enters the battlefield, draw a card.
+Mistform Seaswift	legions	45	U	3U	4	Creature - Illusion	3	1	C	Flying {1}: Mistform Seaswift becomes the creature type of your choice until end of turn. Morph {1}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Mistform Sliver	legions	46	U	1U	2	Creature - Illusion Sliver	1	1	C	All Slivers have "{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn."
+Mistform Ultimus	legions	47	U	3U	4	Legendary Creature - Illusion	3	3	R	Mistform Ultimus is every creature type (even if this card isn't on the battlefield).
+Mistform Wakecaster	legions	48	U	4U	5	Creature - Illusion	2	3	U	Flying {1}: Mistform Wakecaster becomes the creature type of your choice until end of turn. {2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.
+Primoc Escapee	legions	49	U	6U	7	Creature - Bird Beast	4	4	U	Flying Cycling {2} ({2}, Discard this card: Draw a card.)
+Riptide Director	legions	50	U	2UU	4	Creature - Human Wizard	2	3	R	{2}{U}{U}, {T}: Draw a card for each Wizard you control.
+Riptide Mangler	legions	51	U	1U	2	Creature - Beast	0	3	R	{1}{U}: Change Riptide Mangler's power to target creature's power. (This effect lasts indefinitely.)
+Shifting Sliver	legions	52	U	3U	4	Creature - Sliver	2	2	U	Slivers can't be blocked except by Slivers.
+Synapse Sliver	legions	53	U	4U	5	Creature - Sliver	3	3	R	Whenever a Sliver deals combat damage to a player, its controller may draw a card.
+Voidmage Apprentice	legions	54	U	1U	2	Creature - Human Wizard	1	1	C	Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Voidmage Apprentice is turned face up, counter target spell.
+Wall of Deceit	legions	55	U	1U	2	Creature - Wall	0	5	U	Defender (This creature can't attack.) {3}: Turn Wall of Deceit face down. Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Warped Researcher	legions	56	U	4U	5	Creature - Human Wizard Mutant	3	4	U	Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)
+Weaver of Lies	legions	57	U	5UU	7	Creature - Beast	4	4	R	Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Weaver of Lies is turned face up, turn any number of target creatures with morph other than Weaver of Lies face down.
+Willbender	legions	58	U	1U	2	Creature - Human Wizard	1	2	U	Morph {1}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Willbender is turned face up, change the target of target spell or ability with a single target.
+Aphetto Exterminator	legions	59	B	2B	3	Creature - Human Wizard	3	1	U	Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.
+Bane of the Living	legions	60	B	2BB	4	Creature - Insect	4	3	R	Morph {X}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Bane of the Living is turned face up, all creatures get -X/-X until end of turn.
+Blood Celebrant	legions	61	B	B	1	Creature - Human Cleric	1	1	C	{B}, Pay 1 life: Add one mana of any color to your mana pool.
+Corpse Harvester	legions	62	B	3BB	5	Creature - Zombie Wizard	3	3	U	{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, and put them into your hand. Then shuffle your library.
+Crypt Sliver	legions	63	B	1B	2	Creature - Sliver	1	1	C	All Slivers have "{T}: Regenerate target Sliver."
+Dark Supplicant	legions	64	B	B	1	Creature - Human Cleric	1	1	U	{T}, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle it.
+Deathmark Prelate	legions	65	B	3B	4	Creature - Human Cleric	2	3	U	{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate this ability only any time you could cast a sorcery.
+Drinker of Sorrow	legions	66	B	2B	3	Creature - Horror	5	3	R	Drinker of Sorrow can't block. Whenever Drinker of Sorrow deals combat damage, sacrifice a permanent.
+Dripping Dead	legions	67	B	4BB	6	Creature - Zombie	4	1	C	Dripping Dead can't block. Whenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Earthblighter	legions	68	B	1B	2	Creature - Human Cleric	1	1	U	{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.
+Embalmed Brawler	legions	69	B	2B	3	Creature - Zombie	2	2	C	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.) Whenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.
+Gempalm Polluter	legions	70	B	5B	6	Creature - Zombie	4	3	C	Cycling {B}{B} ({B}{B}, Discard this card: Draw a card.) When you cycle Gempalm Polluter, you may have target player lose 1 life for each Zombie on the battlefield.
+Ghastly Remains	legions	71	B	BBB	3	Creature - Zombie	0	0	R	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.) At the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.
+Goblin Turncoat	legions	72	B	1B	2	Creature - Goblin Mercenary	2	1	C	Sacrifice a Goblin: Regenerate Goblin Turncoat.
+Graveborn Muse	legions	73	B	2BB	4	Creature - Zombie Spirit	3	3	R	At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.
+Havoc Demon	legions	74	B	5BB	7	Creature - Demon	5	5	R	Flying When Havoc Demon is put into a graveyard from the battlefield, all creatures get -5/-5 until end of turn.
+Hollow Specter	legions	75	B	1BB	3	Creature - Specter	2	2	R	Flying Whenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.
+Infernal Caretaker	legions	76	B	3B	4	Creature - Human Cleric	2	2	C	Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.
+Noxious Ghoul	legions	77	B	3BB	5	Creature - Zombie	3	3	U	Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn.
+Phage the Untouchable	legions	78	B	3BBBB	7	Legendary Creature - Zombie Minion	4	4	R	When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game. Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated. Whenever Phage deals combat damage to a player, that player loses the game.
+Scion of Darkness	legions	79	B	5BBB	8	Creature - Avatar	6	6	R	Trample Whenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control. Cycling {3} ({3}, Discard this card: Draw a card.)
+Skinthinner	legions	80	B	1B	2	Creature - Zombie	2	1	C	Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.
+Smokespew Invoker	legions	81	B	2B	3	Creature - Zombie Mutant	3	1	C	{7}{B}: Target creature gets -3/-3 until end of turn.
+Sootfeather Flock	legions	82	B	4B	5	Creature - Bird	3	2	C	Flying Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Spectral Sliver	legions	83	B	2B	3	Creature - Sliver Spirit	2	2	U	All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."
+Toxin Sliver	legions	84	B	3B	4	Creature - Sliver	3	3	R	Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Vile Deacon	legions	85	B	2BB	4	Creature - Human Cleric	2	2	C	Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics on the battlefield.
+Withered Wretch	legions	86	B	BB	2	Creature - Zombie Cleric	2	2	U	{1}: Exile target card from a graveyard.
+Zombie Brute	legions	87	B	6B	7	Creature - Zombie	5	4	U	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.) Trample
+Blade Sliver	legions	88	R	2R	3	Creature - Sliver	2	2	U	All Sliver creatures get +1/+0.
+Bloodstoke Howler	legions	89	R	5R	6	Creature - Beast	3	4	C	Morph {6}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Bloodstoke Howler is turned face up, Beast creatures you control get +3/+0 until end of turn.
+Clickslither	legions	90	R	1RRR	4	Creature - Insect	3	3	R	Haste Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
+Crested Craghorn	legions	91	R	4R	5	Creature - Goat Beast	4	1	C	Haste Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Flamewave Invoker	legions	92	R	2R	3	Creature - Goblin Mutant	2	2	C	{7}{R}: Flamewave Invoker deals 5 damage to target player.
+Frenetic Raptor	legions	93	R	5R	6	Creature - Lizard Beast	6	6	U	Beasts can't block.
+Gempalm Incinerator	legions	94	R	2R	3	Creature - Goblin	2	1	U	Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.) When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.
+Goblin Assassin	legions	95	R	3RR	5	Creature - Goblin Assassin	2	2	U	Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.
+Goblin Clearcutter	legions	96	R	3R	4	Creature - Goblin	3	3	U	{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+Goblin Dynamo	legions	97	R	5RR	7	Creature - Goblin Mutant	4	4	U	{T}: Goblin Dynamo deals 1 damage to target creature or player. {X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.
+Goblin Firebug	legions	98	R	1R	2	Creature - Goblin	2	2	C	When Goblin Firebug leaves the battlefield, sacrifice a land.
+Goblin Goon	legions	99	R	3R	4	Creature - Goblin Mutant	6	6	R	Goblin Goon can't attack unless you control more creatures than defending player. Goblin Goon can't block unless you control more creatures than attacking player.
+Goblin Grappler	legions	100	R	R	1	Creature - Goblin	1	1	C	Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Goblin Lookout	legions	101	R	1R	2	Creature - Goblin	1	2	C	{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.
+Hunter Sliver	legions	102	R	1R	2	Creature - Sliver	1	1	C	All Sliver creatures have provoke. (When a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)
+Imperial Hellkite	legions	103	R	5RR	7	Creature - Dragon	6	6	R	Flying Morph {6}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+Kilnmouth Dragon	legions	104	R	5RR	7	Creature - Dragon	5	5	R	Amplify 3 (As this card enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.) Flying {T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+Lavaborn Muse	legions	105	R	3R	4	Creature - Spirit	3	3	R	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.
+Macetail Hystrodon	legions	106	R	6R	7	Creature - Beast	4	4	C	First strike, haste Cycling {3} ({3}, Discard this card: Draw a card.)
+Magma Sliver	legions	107	R	3R	4	Creature - Sliver	3	3	R	All Slivers have "{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield."
+Ridgetop Raptor	legions	108	R	3R	4	Creature - Lizard Beast	2	1	U	Double strike (This creature deals both first-strike and regular combat damage.)
+Rockshard Elemental	legions	109	R	5RR	7	Creature - Elemental	4	3	R	Double strike (This creature deals both first-strike and regular combat damage.) Morph {4}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Shaleskin Plower	legions	110	R	3R	4	Creature - Beast	3	2	C	Morph {4}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Shaleskin Plower is turned face up, destroy target land.
+Skirk Alarmist	legions	111	R	1R	2	Creature - Human Wizard	1	2	R	Haste {T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.
+Skirk Drill Sergeant	legions	112	R	1R	2	Creature - Goblin	2	1	U	Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from the battlefield, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.
+Skirk Marauder	legions	113	R	1R	2	Creature - Goblin	2	1	C	Morph {2}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.
+Skirk Outrider	legions	114	R	3R	4	Creature - Goblin	2	2	C	As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.
+Unstable Hulk	legions	115	R	1RR	3	Creature - Goblin Mutant	2	2	R	Morph {3}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.
+Warbreak Trumpeter	legions	116	R	R	1	Creature - Goblin	1	1	U	Morph {X}{X}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Warbreak Trumpeter is turned face up, put X 1/1 red Goblin creature tokens onto the battlefield.
+Berserk Murlodont	legions	117	G	4G	5	Creature - Beast	3	3	C	Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Branchsnap Lorian	legions	118	G	1GG	3	Creature - Beast	4	1	U	Trample Morph {G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Brontotherium	legions	119	G	4GG	6	Creature - Beast	5	3	U	Trample Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Brood Sliver	legions	120	G	4G	5	Creature - Sliver	3	3	R	Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.
+Caller of the Claw	legions	121	G	2G	3	Creature - Elf	2	2	R	Flash When Caller of the Claw enters the battlefield, put a 2/2 green Bear creature token onto the battlefield for each nontoken creature put into your graveyard from the battlefield this turn.
+Canopy Crawler	legions	122	G	3G	4	Creature - Beast	2	2	U	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.) {T}: Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.
+Defiant Elf	legions	123	G	G	1	Creature - Elf	1	1	C	Trample
+Elvish Soultiller	legions	124	G	3GG	5	Creature - Elf Mutant	5	4	R	When Elvish Soultiller is put into a graveyard from the battlefield, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.
+Enormous Baloth	legions	125	G	6G	7	Creature - Beast	7	7	U	
+Feral Throwback	legions	126	G	4GG	6	Creature - Beast	3	3	R	Amplify 2 (As this card enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.) Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Gempalm Strider	legions	127	G	1G	2	Creature - Elf	2	2	U	Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.) When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.
+Glowering Rogon	legions	128	G	5G	6	Creature - Beast	4	4	C	Amplify 1 (As this card enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)
+Hundroog	legions	129	G	6G	7	Creature - Beast	4	7	C	Cycling {3} ({3}, Discard this card: Draw a card.)
+Krosan Cloudscraper	legions	130	G	7GGG	10	Creature - Beast Mutant	13	13	R	At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}. Morph {7}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Krosan Vorine	legions	131	G	3G	4	Creature - Cat Beast	3	2	C	Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.) Krosan Vorine can't be blocked by more than one creature.
+Nantuko Vigilante	legions	132	G	3G	4	Creature - Insect Druid Mutant	3	2	C	Morph {1}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.
+Needleshot Gourna	legions	133	G	4GG	6	Creature - Beast	3	6	C	Reach (This creature can block creatures with flying.)
+Patron of the Wild	legions	134	G	G	1	Creature - Elf	1	1	C	Morph {2}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Patron of the Wild is turned face up, target creature gets +3/+3 until end of turn.
+Primal Whisperer	legions	135	G	4G	5	Creature - Elf Soldier	2	2	R	Primal Whisperer gets +2/+2 for each face-down creature on the battlefield. Morph {3}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Quick Sliver	legions	136	G	1G	2	Creature - Sliver	1	1	C	Flash Any player may play Sliver cards as though they had flash.
+Root Sliver	legions	137	G	3G	4	Creature - Sliver	2	2	U	Root Sliver can't be countered. Sliver spells can't be countered by spells or abilities.
+Seedborn Muse	legions	138	G	3GG	5	Creature - Spirit	2	4	R	Untap all permanents you control during each other player's untap step.
+Stonewood Invoker	legions	139	G	1G	2	Creature - Elf Mutant	2	2	C	{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
+Timberwatch Elf	legions	140	G	2G	3	Creature - Elf	1	2	C	{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.
+Totem Speaker	legions	141	G	4G	5	Creature - Elf Druid	3	3	U	Whenever a Beast enters the battlefield, you may gain 3 life.
+Tribal Forcemage	legions	142	G	1G	2	Creature - Elf Wizard	1	1	R	Morph {1}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Tribal Forcemage is turned face up, creatures of the creature type of your choice get +2/+2 and gain trample until end of turn.
+Vexing Beetle	legions	143	G	4G	5	Creature - Insect	3	3	R	Vexing Beetle can't be countered. Vexing Beetle gets +3/+3 as long as no opponent controls a creature.
+Wirewood Channeler	legions	144	G	3G	4	Creature - Elf Druid	2	2	U	{T}: Add X mana of any one color to your mana pool, where X is the number of Elves on the battlefield.
+Wirewood Hivemaster	legions	145	G	1G	2	Creature - Elf	1	1	U	Whenever another nontoken Elf enters the battlefield, you may put a 1/1 green Insect creature token onto the battlefield.
+Ageless Sentinels	scourge	1	W	3W	4	Creature - Wall	4	4	R	Defender (This creature can't attack.) Flying When Ageless Sentinels blocks, it becomes a Bird Giant, and it loses defender. (It's no longer a Wall. This effect lasts indefinitely.)
+Astral Steel	scourge	2	W	2W	3	Instant			C	Target creature gets +1/+2 until end of turn. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Aven Farseer	scourge	3	W	1W	2	Creature - Bird Soldier	1	1	C	Flying Whenever a permanent is turned face up, put a +1/+1 counter on Aven Farseer.
+Aven Liberator	scourge	4	W	2WW	4	Creature - Bird Soldier	2	3	C	Flying Morph {3}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Aven Liberator is turned face up, target creature you control gains protection from the color of your choice until end of turn.
+Daru Spiritualist	scourge	5	W	1W	2	Creature - Human Cleric	1	1	C	Whenever a Cleric creature you control becomes the target of a spell or ability, it gets +0/+2 until end of turn.
+Daru Warchief	scourge	6	W	2WW	4	Creature - Human Soldier	1	1	U	Soldier spells you cast cost {1} less to cast. Soldier creatures you control get +1/+2.
+Dawn Elemental	scourge	7	W	WWWW	4	Creature - Elemental	3	3	R	Flying Prevent all damage that would be dealt to Dawn Elemental.
+Decree of Justice	scourge	8	W	XX2WW	4	Sorcery			R	Put X 4/4 white Angel creature tokens with flying onto the battlefield. Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.) When you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield.
+Dimensional Breach	scourge	9	W	5WW	7	Sorcery			R	Exile all permanents. For as long as any of those cards remain exiled, at the beginning of each player's upkeep, that player returns one of the exiled cards he or she owns to the battlefield.
+Dragon Scales	scourge	10	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2 and has vigilance. When a creature with converted mana cost 6 or more enters the battlefield, you may return Dragon Scales from your graveyard to the battlefield attached to that creature.
+Dragonstalker	scourge	11	W	4W	5	Creature - Bird Soldier	3	3	U	Flying, protection from Dragons
+Eternal Dragon	scourge	12	W	5WW	7	Creature - Dragon Spirit	5	5	R	Flying {3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep. Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+Exiled Doomsayer	scourge	13	W	1W	2	Creature - Human Cleric	1	2	R	All morph costs cost {2} more. (This doesn't affect the cost to cast creature spells face down.)
+Force Bubble	scourge	14	W	2WW	4	Enchantment			R	If damage would be dealt to you, put that many depletion counters on Force Bubble instead. When there are four or more depletion counters on Force Bubble, sacrifice it. At the beginning of the end step, remove all depletion counters from Force Bubble.
+Frontline Strategist	scourge	15	W	W	1	Creature - Human Soldier	1	1	C	Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Frontline Strategist is turned face up, prevent all combat damage non-Soldier creatures would deal this turn.
+Gilded Light	scourge	16	W	1W	2	Instant			U	You gain shroud until end of turn. (You can't be the target of spells or abilities.) Cycling {2} ({2}, Discard this card: Draw a card.)
+Guilty Conscience	scourge	17	W	W	1	Enchantment - Aura			C	Enchant creature Whenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.
+Karona's Zealot	scourge	18	W	4W	5	Creature - Human Cleric	2	5	U	Morph {3}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Karona's Zealot is turned face up, all damage that would be dealt to it this turn is dealt to target creature instead.
+Noble Templar	scourge	19	W	5W	6	Creature - Human Cleric Soldier	3	6	C	Vigilance Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+Rain of Blades	scourge	20	W	W	1	Instant			U	Rain of Blades deals 1 damage to each attacking creature.
+Recuperate	scourge	21	W	3W	4	Instant			C	Choose one - You gain 6 life; or prevent the next 6 damage that would be dealt to target creature this turn.
+Reward the Faithful	scourge	22	W	W	1	Instant			U	Any number of target players each gains life equal to the highest converted mana cost among permanents you control.
+Silver Knight	scourge	23	W	WW	2	Creature - Human Knight	2	2	U	First strike, protection from red
+Trap Digger	scourge	24	W	3W	4	Creature - Human Soldier	1	3	R	{2}{W}, {T}: Put a trap counter on target land you control. Sacrifice a land with a trap counter on it: Trap Digger deals 3 damage to target attacking creature without flying.
+Wing Shards	scourge	25	W	1WW	3	Instant			U	Target player sacrifices an attacking creature. Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Wipe Clean	scourge	26	W	1W	2	Instant			C	Exile target enchantment. Cycling {3} ({3}, Discard this card: Draw a card.)
+Zealous Inquisitor	scourge	27	W	2W	3	Creature - Human Cleric	2	2	C	{1}{W}: The next 1 damage that would be dealt to Zealous Inquisitor this turn is dealt to target creature instead.
+Aphetto Runecaster	scourge	28	U	3U	4	Creature - Human Wizard	2	3	U	Whenever a permanent is turned face up, you may draw a card.
+Brain Freeze	scourge	29	U	1U	2	Instant			U	Target player puts the top three cards of his or her library into his or her graveyard. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Coast Watcher	scourge	30	U	1U	2	Creature - Bird Soldier	1	1	C	Flying, protection from green
+Day of the Dragons	scourge	31	U	4UUU	7	Enchantment			R	When Day of the Dragons enters the battlefield, exile all creatures you control. Then put that many 5/5 red Dragon creature tokens with flying onto the battlefield. When Day of the Dragons leaves the battlefield, sacrifice all Dragons you control. Then return the exiled cards to the battlefield under your control.
+Decree of Silence	scourge	32	U	6UU	8	Enchantment			R	Whenever an opponent casts a spell, counter that spell and put a depletion counter on Decree of Silence. If there are three or more depletion counters on Decree of Silence, sacrifice it. Cycling {4}{U}{U} ({4}{U}{U}, Discard this card: Draw a card.) When you cycle Decree of Silence, you may counter target spell.
+Dispersal Shield	scourge	33	U	1U	2	Instant			C	Counter target spell if its converted mana cost is less than or equal to the highest converted mana cost among permanents you control.
+Dragon Wings	scourge	34	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature has flying. Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.) When a creature with converted mana cost 6 or more enters the battlefield, you may return Dragon Wings from your graveyard to the battlefield attached to that creature.
+Faces of the Past	scourge	35	U	2U	3	Enchantment			R	Whenever a creature is put into a graveyard from the battlefield, tap all untapped creatures that share a creature type with it or untap all tapped creatures that share a creature type with it.
+Frozen Solid	scourge	36	U	1UU	3	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step. When enchanted creature is dealt damage, destroy it.
+Hindering Touch	scourge	37	U	3U	4	Instant			C	Counter target spell unless its controller pays {2}. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Long-Term Plans	scourge	38	U	2U	3	Instant			U	Search your library for a card, shuffle your library, then put that card third from the top.
+Mercurial Kite	scourge	39	U	3U	4	Creature - Bird	2	2	C	Flying Whenever Mercurial Kite deals combat damage to a creature, tap that creature. That creature doesn't untap during its controller's next untap step.
+Metamorphose	scourge	40	U	1U	2	Instant			U	Put target permanent an opponent controls on top of its owner's library. That opponent may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.
+Mind's Desire	scourge	41	U	4UU	6	Sorcery			R	Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.) Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Mischievous Quanar	scourge	42	U	4U	5	Creature - Beast	3	3	R	{3}{U}{U}: Turn Mischievous Quanar face down. Morph {1}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.
+Mistform Warchief	scourge	43	U	2U	3	Creature - Illusion	1	3	U	Creature spells you cast that share a creature type with Mistform Warchief cost {1} less to cast. {T}: Mistform Warchief becomes the creature type of your choice until end of turn.
+Parallel Thoughts	scourge	44	U	3UU	5	Enchantment			R	When Parallel Thoughts enters the battlefield, search your library for seven cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library. If you would draw a card, you may instead put the top card of the pile you exiled into your hand.
+Pemmin's Aura	scourge	45	U	1UU	3	Enchantment - Aura			U	Enchant creature {U}: Untap enchanted creature. {U}: Enchanted creature gains flying until end of turn. {U}: Enchanted creature gains shroud until end of turn. (It can't be the target of spells or abilities.) {1}: Enchanted creature gets +1/-1 or -1/+1 until end of turn.
+Raven Guild Initiate	scourge	46	U	2U	3	Creature - Human Wizard	1	4	C	Morph-Return a Bird you control to its owner's hand. (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Raven Guild Master	scourge	47	U	1UU	3	Creature - Human Wizard Mutant	1	1	R	Whenever Raven Guild Master deals combat damage to a player, that player exiles the top ten cards of his or her library. Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Riptide Survivor	scourge	48	U	2U	3	Creature - Human Wizard	2	1	U	Morph {1}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Riptide Survivor is turned face up, discard two cards, then draw three cards.
+Rush of Knowledge	scourge	49	U	4U	5	Sorcery			C	Draw cards equal to the highest converted mana cost among permanents you control.
+Scornful Egotist	scourge	50	U	7U	8	Creature - Human Wizard	1	1	C	Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Shoreline Ranger	scourge	51	U	5U	6	Creature - Bird Soldier	3	4	C	Flying Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand. Then shuffle your library.)
+Stifle	scourge	52	U	U	1	Instant			R	Counter target activated or triggered ability. (Mana abilities can't be targeted.)
+Temporal Fissure	scourge	53	U	4U	5	Sorcery			C	Return target permanent to its owner's hand. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Thundercloud Elemental	scourge	54	U	5UU	7	Creature - Elemental	3	4	U	Flying {3}{U}: Tap all creatures with toughness 2 or less. {3}{U}: All other creatures lose flying until end of turn.
+Bladewing's Thrall	scourge	55	B	2BB	4	Creature - Zombie	3	3	U	Bladewing's Thrall has flying as long as you control a Dragon. When a Dragon enters the battlefield, you may return Bladewing's Thrall from your graveyard to the battlefield.
+Cabal Conditioning	scourge	56	B	6B	7	Sorcery			R	Any number of target players each discards a number of cards equal to the highest converted mana cost among permanents you control.
+Cabal Interrogator	scourge	57	B	1B	2	Creature - Zombie Wizard	1	1	U	{X}{B}, {T}: Target player reveals X cards from his or her hand and you choose one of them. That player discards that card. Activate this ability only any time you could cast a sorcery.
+Call to the Grave	scourge	58	B	4B	5	Enchantment			R	At the beginning of each player's upkeep, that player sacrifices a non-Zombie creature. At the beginning of the end step, if no creatures are on the battlefield, sacrifice Call to the Grave.
+Carrion Feeder	scourge	59	B	B	1	Creature - Zombie	1	1	C	Carrion Feeder can't block. Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.
+Chill Haunting	scourge	60	B	1B	2	Instant			U	As an additional cost to cast Chill Haunting, exile X creature cards from your graveyard. Target creature gets -X/-X until end of turn.
+Clutch of Undeath	scourge	61	B	3BB	5	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3 as long as it's a Zombie. Otherwise, it gets -3/-3.
+Consumptive Goo	scourge	62	B	BB	2	Creature - Ooze	1	1	R	{2}{B}{B}: Target creature gets -1/-1 until end of turn. Put a +1/+1 counter on Consumptive Goo.
+Death's-Head Buzzard	scourge	63	B	1BB	3	Creature - Bird	2	1	C	Flying When Death's-Head Buzzard is put into a graveyard from the battlefield, all creatures get -1/-1 until end of turn.
+Decree of Pain	scourge	64	B	6BB	8	Sorcery			R	Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way. Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.) When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
+Dragon Shadow	scourge	65	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.) When a creature with converted mana cost 6 or more enters the battlefield, you may return Dragon Shadow from your graveyard to the battlefield attached to that creature.
+Fatal Mutation	scourge	66	B	B	1	Enchantment - Aura			U	Enchant creature When enchanted creature is turned face up, destroy it. It can't be regenerated.
+Final Punishment	scourge	67	B	3BB	5	Sorcery			R	Target player loses life equal to the damage already dealt to him or her this turn.
+Lethal Vapors	scourge	68	B	2BB	4	Enchantment			R	Whenever a creature enters the battlefield, destroy it. {0}: Destroy Lethal Vapors. You skip your next turn. Any player may activate this ability.
+Lingering Death	scourge	69	B	1B	2	Enchantment - Aura			C	Enchant creature At the beginning of the end step of enchanted creature's controller, that player sacrifices that creature.
+Nefashu	scourge	70	B	4BB	6	Creature - Zombie Mutant	5	3	R	Whenever Nefashu attacks, up to five target creatures each get -1/-1 until end of turn.
+Putrid Raptor	scourge	71	B	4BB	6	Creature - Zombie Lizard Beast	4	4	U	Morph-Discard a Zombie card. (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Reaping the Graves	scourge	72	B	2B	3	Instant			C	Return target creature card from your graveyard to your hand. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Skulltap	scourge	73	B	1B	2	Sorcery			C	As an additional cost to cast Skulltap, sacrifice a creature. Draw two cards.
+Soul Collector	scourge	74	B	3BB	5	Creature - Vampire	3	4	R	Flying Whenever a creature dealt damage by Soul Collector this turn is put into a graveyard, return that card to the battlefield under your control. Morph {B}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Tendrils of Agony	scourge	75	B	2BB	4	Sorcery			U	Target player loses 2 life and you gain 2 life. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Twisted Abomination	scourge	76	B	5B	6	Creature - Zombie Mutant	5	3	C	{B}: Regenerate Twisted Abomination. Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)
+Unburden	scourge	77	B	1BB	3	Sorcery			C	Target player discards two cards. Cycling {2} ({2}, Discard this card: Draw a card.)
+Undead Warchief	scourge	78	B	2BB	4	Creature - Zombie	1	1	U	Zombie spells you cast cost {1} less to cast. Zombie creatures you control get +2/+1.
+Unspeakable Symbol	scourge	79	B	1BB	3	Enchantment			U	Pay 3 life: Put a +1/+1 counter on target creature.
+Vengeful Dead	scourge	80	B	3B	4	Creature - Zombie	3	2	C	Whenever Vengeful Dead or another Zombie is put into a graveyard from the battlefield, each opponent loses 1 life.
+Zombie Cutthroat	scourge	81	B	3BB	5	Creature - Zombie	3	4	C	Morph-Pay 5 life. (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Bonethorn Valesk	scourge	82	R	4R	5	Creature - Beast	4	2	C	Whenever a permanent is turned face up, Bonethorn Valesk deals 1 damage to target creature or player.
+Carbonize	scourge	83	R	2R	3	Instant			U	Carbonize deals 3 damage to target creature or player. That creature can't be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Chartooth Cougar	scourge	84	R	5R	6	Creature - Cat Beast	4	4	C	{R}: Chartooth Cougar gets +1/+0 until end of turn. Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+Decree of Annihilation	scourge	85	R	8RR	10	Sorcery			R	Exile all artifacts, creatures, and lands from the battlefield, all cards from all graveyards, and all cards from all hands. Cycling {5}{R}{R} ({5}{R}{R}, Discard this card: Draw a card.) When you cycle Decree of Annihilation, destroy all lands.
+Dragon Breath	scourge	86	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature has haste. {R}: Enchanted creature gets +1/+0 until end of turn. When a creature with converted mana cost 6 or more enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
+Dragon Mage	scourge	87	R	5RR	7	Creature - Dragon Wizard	5	5	R	Flying Whenever Dragon Mage deals combat damage to a player, each player discards his or her hand and draws seven cards.
+Dragon Tyrant	scourge	88	R	8RR	10	Creature - Dragon	6	6	R	Flying, trample Double strike (This creature deals both first-strike and regular combat damage.) At the beginning of your upkeep, sacrifice Dragon Tyrant unless you pay {R}{R}{R}{R}. {R}: Dragon Tyrant gets +1/+0 until end of turn.
+Dragonspeaker Shaman	scourge	89	R	1RR	3	Creature - Human Barbarian Shaman	2	2	U	Dragon spells you cast cost {2} less to cast.
+Dragonstorm	scourge	90	R	8R	9	Sorcery			R	Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library. Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Enrage	scourge	91	R	XR	1	Instant			U	Target creature gets +X/+0 until end of turn.
+Extra Arms	scourge	92	R	4R	5	Enchantment - Aura			U	Enchant creature Whenever enchanted creature attacks, it deals 2 damage to target creature or player.
+Form of the Dragon	scourge	93	R	4RRR	7	Enchantment			R	At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player. At the beginning of the end step, your life total becomes 5. Creatures without flying can't attack you.
+Goblin Brigand	scourge	94	R	1R	2	Creature - Goblin Warrior	2	2	C	Goblin Brigand attacks each turn if able.
+Goblin Psychopath	scourge	95	R	3R	4	Creature - Goblin Mutant	5	5	U	Whenever Goblin Psychopath attacks or blocks, flip a coin. If you lose the flip, the next time it would deal combat damage this turn, it deals that damage to you instead.
+Goblin War Strike	scourge	96	R	R	1	Sorcery			C	Goblin War Strike deals damage equal to the number of Goblins you control to target player.
+Goblin Warchief	scourge	97	R	1RR	3	Creature - Goblin	2	2	U	Goblin spells you cast cost {1} less to cast. Goblin creatures you control have haste.
+Grip of Chaos	scourge	98	R	4RR	6	Enchantment			R	Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)
+Misguided Rage	scourge	99	R	2R	3	Sorcery			C	Target player sacrifices a permanent.
+Pyrostatic Pillar	scourge	100	R	1R	2	Enchantment			U	Whenever a player casts a spell with converted mana cost 3 or less, Pyrostatic Pillar deals 2 damage to that player.
+Rock Jockey	scourge	101	R	2R	3	Creature - Goblin	3	3	C	You can't cast Rock Jockey if you've played a land this turn. You can't play lands if you've cast Rock Jockey this turn.
+Scattershot	scourge	102	R	2R	3	Instant			C	Scattershot deals 1 damage to target creature. Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Siege-Gang Commander	scourge	103	R	3RR	5	Creature - Goblin	2	2	R	When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield. {1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+Skirk Volcanist	scourge	104	R	3R	4	Creature - Goblin	3	1	U	Morph-Sacrifice two Mountains. (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Skirk Volcanist is turned face up, it deals 3 damage divided as you choose among any number of target creatures.
+Spark Spray	scourge	105	R	R	1	Instant			C	Spark Spray deals 1 damage to target creature or player. Cycling {R} ({R}, Discard this card: Draw a card.)
+Sulfuric Vortex	scourge	106	R	1RR	3	Enchantment			R	At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player. If a player would gain life, that player gains no life instead.
+Torrent of Fire	scourge	107	R	3RR	5	Sorcery			C	Torrent of Fire deals damage equal to the highest converted mana cost among permanents you control to target creature or player.
+Uncontrolled Infestation	scourge	108	R	1R	2	Enchantment - Aura			C	Enchant nonbasic land When enchanted land becomes tapped, destroy it.
+Accelerated Mutation	scourge	109	G	3GG	5	Instant			C	Target creature gets +X/+X until end of turn, where X is the highest converted mana cost among permanents you control.
+Alpha Status	scourge	110	G	2G	3	Enchantment - Aura			U	Enchant creature Enchanted creature gets +2/+2 for each other creature on the battlefield that shares a creature type with it.
+Ambush Commander	scourge	111	G	3GG	5	Creature - Elf	2	2	R	Forests you control are 1/1 green Elf creatures that are still lands. {1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
+Ancient Ooze	scourge	112	G	5GG	7	Creature - Ooze	*	*	R	Ancient Ooze's power and toughness are each equal to the total converted mana cost of other creatures you control.
+Break Asunder	scourge	113	G	2GG	4	Sorcery			C	Destroy target artifact or enchantment. Cycling {2} ({2}, Discard this card: Draw a card.)
+Claws of Wirewood	scourge	114	G	3G	4	Sorcery			U	Claws of Wirewood deals 3 damage to each creature with flying and each player. Cycling {2} ({2}, Discard this card: Draw a card.)
+Decree of Savagery	scourge	115	G	7GG	9	Instant			R	Put four +1/+1 counters on each creature you control. Cycling {4}{G}{G} ({4}{G}{G}, Discard this card: Draw a card.) When you cycle Decree of Savagery, you may put four +1/+1 counters on target creature.
+Divergent Growth	scourge	116	G	G	1	Instant			C	Until end of turn, lands you control gain "{T}: Add one mana of any color to your mana pool."
+Dragon Fangs	scourge	117	G	1G	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 and has trample. When a creature with converted mana cost 6 or more enters the battlefield, you may return Dragon Fangs from your graveyard to the battlefield attached to that creature.
+Elvish Aberration	scourge	118	G	5G	6	Creature - Elf Mutant	4	5	U	{T}: Add {G}{G}{G} to your mana pool. Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Fierce Empath	scourge	119	G	2G	3	Creature - Elf	1	1	C	When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or more, reveal it, put it into your hand, then shuffle your library.
+Forgotten Ancient	scourge	120	G	3G	4	Creature - Elemental	0	3	R	Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient. At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+Hunting Pack	scourge	121	G	5GG	7	Instant			U	Put a 4/4 green Beast creature token onto the battlefield. Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Krosan Drover	scourge	122	G	3G	4	Creature - Elf	2	2	C	Creature spells you cast with converted mana cost 6 or more cost {2} less to cast.
+Krosan Warchief	scourge	123	G	2G	3	Creature - Beast	2	2	U	Beast spells you cast cost {1} less to cast. {1}{G}: Regenerate target Beast.
+Kurgadon	scourge	124	G	4G	5	Creature - Beast	3	3	U	Whenever you cast a creature spell with converted mana cost 6 or more, put three +1/+1 counters on Kurgadon.
+One with Nature	scourge	125	G	G	1	Enchantment - Aura			U	Enchant creature Whenever enchanted creature deals combat damage to a player, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+Primitive Etchings	scourge	126	G	2GG	4	Enchantment			R	Reveal the first card you draw each turn. Whenever you reveal a creature card this way, draw a card.
+Root Elemental	scourge	127	G	4GG	6	Creature - Elemental	6	5	R	Morph {5}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Root Elemental is turned face up, you may put a creature card from your hand onto the battlefield.
+Sprouting Vines	scourge	128	G	2G	3	Instant			C	Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library. Storm (When you cast this spell, copy it for each spell cast before it this turn.)
+Titanic Bulvox	scourge	129	G	6GG	8	Creature - Beast	7	4	C	Trample Morph {4}{G}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+Treetop Scout	scourge	130	G	G	1	Creature - Elf Scout	1	1	C	Treetop Scout can't be blocked except by creatures with flying.
+Upwelling	scourge	131	G	3G	4	Enchantment			R	Mana pools don't empty as steps, phases, or turns end.
+Wirewood Guardian	scourge	132	G	5GG	7	Creature - Elf Mutant	6	6	C	Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Wirewood Symbiote	scourge	133	G	G	1	Creature - Insect	1	1	U	Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+Woodcloaker	scourge	134	G	5G	6	Creature - Elf	3	3	C	Morph {2}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Woodcloaker is turned face up, target creature gains trample until end of turn.
+Xantid Swarm	scourge	135	G	G	1	Creature - Insect	0	1	R	Flying Whenever Xantid Swarm attacks, defending player can't cast spells this turn.
+Bladewing the Risen	scourge	136	BR	3BBRR	7	Legendary Creature - Zombie Dragon	4	4	R	Flying When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield. {B}{R}: Dragon creatures get +1/+1 until end of turn.
+Edgewalker	scourge	137	WB	1WB	3	Creature - Human Cleric	2	2	U	Cleric spells you cast cost {W}{B} less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost {1}{W}, it costs {1} to cast.)
+Karona, False God	scourge	138	WUBRG	1WUBRG	6	Legendary Creature - Avatar	5	5	R	Haste At the beginning of each player's upkeep, that player untaps Karona, False God and gains control of it. Whenever Karona attacks, creatures of the creature type of your choice get +3/+3 until end of turn.
+Sliver Overlord	scourge	139	WUBRG	WUBRG	5	Legendary Creature - Sliver Mutant	7	7	R	{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library. {3}: Gain control of target Sliver. (This effect lasts indefinitely.)
+Ark of Blight	scourge	140	A	2	2	Artifact			U	{3}, {T}, Sacrifice Ark of Blight: Destroy target land.
+Proteus Machine	scourge	141	A	3	3	Artifact Creature - Shapeshifter	2	2	U	Morph {0} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.) When Proteus Machine is turned face up, it becomes the creature type of your choice. (This effect lasts indefinitely.)
+Stabilizer	scourge	142	A	2	2	Artifact			R	Players can't cycle cards.
+Temple of the False God	scourge	143	L		0	Land			U	{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands.

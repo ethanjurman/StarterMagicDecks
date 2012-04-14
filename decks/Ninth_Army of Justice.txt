@@ -1,0 +1,17 @@
+16	plains
+1	infantry veteran
+2	suntail hawk
+3	crossbow infantry
+2	master decoy
+2	veteran cavalier
+1	skyhunter prowler
+1	venerable monk
+1	ballista squad
+3	angel of mercy
+1	phyrexian hulk
+1	mending hands
+1	righteousness
+2	pacifism
+1	glorious anthem
+1	chastise
+1	angel's feather

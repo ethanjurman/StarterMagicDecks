@@ -1,0 +1,54 @@
+14	island
+11	swamp
+3	manta riders
+4	merfolk looter
+1	keeper of the mind
+1	rootwater hunter
+1	thalakos scout
+3	vampire hounds
+2	mind maggots
+1	skyshroud vampire
+1	mindless automaton
+2	mana leak
+2	counterspell
+1	capsize
+2	forbid
+1	treasure trove
+1	oath of scholars
+2	dark ritual
+2	diabolic edict
+2	dark banishing
+2	necrologia
+1	null brooch
+8	island
+4	rootwater depths
+7	swamp
+4	underground river
+2	undiscovered paradise
+4	merfolk looter
+4	merfolk traders
+4	man-o'-war
+2	blood pet
+1	vampire hounds
+1	necratog
+2	fallen angel
+1	spirit of the night
+1	bottle gnomes
+2	impulse
+2	memory lapse
+2	counterspell
+1	dissipate
+1	ancestral memories
+1	dark ritual
+1	haunting misery
+3	living death
+1	spinning darkness
+1	phyrexian furnace
+2	hydroblast
+1	sleight of mind
+1	blood pet
+3	dread of night
+1	crypt rats
+4	nekrataal
+1	living death
+2	ice floe

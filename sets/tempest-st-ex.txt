@@ -1,0 +1,622 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Abandon Hope	tempest	1	B	X1B	2	Sorcery			U	As an additional cost to cast Abandon Hope, discard X cards. Look at target opponent's hand and choose X cards from it. That player discards those cards.
+Bellowing Fiend	tempest	2	B	4B	5	Creature - Spirit	3	3	R	Flying Whenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 damage to that creature's controller and 3 damage to you.
+Blood Pet	tempest	3	B	B	1	Creature - Thrull	1	1	C	Sacrifice Blood Pet: Add {B} to your mana pool.
+Bounty Hunter	tempest	4	B	2BB	4	Creature - Human Archer Minion	2	2	R	{T}: Put a bounty counter on target nonblack creature. {T}: Destroy target creature with a bounty counter on it.
+Carrionette	tempest	5	B	1B	2	Creature - Skeleton	1	1	R	{2}{B}{B}: Exile Carrionette and target creature unless that creature's controller pays {2}. Activate this ability only if Carrionette is in your graveyard.
+Clot Sliver	tempest	6	B	1B	2	Creature - Sliver	1	1	C	All Slivers have "{2}: Regenerate this permanent."
+Coercion	tempest	7	B	2B	3	Sorcery			C	Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Coffin Queen	tempest	8	B	2B	3	Creature - Zombie Wizard	1	1	R	You may choose not to untap Coffin Queen during your untap step. {2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.
+Commander Greven il-Vec	tempest	9	B	3BBB	6	Legendary Creature - Human Warrior	7	5	R	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) When Commander Greven il-Vec enters the battlefield, sacrifice a creature.
+Corpse Dance	tempest	10	B	2B	3	Instant			R	Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.) Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+Dark Banishing	tempest	11	B	2B	3	Instant			C	Destroy target nonblack creature. It can't be regenerated.
+Dark Ritual	tempest	12	B	B	1	Instant			C	Add {B}{B}{B} to your mana pool.
+Darkling Stalker	tempest	13	B	3B	4	Creature - Shade Spirit	1	1	C	{B}: Regenerate Darkling Stalker. {B}: Darkling Stalker gets +1/+1 until end of turn.
+Dauthi Embrace	tempest	14	B	2B	3	Enchantment			U	{B}{B}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Dauthi Ghoul	tempest	15	B	1B	2	Creature - Dauthi Zombie	1	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever a creature with shadow is put into a graveyard from the battlefield, put a +1/+1 counter on Dauthi Ghoul.
+Dauthi Horror	tempest	16	B	1B	2	Creature - Dauthi Horror	2	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Dauthi Horror can't be blocked by white creatures.
+Dauthi Marauder	tempest	17	B	2B	3	Creature - Dauthi Minion	3	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Mercenary	tempest	18	B	2B	3	Creature - Dauthi Knight Mercenary	2	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) {1}{B}: Dauthi Mercenary gets +1/+0 until end of turn.
+Dauthi Mindripper	tempest	19	B	3B	4	Creature - Dauthi Minion	2	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Dauthi Mindripper attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+Dauthi Slayer	tempest	20	B	BB	2	Creature - Dauthi Soldier	2	2	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Dauthi Slayer attacks each turn if able.
+Death Pits of Rath	tempest	21	B	3BB	5	Enchantment			R	Whenever a creature is dealt damage, destroy it. It can't be regenerated.
+Diabolic Edict	tempest	22	B	1B	2	Instant			C	Target player sacrifices a creature.
+Disturbed Burial	tempest	23	B	1B	2	Sorcery			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Return target creature card from your graveyard to your hand.
+Dread of Night	tempest	24	B	B	1	Enchantment			U	White creatures get -1/-1.
+Dregs of Sorrow	tempest	25	B	X4B	5	Sorcery			R	Destroy X target nonblack creatures. Draw X cards.
+Endless Scream	tempest	26	B	XB	1	Enchantment - Aura			C	Enchant creature Endless Scream enters the battlefield with X scream counters on it. Enchanted creature gets +1/+0 for each scream counter on Endless Scream.
+Enfeeblement	tempest	27	B	BB	2	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature gets -2/-2.
+Evincar's Justice	tempest	28	B	2BB	4	Sorcery			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Evincar's Justice deals 2 damage to each creature and each player.
+Extinction	tempest	29	B	4B	5	Sorcery			R	Destroy all creatures of the creature type of your choice.
+Fevered Convulsions	tempest	30	B	BB	2	Enchantment			R	{2}{B}{B}: Put a -1/-1 counter on target creature.
+Gravedigger	tempest	31	B	3B	4	Creature - Zombie	2	2	C	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Imps' Taunt	tempest	32	B	1B	2	Instant			U	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Target creature attacks this turn if able.
+Kezzerdrix	tempest	33	B	2BB	4	Creature - Rabbit Beast	4	4	R	First strike At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you.
+Knight of Dusk	tempest	34	B	1BB	3	Creature - Human Knight	2	2	U	{B}{B}: Destroy target creature blocking Knight of Dusk.
+Leeching Licid	tempest	35	B	1B	2	Creature - Licid	1	1	U	{B}, {T}: Leeching Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect. At the beginning of the upkeep of enchanted creature's controller, Leeching Licid deals 1 damage to that player.
+Living Death	tempest	36	B	3BB	5	Sorcery			R	Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.
+Maddening Imp	tempest	37	B	2B	3	Creature - Imp	1	1	R	Flying {T}: Each non-Wall creature the active player controls attacks this turn if able. At the beginning of the next end step, destroy each of those creatures that didn't attack this turn. Activate this ability only during an opponent's turn, before the combat phase.
+Marsh Lurker	tempest	38	B	3B	4	Creature - Beast	3	2	C	Sacrifice a Swamp: Marsh Lurker gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Mindwhip Sliver	tempest	39	B	2B	3	Creature - Sliver	2	2	U	All Slivers have "{2}, Sacrifice this permanent: Target player discards a card at random. Activate this ability only any time you could cast a sorcery."
+Minion of the Wastes	tempest	40	B	3BBB	6	Creature - Minion	*	*	R	Trample As Minion of the Wastes enters the battlefield, pay any amount of life. Minion of the Wastes's power and toughness are each equal to the life paid as it entered the battlefield.
+Perish	tempest	41	B	2B	3	Sorcery			U	Destroy all green creatures. They can't be regenerated.
+Pit Imp	tempest	42	B	B	1	Creature - Imp	0	1	C	Flying {B}: Pit Imp gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+Rain of Tears	tempest	43	B	1BB	3	Sorcery			U	Destroy target land.
+Rats of Rath	tempest	44	B	1B	2	Creature - Rat	2	1	C	{B}: Destroy target artifact, creature, or land you control.
+Reanimate	tempest	45	B	B	1	Sorcery			U	Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+Reckless Spite	tempest	46	B	1BB	3	Instant			U	Destroy two target nonblack creatures. You lose 5 life.
+Sadistic Glee	tempest	47	B	B	1	Enchantment - Aura			C	Enchant creature Whenever a creature is put into a graveyard from the battlefield, put a +1/+1 counter on enchanted creature.
+Sarcomancy	tempest	48	B	B	1	Enchantment			R	When Sarcomancy enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield. At the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you.
+Screeching Harpy	tempest	49	B	2BB	4	Creature - Harpy Beast	2	2	U	Flying {1}{B}: Regenerate Screeching Harpy.
+Servant of Volrath	tempest	50	B	2B	3	Creature - Minion	3	3	C	When Servant of Volrath leaves the battlefield, sacrifice a creature.
+Skyshroud Vampire	tempest	51	B	3BB	5	Creature - Vampire	3	3	U	Flying Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.
+Souldrinker	tempest	52	B	3B	4	Creature - Spirit	2	2	U	Pay 3 life: Put a +1/+1 counter on Souldrinker.
+Spinal Graft	tempest	53	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3. When enchanted creature becomes the target of a spell or ability, destroy that creature. It can't be regenerated.
+Benthic Behemoth	tempest	54	U	5UUU	8	Creature - Serpent	7	6	R	Islandwalk
+Capsize	tempest	55	U	1UU	3	Instant			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Return target permanent to its owner's hand.
+Chill	tempest	56	U	1U	2	Enchantment			U	Red spells cost {2} more to cast.
+Counterspell	tempest	57	U	UU	2	Instant			C	Counter target spell.
+Dismiss	tempest	58	U	2UU	4	Instant			U	Counter target spell. Draw a card.
+Dream Cache	tempest	59	U	2U	3	Sorcery			C	Draw three cards, then put two cards from your hand both on top of your library or both on the bottom of your library.
+Duplicity	tempest	60	U	3UU	5	Enchantment			R	When Duplicity enters the battlefield, exile the top five cards of your library face down. At the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Duplicity into your hand. At the beginning of your end step, discard a card. When you lose control of Duplicity, put all cards exiled with Duplicity into their owners' graveyards.
+Ertai's Meddling	tempest	61	U	XU	1	Instant			R	X can't be 0. Target spell's controller exiles it with X delay counters on it. At the beginning of each of that player's upkeeps, if that card is exiled, remove a delay counter from it. If the card has no delay counters on it, he or she puts it onto the stack as a copy of the original spell.
+Escaped Shapeshifter	tempest	62	U	3UU	5	Creature - Shapeshifter	3	4	R	As long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.
+Fighting Drake	tempest	63	U	2UU	4	Creature - Drake	2	4	U	Flying
+Fylamarid	tempest	64	U	1UU	3	Creature - Squid Beast	1	3	U	Flying Fylamarid can't be blocked by blue creatures. {U}: Target creature becomes blue until end of turn.
+Gaseous Form	tempest	65	U	2U	3	Enchantment - Aura			C	Enchant creature Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Giant Crab	tempest	66	U	4U	5	Creature - Crab	3	3	C	{U}: Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Horned Turtle	tempest	67	U	2U	3	Creature - Turtle	1	4	C	
+Insight	tempest	68	U	2U	3	Enchantment			U	Whenever an opponent casts a green spell, you draw a card.
+Interdict	tempest	69	U	1U	2	Instant			U	Counter target activated ability from an artifact, creature, enchantment, or land. That permanent's activated abilities can't be activated this turn. (Mana abilities can't be targeted.) Draw a card.
+Intuition	tempest	70	U	2U	3	Instant			R	Search your library for any three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.
+Legacy's Allure	tempest	71	U	UU	2	Enchantment			U	At the beginning of your upkeep, you may put a treasure counter on Legacy's Allure. Sacrifice Legacy's Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy's Allure. (This effect lasts indefinitely.)
+Legerdemain	tempest	72	U	2UU	4	Sorcery			U	Exchange control of target artifact or creature and another target permanent that shares one of those types with it. (This effect lasts indefinitely.)
+Mana Severance	tempest	73	U	1U	2	Sorcery			R	Search your library for any number of land cards and exile them. Then shuffle your library.
+Manta Riders	tempest	74	U	U	1	Creature - Merfolk	1	1	C	{U}: Manta Riders gains flying until end of turn.
+Mawcor	tempest	75	U	3UU	5	Creature - Beast	3	3	R	Flying {T}: Mawcor deals 1 damage to target creature or player.
+Meditate	tempest	76	U	2U	3	Instant			R	Draw four cards. You skip your next turn.
+Mnemonic Sliver	tempest	77	U	2U	3	Creature - Sliver	2	2	U	All Slivers have "{2}, Sacrifice this permanent: Draw a card."
+Power Sink	tempest	78	U	XU	1	Instant			C	Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands he or she controls and empties his or her mana pool.
+Precognition	tempest	79	U	4U	5	Enchantment			R	At the beginning of your upkeep, you may look at the top card of target opponent's library. If you do, you may put that card on the bottom of that player's library.
+Propaganda	tempest	80	U	2U	3	Enchantment			U	Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+Rootwater Diver	tempest	81	U	U	1	Creature - Merfolk	1	1	U	{T}, Sacrifice Rootwater Diver: Return target artifact card from your graveyard to your hand.
+Rootwater Hunter	tempest	82	U	2U	3	Creature - Merfolk	1	1	C	{T}: Rootwater Hunter deals 1 damage to target creature or player.
+Rootwater Matriarch	tempest	83	U	2UU	4	Creature - Merfolk	2	3	R	{T}: Gain control of target creature for as long as that creature is enchanted.
+Rootwater Shaman	tempest	84	U	2U	3	Creature - Merfolk Shaman	2	2	R	You may cast Aura cards with enchant creature as though they had flash.
+Sea Monster	tempest	85	U	4UU	6	Creature - Serpent	6	6	C	Sea Monster can't attack unless defending player controls an Island.
+Shadow Rift	tempest	86	U	U	1	Instant			C	Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.) Draw a card.
+Shimmering Wings	tempest	87	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.) {U}: Return Shimmering Wings to its owner's hand.
+Skyshroud Condor	tempest	88	U	1U	2	Creature - Bird	2	2	U	Flying Cast Skyshroud Condor only if you've cast another spell this turn.
+Spell Blast	tempest	89	U	XU	1	Instant			C	Counter target spell with converted mana cost X.
+Steal Enchantment	tempest	90	U	UU	2	Enchantment - Aura			U	Enchant enchantment You control enchanted enchantment.
+Stinging Licid	tempest	91	U	1U	2	Creature - Licid	1	1	U	{1}{U}, {T}: Stinging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect. Whenever enchanted creature becomes tapped, Stinging Licid deals 2 damage to that creature's controller.
+Thalakos Dreamsower	tempest	92	U	2U	3	Creature - Thalakos Wizard	1	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) You may choose not to untap Thalakos Dreamsower during your untap step. Whenever Thalakos Dreamsower deals damage to an opponent, tap target creature. That creature doesn't untap during its controller's untap step for as long as Thalakos Dreamsower remains tapped.
+Thalakos Mistfolk	tempest	93	U	2U	3	Creature - Thalakos Illusion	2	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) {U}: Put Thalakos Mistfolk on top of its owner's library.
+Thalakos Seer	tempest	94	U	UU	2	Creature - Thalakos Wizard	1	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) When Thalakos Seer leaves the battlefield, draw a card.
+Thalakos Sentry	tempest	95	U	1U	2	Creature - Thalakos Soldier	1	2	C	Shadow (This creature can block or be blocked by only creatures with shadow)
+Time Ebb	tempest	96	U	2U	3	Sorcery			C	Put target creature on top of its owner's library.
+Time Warp	tempest	97	U	3UU	5	Sorcery			R	Target player takes an extra turn after this one.
+Tradewind Rider	tempest	98	U	3U	4	Creature - Spirit	1	4	R	Flying {T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.
+Twitch	tempest	99	U	2U	3	Instant			C	You may tap or untap target artifact, creature, or land. Draw a card.
+Unstable Shapeshifter	tempest	100	U	3U	4	Creature - Shapeshifter	0	1	R	Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability.
+Volrath's Curse	tempest	101	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block and its activated abilities can't be activated. That creature's controller may sacrifice a permanent to ignore this effect until end of turn. {1}{U}: Return Volrath's Curse to its owner's hand.
+Whim of Volrath	tempest	102	U	U	1	Instant			R	Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.) Change the text of target permanent by replacing all instances of one color word or basic land type with another until end of turn. (For example, you may change "nonred creature" to "nongreen creature" or "plainswalk" to "swampwalk.")
+Whispers of the Muse	tempest	103	U	U	1	Instant			U	Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.) Draw a card.
+Wind Dancer	tempest	104	U	1U	2	Creature - Faerie	1	1	U	Flying {T}: Target creature gains flying until end of turn.
+Wind Drake	tempest	105	U	2U	3	Creature - Drake	2	2	C	Flying
+Winged Sliver	tempest	106	U	1U	2	Creature - Sliver	1	1	C	All Sliver creatures have flying.
+Aluren	tempest	107	G	2GG	4	Enchantment			R	Any player may play creature cards with converted mana cost 3 or less without paying their mana cost and as though they had flash.
+Apes of Rath	tempest	108	G	2GG	4	Creature - Ape	5	4	U	Whenever Apes of Rath attacks, it doesn't untap during its controller's next untap step.
+Bayou Dragonfly	tempest	109	G	1G	2	Creature - Insect	1	1	C	Flying, swampwalk
+Broken Fall	tempest	110	G	2G	3	Enchantment			C	Return Broken Fall to its owner's hand: Regenerate target creature.
+Canopy Spider	tempest	111	G	1G	2	Creature - Spider	1	3	C	Reach (This creature can block creatures with flying.)
+Charging Rhino	tempest	112	G	3GG	5	Creature - Rhino	4	4	U	Charging Rhino can't be blocked by more than one creature.
+Choke	tempest	113	G	2G	3	Enchantment			U	Islands don't untap during their controllers' untap steps.
+Crazed Armodon	tempest	114	G	2GG	4	Creature - Elephant	3	3	R	{G}: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate this ability only once each turn.
+Dirtcowl Wurm	tempest	115	G	4G	5	Creature - Wurm	3	4	R	Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+Earthcraft	tempest	116	G	1G	2	Enchantment			R	Tap an untapped creature you control: Untap target basic land.
+Eladamri, Lord of Leaves	tempest	117	G	GG	2	Legendary Creature - Elf Warrior	2	2	R	Other Elf creatures have forestwalk. Other Elves have shroud. (They can't be the targets of spells or abilities.)
+Eladamri's Vineyard	tempest	118	G	G	1	Enchantment			R	At the beginning of each player's precombat main phase, add {G}{G} to that player's mana pool.
+Elven Warhounds	tempest	119	G	3G	4	Creature - Hound	2	2	R	Whenever Elven Warhounds becomes blocked by a creature, put that creature on top of its owner's library.
+Elvish Fury	tempest	120	G	G	1	Instant			C	Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.) Target creature gets +2/+2 until end of turn.
+Flailing Drake	tempest	121	G	3G	4	Creature - Drake	2	3	U	Flying Whenever Flailing Drake blocks or becomes blocked by a creature, that creature gets +1/+1 until end of turn.
+Frog Tongue	tempest	122	G	G	1	Enchantment - Aura			C	Enchant creature When Frog Tongue enters the battlefield, draw a card. Enchanted creature has reach. (It can block creatures with flying.)
+Fugitive Druid	tempest	123	G	3G	4	Creature - Human Druid	3	2	R	Whenever Fugitive Druid becomes the target of an Aura spell, you draw a card.
+Harrow	tempest	124	G	2G	3	Instant			U	As an additional cost to cast Harrow, sacrifice a land. Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+Heartwood Dryad	tempest	125	G	1G	2	Creature - Dryad	2	1	C	Heartwood Dryad can block creatures with shadow as though they didn't have shadow.
+Heartwood Giant	tempest	126	G	3GG	5	Creature - Giant	4	4	R	{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player.
+Heartwood Treefolk	tempest	127	G	2GG	4	Creature - Treefolk	3	4	U	Forestwalk
+Horned Sliver	tempest	128	G	2G	3	Creature - Sliver	2	2	U	All Sliver creatures have trample.
+Krakilin	tempest	129	G	XGG	2	Creature - Beast	0	0	U	Krakilin enters the battlefield with X +1/+1 counters on it. {1}{G}: Regenerate Krakilin.
+Mirri's Guile	tempest	130	G	G	1	Enchantment			R	At the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order.
+Mongrel Pack	tempest	131	G	3G	4	Creature - Hound	4	1	R	When Mongrel Pack is put into a graveyard from the battlefield during combat, put four 1/1 green Hound creature tokens onto the battlefield.
+Muscle Sliver	tempest	132	G	1G	2	Creature - Sliver	1	1	C	All Sliver creatures get +1/+1.
+Natural Spring	tempest	133	G	3GG	5	Sorcery			C	Target player gains 8 life.
+Nature's Revolt	tempest	134	G	3GG	5	Enchantment			R	All lands are 2/2 creatures that are still lands.
+Needle Storm	tempest	135	G	2G	3	Sorcery			U	Needle Storm deals 4 damage to each creature with flying.
+Nurturing Licid	tempest	136	G	1G	2	Creature - Licid	1	1	U	{G}, {T}: Nurturing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect. {G}: Regenerate enchanted creature.
+Overrun	tempest	137	G	2GGG	5	Sorcery			U	Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Pincher Beetles	tempest	138	G	2G	3	Creature - Insect	3	1	C	Shroud (This creature can't be the target of spells or abilities.)
+Rampant Growth	tempest	139	G	1G	2	Sorcery			C	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Reality Anchor	tempest	140	G	1G	2	Instant			C	Target creature loses shadow until end of turn. Draw a card.
+Reap	tempest	141	G	1G	2	Instant			U	Return up to X target cards from your graveyard to your hand, where X is the number of black permanents target opponent controls as you cast Reap.
+Recycle	tempest	142	G	4GG	6	Enchantment			R	Skip your draw step. Whenever you play a card, draw a card. Your maximum hand size is two.
+Respite	tempest	143	G	1G	2	Instant			C	Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.
+Root Maze	tempest	144	G	G	1	Enchantment			R	Artifacts and lands enter the battlefield tapped.
+Rootbreaker Wurm	tempest	145	G	5GG	7	Creature - Wurm	6	6	C	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Rootwalla	tempest	146	G	2G	3	Creature - Lizard	2	2	C	{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Scragnoth	tempest	147	G	4G	5	Creature - Beast	3	4	U	Scragnoth can't be countered. Protection from blue
+Seeker of Skybreak	tempest	148	G	1G	2	Creature - Elf	2	1	C	{T}: Untap target creature.
+Skyshroud Elf	tempest	149	G	1G	2	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool. {1}: Add {W} or {R} to your mana pool.
+Skyshroud Ranger	tempest	150	G	G	1	Creature - Elf	1	1	C	{T}: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.
+Skyshroud Troll	tempest	151	G	2GG	4	Creature - Troll Giant	3	3	C	{1}{G}: Regenerate Skyshroud Troll.
+Spike Drone	tempest	152	G	G	1	Creature - Spike Drone	0	0	C	Spike Drone enters the battlefield with a +1/+1 counter on it. {2}, Remove a +1/+1 counter from Spike Drone: Put a +1/+1 counter on target creature.
+Storm Front	tempest	153	G	G	1	Enchantment			U	{G}{G}: Tap target creature with flying.
+Trained Armodon	tempest	154	G	1GG	3	Creature - Elephant	3	3	C	
+Tranquility	tempest	155	G	2G	3	Sorcery			C	Destroy all enchantments.
+Trumpeting Armodon	tempest	156	G	3G	4	Creature - Elephant	3	3	U	{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
+Verdant Force	tempest	157	G	5GGG	8	Creature - Elemental	7	7	R	At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
+Verdigris	tempest	158	G	2G	3	Instant			U	Destroy target artifact.
+Winter's Grasp	tempest	159	G	1GG	3	Sorcery			U	Destroy target land.
+Aftershock	tempest	160	R	2RR	4	Sorcery			C	Destroy target artifact, creature, or land. Aftershock deals 3 damage to you.
+Ancient Runes	tempest	161	R	2R	3	Enchantment			U	At the beginning of each player's upkeep, Ancient Runes deals damage to that player equal to the number of artifacts he or she controls.
+Apocalypse	tempest	162	R	2RRR	5	Sorcery			R	Exile all permanents. You discard your hand.
+Barbed Sliver	tempest	163	R	2R	3	Creature - Sliver	2	2	U	All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."
+Blood Frenzy	tempest	164	R	1R	2	Instant			C	Cast Blood Frenzy only before the combat damage step. Target attacking or blocking creature gets +4/+0 until end of turn. Destroy that creature at the beginning of the next end step.
+Boil	tempest	165	R	3R	4	Instant			U	Destroy all Islands.
+Canyon Drake	tempest	166	R	2RR	4	Creature - Drake	1	2	R	Flying {1}, Discard a card at random: Canyon Drake gets +2/+0 until end of turn.
+Canyon Wildcat	tempest	167	R	1R	2	Creature - Cat	2	1	C	Mountainwalk
+Chaotic Goo	tempest	168	R	2RR	4	Creature - Ooze	0	0	R	Chaotic Goo enters the battlefield with three +1/+1 counters on it. At the beginning of your upkeep, you may flip a coin. If you win the flip, put a +1/+1 counter on Chaotic Goo. If you lose the flip, remove a +1/+1 counter from Chaotic Goo.
+Crown of Flames	tempest	169	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn. {R}: Return Crown of Flames to its owner's hand.
+Deadshot	tempest	170	R	3R	4	Sorcery			R	Tap target creature. It deals damage equal to its power to another target creature.
+Enraging Licid	tempest	171	R	1R	2	Creature - Licid	1	1	U	{R}, {T}: Enraging Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect. Enchanted creature has haste.
+Firefly	tempest	172	R	3R	4	Creature - Insect	1	1	U	Flying {R}: Firefly gets +1/+0 until end of turn.
+Fireslinger	tempest	173	R	1R	2	Creature - Human Wizard	1	1	C	{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.
+Flowstone Giant	tempest	174	R	2RR	4	Creature - Giant	3	3	C	{R}: Flowstone Giant gets +2/-2 until end of turn.
+Flowstone Salamander	tempest	175	R	3RR	5	Creature - Salamander	3	4	U	{R}: Flowstone Salamander deals 1 damage to target creature blocking it.
+Flowstone Wyvern	tempest	176	R	3RR	5	Creature - Drake	3	3	R	Flying {R}: Flowstone Wyvern gets +2/-2 until end of turn.
+Furnace of Rath	tempest	177	R	1RRR	4	Enchantment			R	If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+Giant Strength	tempest	178	R	RR	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2.
+Goblin Bombardment	tempest	179	R	1R	2	Enchantment			U	Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.
+Hand to Hand	tempest	180	R	2R	3	Enchantment			R	During the combat phase, players can't cast instant spells or activate abilities that aren't mana abilities.
+Havoc	tempest	181	R	1R	2	Enchantment			U	Whenever an opponent casts a white spell, he or she loses 2 life.
+Heart Sliver	tempest	182	R	1R	2	Creature - Sliver	1	1	C	All Sliver creatures have haste.
+Jackal Pup	tempest	183	R	R	1	Creature - Hound	2	1	U	Whenever Jackal Pup is dealt damage, it deals that much damage to you.
+Kindle	tempest	184	R	1R	2	Instant			C	Kindle deals X damage to target creature or player, where X is 2 plus the number of cards named Kindle in all graveyards.
+Lightning Blast	tempest	185	R	3R	4	Instant			C	Lightning Blast deals 4 damage to target creature or player.
+Lightning Elemental	tempest	186	R	3R	4	Creature - Elemental	4	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Lowland Giant	tempest	187	R	2RR	4	Creature - Giant	4	3	C	
+Magmasaur	tempest	188	R	3RR	5	Creature - Elemental Lizard	0	0	R	Magmasaur enters the battlefield with five +1/+1 counters on it. At the beginning of your upkeep, sacrifice Magmasaur unless you remove a +1/+1 counter from it. If you sacrifice Magmasaur this way, it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.
+Mogg Conscripts	tempest	189	R	R	1	Creature - Goblin	2	2	C	Mogg Conscripts can't attack unless you've cast a creature spell this turn.
+Mogg Fanatic	tempest	190	R	R	1	Creature - Goblin	1	1	C	Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+Mogg Raider	tempest	191	R	R	1	Creature - Goblin	1	1	C	Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+Mogg Squad	tempest	192	R	1R	2	Creature - Goblin	3	3	U	Mogg Squad gets -1/-1 for each other creature on the battlefield.
+No Quarter	tempest	193	R	3R	4	Enchantment			R	Whenever a creature becomes blocked by a creature with lesser power, destroy the blocking creature. Whenever a creature blocks a creature with lesser power, destroy the attacking creature.
+Opportunist	tempest	194	R	2R	3	Creature - Human Soldier	2	2	U	{T}: Opportunist deals 1 damage to target creature that was dealt damage this turn.
+Pallimud	tempest	195	R	2R	3	Creature - Beast	*	3	R	As Pallimud enters the battlefield, choose an opponent. Pallimud's power is equal to the number of tapped lands the chosen player controls.
+Rathi Dragon	tempest	196	R	2RR	4	Creature - Dragon	5	5	R	Flying (This creature can't be blocked except by creatures with flying or reach.) When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.
+Renegade Warlord	tempest	197	R	4R	5	Creature - Human Warrior	3	3	U	First strike Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn.
+Rolling Thunder	tempest	198	R	XRR	2	Sorcery			C	Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.
+Sandstone Warrior	tempest	199	R	2RR	4	Creature - Human Soldier Warrior	1	3	C	First strike (This creature deals combat damage before creatures without first strike.) {R}: Sandstone Warrior gets +1/+0 until end of turn.
+Scorched Earth	tempest	200	R	XR	1	Sorcery			R	As an additional cost to cast Scorched Earth, discard X land cards. Destroy X target lands.
+Searing Touch	tempest	201	R	R	1	Instant			U	Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.) Searing Touch deals 1 damage to target creature or player.
+Shadowstorm	tempest	202	R	R	1	Sorcery			U	Shadowstorm deals 2 damage to each creature with shadow.
+Shatter	tempest	203	R	1R	2	Instant			C	Destroy target artifact.
+Shocker	tempest	204	R	1R	2	Creature - Insect	1	1	R	Whenever Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.
+Starke of Rath	tempest	205	R	1RR	3	Legendary Creature - Human Rogue	2	2	R	{T}: Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. (This effect lasts indefinitely.)
+Stone Rain	tempest	206	R	2R	3	Sorcery			C	Destroy target land.
+Stun	tempest	207	R	1R	2	Instant			C	Target creature can't block this turn. Draw a card.
+Sudden Impact	tempest	208	R	3R	4	Instant			U	Sudden Impact deals damage equal to the number of cards in target player's hand to that player.
+Tahngarth's Rage	tempest	209	R	R	1	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+0 as long as it's attacking. Otherwise, it gets -2/-1.
+Tooth and Claw	tempest	210	R	3R	4	Enchantment			R	Sacrifice two creatures: Put a 3/1 red Beast creature token named Carnivore onto the battlefield.
+Wall of Diffusion	tempest	211	R	1R	2	Creature - Wall	0	5	C	Defender (This creature can't attack.) Wall of Diffusion can block creatures with shadow as though they didn't have shadow.
+Wild Wurm	tempest	212	R	3R	4	Creature - Wurm	5	4	U	When Wild Wurm enters the battlefield, flip a coin. If you lose the flip, return Wild Wurm to its owner's hand.
+Advance Scout	tempest	213	W	1W	2	Creature - Human Soldier Scout	1	1	C	First strike {W}: Target creature gains first strike until end of turn.
+Angelic Protector	tempest	214	W	3W	4	Creature - Angel	2	2	U	Flying Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.
+Anoint	tempest	215	W	W	1	Instant			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Prevent the next 3 damage that would be dealt to target creature this turn.
+Armor Sliver	tempest	216	W	2W	3	Creature - Sliver	2	2	U	All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."
+Armored Pegasus	tempest	217	W	1W	2	Creature - Pegasus	1	2	C	Flying
+Auratog	tempest	218	W	1W	2	Creature - Atog	1	2	R	Sacrifice an enchantment: Auratog gets +2/+2 until end of turn.
+Avenging Angel	tempest	219	W	3WW	5	Creature - Angel	3	3	R	Flying When Avenging Angel is put into a graveyard from the battlefield, you may put Avenging Angel on top of its owner's library.
+Circle of Protection: Black	tempest	220	W	1W	2	Enchantment			C	{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Blue	tempest	221	W	1W	2	Enchantment			C	{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Green	tempest	222	W	1W	2	Enchantment			C	{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Red	tempest	223	W	1W	2	Enchantment			C	{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+Circle of Protection: Shadow	tempest	224	W	1W	2	Enchantment			C	{1}: The next time a creature of your choice with shadow would deal damage to you this turn, prevent that damage.
+Circle of Protection: White	tempest	225	W	1W	2	Enchantment			C	{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+Clergy en-Vec	tempest	226	W	1W	2	Creature - Human Cleric	1	1	C	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Cloudchaser Eagle	tempest	227	W	3W	4	Creature - Bird	2	2	C	Flying When Cloudchaser Eagle enters the battlefield, destroy target enchantment.
+Disenchant	tempest	228	W	1W	2	Instant			C	Destroy target artifact or enchantment.
+Elite Javelineer	tempest	229	W	2W	3	Creature - Human Soldier	2	2	C	Whenever Elite Javelineer blocks, it deals 1 damage to target attacking creature.
+Field of Souls	tempest	230	W	2WW	4	Enchantment			R	Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flickering Ward	tempest	231	W	W	1	Enchantment - Aura			U	Enchant creature As Flickering Ward enters the battlefield, choose a color. Enchanted creature has protection from the chosen color. This effect doesn't remove Flickering Ward. {W}: Return Flickering Ward to its owner's hand.
+Gallantry	tempest	232	W	1W	2	Instant			U	Target blocking creature gets +4/+4 until end of turn. Draw a card.
+Gerrard's Battle Cry	tempest	233	W	W	1	Enchantment			R	{2}{W}: Creatures you control get +1/+1 until end of turn.
+Hanna's Custody	tempest	234	W	2W	3	Enchantment			R	All artifacts have shroud. (They can't be the targets of spells or abilities.)
+Hero's Resolve	tempest	235	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+5.
+Humility	tempest	236	W	2WW	4	Enchantment			R	All creatures lose all abilities and are 1/1.
+Invulnerability	tempest	237	W	1W	2	Instant			U	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) The next time a source of your choice would deal damage to you this turn, prevent that damage.
+Knight Of Dawn	tempest	238	W	1WW	3	Creature - Human Knight	2	2	U	First strike {W}{W}: Knight of Dawn gains protection from the color of your choice until end of turn.
+Light of Day	tempest	239	W	3W	4	Enchantment			U	Black creatures can't attack or block.
+Marble Titan	tempest	240	W	3W	4	Creature - Giant	3	3	R	Creatures with power 3 or greater don't untap during their controllers' untap steps.
+Master Decoy	tempest	241	W	1W	2	Creature - Human Soldier	1	2	C	{W}, {T}: Tap target creature.
+Mounted Archers	tempest	242	W	3W	4	Creature - Human Soldier Archer	2	3	C	Reach (This creature can block creatures with flying.) {W}: Mounted Archers can block an additional creature this turn.
+Oracle en-Vec	tempest	243	W	1W	2	Creature - Human Wizard	1	1	R	{T}: Target opponent chooses any number of creatures he or she controls. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack. Activate this ability only during your turn.
+Orim, Samite Healer	tempest	244	W	1WW	3	Legendary Creature - Human Cleric	1	3	R	{T}: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+Orim's Prayer	tempest	245	W	1WW	3	Enchantment			U	Whenever one or more creatures attack you, you gain 1 life for each attacking creature.
+Pacifism	tempest	246	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Pegasus Refuge	tempest	247	W	3W	4	Enchantment			R	{2}, Discard a card: Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+Quickening Licid	tempest	248	W	1W	2	Creature - Licid	1	1	U	{1}{W}, {T}: Quickening Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect. Enchanted creature has first strike.
+Repentance	tempest	249	W	2W	3	Sorcery			U	Target creature deals damage to itself equal to its power.
+Sacred Guide	tempest	250	W	W	1	Creature - Human Cleric	1	1	R	{1}{W}, Sacrifice Sacred Guide: Reveal cards from the top of your library until you reveal a white card. Put that card into your hand and exile all other cards revealed this way.
+Safeguard	tempest	251	W	3WW	5	Enchantment			R	{2}{W}: Prevent all combat damage that would be dealt by target creature this turn.
+Serene Offering	tempest	252	W	1W	2	Instant			U	Destroy target enchantment. You gain life equal to its converted mana cost.
+Soltari Crusader	tempest	253	W	2W	3	Creature - Soltari Knight	2	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) {1}{W}: Soltari Crusader gets +1/+0 until end of turn.
+Soltari Emissary	tempest	254	W	1W	2	Creature - Soltari Soldier	2	1	R	{W}: Soltari Emissary gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)
+Soltari Foot Soldier	tempest	255	W	W	1	Creature - Soltari Soldier	1	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.)
+Soltari Lancer	tempest	256	W	2W	3	Creature - Soltari Knight	2	2	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Soltari Lancer has first strike as long as it's attacking.
+Soltari Monk	tempest	257	W	WW	2	Creature - Soltari Monk Cleric	2	1	U	Protection from black Shadow (This creature can block or be blocked by only creatures with shadow.)
+Soltari Priest	tempest	258	W	WW	2	Creature - Soltari Cleric	2	1	U	Protection from red Shadow (This creature can block or be blocked by only creatures with shadow.)
+Soltari Trooper	tempest	259	W	1W	2	Creature - Soltari Soldier	1	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn.
+Spirit Mirror	tempest	260	W	2WW	4	Enchantment			R	At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, put a 2/2 white Reflection creature token onto the battlefield. {0}: Destroy target Reflection.
+Staunch Defenders	tempest	261	W	3WW	5	Creature - Human Soldier	3	4	U	When Staunch Defenders enters the battlefield, you gain 4 life.
+Talon Sliver	tempest	262	W	1W	2	Creature - Sliver	1	1	C	All Sliver creatures have first strike.
+Warmth	tempest	263	W	1W	2	Enchantment			U	Whenever an opponent casts a red spell, you gain 2 life.
+Winds of Rath	tempest	264	W	3WW	5	Sorcery			R	Destroy all creatures that aren't enchanted. They can't be regenerated.
+Worthy Cause	tempest	265	W	W	1	Instant			U	Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.) As an additional cost to cast Worthy Cause, sacrifice a creature. You gain life equal to the sacrificed creature's toughness.
+Altar Of Dementia	tempest	266	A	2	2	Artifact			R	Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.
+Booby Trap	tempest	267	A	6	6	Artifact			R	As Booby Trap enters the battlefield, name a card other than a basic land card and choose an opponent. The chosen player reveals each card he or she draws. When the chosen player draws the named card, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player.
+Bottle Gnomes	tempest	268	A	3	3	Artifact Creature - Gnome	1	3	U	Sacrifice Bottle Gnomes: You gain 3 life.
+Coiled Tinviper	tempest	269	A	3	3	Artifact Creature - Snake	2	1	C	First strike
+Cold Storage	tempest	270	A	4	4	Artifact			R	{3}: Exile target creature you control. Sacrifice Cold Storage: Return each creature card exiled with Cold Storage to the battlefield under your control.
+Cursed Scroll	tempest	271	A	1	1	Artifact			R	{3}, {T}: Name a card. Reveal a card at random from your hand. If it's the named card, Cursed Scroll deals 2 damage to target creature or player.
+Echo Chamber	tempest	272	A	4	4	Artifact			R	{4}, {T}: An opponent chooses target creature he or she controls. Put a token that's a copy of that creature onto the battlefield. That token gains haste until end of turn. Exile the token at the beginning of the next end step. Activate this ability only any time you could cast a sorcery.
+Emerald Medallion	tempest	273	A	2	2	Artifact			R	Green spells you cast cost {1} less to cast.
+Emmessi Tome	tempest	274	A	4	4	Artifact			R	{5}, {T}: Draw two cards, then discard a card.
+Energizer	tempest	275	A	4	4	Artifact Creature - Juggernaut	2	2	R	{2}, {T}: Put a +1/+1 counter on Energizer.
+Essence Bottle	tempest	276	A	2	2	Artifact			U	{3}, {T}: Put an elixir counter on Essence Bottle. {T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.
+Excavator	tempest	277	A	2	2	Artifact			U	{T}, Sacrifice a basic land: Target creature gains landwalk of each of the land types of the sacrificed land until end of turn.
+Flowstone Sculpture	tempest	278	A	6	6	Artifact Creature - Shapeshifter	4	4	R	{2}, Discard a card: Put a +1/+1 counter on Flowstone Sculpture or Flowstone Sculpture gains flying, first strike, or trample. (This effect lasts indefinitely.)
+Fool's Tome	tempest	279	A	4	4	Artifact			R	{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.
+Grindstone	tempest	280	A	1	1	Artifact			R	{3}, {T}: Put the top two cards of target player's library into that player's graveyard. If both cards share a color, repeat this process.
+Helm of Possession	tempest	281	A	4	4	Artifact			R	You may choose not to untap Helm of Possession during your untap step. {2}, {T}, Sacrifice a creature: Gain control of target creature for as long as you control Helm of Possession and Helm of Possession remains tapped.
+Jet Medallion	tempest	282	A	2	2	Artifact			R	Black spells you cast cost {1} less to cast.
+Jinxed Idol	tempest	283	A	2	2	Artifact			R	At the beginning of your upkeep, Jinxed Idol deals 2 damage to you. Sacrifice a creature: Target opponent gains control of Jinxed Idol. (This effect lasts indefinitely.)
+Lotus Petal	tempest	284	A	0	0	Artifact			C	{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.
+Magnetic Web	tempest	285	A	2	2	Artifact			R	If a creature with a magnet counter on it attacks, all creatures with magnet counters on them attack if able. Whenever a creature with a magnet counter on it attacks, all creatures with magnet counters on them block that creature this turn if able. {1}, {T}: Put a magnet counter on target creature.
+Manakin	tempest	286	A	2	2	Artifact Creature - Construct	1	1	C	{T}: Add {1} to your mana pool.
+Metallic Sliver	tempest	287	A	1	1	Artifact Creature - Sliver	1	1	C	
+Mogg Cannon	tempest	288	A	2	2	Artifact			U	{T}: Target creature you control gets +1/+0 and gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Patchwork Gnomes	tempest	289	A	3	3	Artifact Creature - Gnome	2	1	U	Discard a card: Regenerate Patchwork Gnomes.
+Pearl Medallion	tempest	290	A	2	2	Artifact			R	White spells you cast cost {1} less to cast.
+Phyrexian Grimoire	tempest	291	A	3	3	Artifact			R	{4}, {T}: Target opponent chooses one of the top two cards of your graveyard. Exile that card and put the other one into your hand.
+Phyrexian Hulk	tempest	292	A	6	6	Artifact Creature - Golem	5	4	U	
+Phyrexian Splicer	tempest	293	A	2	2	Artifact			U	{2}, {T}: Choose one - flying; first strike; shadow; or trample. Target creature with that ability loses it until end of turn and another target creature gains it until end of turn.
+Puppet Strings	tempest	294	A	3	3	Artifact			U	{2}, {T}: You may tap or untap target creature.
+Ruby Medallion	tempest	295	A	2	2	Artifact			R	Red spells you cast cost {1} less to cast.
+Sapphire Medallion	tempest	296	A	2	2	Artifact			R	Blue spells you cast cost {1} less to cast.
+Scalding Tongs	tempest	297	A	2	2	Artifact			R	At the beginning of your upkeep, if you have three or fewer cards in hand, Scalding Tongs deals 1 damage to target opponent.
+Scroll Rack	tempest	298	A	2	2	Artifact			R	{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.
+Squee's Toy	tempest	299	A	1	1	Artifact			C	{T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+Static Orb	tempest	300	A	3	3	Artifact			R	If Static Orb is untapped, players can't untap more than two permanents during their untap steps.
+Telethopter	tempest	301	A	4	4	Artifact Creature - Thopter	3	1	U	Tap an untapped creature you control: Telethopter gains flying until end of turn.
+Thumbscrews	tempest	302	A	2	2	Artifact			R	At the beginning of your upkeep, if you have five or more cards in hand, Thumbscrews deals 1 damage to target opponent.
+Torture Chamber	tempest	303	A	3	3	Artifact			R	At the beginning of your upkeep, put a pain counter on Torture Chamber. At the beginning of your end step, Torture Chamber deals damage to you equal to the number of pain counters on it. {1}, {T}, Remove all pain counters from Torture Chamber: Torture Chamber deals damage to target creature equal to the number of pain counters removed this way.
+Watchdog	tempest	304	A	3	3	Artifact Creature - Hound	1	2	U	Watchdog blocks each turn if able. As long as Watchdog is untapped, all creatures attacking you get -1/-0.
+Ancient Tomb	tempest	305	L		0	Land			U	{T}: Add {2} to your mana pool. Ancient Tomb deals 2 damage to you.
+Caldera Lake	tempest	306	L		0	Land			R	Caldera Lake enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.
+Cinder Marsh	tempest	307	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.
+Forest	tempest	308	L		0	Basic Land - Forest			L	G
+Ghost Town	tempest	312	L		0	Land			U	{T}: Add {1} to your mana pool. {0}: Return Ghost Town to its owner's hand. Activate this ability only if it's not your turn.
+Island	tempest	313	L		0	Basic Land - Island			L	U
+Maze of Shadows	tempest	317	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Mogg Hollows	tempest	318	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.
+Mountain	tempest	319	L		0	Basic Land - Mountain			L	R
+Pine Barrens	tempest	323	L		0	Land			R	Pine Barrens enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.
+Plains	tempest	324	L		0	Basic Land - Plains			L	W
+Reflecting Pool	tempest	328	L		0	Land			R	{T}: Add to your mana pool one mana of any type that a land you control could produce.
+Rootwater Depths	tempest	329	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {U} or {B} to your mana pool. Rootwater Depths doesn't untap during your next untap step.
+Salt Flats	tempest	330	L		0	Land			R	Salt Flats enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.
+Scabland	tempest	331	L		0	Land			R	Scabland enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.
+Skyshroud Forest	tempest	332	L		0	Land			R	Skyshroud Forest enters the battlefield tapped. {T}: Add {1} to your mana pool. {T}: Add {U} or {G} to your mana pool. Skyshroud Forest deals 1 damage to you.
+Stalking Stones	tempest	333	L		0	Land			U	{T}: Add {1} to your mana pool. {6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)
+Swamp	tempest	334	L		0	Basic Land - Swamp			L	B
+Thalakos Lowlands	tempest	338	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.
+Vec Townships	tempest	339	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.
+Wasteland	tempest	340	L		0	Land			U	{T}: Add {1} to your mana pool. {T}, Sacrifice Wasteland: Destroy target nonbasic land.
+Dracoplasm	tempest	341	UR	UR	2	Creature - Shapeshifter	0	0	R	Flying As Dracoplasm enters the battlefield, sacrifice any number of creatures. Dracoplasm's power becomes the total power of those creatures and its toughness becomes their total toughness. {R}: Dracoplasm gets +1/+0 until end of turn.
+Lobotomy	tempest	342	UB	2UB	4	Sorcery			U	Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library.
+Ranger en-Vec	tempest	343	GW	1GW	3	Creature - Human Soldier Archer	2	2	U	First strike {G}: Regenerate Ranger en-Vec.
+Segmented Wurm	tempest	344	RG	3RG	5	Creature - Wurm	5	5	U	Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.
+Selenia, Dark Angel	tempest	345	WB	3WB	5	Legendary Creature - Angel	3	3	R	Flying Pay 2 life: Return Selenia, Dark Angel to its owner's hand.
+Sky Spirit	tempest	346	WU	1WU	3	Creature - Spirit	2	2	U	Flying, first strike
+Soltari Guerrillas	tempest	347	WR	2WR	4	Creature - Soltari Soldier	3	2	R	Shadow (This creature can block or be blocked by only creatures with shadow.) {0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.
+Spontaneous Combustion	tempest	348	BR	1BR	3	Instant			U	As an additional cost to cast Spontaneous Combustion, sacrifice a creature. Spontaneous Combustion deals 3 damage to each creature.
+Vhati il-Dal	tempest	349	BG	2BG	4	Legendary Creature - Human Warrior	3	3	R	{T}: Target creature's power or toughness becomes 1 until end of turn.
+Wood Sage	tempest	350	GU	GU	2	Creature - Human Druid	1	1	R	{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
+Bottomless Pit	stronghold	1	B	1BB	3	Enchantment			U	At the beginning of each player's upkeep, that player discards a card at random.
+Brush with Death	stronghold	2	B	2B	3	Sorcery			C	Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.) Target opponent loses 2 life. You gain 2 life.
+Cannibalize	stronghold	3	B	1B	2	Sorcery			C	Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.
+Corrupting Licid	stronghold	4	B	2B	3	Creature - Licid	2	2	U	{B}, {T}: Corrupting Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect. Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Crovax the Cursed	stronghold	5	B	2BB	4	Legendary Creature - Vampire	0	0	R	Crovax the Cursed enters the battlefield with four +1/+1 counters on it. At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax. {B}: Crovax gains flying until end of turn.
+Dauthi Trapper	stronghold	6	B	2B	3	Creature - Dauthi Minion	1	1	U	{T}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Death Stroke	stronghold	7	B	BB	2	Sorcery			C	Destroy target tapped creature.
+Dungeon Shade	stronghold	8	B	3B	4	Creature - Shade Spirit	1	1	C	Flying {B}: Dungeon Shade gets +1/+1 until end of turn.
+Foul Imp	stronghold	9	B	BB	2	Creature - Imp	2	2	C	Flying When Foul Imp enters the battlefield, you lose 2 life.
+Grave Pact	stronghold	10	B	1BBB	4	Enchantment			R	Whenever a creature you control is put into a graveyard from the battlefield, each other player sacrifices a creature.
+Lab Rats	stronghold	11	B	B	1	Sorcery			C	Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.) Put a 1/1 black Rat creature token onto the battlefield.
+Megrim	stronghold	12	B	2B	3	Enchantment			U	Whenever an opponent discards a card, Megrim deals 2 damage to that player.
+Mind Peel	stronghold	13	B	B	1	Sorcery			U	Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.) Target player discards a card.
+Mindwarper	stronghold	14	B	2BB	4	Creature - Spirit	0	0	R	Mindwarper enters the battlefield with three +1/+1 counters on it. {2}{B}, Remove a +1/+1 counter from Mindwarper: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+Morgue Thrull	stronghold	15	B	2B	3	Creature - Thrull	2	2	C	Sacrifice Morgue Thrull: Put the top three cards of your library into your graveyard.
+Mortuary	stronghold	16	B	3B	4	Enchantment			R	Whenever a creature is put into your graveyard from the battlefield, put that card on top of your library.
+Rabid Rats	stronghold	17	B	1B	2	Creature - Rat	1	1	C	{T}: Target blocking creature gets -1/-1 until end of turn.
+Revenant	stronghold	18	B	4B	5	Creature - Spirit	*	*	R	Flying Revenant's power and toughness are each equal to the number of creature cards in your graveyard.
+Serpent Warrior	stronghold	19	B	2B	3	Creature - Snake Warrior	3	3	C	When Serpent Warrior enters the battlefield, you lose 3 life.
+Skeleton Scavengers	stronghold	20	B	2B	3	Creature - Skeleton	0	0	R	Skeleton Scavengers enters the battlefield with a +1/+1 counter on it. Pay {1} for each +1/+1 counter on Skeleton Scavengers: Regenerate Skeleton Scavengers. When it regenerates this way, put a +1/+1 counter on it.
+Stronghold Assassin	stronghold	21	B	1BB	3	Creature - Zombie Assassin	2	1	R	{T}, Sacrifice a creature: Destroy target nonblack creature.
+Stronghold Taskmaster	stronghold	22	B	2BB	4	Creature - Giant Minion	4	3	U	Other black creatures get -1/-1.
+Torment	stronghold	23	B	1B	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets -3/-0.
+Tortured Existence	stronghold	24	B	B	1	Enchantment			C	{B}, Discard a creature card: Return target creature card from your graveyard to your hand.
+Wall of Souls	stronghold	25	B	1B	2	Creature - Wall	0	4	U	Defender (This creature can't attack.) Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.
+Cloud Spirit	stronghold	26	U	2U	3	Creature - Spirit	3	1	C	Flying Cloud Spirit can block only creatures with flying.
+Contempt	stronghold	27	U	1U	2	Enchantment - Aura			C	Enchant creature Whenever enchanted creature attacks, return it and Contempt to their owners' hands at end of combat.
+Dream Halls	stronghold	28	U	3UU	5	Enchantment			R	Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.
+Dream Prowler	stronghold	29	U	2UU	4	Creature - Illusion	1	5	C	Dream Prowler is unblockable as long as it's attacking alone.
+Evacuation	stronghold	30	U	3UU	5	Instant			R	Return all creatures to their owners' hands.
+Gliding Licid	stronghold	31	U	2U	3	Creature - Licid	2	2	U	{U}, {T}: Gliding Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect. Enchanted creature has flying.
+Hammerhead Shark	stronghold	32	U	1U	2	Creature - Fish	2	3	C	Hammerhead Shark can't attack unless defending player controls an Island.
+Hesitation	stronghold	33	U	1U	2	Enchantment			U	When a player casts a spell, sacrifice Hesitation. If you do, counter that spell.
+Intruder Alarm	stronghold	34	U	2U	3	Enchantment			R	Creatures don't untap during their controllers' untap steps. Whenever a creature enters the battlefield, untap all creatures.
+Leap	stronghold	35	U	U	1	Instant			C	Target creature gains flying until end of turn. Draw a card.
+Mana Leak	stronghold	36	U	1U	2	Instant			C	Counter target spell unless its controller pays {3}.
+Mask of the Mimic	stronghold	37	U	U	1	Instant			U	As an additional cost to cast Mask of the Mimic, sacrifice a creature. Search your library for a card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.
+Mind Games	stronghold	38	U	U	1	Instant			C	Buyback {2}{U} (You may pay an additional {2}{U} as you cast this spell. If you do, put this card into your hand as it resolves.) Tap target artifact, creature, or land.
+Ransack	stronghold	39	U	3U	4	Sorcery			U	Look at the top five cards of target player's library. Put any number of them on the bottom of that library in any order and the rest on top of the library in any order.
+Rebound	stronghold	40	U	1U	2	Instant			U	Change the target of target spell that targets only a player. The new target must be a player.
+Reins of Power	stronghold	41	U	2UU	4	Instant			R	Untap all creatures you control and all creatures target opponent controls. You and that opponent each gain control of all creatures the other controls until end of turn. Those creatures gain haste until end of turn.
+Sift	stronghold	42	U	3U	4	Sorcery			C	Draw three cards, then discard a card.
+Silver Wyvern	stronghold	43	U	3UU	5	Creature - Drake	4	3	R	Flying {U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.
+Spindrift Drake	stronghold	44	U	U	1	Creature - Drake	2	1	C	Flying At the beginning of your upkeep, sacrifice Spindrift Drake unless you pay {U}.
+Thalakos Deceiver	stronghold	45	U	3U	4	Creature - Thalakos Wizard	1	1	R	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Thalakos Deceiver attacks and isn't blocked, you may sacrifice it. If you do, gain control of target creature. (This effect lasts indefinitely.)
+Tidal Surge	stronghold	46	U	1U	2	Sorcery			C	Tap up to three target creatures without flying.
+Tidal Warrior	stronghold	47	U	U	1	Creature - Merfolk Warrior	1	1	C	{T}: Target land becomes an Island until end of turn.
+Volrath's Shapeshifter	stronghold	48	U	1UU	3	Creature - Shapeshifter	0	1	R	As long as the top card of your graveyard is a creature card, Volrath's Shapeshifter has the full text of that card and has the text "{2}: Discard a card." (Volrath's Shapeshifter has that card's name, mana cost, color, types, abilities, power, and toughness.) {2}: Discard a card.
+Walking Dream	stronghold	49	U	3U	4	Creature - Illusion	3	3	U	Walking Dream is unblockable. Walking Dream doesn't untap during your untap step if an opponent controls two or more creatures.
+Wall of Tears	stronghold	50	U	1U	2	Creature - Wall	0	4	U	Defender (This creature can't attack.) Whenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat.
+Awakening	stronghold	51	G	2GG	4	Enchantment			R	At the beginning of each upkeep, untap all creatures and lands.
+Burgeoning	stronghold	52	G	G	1	Enchantment			R	Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield.
+Carnassid	stronghold	53	G	4GG	6	Creature - Beast	5	4	R	Trample {1}{G}: Regenerate Carnassid.
+Constant Mists	stronghold	54	G	1G	2	Instant			U	Buyback-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) Prevent all combat damage that would be dealt this turn.
+Crossbow Ambush	stronghold	55	G	G	1	Instant			C	Creatures you control gain reach until end of turn. (They can block creatures with flying.)
+Elven Rite	stronghold	56	G	1G	2	Sorcery			U	Distribute two +1/+1 counters among one or two target creatures.
+Endangered Armodon	stronghold	57	G	2GG	4	Creature - Elephant	4	5	C	When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.
+Hermit Druid	stronghold	58	G	1G	2	Creature - Human Druid	1	1	R	{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.
+Lowland Basilisk	stronghold	59	G	2G	3	Creature - Basilisk	1	3	C	Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.
+Mulch	stronghold	60	G	1G	2	Sorcery			C	Reveal the top four cards of your library. Put all land cards revealed this way into your hand and all other cards revealed this way into your graveyard.
+Overgrowth	stronghold	61	G	2G	3	Enchantment - Aura			C	Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.) Whenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool (in addition to the mana the land produces).
+Primal Rage	stronghold	62	G	1G	2	Enchantment			U	Creatures you control have trample. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Provoke	stronghold	63	G	1G	2	Instant			C	Untap target creature you don't control. That creature blocks this turn if able. Draw a card.
+Skyshroud Archer	stronghold	64	G	G	1	Creature - Elf Archer	1	1	C	{T}: Target creature with flying gets -1/-1 until end of turn.
+Skyshroud Troopers	stronghold	65	G	3G	4	Creature - Elf Druid Warrior	3	3	C	{T}: Add {G} to your mana pool.
+Spike Breeder	stronghold	66	G	3G	4	Creature - Spike	0	0	R	Spike Breeder enters the battlefield with three +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature. {2}, Remove a +1/+1 counter from Spike Breeder: Put a 1/1 green Spike creature token onto the battlefield.
+Spike Colony	stronghold	67	G	4G	5	Creature - Spike	0	0	C	Spike Colony enters the battlefield with four +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.
+Spike Feeder	stronghold	68	G	1GG	3	Creature - Spike	0	0	U	Spike Feeder enters the battlefield with two +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature. Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+Spike Soldier	stronghold	69	G	2GG	4	Creature - Spike Soldier	0	0	U	Spike Soldier enters the battlefield with three +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Soldier: Put a +1/+1 counter on target creature. Remove a +1/+1 counter from Spike Soldier: Spike Soldier gets +2/+2 until end of turn.
+Spike Worker	stronghold	70	G	2G	3	Creature - Spike	0	0	C	Spike Worker enters the battlefield with two +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.
+Spined Wurm	stronghold	71	G	4G	5	Creature - Wurm	5	4	C	
+Tempting Licid	stronghold	72	G	2G	3	Creature - Licid	2	2	U	{G}, {T}: Tempting Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect. All creatures able to block enchanted creature do so.
+Verdant Touch	stronghold	73	G	1G	2	Sorcery			R	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Target land becomes a 2/2 creature that's still a land. (This effect lasts indefinitely.)
+Volrath's Gardens	stronghold	74	G	1G	2	Enchantment			R	{2}, Tap an untapped creature you control: You gain 2 life. Activate this ability only any time you could cast a sorcery.
+Wall of Blossoms	stronghold	75	G	1G	2	Creature - Plant Wall	0	4	U	Defender (This creature can't attack.) When Wall of Blossoms enters the battlefield, draw a card.
+Amok	stronghold	76	R	1R	2	Enchantment			R	{1}, Discard a card at random: Put a +1/+1 counter on target creature.
+Convulsing Licid	stronghold	77	R	2R	3	Creature - Licid	2	2	U	{R}, {T}: Convulsing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect. Enchanted creature can't block.
+Craven Giant	stronghold	78	R	2R	3	Creature - Giant	4	1	C	Craven Giant can't block.
+Duct Crawler	stronghold	79	R	R	1	Creature - Insect	1	1	C	{1}{R}: Target creature can't block Duct Crawler this turn.
+Fanning the Flames	stronghold	80	R	XRR	2	Sorcery			U	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Fanning the Flames deals X damage to target creature or player.
+Flame Wave	stronghold	81	R	3RRRR	7	Sorcery			U	Flame Wave deals 4 damage to target player and each creature he or she controls.
+Fling	stronghold	82	R	1R	2	Instant			C	As an additional cost to cast Fling, sacrifice a creature. Fling deals damage equal to the sacrificed creature's power to target creature or player.
+Flowstone Blade	stronghold	83	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/-1 until end of turn.
+Flowstone Hellion	stronghold	84	R	4R	5	Creature - Hellion Beast	3	3	U	Haste {0}: Flowstone Hellion gets +1/-1 until end of turn.
+Flowstone Mauler	stronghold	85	R	4RR	6	Creature - Beast	4	5	R	Trample {R}: Flowstone Mauler gets +1/-1 until end of turn.
+Flowstone Shambler	stronghold	86	R	2R	3	Creature - Beast	2	2	C	{R}: Flowstone Shambler gets +1/-1 until end of turn.
+Furnace Spirit	stronghold	87	R	2R	3	Creature - Spirit	1	1	C	Haste {R}: Furnace Spirit gets +1/+0 until end of turn.
+Heat of Battle	stronghold	88	R	1R	2	Enchantment			U	Whenever a creature blocks, Heat of Battle deals 1 damage to that creature's controller.
+Invasion Plans	stronghold	89	R	2R	3	Enchantment			R	All creatures block each turn if able. The attacking player chooses how each creature blocks each turn.
+Mob Justice	stronghold	90	R	1R	2	Sorcery			C	Mob Justice deals damage to target player equal to the number of creatures you control.
+Mogg Bombers	stronghold	91	R	3R	4	Creature - Goblin	3	4	C	When another creature enters the battlefield, sacrifice Mogg Bombers. If you do, it deals 3 damage to target player.
+Mogg Flunkies	stronghold	92	R	1R	2	Creature - Goblin	3	3	C	Mogg Flunkies can't attack or block alone.
+Mogg Infestation	stronghold	93	R	3RR	5	Sorcery			R	Destroy all creatures target player controls. For each creature put into a graveyard this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.
+Mogg Maniac	stronghold	94	R	1R	2	Creature - Goblin	1	1	U	Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.
+Ruination	stronghold	95	R	3R	4	Sorcery			R	Destroy all nonbasic lands.
+Seething Anger	stronghold	96	R	R	1	Sorcery			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Target creature gets +3/+0 until end of turn.
+Shard Phoenix	stronghold	97	R	4R	5	Creature - Phoenix	2	2	R	Flying (This creature can't be blocked except by creatures with flying or reach.) Sacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying. {R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+Shock	stronghold	98	R	R	1	Instant			C	Shock deals 2 damage to target creature or player.
+Spitting Hydra	stronghold	99	R	3RR	5	Creature - Hydra	0	0	R	Spitting Hydra enters the battlefield with four +1/+1 counters on it. {1}{R}, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.
+Wall of Razors	stronghold	100	R	1R	2	Creature - Wall	4	1	U	Defender (This creature can't attack.) First strike
+Bandage	stronghold	101	W	W	1	Instant			C	Prevent the next 1 damage that would be dealt to target creature or player this turn. Draw a card.
+Calming Licid	stronghold	102	W	2W	3	Creature - Licid	2	2	U	{W}, {T}: Calming Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect. Enchanted creature can't attack.
+Change of Heart	stronghold	103	W	W	1	Instant			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Target creature can't attack this turn.
+Contemplation	stronghold	104	W	1WW	3	Enchantment			U	Whenever you cast a spell, you gain 1 life.
+Conviction	stronghold	105	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+3. {W}: Return Conviction to its owner's hand.
+Hidden Retreat	stronghold	106	W	2W	3	Enchantment			R	Put a card from your hand on top of your library: Prevent all damage that would be dealt by target instant or sorcery spell this turn.
+Honor Guard	stronghold	107	W	W	1	Creature - Human Soldier	1	1	C	{W}: Honor Guard gets +0/+1 until end of turn.
+Lancers en-Kor	stronghold	108	W	3WW	5	Creature - Kor Soldier	3	3	U	Trample {0}: The next 1 damage that would be dealt to Lancers en-Kor this turn is dealt to target creature you control instead.
+Nomads en-Kor	stronghold	109	W	W	1	Creature - Kor Nomad Soldier	1	1	C	{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.
+Pursuit of Knowledge	stronghold	110	W	3W	4	Enchantment			R	If you would draw a card, you may put a study counter on Pursuit of Knowledge instead. Remove three study counters from Pursuit of Knowledge, Sacrifice Pursuit of Knowledge: Draw seven cards.
+Rolling Stones	stronghold	111	W	1W	2	Enchantment			R	Wall creatures can attack as though they didn't have defender.
+Sacred Ground	stronghold	112	W	1W	2	Enchantment			R	Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from the battlefield, return that card to the battlefield.
+Samite Blessing	stronghold	113	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has "{T}: The next time a source of your choice would deal damage to target creature this turn, prevent that damage."
+Scapegoat	stronghold	114	W	W	1	Instant			U	As an additional cost to cast Scapegoat, sacrifice a creature. Return any number of target creatures you control to their owner's hand.
+Shaman en-Kor	stronghold	115	W	1W	2	Creature - Kor Shaman Cleric	1	2	R	{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead. {1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.
+Skyshroud Falcon	stronghold	116	W	1W	2	Creature - Bird	1	1	C	Flying, vigilance
+Smite	stronghold	117	W	W	1	Instant			C	Destroy target blocked creature.
+Soltari Champion	stronghold	118	W	2W	3	Creature - Soltari Soldier	2	2	R	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Soltari Champion attacks, all other creatures you control get +1/+1 until end of turn.
+Spirit en-Kor	stronghold	119	W	3W	4	Creature - Kor Spirit	2	2	C	Flying {0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.
+Temper	stronghold	120	W	X1W	2	Instant			U	Prevent the next X damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.
+Venerable Monk	stronghold	121	W	2W	3	Creature - Human Monk Cleric	2	2	C	When Venerable Monk enters the battlefield, you gain 2 life.
+Wall of Essence	stronghold	122	W	1W	2	Creature - Wall	0	4	U	Defender (This creature can't attack.) Whenever Wall of Essence is dealt combat damage, you gain that much life.
+Warrior Angel	stronghold	123	W	4WW	6	Creature - Angel Warrior	3	4	R	Flying Whenever Warrior Angel deals damage, you gain that much life.
+Warrior en-Kor	stronghold	124	W	WW	2	Creature - Kor Warrior Knight	2	2	U	{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.
+Youthful Knight	stronghold	125	W	1W	2	Creature - Human Knight	2	1	C	First strike (This creature deals combat damage before creatures without first strike.)
+Bullwhip	stronghold	126	A	4	4	Artifact			U	{2}, {T}: Bullwhip deals 1 damage to target creature. That creature attacks this turn if able.
+Ensnaring Bridge	stronghold	127	A	3	3	Artifact			R	Creatures with power greater than the number of cards in your hand can't attack.
+Heartstone	stronghold	128	A	3	3	Artifact			U	Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+Horn of Greed	stronghold	129	A	3	3	Artifact			R	Whenever a player plays a land, that player draws a card.
+Hornet Cannon	stronghold	130	A	4	4	Artifact			U	{3}, {T}: Put a 1/1 colorless Insect artifact creature token with flying and haste named Hornet onto the battlefield. Destroy that creature at the beginning of the next end step.
+Jinxed Ring	stronghold	131	A	2	2	Artifact			R	Whenever a nontoken permanent is put into your graveyard from the battlefield, Jinxed Ring deals 1 damage to you. Sacrifice a creature: Target opponent gains control of Jinxed Ring. (This effect lasts indefinitely.)
+Mox Diamond	stronghold	132	A	0	0	Artifact			R	If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard. {T}: Add one mana of any color to your mana pool.
+Portcullis	stronghold	133	A	4	4	Artifact			R	Whenever a creature enters the battlefield, if there are two or more other creatures on the battlefield, exile that creature. Return that card to the battlefield under its owner's control when Portcullis leaves the battlefield.
+Shifting Wall	stronghold	134	A	X	0	Artifact Creature - Wall	0	0	U	Defender (This creature can't attack.) Shifting Wall enters the battlefield with X +1/+1 counters on it.
+Sword of the Chosen	stronghold	135	A	2	2	Legendary Artifact			R	{T}: Target legendary creature gets +2/+2 until end of turn.
+Volrath's Laboratory	stronghold	136	A	5	5	Artifact			R	As Volrath's Laboratory enters the battlefield, choose a color and a creature type. {5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.
+Volrath's Stronghold	stronghold	137	L		0	Legendary Land			R	{T}: Add {1} to your mana pool. {1}{B}, {T}: Put target creature card from your graveyard on top of your library.
+Acidic Sliver	stronghold	138	BR	BR	2	Creature - Sliver	2	2	U	All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."
+Crystalline Sliver	stronghold	139	WU	WU	2	Creature - Sliver	2	2	U	All Slivers have shroud. (They can't be the targets of spells or abilities.)
+Hibernation Sliver	stronghold	140	UB	UB	2	Creature - Sliver	2	2	U	All Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+Sliver Queen	stronghold	141	WUBRG	WUBRG	5	Legendary Creature - Sliver	7	7	R	{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.
+Spined Sliver	stronghold	142	RG	RG	2	Creature - Sliver	2	2	U	Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.
+Victual Sliver	stronghold	143	GW	GW	2	Creature - Sliver	2	2	U	All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."
+Allay	exodus	1	W	1W	2	Instant			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Destroy target enchantment.
+Angelic Blessing	exodus	2	W	2W	3	Sorcery			C	Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Cataclysm	exodus	3	W	2WW	4	Sorcery			R	Each player chooses from the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.
+Charging Paladin	exodus	4	W	2W	3	Creature - Human Knight	2	2	C	Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+Convalescence	exodus	5	W	1W	2	Enchantment			R	At the beginning of your upkeep, if you have 10 or less life, you gain 1 life.
+Exalted Dragon	exodus	6	W	4WW	6	Creature - Dragon	5	5	R	Flying Exalted Dragon can't attack unless you sacrifice a land.
+High Ground	exodus	7	W	W	1	Enchantment			U	Each creature you control can block an additional creature.
+Keeper of the Light	exodus	8	W	WW	2	Creature - Human Wizard	1	2	U	{W}, {T}: You gain 3 life. Activate this ability only if you have less life than an opponent.
+Kor Chant	exodus	9	W	2W	3	Instant			C	All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+Limited Resources	exodus	10	W	W	1	Enchantment			R	When Limited Resources enters the battlefield, each player chooses five lands he or she controls and sacrifices the rest. Players can't play lands if there are ten or more lands on the battlefield.
+Oath of Lieges	exodus	11	W	1W	2	Enchantment			R	At the beginning of each player's upkeep, if that player controls fewer lands than any of his or her opponents, the player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.
+Paladin en-Vec	exodus	12	W	1WW	3	Creature - Human Knight	2	2	R	First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)
+Peace of Mind	exodus	13	W	1W	2	Enchantment			U	{W}, Discard a card: You gain 3 life.
+Pegasus Stampede	exodus	14	W	1W	2	Sorcery			U	Buyback-Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+Penance	exodus	15	W	2W	3	Enchantment			U	Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.
+Reaping the Rewards	exodus	16	W	W	1	Instant			C	Buyback-Sacrifice a land. (You may sarifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) You gain 2 life.
+Reconnaissance	exodus	17	W	W	1	Enchantment			U	{0}: Remove target attacking creature you control from combat and untap it. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Shackles	exodus	18	W	2W	3	Enchantment - Aura			C	Enchant creature Enchanted creature doesn't untap during its controller's untap step. {W}: Return Shackles to its owner's hand.
+Shield Mate	exodus	19	W	W	1	Creature - Human Soldier	1	1	C	Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.
+Soltari Visionary	exodus	20	W	1WW	3	Creature - Soltari Cleric	2	2	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.
+Soul Warden	exodus	21	W	W	1	Creature - Human Cleric	1	1	C	Whenever another creature enters the battlefield, you gain 1 life.
+Standing Troops	exodus	22	W	2W	3	Creature - Human Soldier	1	4	C	Vigilance
+Treasure Hunter	exodus	23	W	2W	3	Creature - Human	2	2	U	When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.
+Wall of Nets	exodus	24	W	1WW	3	Creature - Wall	0	7	R	Defender (This creature can't attack.) At end of combat, exile all creatures Wall of Nets blocked this combat. When Wall of Nets leaves the battlefield, return all creature cards exiled with Wall of Nets to the battlefield under their owners' control.
+Welkin Hawk	exodus	25	W	1W	2	Creature - Bird	1	1	C	Flying When Welkin Hawk is put into a graveyard from the battlefield, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.
+Zealots en-Dal	exodus	26	W	3W	4	Creature - Human Soldier	2	4	U	At the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.
+Aether Tide	exodus	27	U	XU	1	Sorcery			C	As an additional cost to cast Aether Tide, discard X creature cards. Return X target creatures to their owners' hands.
+Cunning	exodus	28	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3. When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of the next end step.
+Curiosity	exodus	29	U	U	1	Enchantment - Aura			U	Enchant creature Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Dominating Licid	exodus	30	U	1UU	3	Creature - Licid	1	1	R	{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect. You control enchanted creature.
+Ephemeron	exodus	31	U	4UU	6	Creature - Illusion	4	4	R	Flying Discard a card: Return Ephemeron to its owner's hand.
+Equilibrium	exodus	32	U	1UU	3	Enchantment			R	Whenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.
+Ertai, Wizard Adept	exodus	33	U	2U	3	Legendary Creature - Human Wizard	1	1	R	{2}{U}{U}, {T}: Counter target spell.
+Fade Away	exodus	34	U	2U	3	Sorcery			C	For each creature, that creature's controller pays {1} or sacrifices a permanent.
+Forbid	exodus	35	U	1UU	3	Instant			U	Buyback-Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) Counter target spell.
+Keeper of the Mind	exodus	36	U	UU	2	Creature - Human Wizard	1	2	U	{U}, {T}: Draw a card. Activate this ability only if an opponent has at least two more cards in hand than you.
+Killer Whale	exodus	37	U	3UU	5	Creature - Whale	3	5	U	{U}: Killer Whale gains flying until end of turn.
+Mana Breach	exodus	38	U	2U	3	Enchantment			U	Whenever a player casts a spell, that player returns a land he or she controls to its owner's hand.
+Merfolk Looter	exodus	39	U	1U	2	Creature - Merfolk Rogue	1	1	C	{T}: Draw a card, then discard a card.
+Mind Over Matter	exodus	40	U	2UUUU	6	Enchantment			R	Discard a card: You may tap or untap target artifact, creature, or land.
+Mirozel	exodus	41	U	3U	4	Creature - Illusion	2	3	U	Flying When Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.
+Oath of Scholars	exodus	42	U	3U	4	Enchantment			R	At the beginning of each player's upkeep, if that player has fewer cards in hand than any of his or her opponents, the player may discard his or her hand and draw three cards.
+Robe of Mirrors	exodus	43	U	U	1	Enchantment - Aura			C	Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.) Enchanted creature has shroud. (It can't be the target of spells or abilities.)
+Rootwater Mystic	exodus	44	U	U	1	Creature - Merfolk Wizard	1	1	C	{1}{U}: Look at the top card of target player's library.
+School of Piranha	exodus	45	U	1U	2	Creature - Fish	3	3	C	At the beginning of your upkeep, sacrifice School of Piranha unless you pay {1}{U}.
+Scrivener	exodus	46	U	4U	5	Creature - Human Wizard	2	2	U	When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.
+Thalakos Drifters	exodus	47	U	2UU	4	Creature - Thalakos	3	3	R	Discard a card: Thalakos Drifters gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)
+Thalakos Scout	exodus	48	U	2U	3	Creature - Thalakos Soldier Scout	2	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) Discard a card: Return Thalakos Scout to its owner's hand.
+Theft of Dreams	exodus	49	U	2U	3	Sorcery			C	Draw a card for each tapped creature target opponent controls.
+Treasure Trove	exodus	50	U	2UU	4	Enchantment			U	{2}{U}{U}: Draw a card.
+Wayward Soul	exodus	51	U	2UU	4	Creature - Spirit	3	2	C	Flying {U}: Put Wayward Soul on top of its owner's library.
+Whiptongue Frog	exodus	52	U	2U	3	Creature - Frog	1	3	C	{U}: Whiptongue Frog gains flying until end of turn.
+Carnophage	exodus	53	B	B	1	Creature - Zombie	2	2	C	At the beginning of your upkeep, tap Carnophage unless you pay 1 life.
+Cat Burglar	exodus	54	B	3B	4	Creature - Kor Rogue Minion	2	2	C	{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+Culling the Weak	exodus	55	B	B	1	Instant			C	As an additional cost to cast Culling the Weak, sacrifice a creature. Add {B}{B}{B}{B} to your mana pool.
+Cursed Flesh	exodus	56	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Dauthi Cutthroat	exodus	57	B	1B	2	Creature - Dauthi Minion	1	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) {1}{B}, {T}: Destroy target creature with shadow.
+Dauthi Jackal	exodus	58	B	2B	3	Creature - Dauthi Hound	2	1	C	Shadow (This creature can block or be blocked by only creatures with shadow.) {B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.
+Dauthi Warlord	exodus	59	B	1B	2	Creature - Dauthi Soldier	*	1	U	Shadow (This creature can block or be blocked by only creatures with shadow.) Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.
+Death's Duet	exodus	60	B	2B	3	Sorcery			C	Return two target creature cards from your graveyard to your hand.
+Entropic Specter	exodus	61	B	3BB	5	Creature - Specter Spirit	*	*	R	Flying As Entropic Specter enters the battlefield, choose an opponent. Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand. Whenever Entropic Specter deals damage to a player, that player discards a card.
+Fugue	exodus	62	B	3BB	5	Sorcery			U	Target player discards three cards.
+Grollub	exodus	63	B	2B	3	Creature - Beast	3	3	C	Whenever Grollub is dealt damage, each opponent gains that much life.
+Hatred	exodus	64	B	3BB	5	Instant			R	As an additional cost to cast Hatred, pay X life. Target creature gets +X/+0 until end of turn.
+Keeper of the Dead	exodus	65	B	BB	2	Creature - Human Wizard	1	2	U	{B}, {T}: Destroy target nonblack creature controlled by an opponent with at least two fewer creature cards in his or her graveyard than you.
+Mind Maggots	exodus	66	B	3B	4	Creature - Insect	2	2	U	When Mind Maggots enters the battlefield, discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.
+Nausea	exodus	67	B	1B	2	Sorcery			C	All creatures get -1/-1 until end of turn.
+Necrologia	exodus	68	B	3BB	5	Instant			U	Cast Necrologia only during your end step. As an additional cost to cast Necrologia, pay any amount of life. Draw cards equal to the life paid this way.
+Oath of Ghouls	exodus	69	B	1B	2	Enchantment			R	At the beginning of each player's upkeep, if there are more creature cards in that player's graveyard than in any of his or her opponents' graveyards, the player may return target creature card of his or her choice from his or her graveyard to his or her hand.
+Pit Spawn	exodus	70	B	4BBB	7	Creature - Demon	6	4	R	First strike At the beginning of your upkeep, sacrifice Pit Spawn unless you pay {B}{B}. Whenever Pit Spawn deals damage to a creature, exile that creature.
+Plaguebearer	exodus	71	B	1B	2	Creature - Zombie	1	1	R	{X}{X}{B}: Destroy target nonblack creature with converted mana cost X.
+Recurring Nightmare	exodus	72	B	2B	3	Enchantment			R	Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+Scare Tactics	exodus	73	B	B	1	Instant			C	Creatures you control get +1/+0 until end of turn.
+Slaughter	exodus	74	B	2BB	4	Instant			U	Buyback-Pay 4 life. (You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) Destroy target nonblack creature. It can't be regenerated.
+Spike Cannibal	exodus	75	B	1BB	3	Creature - Spike	0	0	U	Spike Cannibal enters the battlefield with a +1/+1 counter on it. When Spike Cannibal enters the battlefield, move all +1/+1 counters from all creatures onto it.
+Thrull Surgeon	exodus	76	B	1B	2	Creature - Thrull	1	1	C	{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+Vampire Hounds	exodus	77	B	2B	3	Creature - Vampire Hound	2	2	C	Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.
+Volrath's Dungeon	exodus	78	B	2BB	4	Enchantment			R	Pay 5 life: Destroy Volrath's Dungeon. Any player may activate this ability but only during his or her turn. Discard a card: Target player puts a card from his or her hand on top of his or her library. Activate this ability only any time you could cast a sorcery.
+Anarchist	exodus	79	R	4R	5	Creature - Human Wizard	2	2	C	When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.
+Cinder Crawler	exodus	80	R	1R	2	Creature - Salamander	1	2	C	{R}: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.
+Dizzying Gaze	exodus	81	R	R	1	Enchantment - Aura			C	Enchant creature you control {R}: Enchanted creature deals 1 damage to target creature with flying.
+Fighting Chance	exodus	82	R	R	1	Instant			R	For each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.
+Flowstone Flood	exodus	83	R	3R	4	Sorcery			U	Buyback-Pay 3 life, Discard a card at random (You may pay 3 life and discard a card at random in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.) Destroy target land.
+Furnace Brood	exodus	84	R	3R	4	Creature - Elemental	3	3	C	{R}: Target creature can't be regenerated this turn.
+Keeper of the Flame	exodus	85	R	RR	2	Creature - Human Wizard	1	2	U	{R}, {T}: Keeper of the Flame deals 2 damage to target opponent with more life than you.
+Mage il-Vec	exodus	86	R	2R	3	Creature - Human Wizard	2	2	C	{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.
+Maniacal Rage	exodus	87	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and can't block.
+Mogg Assassin	exodus	88	R	2R	3	Creature - Goblin Assassin	2	1	U	{T}: You and target opponent each choose a target creature the other controls. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.
+Monstrous Hound	exodus	89	R	3R	4	Creature - Hound	4	4	R	Monstrous Hound can't attack unless you control more lands than defending player. Monstrous Hound can't block unless you control more lands than attacking player.
+Oath of Mages	exodus	90	R	1R	2	Enchantment			R	At the beginning of each player's upkeep, that player may have Oath of Mages deal 1 damage to target player of his or her choice who has more life than he or she does and who is his or her opponent.
+Ogre Shaman	exodus	91	R	3RR	5	Creature - Ogre Shaman	3	3	R	{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.
+Onslaught	exodus	92	R	R	1	Enchantment			C	Whenever you cast a creature spell, tap target creature.
+Pandemonium	exodus	93	R	3R	4	Enchantment			R	Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.
+Paroxysm	exodus	94	R	1R	2	Enchantment - Aura			U	Enchant creature At the beginning of the upkeep of enchanted creature's controller, reveal the top card of that player's library. If that card is a land card, destroy that creature. Otherwise, it gets +3/+3 until end of turn.
+Price of Progress	exodus	95	R	1R	2	Instant			U	Price of Progress deals 2 damage to each player for each nonbasic land he or she controls.
+Raging Goblin	exodus	96	R	R	1	Creature - Goblin Berserker	1	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Ravenous Baboons	exodus	97	R	3R	4	Creature - Ape	2	2	R	When Ravenous Baboons enters the battlefield, destroy target nonbasic land.
+Reckless Ogre	exodus	98	R	3R	4	Creature - Ogre	3	2	C	Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.
+Sabertooth Wyvern	exodus	99	R	4R	5	Creature - Drake	3	2	U	Flying, first strike
+Scalding Salamander	exodus	100	R	2R	3	Creature - Salamander	2	1	U	Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.
+Seismic Assault	exodus	101	R	RRR	3	Enchantment			R	Discard a land card: Seismic Assault deals 2 damage to target creature or player.
+Shattering Pulse	exodus	102	R	1R	2	Instant			C	Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.) Destroy target artifact.
+Sonic Burst	exodus	103	R	1R	2	Instant			C	As an additional cost to cast Sonic Burst, discard a card at random. Sonic Burst deals 4 damage to target creature or player.
+Spellshock	exodus	104	R	2R	3	Enchantment			U	Whenever a player casts a spell, Spellshock deals 2 damage to that player.
+Avenging Druid	exodus	105	G	2G	3	Creature - Human Druid	1	3	C	Whenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.
+Bequeathal	exodus	106	G	G	1	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, you draw two cards.
+Cartographer	exodus	107	G	2G	3	Creature - Human	2	2	U	When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.
+Crashing Boars	exodus	108	G	3GG	5	Creature - Boar	4	4	U	Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.
+Elven Palisade	exodus	109	G	G	1	Enchantment			U	Sacrifice a Forest: Target attacking creature gets -3/-0 until end of turn.
+Elvish Berserker	exodus	110	G	G	1	Creature - Elf Berserker	1	1	C	Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Jackalope Herd	exodus	111	G	3G	4	Creature - Rabbit Beast	4	5	C	When you cast a spell, return Jackalope Herd to its owner's hand.
+Keeper of the Beasts	exodus	112	G	GG	2	Creature - Human Wizard	1	2	U	{G}, {T}: Put a 2/2 green Beast creature token onto the battlefield. Activate this ability only if an opponent controls more creatures than you.
+Manabond	exodus	113	G	G	1	Enchantment			R	At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.
+Mirri, Cat Warrior	exodus	114	G	1GG	3	Legendary Creature - Cat Warrior	2	3	R	First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it's unblockable as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
+Oath of Druids	exodus	115	G	1G	2	Enchantment			R	At the beginning of each player's upkeep, if that player controls fewer creatures than any of his or her opponents, the player may reveal cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.
+Plated Rootwalla	exodus	116	G	4G	5	Creature - Lizard	3	3	C	{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.
+Predatory Hunger	exodus	117	G	G	1	Enchantment - Aura			C	Enchant creature Whenever an opponent casts a creature spell, put a +1/+1 counter on enchanted creature.
+Pygmy Troll	exodus	118	G	1G	2	Creature - Troll	1	1	C	Whenever Pygmy Troll becomes blocked, it gets +1/+1 until end of turn for each creature blocking it. {G}: Regenerate Pygmy Troll.
+Rabid Wolverines	exodus	119	G	3GG	5	Creature - Wolverine	4	4	C	Whenever Rabid Wolverines becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Reclaim	exodus	120	G	G	1	Instant			C	Put target card from your graveyard on top of your library.
+Resuscitate	exodus	121	G	1G	2	Instant			U	Until end of turn, creatures you control gain "{1}: Regenerate this creature."
+Rootwater Alligator	exodus	122	G	3G	4	Creature - Crocodile	3	2	C	Sacrifice a Forest: Regenerate Rootwater Alligator.
+Skyshroud Elite	exodus	123	G	G	1	Creature - Elf	1	1	U	Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.
+Skyshroud War Beast	exodus	124	G	1G	2	Creature - Beast	*	*	R	Trample As Skyshroud War Beast enters the battlefield, choose an opponent. Skyshroud War Beast's power and toughness are each equal to the number of nonbasic lands the chosen player controls.
+Song of Serenity	exodus	125	G	1G	2	Enchantment			U	Enchanted creatures can't attack or block.
+Spike Hatcher	exodus	126	G	6G	7	Creature - Spike	0	0	R	Spike Hatcher enters the battlefield with six +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature. {1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.
+Spike Rogue	exodus	127	G	1GG	3	Creature - Spike	0	0	U	Spike Rogue enters the battlefield with two +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature. {2}, Remove a +1/+1 counter from a creature you control: Put a +1/+1 counter on Spike Rogue.
+Spike Weaver	exodus	128	G	2GG	4	Creature - Spike	0	0	R	Spike Weaver enters the battlefield with three +1/+1 counters on it. {2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature. {1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.
+Survival of the Fittest	exodus	129	G	1G	2	Enchantment			R	{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+Wood Elves	exodus	130	G	2G	3	Creature - Elf Scout	1	1	C	When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+Coat of Arms	exodus	131	A	5	5	Artifact			R	Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)
+Erratic Portal	exodus	132	A	4	4	Artifact			R	{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.
+Medicine Bag	exodus	133	A	3	3	Artifact			U	{1}, {T}, Discard a card: Regenerate target creature.
+Memory Crystal	exodus	134	A	3	3	Artifact			R	Buyback costs are reduced by {2}.
+Mindless Automaton	exodus	135	A	4	4	Artifact Creature - Construct	0	0	R	Mindless Automaton enters the battlefield with two +1/+1 counters on it. {1}, Discard a card: Put a +1/+1 counter on Mindless Automaton. Remove two +1/+1 counters from Mindless Automaton: Draw a card.
+Null Brooch	exodus	136	A	4	4	Artifact			R	{2}, {T}, Discard your hand: Counter target noncreature spell.
+Skyshaper	exodus	137	A	2	2	Artifact			U	Sacrifice Skyshaper: Creatures you control gain flying until end of turn.
+Spellbook	exodus	138	A	0	0	Artifact			U	You have no maximum hand size.
+Sphere of Resistance	exodus	139	A	2	2	Artifact			R	Spells cost {1} more to cast.
+Thopter Squadron	exodus	140	A	5	5	Artifact Creature - Thopter	0	0	R	Flying Thopter Squadron enters the battlefield with three +1/+1 counters on it. {1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery. {1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.
+Transmogrifying Licid	exodus	141	A	3	3	Artifact Creature - Licid	2	2	U	{1}, {T}: Transmogrifying Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {1} to end this effect. Enchanted creature gets +1/+1 and is an artifact in addition to its other types.
+Workhorse	exodus	142	A	6	6	Artifact Creature - Horse	0	0	R	Workhorse enters the battlefield with four +1/+1 counters on it. Remove a +1/+1 counter from Workhorse: Add {1} to your mana pool.
+City of Traitors	exodus	143	L		0	Land			R	When you play another land, sacrifice City of Traitors. {T}: Add {2} to your mana pool.

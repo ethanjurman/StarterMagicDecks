@@ -1,0 +1,27 @@
+13	plains
+10	island
+1	seaside haven
+2	gustcloak runner
+1	pearlspear courier
+1	gustcloak harrier
+2	daru cavalier
+2	dive bomber
+1	gustcloak skirmisher
+1	gustcloak sentinel
+1	gustcloak savior
+2	ironfist crusher
+2	ascending aven
+2	screaming seahawk
+2	piety charm
+2	unified strike
+1	akroma's blessing
+2	inspirit
+1	oblation
+2	sandskin
+1	sunfire balm
+1	defensive maneuvers
+2	mage's guile
+1	meddle
+2	airborne aid
+1	dispersing orb
+1	essence fracture

@@ -1,0 +1,24 @@
+12	swamp
+10	mountain
+2	shimmering grotto
+3	facevaulter
+2	exiled boggart
+1	squeaking pie sneak
+2	boggart harbinger
+2	ghostly changeling
+1	mad auntie
+1	spiderwig boggart
+1	boggart mob
+2	marsh flitter
+2	hornet harasser
+2	warren pilferers
+3	adder-staff boggart
+1	goatnapper
+2	mudbutton torchrunner
+2	lowland oaf
+1	tar pitcher
+2	boggart birth rite
+1	fodder launch
+1	hoarder's greed
+2	tarfire
+2	boggart shenanigans

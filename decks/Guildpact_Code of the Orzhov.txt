@@ -1,0 +1,26 @@
+10	plains
+11	swamp
+2	orzhov basilica
+1	orzhova, the church of deals
+1	martyred rusalka
+2	shrieking grotesque
+1	belfry spirit
+1	plagued rusalka
+2	thoughtpicker witch
+2	infectious host
+2	orzhov euthanist
+2	ostiary thrull
+2	poisonbelly ogre
+1	skeletal vampire
+1	teysa, orzhov scion
+2	souls of the faultless
+2	blind hunter
+2	agent of masks
+2	mourning thrull
+1	orzhov guildmage
+1	festival of the guildpact
+2	hissing miasma
+2	strands of undeath
+2	castigate
+1	mortify
+2	pillory of the sleepless

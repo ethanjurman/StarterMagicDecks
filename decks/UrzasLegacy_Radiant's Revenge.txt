@@ -1,0 +1,27 @@
+11	plains
+12	island
+1	drifting meadow
+2	remote isle
+2	opal champion
+3	radiant's judgment
+2	sanctum custodian
+1	thornwind faeries
+2	vigilant drake
+1	erase
+1	disenchant
+1	pacifism
+2	path of peace
+2	miscalculation
+1	catalog
+1	power sink
+1	mother of runes
+1	radiant's dragoons
+2	sustainer of the realm
+1	fog bank
+1	raven familiar
+2	ticking gnomes
+1	mobile fort
+2	opportunity
+2	dragon blood
+1	ring of gix
+1	urza's blueprints

@@ -1,0 +1,235 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Ajani Goldmane	2010	1	W	2WW	4	Planeswalker - Ajani	4		M	+1: You gain 2 life. -1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn. -6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your lif
+Angel's Mercy	2010	2	W	2WW	4	Instant			C	You gain 7 life.
+Armored Ascension	2010	3	W	3W	4	Enchantment - Aura			U	Enchant creature Enchanted creature gets +1/+1 for each Plains you control and has flying.
+Baneslayer Angel	2010	4	W	3WW	5	Creature - Angel	5	5	M	Flying, first strike, lifelink, protection from Demons and from Dragons
+Blinding Mage	2010	5	W	1W	2	Creature - Human Wizard	1	2	C	{W}, {T}: Tap target creature.
+Captain of the Watch	2010	6	W	4WW	6	Creature - Human Soldier	3	3	R	Vigilance (Attacking doesn't cause this creature to tap.) Other Soldier creatures you control get +1/+1 and have vigilance. When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.
+Celestial Purge	2010	7	W	1W	2	Instant			U	Exile target black or red permanent.
+Divine Verdict	2010	8	W	3W	4	Instant			C	Destroy target attacking or blocking creature.
+Elite Vanguard	2010	9	W	W	1	Creature - Human Soldier	2	1	U	
+Excommunicate	2010	10	W	2W	3	Sorcery			C	Put target creature on top of its owner's library.
+Glorious Charge	2010	11	W	1W	2	Instant			C	Creatures you control get +1/+1 until end of turn.
+Griffin Sentinel	2010	12	W	2W	3	Creature - Griffin	1	3	C	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Guardian Seraph	2010	13	W	2WW	4	Creature - Angel	3	4	R	Flying If a source an opponent controls would deal damage to you, prevent 1 of that damage.
+Harm's Way	2010	14	W	W	1	Instant			U	The next 2 damage that a source of your choice would deal to you or a permanent you control this turn is dealt to target creature or player instead.
+Holy Strength	2010	15	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+2.
+Honor of the Pure	2010	16	W	1W	2	Enchantment			R	White creatures you control get +1/+1.
+Indestructibility	2010	17	W	3W	4	Enchantment - Aura			R	Enchant permanent Enchanted permanent is indestructible. (Effects that say "destroy" don't destroy that permanent. An indestructible creature can't be destroyed by damage.)
+Lifelink	2010	18	W	W	1	Enchantment - Aura			C	Enchant creature Enchanted creature has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+Lightwielder Paladin	2010	19	W	3WW	5	Creature - Human Knight	4	4	R	First strike (This creature deals combat damage before creatures without first strike.) Whenever Lightwielder Paladin deals combat damage to a player, you may exile target black or red permanent that player controls.
+Mesa Enchantress	2010	20	W	1WW	3	Creature - Human Druid	0	2	R	Whenever you cast an enchantment spell, you may draw a card.
+Open the Vaults	2010	21	W	4WW	6	Sorcery			R	Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)
+Pacifism	2010	22	W	1W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block.
+Palace Guard	2010	23	W	2W	3	Creature - Human Soldier	1	4	C	Palace Guard can block any number of creatures.
+Planar Cleansing	2010	24	W	3WWW	6	Sorcery			R	Destroy all nonland permanents.
+Razorfoot Griffin	2010	25	W	3W	4	Creature - Griffin	2	2	C	Flying First strike (This creature deals combat damage before creatures without first strike.)
+Rhox Pikemaster	2010	26	W	2WW	4	Creature - Rhino Soldier	3	3	U	First strike (This creature deals combat damage before creatures without first strike.) Other Soldier creatures you control have first strike.
+Righteousness	2010	27	W	W	1	Instant			U	Target blocking creature gets +7/+7 until end of turn.
+Safe Passage	2010	28	W	2W	3	Instant			C	Prevent all damage that would be dealt to you and creatures you control this turn.
+Serra Angel	2010	29	W	3WW	5	Creature - Angel	4	4	U	Flying Vigilance (Attacking doesn't cause this creature to tap.)
+Siege Mastodon	2010	30	W	4W	5	Creature - Elephant	3	5	C	
+Silence	2010	31	W	W	1	Instant			R	Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+Silvercoat Lion	2010	32	W	1W	2	Creature - Cat	2	2	C	
+Solemn Offering	2010	33	W	2W	3	Sorcery			C	Destroy target artifact or enchantment. You gain 4 life.
+Soul Warden	2010	34	W	W	1	Creature - Human Cleric	1	1	C	Whenever another creature enters the battlefield, you gain 1 life.
+Stormfront Pegasus	2010	35	W	1W	2	Creature - Pegasus	2	1	C	Flying
+Tempest of Light	2010	36	W	2W	3	Instant			U	Destroy all enchantments.
+Undead Slayer	2010	37	W	2W	3	Creature - Human Cleric	2	2	U	{W}, {T}: Exile target Skeleton, Vampire, or Zombie.
+Veteran Armorsmith	2010	38	W	WW	2	Creature - Human Soldier	2	3	C	Other Soldier creatures you control get +0/+1.
+Veteran Swordsmith	2010	39	W	2W	3	Creature - Human Soldier	3	2	C	Other Soldier creatures you control get +1/+0.
+Wall of Faith	2010	40	W	3W	4	Creature - Wall	0	5	C	Defender (This creature can't attack.) {W}: Wall of Faith gets +0/+1 until end of turn.
+White Knight	2010	41	W	WW	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+Air Elemental	2010	42	U	3UU	5	Creature - Elemental	4	4	U	Flying
+Alluring Siren	2010	43	U	1U	2	Creature - Siren	1	1	U	{T}: Target creature an opponent controls attacks you this turn if able.
+Cancel	2010	44	U	1UU	3	Instant			C	Counter target spell.
+Clone	2010	45	U	3U	4	Creature - Shapeshifter	0	0	R	You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Convincing Mirage	2010	46	U	1U	2	Enchantment - Aura			C	Enchant land As Convincing Mirage enters the battlefield, choose a basic land type. Enchanted land is the chosen type.
+Coral Merfolk	2010	47	U	1U	2	Creature - Merfolk	2	1	C	
+Disorient	2010	48	U	3U	4	Instant			C	Target creature gets -7/-0 until end of turn.
+Divination	2010	49	U	2U	3	Sorcery			C	Draw two cards.
+Djinn of Wishes	2010	50	U	3UU	5	Creature - Djinn	4	4	R	Flying Djinn of Wishes enters the battlefield with three wish counters on it. {2}{U}{U}, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
+Essence Scatter	2010	51	U	1U	2	Instant			C	Counter target creature spell.
+Fabricate	2010	52	U	2U	3	Sorcery			U	Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.
+Flashfreeze	2010	53	U	1U	2	Instant			U	Counter target red or green spell.
+Hive Mind	2010	54	U	5U	6	Enchantment			R	Whenever a player casts an instant or sorcery spell, each other player copies that spell. Each of those players may choose new targets for his or her copy.
+Horned Turtle	2010	55	U	2U	3	Creature - Turtle	1	4	C	
+Ice Cage	2010	56	U	1U	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block, and its activated abilities can't be activated. When enchanted creature becomes the target of a spell or ability, destroy Ice Cage.
+Illusionary Servant	2010	57	U	1UU	3	Creature - Illusion	3	4	C	Flying When Illusionary Servant becomes the target of a spell or ability, sacrifice it.
+Jace Beleren	2010	58	U	1UU	3	Planeswalker - Jace	3		M	+2: Each player draws a card. -1: Target player draws a card. -10: Target player puts the top twenty cards of his or her library into his or her graveyard.
+Jump	2010	59	U	U	1	Instant			C	Target creature gains flying until end of turn.
+Levitation	2010	60	U	2UU	4	Enchantment			U	Creatures you control have flying.
+Merfolk Looter	2010	61	U	1U	2	Creature - Merfolk Rogue	1	1	C	{T}: Draw a card, then discard a card.
+Merfolk Sovereign	2010	62	U	1UU	3	Creature - Merfolk	2	2	R	Other Merfolk creatures you control get +1/+1. {T}: Target Merfolk creature is unblockable this turn.
+Mind Control	2010	63	U	3UU	5	Enchantment - Aura			U	Enchant creature You control enchanted creature.
+Mind Spring	2010	64	U	XUU	2	Sorcery			R	Draw X cards.
+Negate	2010	65	U	1U	2	Instant			C	Counter target noncreature spell.
+Phantom Warrior	2010	66	U	1UU	3	Creature - Illusion Warrior	2	2	U	Phantom Warrior is unblockable.
+Polymorph	2010	67	U	3U	4	Sorcery			R	Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.
+Ponder	2010	68	U	U	1	Sorcery			C	Look at the top three cards of your library, then put them back in any order. You may shuffle your library. Draw a card.
+Sage Owl	2010	69	U	1U	2	Creature - Bird	1	1	C	Flying When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+Serpent of the Endless Sea	2010	70	U	4U	5	Creature - Serpent	*	*	C	Serpent of the Endless Sea's power and toughness are each equal to the number of Islands you control. Serpent of the Endless Sea can't attack unless defending player controls an Island.
+Sleep	2010	71	U	2UU	4	Sorcery			U	Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.
+Snapping Drake	2010	72	U	3U	4	Creature - Drake	3	2	C	Flying
+Sphinx Ambassador	2010	73	U	5UU	7	Creature - Sphinx	5	5	M	Flying Whenever Sphinx Ambassador deals combat damage to a player, search that player's library for a card, then that player names a card. If you searched for a creature card that isn't the named card, you may put it onto the battlefield under your control. Then that player shuffles his or her library.
+Telepathy	2010	74	U	U	1	Enchantment			U	Your opponents play with their hands revealed.
+Time Warp	2010	75	U	3UU	5	Sorcery			M	Target player takes an extra turn after this one.
+Tome Scour	2010	76	U	U	1	Sorcery			C	Target player puts the top five cards of his or her library into his or her graveyard.
+Traumatize	2010	77	U	3UU	5	Sorcery			R	Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Twincast	2010	78	U	UU	2	Instant			R	Copy target instant or sorcery spell. You may choose new targets for the copy.
+Unsummon	2010	79	U	U	1	Instant			C	Return target creature to its owner's hand.
+Wall of Frost	2010	80	U	1UU	3	Creature - Wall	0	7	U	Defender (This creature can't attack.) Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+Wind Drake	2010	81	U	2U	3	Creature - Drake	2	2	C	Flying
+Zephyr Sprite	2010	82	U	U	1	Creature - Faerie	1	1	C	Flying
+Acolyte of Xathrid	2010	83	B	B	1	Creature - Human Cleric	0	1	C	{1}{B}, {T}: Target player loses 1 life.
+Assassinate	2010	84	B	2B	3	Sorcery			C	Destroy target tapped creature.
+Black Knight	2010	85	B	BB	2	Creature - Human Knight	2	2	U	First strike (This creature deals combat damage before creatures without first strike.) Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+Bog Wraith	2010	86	B	3B	4	Creature - Wraith	3	3	U	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Cemetery Reaper	2010	87	B	1BB	3	Creature - Zombie	2	2	R	Other Zombie creatures you control get +1/+1. {2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+Child of Night	2010	88	B	1B	2	Creature - Vampire	2	1	C	Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Consume Spirit	2010	89	B	X1B	2	Sorcery			U	Spend only black mana on X. Consume Spirit deals X damage to target creature or player and you gain X life.
+Deathmark	2010	90	B	B	1	Sorcery			U	Destroy target green or white creature.
+Diabolic Tutor	2010	91	B	2BB	4	Sorcery			U	Search your library for a card and put that card into your hand. Then shuffle your library.
+Disentomb	2010	92	B	B	1	Sorcery			C	Return target creature card from your graveyard to your hand.
+Doom Blade	2010	93	B	1B	2	Instant			C	Destroy target nonblack creature.
+Dread Warlock	2010	94	B	1BB	3	Creature - Human Wizard	2	2	C	Dread Warlock can't be blocked except by black creatures.
+Drudge Skeletons	2010	95	B	1B	2	Creature - Skeleton	1	1	C	{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Duress	2010	96	B	B	1	Sorcery			C	Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Gravedigger	2010	97	B	3B	4	Creature - Zombie	2	2	C	When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+Haunting Echoes	2010	98	B	3BB	5	Sorcery			R	Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Howling Banshee	2010	99	B	2BB	4	Creature - Spirit	3	3	U	Flying When Howling Banshee enters the battlefield, each player loses 3 life.
+Hypnotic Specter	2010	100	B	1BB	3	Creature - Specter	2	2	R	Flying Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Kelinore Bat	2010	101	B	2B	3	Creature - Bat	2	1	C	Flying
+Liliana Vess	2010	102	B	3BB	5	Planeswalker - Liliana	5		M	+1: Target player discards a card. -2: Search your library for a card, then shuffle your library and put that card on top of it. -8: Put all creature cards in all graveyards onto the battlefield under your control.
+Looming Shade	2010	103	B	2B	3	Creature - Shade	1	1	C	{B}: Looming Shade gets +1/+1 until end of turn.
+Megrim	2010	104	B	2B	3	Enchantment			U	Whenever an opponent discards a card, Megrim deals 2 damage to that player.
+Mind Rot	2010	105	B	2B	3	Sorcery			C	Target player discards two cards.
+Mind Shatter	2010	106	B	XBB	2	Sorcery			R	Target player discards X cards at random.
+Nightmare	2010	107	B	5B	6	Creature - Nightmare Horse	*	*	R	Flying Nightmare's power and toughness are each equal to the number of Swamps you control.
+Relentless Rats	2010	108	B	1BB	3	Creature - Rat	2	2	U	Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats. A deck can have any number of cards named Relentless Rats.
+Rise from the Grave	2010	109	B	4B	5	Sorcery			U	Put target creature card in a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Royal Assassin	2010	110	B	1BB	3	Creature - Human Assassin	1	1	R	{T}: Destroy target tapped creature.
+Sanguine Bond	2010	111	B	3BB	5	Enchantment			R	Whenever you gain life, target opponent loses that much life.
+Sign in Blood	2010	112	B	BB	2	Sorcery			C	Target player draws two cards and loses 2 life.
+Soul Bleed	2010	113	B	2B	3	Enchantment - Aura			C	Enchant creature At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.
+Tendrils of Corruption	2010	114	B	3B	4	Instant			C	Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.
+Underworld Dreams	2010	115	B	BBB	3	Enchantment			R	Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
+Unholy Strength	2010	116	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+1.
+Vampire Aristocrat	2010	117	B	2B	3	Creature - Vampire Rogue	2	2	C	Sacrifice a creature: Vampire Aristocrat gets +2/+2 until end of turn.
+Vampire Nocturnus	2010	118	B	1BBB	4	Creature - Vampire	3	3	M	Play with the top card of your library revealed. As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.
+Wall of Bone	2010	119	B	2B	3	Creature - Skeleton Wall	1	4	U	Defender (This creature can't attack.) {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Warpath Ghoul	2010	120	B	2B	3	Creature - Zombie	3	2	C	
+Weakness	2010	121	B	B	1	Enchantment - Aura			C	Enchant creature Enchanted creature gets -2/-1.
+Xathrid Demon	2010	122	B	3BBB	6	Creature - Demon	7	7	M	Flying, trample At the beginning of your upkeep, sacrifice a creature other than Xathrid Demon, then each opponent loses life equal to the sacrificed creature's power. If you can't sacrifice a creature, tap Xathrid Demon and you lose 7 life.
+Zombie Goliath	2010	123	B	4B	5	Creature - Zombie Giant	4	3	C	
+Act of Treason	2010	124	R	2R	3	Sorcery			U	Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Ball Lightning	2010	125	R	RRR	3	Creature - Elemental	6	1	R	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.) Haste (This creature can attack and {T} as soon as it comes under your control.) At the beginning of the end step, sacrifice Ball Lightning.
+Berserkers of Blood Ridge	2010	126	R	4R	5	Creature - Human Berserker	4	4	C	Berserkers of Blood Ridge attacks each turn if able.
+Bogardan Hellkite	2010	127	R	6RR	8	Creature - Dragon	5	5	M	Flash (You may cast this spell any time you could cast an instant.) Flying When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.
+Burning Inquiry	2010	128	R	R	1	Sorcery			C	Each player draws three cards, then discards three cards at random.
+Burst of Speed	2010	129	R	R	1	Sorcery			C	Creatures you control gain haste until end of turn. (They can attack and {T} even if they just came under your control.)
+Canyon Minotaur	2010	130	R	3R	4	Creature - Minotaur Warrior	3	3	C	
+Capricious Efreet	2010	131	R	4RR	6	Creature - Efreet	6	4	R	At the beginning of your upkeep, choose target nonland permanent you control and up to two target nonland permanents you don't control. Destroy one of them at random.
+Chandra Nalaar	2010	132	R	3RR	5	Planeswalker - Chandra	6		M	+1: Chandra Nalaar deals 1 damage to target player. -X: Chandra Nalaar deals X damage to target creature. -8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.
+Dragon Whelp	2010	133	R	2RR	4	Creature - Dragon	2	3	U	Flying {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Earthquake	2010	134	R	XR	1	Sorcery			R	Earthquake deals X damage to each creature without flying and each player.
+Fiery Hellhound	2010	135	R	1RR	3	Creature - Elemental Hound	2	2	C	{R}: Fiery Hellhound gets +1/+0 until end of turn.
+Fireball	2010	136	R	XR	1	Sorcery			U	Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players. Fireball costs {1} more to cast for each target beyond the first.
+Firebreathing	2010	137	R	R	1	Enchantment - Aura			C	Enchant creature {R}: Enchanted creature gets +1/+0 until end of turn.
+Goblin Artillery	2010	138	R	1RR	3	Creature - Goblin Warrior	1	3	U	{T}: Goblin Artillery deals 2 damage to target creature or player and 3 damage to you.
+Goblin Chieftain	2010	139	R	1RR	3	Creature - Goblin	2	2	R	Haste (This creature can attack and {T} as soon as it comes under your control.) Other Goblin creatures you control get +1/+1 and have haste.
+Goblin Piker	2010	140	R	1R	2	Creature - Goblin Warrior	2	1	C	
+Ignite Disorder	2010	141	R	1R	2	Instant			U	Ignite Disorder deals 3 damage divided as you choose among any number of target white and/or blue creatures.
+Inferno Elemental	2010	142	R	4RR	6	Creature - Elemental	4	4	U	Whenever Inferno Elemental blocks or becomes blocked by a creature, Inferno Elemental deals 3 damage to that creature.
+Jackal Familiar	2010	143	R	R	1	Creature - Hound	2	2	C	Jackal Familiar can't attack or block alone.
+Kindled Fury	2010	144	R	R	1	Instant			C	Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Lava Axe	2010	145	R	4R	5	Sorcery			C	Lava Axe deals 5 damage to target player.
+Lightning Bolt	2010	146	R	R	1	Instant			C	Lightning Bolt deals 3 damage to target creature or player.
+Lightning Elemental	2010	147	R	3R	4	Creature - Elemental	4	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Magma Phoenix	2010	148	R	3RR	5	Creature - Phoenix	3	3	R	Flying When Magma Phoenix is put into a graveyard from the battlefield, it deals 3 damage to each creature and each player. {3}{R}{R}: Return Magma Phoenix from your graveyard to your hand.
+Manabarbs	2010	149	R	3R	4	Enchantment			R	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Panic Attack	2010	150	R	2R	3	Sorcery			C	Up to three target creatures can't block this turn.
+Prodigal Pyromancer	2010	151	R	2R	3	Creature - Human Wizard	1	1	U	{T}: Prodigal Pyromancer deals 1 damage to target creature or player.
+Pyroclasm	2010	152	R	1R	2	Sorcery			U	Pyroclasm deals 2 damage to each creature.
+Raging Goblin	2010	153	R	R	1	Creature - Goblin Berserker	1	1	C	Haste (This creature can attack and {T} as soon as it comes under your control.)
+Seismic Strike	2010	154	R	2R	3	Instant			C	Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+Shatter	2010	155	R	1R	2	Instant			C	Destroy target artifact.
+Shivan Dragon	2010	156	R	4RR	6	Creature - Dragon	5	5	R	Flying {R}: Shivan Dragon gets +1/+0 until end of turn.
+Siege-Gang Commander	2010	157	R	3RR	5	Creature - Goblin	2	2	R	When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield. {1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+Sparkmage Apprentice	2010	158	R	1R	2	Creature - Human Wizard	1	1	C	When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.
+Stone Giant	2010	159	R	2RR	4	Creature - Giant	3	4	U	{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Trumpet Blast	2010	160	R	2R	3	Instant			C	Attacking creatures get +2/+0 until end of turn.
+Viashino Spearhunter	2010	161	R	2R	3	Creature - Viashino Warrior	2	1	C	First strike (This creature deals combat damage before creatures without first strike.)
+Wall of Fire	2010	162	R	1RR	3	Creature - Wall	0	5	U	Defender (This creature can't attack.) {R}: Wall of Fire gets +1/+0 until end of turn.
+Warp World	2010	163	R	5RRR	8	Sorcery			R	Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.
+Yawning Fissure	2010	164	R	4R	5	Sorcery			C	Each opponent sacrifices a land.
+Acidic Slime	2010	165	G	3GG	5	Creature - Ooze	2	2	U	Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.) When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+Ant Queen	2010	166	G	3GG	5	Creature - Insect	5	5	R	{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.
+Awakener Druid	2010	167	G	2G	3	Creature - Human Druid	1	1	U	When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid is on the battlefield. It's still a land.
+Birds of Paradise	2010	168	G	G	1	Creature - Bird	0	1	R	Flying {T}: Add one mana of any color to your mana pool.
+Borderland Ranger	2010	169	G	2G	3	Creature - Human Scout	2	2	C	When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+Bountiful Harvest	2010	170	G	4G	5	Sorcery			C	You gain 1 life for each land you control.
+Bramble Creeper	2010	171	G	4G	5	Creature - Elemental	0	3	C	Whenever Bramble Creeper attacks, it gets +5/+0 until end of turn.
+Centaur Courser	2010	172	G	2G	3	Creature - Centaur Warrior	3	3	C	
+Craw Wurm	2010	173	G	4GG	6	Creature - Wurm	6	4	C	
+Cudgel Troll	2010	174	G	2GG	4	Creature - Troll	4	3	U	{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Deadly Recluse	2010	175	G	1G	2	Creature - Spider	1	2	C	Reach (This creature can block creatures with flying.) Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Elvish Archdruid	2010	176	G	1GG	3	Creature - Elf Druid	2	2	R	Other Elf creatures you control get +1/+1. {T}: Add {G} to your mana pool for each Elf you control.
+Elvish Piper	2010	177	G	3G	4	Creature - Elf Shaman	1	1	R	{G}, {T}: You may put a creature card from your hand onto the battlefield.
+Elvish Visionary	2010	178	G	1G	2	Creature - Elf Shaman	1	1	C	When Elvish Visionary enters the battlefield, draw a card.
+Emerald Oryx	2010	179	G	3G	4	Creature - Antelope	2	3	C	Forestwalk (This creature is unblockable as long as defending player controls a Forest.)
+Enormous Baloth	2010	180	G	6G	7	Creature - Beast	7	7	U	
+Entangling Vines	2010	181	G	3G	4	Enchantment - Aura			C	Enchant tapped creature Enchanted creature doesn't untap during its controller's untap step.
+Fog	2010	182	G	G	1	Instant			C	Prevent all combat damage that would be dealt this turn.
+Garruk Wildspeaker	2010	183	G	2GG	4	Planeswalker - Garruk	3		M	+1: Untap two target lands. -1: Put a 3/3 green Beast creature token onto the battlefield. -4: Creatures you control get +3/+3 and gain trample until end of turn.
+Giant Growth	2010	184	G	G	1	Instant			C	Target creature gets +3/+3 until end of turn.
+Giant Spider	2010	185	G	3G	4	Creature - Spider	2	4	C	Reach (This creature can block creatures with flying.)
+Great Sable Stag	2010	186	G	1GG	3	Creature - Elk	3	3	R	Great Sable Stag can't be countered. Protection from blue and from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue or black.)
+Howl of the Night Pack	2010	187	G	6G	7	Sorcery			U	Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.
+Kalonian Behemoth	2010	188	G	5GG	7	Creature - Beast	9	9	R	Shroud (This creature can't be the target of spells or abilities.)
+Llanowar Elves	2010	189	G	G	1	Creature - Elf Druid	1	1	C	{T}: Add {G} to your mana pool.
+Lurking Predators	2010	190	G	4GG	6	Enchantment			R	Whenever an opponent casts a spell, reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, you may put that card on the bottom of your library.
+Master of the Wild Hunt	2010	191	G	2GG	4	Creature - Human Shaman	3	3	M	At the beginning of your upkeep, put a 2/2 green Wolf creature token onto the battlefield. {T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.
+Might of Oaks	2010	192	G	3G	4	Instant			R	Target creature gets +7/+7 until end of turn.
+Mist Leopard	2010	193	G	3G	4	Creature - Cat	3	2	C	Shroud (This creature can't be the target of spells or abilities.)
+Mold Adder	2010	194	G	G	1	Creature - Fungus Snake	1	1	U	Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.
+Naturalize	2010	195	G	1G	2	Instant			C	Destroy target artifact or enchantment.
+Nature's Spiral	2010	196	G	1G	2	Sorcery			U	Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)
+Oakenform	2010	197	G	2G	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+3.
+Overrun	2010	198	G	2GGG	5	Sorcery			U	Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Prized Unicorn	2010	199	G	3G	4	Creature - Unicorn	2	2	U	All creatures able to block Prized Unicorn do so.
+Protean Hydra	2010	200	G	XG	1	Creature - Hydra	0	0	M	Protean Hydra enters the battlefield with X +1/+1 counters on it. If damage would be dealt to Protean Hydra, prevent that damage and remove that many +1/+1 counters from it. Whenever a +1/+1 counter is removed from Protean Hydra, put two +1/+1 counters on it at the beginning of the next end step.
+Rampant Growth	2010	201	G	1G	2	Sorcery			C	Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Regenerate	2010	202	G	1G	2	Instant			C	Regenerate target creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Runeclaw Bear	2010	203	G	1G	2	Creature - Bear	2	2	C	
+Stampeding Rhino	2010	204	G	4G	5	Creature - Rhino	4	4	C	Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Windstorm	2010	205	G	XG	1	Instant			U	Windstorm deals X damage to each creature with flying.
+Angel's Feather	2010	206	A	2	2	Artifact			U	Whenever a player casts a white spell, you may gain 1 life.
+Coat of Arms	2010	207	A	5	5	Artifact			R	Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)
+Darksteel Colossus	2010	208	A	11	2	Artifact Creature - Golem	11	11	M	Trample Darksteel Colossus is indestructible. If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.
+Demon's Horn	2010	209	A	2	2	Artifact			U	Whenever a player casts a black spell, you may gain 1 life.
+Dragon's Claw	2010	210	A	2	2	Artifact			U	Whenever a player casts a red spell, you may gain 1 life.
+Gorgon Flail	2010	211	A	2	2	Artifact - Equipment			U	Equipped creature gets +1/+1 and has deathtouch. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Howling Mine	2010	212	A	2	2	Artifact			R	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+Kraken's Eye	2010	213	A	2	2	Artifact			U	Whenever a player casts a blue spell, you may gain 1 life.
+Magebane Armor	2010	214	A	3	3	Artifact - Equipment			R	Equipped creature gets +2/+4 and loses flying. Prevent all noncombat damage that would be dealt to equipped creature. Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Mirror of Fate	2010	215	A	5	5	Artifact			R	{T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.
+Ornithopter	2010	216	A	0	0	Artifact Creature - Thopter	0	2	U	Flying
+Pithing Needle	2010	217	A	1	1	Artifact			R	As Pithing Needle enters the battlefield, name a card. Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+Platinum Angel	2010	218	A	7	7	Artifact Creature - Angel	4	4	M	Flying You can't lose the game and your opponents can't win the game.
+Rod of Ruin	2010	219	A	4	4	Artifact			U	{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Spellbook	2010	220	A	0	0	Artifact			U	You have no maximum hand size.
+Whispersilk Cloak	2010	221	A	3	3	Artifact - Equipment			U	Equipped creature is unblockable. Equipped creature has shroud. (It can't be the target of spells or abilities.) Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Wurm's Tooth	2010	222	A	2	2	Artifact			U	Whenever a player casts a green spell, you may gain 1 life.
+Dragonskull Summit	2010	223	L		0	Land			R	Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain. {T}: Add {B} or {R} to your mana pool.
+Drowned Catacomb	2010	224	L		0	Land			R	Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp. {T}: Add {U} or {B} to your mana pool.
+Gargoyle Castle	2010	225	L		0	Land			R	{T}: Add {1} to your mana pool. {5}, {T}, Sacrifice Gargoyle Castle: Put a 3/4 colorless Gargoyle artifact creature token with flying onto the battlefield.
+Glacial Fortress	2010	226	L		0	Land			R	Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island. {T}: Add {W} or {U} to your mana pool.
+Rootbound Crag	2010	227	L		0	Land			R	Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest. {T}: Add {R} or {G} to your mana pool.
+Sunpetal Grove	2010	228	L		0	Land			R	Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains. {T}: Add {G} or {W} to your mana pool.
+Terramorphic Expanse	2010	229	L		0	Land			C	{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Plains	2010	230	L		0	Basic Land - Plains			L	W
+Island	2010	234	L		0	Basic Land - Island			L	U
+Swamp	2010	238	L		0	Basic Land - Swamp			L	B
+Mountain	2010	242	L		0	Basic Land - Mountain			L	R
+Forest	2010	246	L		0	Basic Land - Forest			L	G

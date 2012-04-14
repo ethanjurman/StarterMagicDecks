@@ -1,0 +1,24 @@
+10	plains
+12	swamp
+2	tainted field
+3	mystic familiar
+1	auramancer
+1	stern judge
+1	aven cloudchaser
+3	teroh's faithful
+1	teroh's vanguard
+1	angel of retribution
+3	putrid imp
+1	crypt creeper
+4	gravedigger
+1	ichorid
+1	whispering shade
+2	cabal surgeon
+1	grotesque hybrid
+1	carrion wurm
+1	hypochondria
+1	strength of isolation
+3	buried alive
+4	crippling fatigue
+1	malevolent awakening
+1	zombify

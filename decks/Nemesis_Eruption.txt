@@ -1,0 +1,28 @@
+14	mountain
+10	plains
+1	kris mage
+2	laccolith whelp
+1	arc mage
+3	laccolith grunt
+2	laccolith warrior
+2	flowstone crusher
+1	flowstone overseer
+2	alabaster wall
+2	chieftain en-dal
+1	defender en-vec
+1	oracle's attendants
+2	trap runner
+1	crenellated wall
+3	seal of fire
+1	flaming sword
+1	downhill charge
+1	thunderclap
+1	volcanic wind
+1	disenchant
+1	inviolability
+1	seal of cleansing
+1	ramosian rally
+1	sivvi's ruse
+1	belbe's armor
+1	flowstone armor
+1	iron lance

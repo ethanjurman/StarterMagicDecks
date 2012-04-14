@@ -1,0 +1,31 @@
+1	cabal coffers
+2	leechridden swamp
+23	swamp
+1	ascendant evincar
+2	cadaverous knight
+1	corpse harvester
+1	death baron
+1	dregscape zombie
+2	festering goblin
+1	gravedigger
+1	helldozer
+1	nefashu
+1	noxious ghoul
+2	phyrexian ghoul
+1	rotting rats
+1	shepherd of rot
+1	soulless one
+2	undead warchief
+1	withered wretch
+1	beacon of unrest
+1	beseech the queen
+1	consume spirit
+1	cruel revival
+2	dark ritual
+1	grave pact
+1	incremental blight
+1	innocent blood
+1	phyrexian arena
+1	profane command
+1	syphon mind
+1	syphon soul

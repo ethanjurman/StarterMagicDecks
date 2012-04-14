@@ -1,0 +1,27 @@
+13	swamp
+11	mountain
+1	ghost-lit stalker
+2	gnat miser
+1	cruel deceiver
+1	hand of cruelty
+3	deathmask nezumi
+1	skull collector
+1	akuta, born of ash
+1	locust miser
+2	kemuri-onna
+1	okiba-gang shinobi
+1	goblin cohort
+2	godo's irregulars
+3	akki underling
+1	sokenzan renegade
+1	sokenzan spellblade
+1	honden of night's reach
+1	kagemaro's clutch
+2	sink into takenuma
+1	death of a thousand stings
+3	barrel down sokenzan
+1	flames of the blood hand
+1	honden of infinite rage
+2	spiraling embers
+1	thoughts of ruin
+1	shuko

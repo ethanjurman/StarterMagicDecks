@@ -1,0 +1,27 @@
+9	island
+3	plains
+9	swamp
+2	drifting meadow
+2	polluted mire
+2	remote isle
+1	sandbar merfolk
+1	wizard mentor
+3	pendrell drake
+1	phyrexian ghoul
+3	disenchant
+2	power sink
+2	catalog
+1	rescind
+1	sicken
+1	despondency
+1	exhume
+1	expunge
+1	stern proctor
+3	sandbar serpent
+2	humble
+1	turnabout
+1	confiscate
+2	victimize
+3	diabolic servitude
+1	somnophore
+1	abyssal horror

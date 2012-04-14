@@ -1,0 +1,24 @@
+11	forest
+10	plains
+2	selesnya sanctuary
+1	vitu-ghazi, the city-tree
+2	elvish skysweeper
+1	scion of the wild
+2	nullmage shepherd
+1	dowsing shaman
+2	root-kin ally
+3	siege wurm
+2	caregiver
+2	sandsower
+2	conclave phalanx
+2	selesnya evangel
+1	watchwolf
+1	tolsimir wolfblood
+1	selesnya guildmage
+2	centaur safeguard
+3	gather courage
+4	fists of ironwood
+2	scatter the seeds
+1	dryad's caress
+1	overwhelm
+1	conclave's blessing

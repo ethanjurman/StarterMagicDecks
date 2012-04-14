@@ -1,0 +1,525 @@
+Name	Set	ImageFile	Color	Cost	ConvertedCost	Type	Power	Toughness	Rarity	Text
+Akrasan Squire	soa	1	W	W	1	Creature - Human Soldier	1	1	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Angel's Herald	soa	2	W	W	1	Creature - Human Cleric	1	1	U	{2}{W}, {T}, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it onto the battlefield. Then shuffle your library.
+Angelic Benediction	soa	3	W	3W	4	Enchantment			U	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, you may tap target creature.
+Angelsong	soa	4	W	1W	2	Instant			C	Prevent all combat damage that would be dealt this turn. Cycling {2} ({2}, Discard this card: Draw a card.)
+Bant Battlemage	soa	5	W	2W	3	Creature - Human Wizard	2	2	U	{G}, {T}: Target creature gains trample until end of turn. {U}, {T}: Target creature gains flying until end of turn.
+Battlegrace Angel	soa	6	W	3WW	5	Creature - Angel	4	4	R	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, it gains lifelink until end of turn.
+Cradle of Vitality	soa	7	W	3W	4	Enchantment			R	Whenever you gain life, you may pay {1}{W}. If you do, put a +1/+1 counter on target creature for each 1 life you gained.
+Dispeller's Capsule	soa	8	WA	W	1	Artifact			C	{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+Elspeth, Knight-Errant	soa	9	W	2WW	4	Planeswalker - Elspeth	4		M	+1: Put a 1/1 white Soldier creature token onto the battlefield. +1: Target creature gets +3/+3 and gains flying until end of turn. -8: For the rest of the game, artifacts, creatures, enchantments, and lands you control are indestructible.
+Ethersworn Canonist	soa	10	WA	1W	2	Artifact Creature - Human Cleric	2	2	R	Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+Excommunicate	soa	11	W	2W	3	Sorcery			C	Put target creature on top of its owner's library.
+Guardians of Akrasa	soa	12	W	2W	3	Creature - Human Soldier	0	4	C	Defender Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Gustrider Exuberant	soa	13	W	2W	3	Creature - Human Wizard	1	2	C	Flying Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.
+Invincible Hymn	soa	14	W	6WW	8	Sorcery			R	Count the number of cards in your library. Your life total becomes that number.
+Knight of the Skyward Eye	soa	15	W	1W	2	Creature - Human Knight	2	2	C	{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate this ability only once each turn.
+Knight of the White Orchid	soa	16	W	WW	2	Creature - Human Knight	2	2	R	First strike When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+Knight-Captain of Eos	soa	17	W	4W	5	Creature - Human Knight	2	2	R	When Knight-Captain of Eos enters the battlefield, put two 1/1 white Soldier creature tokens onto the battlefield. {W}, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.
+Marble Chalice	soa	18	WA	2W	3	Artifact			C	{T}: You gain 1 life.
+Metallurgeon	soa	19	WA	1W	2	Artifact Creature - Human Artificer	1	2	U	{W}, {T}: Regenerate target artifact.
+Oblivion Ring	soa	20	W	2W	3	Enchantment			C	When Oblivion Ring enters the battlefield, exile another target nonland permanent. When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Ranger of Eos	soa	21	W	3W	4	Creature - Human Soldier	3	2	R	When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.
+Resounding Silence	soa	22	W	3W	4	Instant			C	Exile target attacking creature. Cycling {5}{G}{W}{U} ({5}{G}{W}{U}, Discard this card: Draw a card.) When you cycle Resounding Silence, exile up to two target attacking creatures.
+Rockcaster Platoon	soa	23	W	5WW	7	Creature - Rhino Soldier	5	7	U	{4}{G}: Rockcaster Platoon deals 2 damage to each creature with flying and each player.
+Sanctum Gargoyle	soa	24	WA	3W	4	Artifact Creature - Gargoyle	2	3	C	Flying When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+Scourglass	soa	25	WA	3WW	5	Artifact			R	{T}, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Activate this ability only during your upkeep.
+Sighted-Caste Sorcerer	soa	26	W	1W	2	Creature - Human Wizard	1	1	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {U}: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Sigiled Paladin	soa	27	W	WW	2	Creature - Human Knight	2	2	U	First strike Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Soul's Grace	soa	28	W	1W	2	Instant			C	You gain life equal to target creature's power.
+Sunseed Nurturer	soa	29	W	2W	3	Creature - Human Druid Wizard	1	1	U	At the beginning of your end step, if you control a creature with power 5 or greater, you may gain 2 life. {T}: Add {1} to your mana pool.
+Welkin Guide	soa	30	W	4W	5	Creature - Bird Cleric	2	2	C	Flying When Welkin Guide enters the battlefield, target creature gets +2/+2 and gains flying until end of turn.
+Yoked Plowbeast	soa	31	W	5WW	7	Creature - Beast	5	5	C	Cycling {2} ({2}, Discard this card: Draw a card.)
+Call to Heel	soa	32	U	1U	2	Instant			C	Return target creature to its owner's hand. Its controller draws a card.
+Cancel	soa	33	U	1UU	3	Instant			C	Counter target spell.
+Cathartic Adept	soa	34	U	U	1	Creature - Human Wizard	1	1	C	{T}: Target player puts the top card of his or her library into his or her graveyard.
+Cloudheath Drake	soa	35	UA	4U	5	Artifact Creature - Drake	3	3	C	Flying {1}{W}: Cloudheath Drake gains vigilance until end of turn.
+Coma Veil	soa	36	U	4U	5	Enchantment - Aura			C	Enchant artifact or creature Enchanted permanent doesn't untap during its controller's untap step.
+Courier's Capsule	soa	37	UA	1U	2	Artifact			C	{1}{U}, {T}, Sacrifice Courier's Capsule: Draw two cards.
+Covenant of Minds	soa	38	U	4U	5	Sorcery			R	Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.
+Dawnray Archer	soa	39	U	2U	3	Creature - Human Archer	1	1	U	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {W}, {T}: Dawnray Archer deals 1 damage to target attacking or blocking creature.
+Esper Battlemage	soa	40	UA	2U	3	Artifact Creature - Human Wizard	2	2	U	{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn. {B}, {T}: Target creature gets -1/-1 until end of turn.
+Etherium Astrolabe	soa	41	UA	2U	3	Artifact			U	Flash {B}, {T}, Sacrifice an artifact: Draw a card.
+Etherium Sculptor	soa	42	UA	1U	2	Artifact Creature - Vedalken Artificer	1	2	C	Artifact spells you cast cost {1} less to cast.
+Fatestitcher	soa	43	U	3U	4	Creature - Zombie Wizard	1	2	U	{T}: You may tap or untap another target permanent. Unearth {U} ({U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Filigree Sages	soa	44	UA	3U	4	Artifact Creature - Vedalken Wizard	2	3	U	{2}{U}: Untap target artifact.
+Gather Specimens	soa	45	U	3UUU	6	Instant			R	If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead.
+Jhessian Lookout	soa	46	U	1U	2	Creature - Human Scout	2	1	C	
+Kathari Screecher	soa	47	U	2U	3	Creature - Bird Soldier	2	2	C	Flying Unearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Kederekt Leviathan	soa	48	U	6UU	8	Creature - Leviathan	5	5	R	When Kederekt Leviathan enters the battlefield, return all other nonland permanents to their owners' hands. Unearth {6}{U} ({6}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Master of Etherium	soa	49	UA	2U	3	Artifact Creature - Vedalken Wizard	*	*	R	Master of Etherium's power and toughness are each equal to the number of artifacts you control. Other artifact creatures you control get +1/+1.
+Memory Erosion	soa	50	U	1UU	3	Enchantment			R	Whenever an opponent casts a spell, that player puts the top two cards of his or her library into his or her graveyard.
+Mindlock Orb	soa	51	UA	3U	4	Artifact			R	Players can't search libraries.
+Outrider of Jhess	soa	52	U	3U	4	Creature - Human Knight	2	2	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Protomatter Powder	soa	53	UA	2U	3	Artifact			U	{4}{W}, {T}, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to the battlefield.
+Resounding Wave	soa	54	U	2U	3	Instant			C	Return target permanent to its owner's hand. Cycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.) When you cycle Resounding Wave, return two target permanents to their owners' hands.
+Sharding Sphinx	soa	55	UA	4UU	6	Artifact Creature - Sphinx	4	4	R	Flying Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.
+Skill Borrower	soa	56	UA	2U	3	Artifact Creature - Human Wizard	1	3	R	Play with the top card of your library revealed. As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)
+Spell Snip	soa	57	U	2U	3	Instant			C	Counter target spell unless its controller pays {1}. Cycling {2} ({2}, Discard this card: Draw a card.)
+Sphinx's Herald	soa	58	UA	U	1	Artifact Creature - Vedalken Wizard	1	1	U	{2}{U}, {T}, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign and put it onto the battlefield. Then shuffle your library.
+Steelclad Serpent	soa	59	UA	5U	6	Artifact Creature - Serpent	4	5	C	Steelclad Serpent can't attack unless you control another artifact.
+Tezzeret the Seeker	soa	60	U	3UU	5	Planeswalker - Tezzeret	4		M	+1: Untap up to two target artifacts. -X: Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library. -5: Artifacts you control become 5/5 artifact creatures until end of turn.
+Tortoise Formation	soa	61	U	3U	4	Instant			C	Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+Vectis Silencers	soa	62	UA	2U	3	Artifact Creature - Human Rogue	1	2	C	{2}{B}: Vectis Silencers gains deathtouch until end of turn. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)
+Ad Nauseam	soa	63	B	3BB	5	Instant			R	Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.
+Archdemon of Unx	soa	64	B	5BB	7	Creature - Demon	6	6	R	Flying, trample At the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token onto the battlefield.
+Banewasp Affliction	soa	65	B	1B	2	Enchantment - Aura			C	Enchant creature When enchanted creature is put into a graveyard, that creature's controller loses life equal to its toughness.
+Blister Beetle	soa	66	B	1B	2	Creature - Insect	1	1	C	When Blister Beetle enters the battlefield, target creature gets -1/-1 until end of turn.
+Bone Splinters	soa	67	B	B	1	Sorcery			C	As an additional cost to cast Bone Splinters, sacrifice a creature. Destroy target creature.
+Corpse Connoisseur	soa	68	B	4B	5	Creature - Zombie Wizard	3	3	U	When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library. Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Cunning Lethemancer	soa	69	B	2B	3	Creature - Human Wizard	2	2	R	At the beginning of your upkeep, each player discards a card.
+Death Baron	soa	70	B	1BB	3	Creature - Zombie Wizard	2	2	R	Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.
+Deathgreeter	soa	71	B	B	1	Creature - Human Shaman	1	1	C	Whenever another creature is put into a graveyard from the battlefield, you may gain 1 life.
+Demon's Herald	soa	72	B	B	1	Creature - Human Wizard	1	1	U	{2}{B}, {T}, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it onto the battlefield. Then shuffle your library.
+Dreg Reaver	soa	73	B	4B	5	Creature - Zombie Beast	4	3	C	
+Dregscape Zombie	soa	74	B	1B	2	Creature - Zombie	2	1	C	Unearth {B} ({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Executioner's Capsule	soa	75	BA	B	1	Artifact			C	{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+Fleshbag Marauder	soa	76	B	2B	3	Creature - Zombie Warrior	3	1	U	When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+Glaze Fiend	soa	77	BA	1B	2	Artifact Creature - Illusion	0	1	C	Flying Whenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn.
+Grixis Battlemage	soa	78	B	2B	3	Creature - Human Wizard	2	2	U	{U}, {T}: Draw a card, then discard a card. {R}, {T}: Target creature can't block this turn.
+Immortal Coil	soa	79	BA	2BB	4	Artifact			R	{T}, Exile two cards from your graveyard: Draw a card. If damage would be dealt to you, prevent that damage. Exile a card from your graveyard for each 1 damage prevented this way. When there are no cards in your graveyard, you lose the game.
+Infest	soa	80	B	1BB	3	Sorcery			U	All creatures get -2/-2 until end of turn.
+Onyx Goblet	soa	81	BA	2B	3	Artifact			C	{T}: Target player loses 1 life.
+Puppet Conjurer	soa	82	BA	1B	2	Artifact Creature - Human Wizard	1	2	U	{U}, {T}: Put a 0/1 blue Homunculus artifact creature token onto the battlefield. At the beginning of your upkeep, sacrifice a Homunculus.
+Resounding Scream	soa	83	B	2B	3	Sorcery			C	Target player discards a card at random. Cycling {5}{U}{B}{R} ({5}{U}{B}{R}, Discard this card: Draw a card.) When you cycle Resounding Scream, target player discards two cards at random.
+Salvage Titan	soa	84	BA	4BB	6	Artifact Creature - Golem	6	4	R	You may sacrifice three artifacts rather than pay Salvage Titan's mana cost. Exile three artifact cards from your graveyard: Return Salvage Titan from your graveyard to your hand.
+Scavenger Drake	soa	85	B	3B	4	Creature - Drake	1	1	U	Flying Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Scavenger Drake.
+Shadowfeed	soa	86	B	B	1	Instant			C	Exile target card from a graveyard. You gain 3 life.
+Shore Snapper	soa	87	B	2B	3	Creature - Beast	2	2	C	{U}: Shore Snapper gains islandwalk until end of turn.
+Skeletal Kathari	soa	88	B	4B	5	Creature - Bird Skeleton	3	2	C	Flying {B}, Sacrifice a creature: Regenerate Skeletal Kathari.
+Tar Fiend	soa	89	B	5B	6	Creature - Elemental	4	4	R	Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.) When Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.
+Undead Leotau	soa	90	B	5B	6	Creature - Zombie Cat	3	4	C	{R}: Undead Leotau gets +1/-1 until end of turn. Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Vein Drinker	soa	91	B	4BB	6	Creature - Vampire	4	4	R	Flying {R}, {T}: Vein Drinker deals damage equal to its power to target creature. That creature deals damage equal to its power to Vein Drinker. Whenever a creature dealt damage by Vein Drinker this turn is put into a graveyard, put a +1/+1 counter on Vein Drinker.
+Viscera Dragger	soa	92	B	3B	4	Creature - Zombie Ogre Warrior	3	3	C	Cycling {2} ({2}, Discard this card: Draw a card.) Unearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Bloodpyre Elemental	soa	93	R	4R	5	Creature - Elemental	4	1	C	Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.
+Bloodthorn Taunter	soa	94	R	1R	2	Creature - Human Scout	1	1	C	Haste {T}: Target creature with power 5 or greater gains haste until end of turn.
+Caldera Hellion	soa	95	R	3RR	5	Creature - Hellion	3	3	R	Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.) When Caldera Hellion enters the battlefield, it deals 3 damage to each creature.
+Crucible of Fire	soa	96	R	3R	4	Enchantment			R	Dragon creatures you control get +3/+3.
+Dragon Fodder	soa	97	R	1R	2	Sorcery			C	Put two 1/1 red Goblin creature tokens onto the battlefield.
+Dragon's Herald	soa	98	R	R	1	Creature - Goblin Shaman	1	1	U	{2}{R}, {T}, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it onto the battlefield. Then shuffle your library.
+Exuberant Firestoker	soa	99	R	2R	3	Creature - Human Druid Shaman	1	1	U	At the beginning of your end step, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player. {T}: Add {1} to your mana pool.
+Flameblast Dragon	soa	100	R	4RR	6	Creature - Dragon	5	5	R	Flying Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.
+Goblin Assault	soa	101	R	2R	3	Enchantment			R	At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield. Goblin creatures attack each turn if able.
+Goblin Mountaineer	soa	102	R	R	1	Creature - Goblin Scout	1	1	C	Mountainwalk
+Hell's Thunder	soa	103	R	1RR	3	Creature - Elemental	4	4	R	Flying, haste At the beginning of the end step, sacrifice Hell's Thunder. Unearth {4}{R} ({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Hissing Iguanar	soa	104	R	2R	3	Creature - Lizard	3	1	C	Whenever another creature is put into a graveyard from the battlefield, you may have Hissing Iguanar deal 1 damage to target player.
+Incurable Ogre	soa	105	R	3R	4	Creature - Ogre Mutant	5	1	C	
+Jund Battlemage	soa	106	R	2R	3	Creature - Human Shaman	2	2	U	{B}, {T}: Target player loses 1 life. {G}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+Lightning Talons	soa	107	R	2R	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/+0 and has first strike.
+Magma Spray	soa	108	R	R	1	Instant			C	Magma Spray deals 2 damage to target creature. If that creature would be put into a graveyard this turn, exile it instead.
+Predator Dragon	soa	109	R	3RRR	6	Creature - Dragon	4	4	R	Flying, haste Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+Resounding Thunder	soa	110	R	2R	3	Instant			C	Resounding Thunder deals 3 damage to target creature or player. Cycling {5}{B}{R}{G} ({5}{B}{R}{G}, Discard this card: Draw a card.) When you cycle Resounding Thunder, it deals 6 damage to target creature or player.
+Ridge Rannet	soa	111	R	5RR	7	Creature - Beast	6	4	C	Cycling {2} ({2}, Discard this card: Draw a card.)
+Rockslide Elemental	soa	112	R	2R	3	Creature - Elemental	1	1	U	First strike Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Rockslide Elemental.
+Scourge Devil	soa	113	R	4R	5	Creature - Devil	3	3	U	When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn. Unearth {2}{R} ({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Skeletonize	soa	114	R	4R	5	Instant			U	Skeletonize deals 3 damage to target creature. When a creature dealt damage this way is put into a graveyard this turn, put a 1/1 black Skeleton creature token onto the battlefield with "{B}: Regenerate this creature."
+Soul's Fire	soa	115	R	2R	3	Instant			C	Target creature you control on the battlefield deals damage equal to its power to target creature or player.
+Thorn-Thrash Viashino	soa	116	R	3R	4	Creature - Viashino Warrior	2	2	C	Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.) {G}: Thorn-Thrash Viashino gains trample until end of turn.
+Thunder-Thrash Elder	soa	117	R	2R	3	Creature - Viashino Warrior	1	1	U	Devour 3 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with three times that many +1/+1 counters on it.)
+Viashino Skeleton	soa	118	R	3R	4	Creature - Viashino Skeleton	2	1	C	{1}{B}, Discard a card: Regenerate Viashino Skeleton.
+Vicious Shadows	soa	119	R	6R	7	Enchantment			R	Whenever a creature is put into a graveyard from the battlefield, you may have Vicious Shadows deal damage to target player equal to the number of cards in that player's hand.
+Vithian Stinger	soa	120	R	2R	3	Creature - Human Shaman	0	1	C	{T}: Vithian Stinger deals 1 damage to target creature or player. Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Volcanic Submersion	soa	121	R	4R	5	Sorcery			C	Destroy target artifact or land. Cycling {2} ({2}, Discard this card: Draw a card.)
+Where Ancients Tread	soa	122	R	4R	5	Enchantment			R	Whenever a creature with power 5 or greater enters the battlefield under your control, you may have Where Ancients Tread deal 5 damage to target creature or player.
+Algae Gharial	soa	123	G	3G	4	Creature - Crocodile	1	1	U	Shroud Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Algae Gharial.
+Behemoth's Herald	soa	124	G	G	1	Creature - Elf Shaman	1	1	U	{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.
+Cavern Thoctar	soa	125	G	5G	6	Creature - Beast	5	5	C	{1}{R}: Cavern Thoctar gets +1/+0 until end of turn.
+Court Archers	soa	126	G	2G	3	Creature - Human Archer	1	3	C	Reach (This can block creatures with flying.) Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Cylian Elf	soa	127	G	1G	2	Creature - Elf Scout	2	2	C	
+Druid of the Anima	soa	128	G	1G	2	Creature - Elf Druid	1	1	C	{T}: Add {R}, {G}, or {W} to your mana pool.
+Drumhunter	soa	129	G	3G	4	Creature - Human Druid Warrior	2	2	U	At the beginning of your end step, if you control a creature with power 5 or greater, you may draw a card. {T}: Add {1} to your mana pool.
+Elvish Visionary	soa	130	G	1G	2	Creature - Elf Shaman	1	1	C	When Elvish Visionary enters the battlefield, draw a card.
+Feral Hydra	soa	131	G	XG	1	Creature - Hydra Beast	0	0	R	Feral Hydra enters the battlefield with X +1/+1 counters on it. {3}: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.
+Gift of the Gargantuan	soa	132	G	2G	3	Sorcery			C	Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+Godtoucher	soa	133	G	3G	4	Creature - Elf Cleric	2	2	C	{1}{W}, {T}: Prevent all damage that would be dealt to target creature with power 5 or greater this turn.
+Jungle Weaver	soa	134	G	5GG	7	Creature - Spider	5	6	C	Reach (This can block creatures with flying.) Cycling {2} ({2}, Discard this card: Draw a card.)
+Keeper of Progenitus	soa	135	G	3G	4	Creature - Elf Druid	1	3	R	Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Lush Growth	soa	136	G	G	1	Enchantment - Aura			C	Enchant land Enchanted land is a Mountain, Forest, and Plains.
+Mighty Emergence	soa	137	G	2G	3	Enchantment			U	Whenever a creature with power 5 or greater enters the battlefield under your control, you may put two +1/+1 counters on it.
+Manaplasm	soa	138	G	2G	3	Creature - Ooze	1	1	R	Whenever you cast a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.
+Mosstodon	soa	139	G	4G	5	Creature - Plant Elephant	5	3	C	{1}: Target creature with power 5 or greater gains trample until end of turn.
+Mycoloth	soa	140	G	3GG	5	Creature - Fungus	4	4	R	Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.) At the beginning of your upkeep, put a 1/1 green Saproling creature token onto the battlefield for each +1/+1 counter on Mycoloth.
+Naturalize	soa	141	G	1G	2	Instant			C	Destroy target artifact or enchantment.
+Naya Battlemage	soa	142	G	2G	3	Creature - Human Shaman	2	2	U	{R}, {T}: Target creature gets +2/+0 until end of turn. {W}, {T}: Tap target creature.
+Ooze Garden	soa	143	G	1G	2	Enchantment			R	{1}{G}, Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token onto the battlefield, where X is the sacrificed creature's power. Activate this ability only any time you could cast a sorcery.
+Resounding Roar	soa	144	G	1G	2	Instant			C	Target creature gets +3/+3 until end of turn. Cycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.) When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.
+Rhox Charger	soa	145	G	3G	4	Creature - Rhino Soldier	3	3	U	Trample Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Sacellum Godspeaker	soa	146	G	2G	3	Creature - Elf Druid	2	2	R	{T}: Reveal any number of creature cards with power 5 or greater from your hand. Add {G} to your mana pool for each card revealed this way.
+Savage Hunger	soa	147	G	2G	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+0 and has trample. Cycling {2} ({2}, Discard this card: Draw a card.)
+Skullmulcher	soa	148	G	4G	5	Creature - Elemental	3	3	R	Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.) When Skullmulcher enters the battlefield, draw a card for each creature it devoured.
+Soul's Might	soa	149	G	4G	5	Sorcery			C	Put X +1/+1 counters on target creature, where X is that creature's power.
+Spearbreaker Behemoth	soa	150	G	5GG	7	Creature - Beast	5	5	R	Spearbreaker Behemoth is indestructible. {1}: Target creature with power 5 or greater is indestructible this turn.
+Topan Ascetic	soa	151	G	2G	3	Creature - Human Monk	2	2	U	Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.
+Wild Nacatl	soa	152	G	G	1	Creature - Cat Warrior	1	1	C	Wild Nacatl gets +1/+1 as long as you control a Mountain. Wild Nacatl gets +1/+1 as long as you control a Plains.
+Agony Warp	soa	153	UB	UB	2	Instant			C	Target creature gets -3/-0 until end of turn. Target creature gets -0/-3 until end of turn.
+Ajani Vengeant	soa	154	RW	2RW	4	Planeswalker - Ajani	3		M	+1: Target permanent doesn't untap during its controller's next untap step. -2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life. -7: Destroy all lands target player controls.
+Bant Charm	soa	155	GWU	GWU	3	Instant			U	Choose one - Destroy target artifact; or put target creature on the bottom of its owner's library; or counter target instant spell.
+Blightning	soa	156	BR	1BR	3	Sorcery			C	Blightning deals 3 damage to target player. That player discards two cards.
+Blood Cultist	soa	157	BR	1BR	3	Creature - Human Wizard	1	1	U	{T}: Blood Cultist deals 1 damage to target creature. Whenever a creature dealt damage by Blood Cultist this turn is put into a graveyard, put a +1/+1 counter on Blood Cultist.
+Branching Bolt	soa	158	RG	1RG	3	Instant			C	Choose one or both - Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.
+Brilliant Ultimatum	soa	159	WUB	WWUUUBB	7	Sorcery			R	Exile the top five cards of your library. An opponent separates those cards into two piles. You may play any number of cards from one of those piles without paying their mana costs.
+Broodmate Dragon	soa	160	BRG	3BRG	6	Creature - Dragon	4	4	R	Flying When Broodmate Dragon enters the battlefield, put a 4/4 red Dragon creature token with flying onto the battlefield.
+Bull Cerodon	soa	161	RW	4RW	6	Creature - Beast	5	5	U	Vigilance, haste
+Carrion Thrash	soa	162	BRG	2BRG	5	Creature - Viashino Warrior	4	4	C	When Carrion Thrash is put into a graveyard from the battlefield, you may pay {2}. If you do, return another target creature card from your graveyard to your hand.
+Clarion Ultimatum	soa	163	GWU	GGWWWUU	7	Sorcery			R	Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards onto the battlefield tapped, then shuffle your library.
+Cruel Ultimatum	soa	164	UBR	UUBBBRR	7	Sorcery			R	Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+Deft Duelist	soa	165	WU	WU	2	Creature - Human Rogue	2	1	C	First strike Shroud (This creature can't be the target of spells or abilities.)
+Empyrial Archangel	soa	166	GWU	4GWWU	8	Creature - Angel	5	8	M	Flying, shroud All damage that would be dealt to you is dealt to Empyrial Archangel instead.
+Esper Charm	soa	167	WUB	WUB	3	Instant			U	Choose one - Destroy target enchantment; or draw two cards; or target player discards two cards.
+Fire-Field Ogre	soa	168	UBR	1UBR	4	Creature - Ogre Mutant	4	2	U	First strike Unearth {U}{B}{R} ({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Goblin Deathraiders	soa	169	BR	BR	2	Creature - Goblin Warrior	3	1	C	Trample
+Godsire	soa	170	RGW	4RGGW	8	Creature - Beast	8	8	M	Vigilance {T}: Put an 8/8 Beast creature token that's red, green, and white onto the battlefield.
+Grixis Charm	soa	171	UBR	UBR	3	Instant			U	Choose one - Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.
+Hellkite Overlord	soa	172	BRG	4BRRG	8	Creature - Dragon	8	8	M	Flying, trample, haste {R}: Hellkite Overlord gets +1/+0 until end of turn. {B}{G}: Regenerate Hellkite Overlord.
+Hindering Light	soa	173	WU	WU	2	Instant			C	Counter target spell that targets you or a permanent you control. Draw a card.
+Jhessian Infiltrator	soa	174	GU	GU	2	Creature - Human Rogue	2	2	U	Jhessian Infiltrator is unblockable.
+Jund Charm	soa	175	BRG	BRG	3	Instant			U	Choose one - Exile all cards from target player's graveyard; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.
+Kederekt Creeper	soa	176	UBR	UBR	3	Creature - Horror	2	3	C	Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.) Kederekt Creeper can't be blocked except by two or more creatures.
+Kiss of the Amesha	soa	177	WU	4WU	6	Sorcery			U	Target player gains 7 life and draws two cards.
+Kresh the Bloodbraided	soa	178	BRG	2BRG	5	Legendary Creature - Human Warrior	3	3	M	Whenever another creature is put into a graveyard from the battlefield, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+Mayael the Anima	soa	179	RGW	RGW	3	Legendary Creature - Elf Shaman	2	3	M	{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Naya Charm	soa	180	RGW	RGW	3	Instant			U	Choose one - Naya Charm deals 3 damage to target creature; or return target card in a graveyard to its owner's hand; or tap all creatures target player controls.
+Necrogenesis	soa	181	BG	BG	2	Enchantment			U	{2}: Exile target creature card from a graveyard. Put a 1/1 green Saproling creature token onto the battlefield.
+Prince of Thralls	soa	182	UBR	4UBBR	8	Creature - Demon	7	7	M	Whenever a permanent an opponent controls is put into a graveyard, put that card onto the battlefield under your control unless that opponent pays 3 life.
+Punish Ignorance	soa	183	WUB	WUUB	4	Instant			R	Counter target spell. Its controller loses 3 life and you gain 3 life.
+Qasali Ambusher	soa	184	GW	1GW	3	Creature - Cat Warrior	2	3	U	Reach If a creature is attacking you and you control a Forest and a Plains, you may cast Qasali Ambusher without paying its mana cost and as though it had flash.
+Rafiq of the Many	soa	185	GWU	1GWU	4	Legendary Creature - Human Knight	3	3	M	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Rakeclaw Gargantuan	soa	186	RGW	2RGW	5	Creature - Beast	5	3	C	{1}: Target creature with power 5 or greater gains first strike until end of turn.
+Realm Razer	soa	187	RGW	3RGW	6	Creature - Beast	4	2	R	When Realm Razer enters the battlefield, exile all lands. When Realm Razer leaves the battlefield, return the exiled cards to the battlefield tapped under their owners' control.
+Rhox War Monk	soa	188	GWU	GWU	3	Creature - Rhino Monk	3	4	U	Lifelink
+Rip-Clan Crasher	soa	189	RG	RG	2	Creature - Human Warrior	2	2	C	Haste
+Sangrite Surge	soa	190	RG	4RG	6	Sorcery			U	Target creature gets +3/+3 and gains double strike until end of turn.
+Sarkhan Vol	soa	191	RG	2RG	4	Planeswalker - Sarkhan	4		M	+1: Creatures you control get +1/+1 and gain haste until end of turn. -2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. -6: Put five 4/4 red Dragon creature tokens with flying onto the battlefiel
+Sedraxis Specter	soa	192	UBR	UBR	3	Creature - Specter	3	2	R	Flying Whenever Sedraxis Specter deals combat damage to a player, that player discards a card. Unearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Sedris, the Traitor King	soa	193	UBR	3UBR	6	Legendary Creature - Zombie Warrior	5	5	M	Each creature card in your graveyard has unearth {2}{B}. ({2}{B}: Return the card to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Sharuum the Hegemon	soa	194	WUBA	3WUB	6	Legendary Artifact Creature - Sphinx	5	5	M	Flying When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
+Sigil Blessing	soa	195	GW	GW	2	Instant			C	Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.
+Sphinx Sovereign	soa	196	WUBA	4WUUB	8	Artifact Creature - Sphinx	6	6	M	Flying At the beginning of your end step, you gain 3 life if Sphinx Sovereign is untapped. Otherwise, each opponent loses 3 life.
+Sprouting Thrinax	soa	197	BRG	BRG	3	Creature - Lizard	3	3	U	When Sprouting Thrinax is put into a graveyard from the battlefield, put three 1/1 green Saproling creature tokens onto the battlefield.
+Steward of Valeron	soa	198	GW	GW	2	Creature - Human Druid Knight	2	2	C	Vigilance {T}: Add {G} to your mana pool.
+Stoic Angel	soa	199	GWU	1GWU	4	Creature - Angel	3	4	R	Flying, vigilance Players can't untap more than one creature during their untap steps.
+Swerve	soa	200	UR	UR	2	Instant			U	Change the target of target spell with a single target.
+Thoughtcutter Agent	soa	201	UBA	UB	2	Artifact Creature - Human Rogue	1	1	U	{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.
+Tidehollow Sculler	soa	202	WBA	WB	2	Artifact Creature - Zombie	2	2	U	When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card. When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+Tidehollow Strix	soa	203	UBA	UB	2	Artifact Creature - Bird	2	1	C	Flying Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Titanic Ultimatum	soa	204	RGW	RRGGGWW	7	Sorcery			R	Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.
+Tower Gargoyle	soa	205	WUBA	1WUB	4	Artifact Creature - Gargoyle	4	4	U	Flying
+Violent Ultimatum	soa	206	BRG	BBRRRGG	7	Sorcery			R	Destroy three target permanents.
+Waveskimmer Aven	soa	207	GWU	2GWU	5	Creature - Bird Soldier	2	4	C	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Windwright Mage	soa	208	WUBA	WUB	3	Artifact Creature - Human Wizard	2	2	C	Lifelink (Damage dealt by this creature also causes you to gain that much life.) Windwright Mage has flying as long as an artifact card is in your graveyard.
+Woolly Thoctar	soa	209	RGW	RGW	3	Creature - Beast	5	4	U	
+Lich's Mirror	soa	210	A	5	5	Artifact			M	If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.
+Minion Reflector	soa	211	A	5	5	Artifact			R	Whenever a nontoken creature enters the battlefield under your control, you may pay {2}. If you do, put a token that's a copy of that creature onto the battlefield. That token has haste and "At the beginning of the end step, sacrifice this permanent."
+Obelisk of Bant	soa	212	A	3	3	Artifact			C	{T}: Add {G}, {W}, or {U} to your mana pool.
+Obelisk of Esper	soa	213	A	3	3	Artifact			C	{T}: Add {W}, {U}, or {B} to your mana pool.
+Obelisk of Grixis	soa	214	A	3	3	Artifact			C	{T}: Add {U}, {B}, or {R} to your mana pool.
+Obelisk of Jund	soa	215	A	3	3	Artifact			C	{T}: Add {B}, {R}, or {G} to your mana pool.
+Obelisk of Naya	soa	216	A	3	3	Artifact			C	{T}: Add {R}, {G}, or {W} to your mana pool.
+Quietus Spike	soa	217	A	3	3	Artifact - Equipment			R	Equipped creature has deathtouch. Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up. Equip {3}
+Relic of Progenitus	soa	218	A	1	1	Artifact			C	{T}: Target player exiles a card from his or her graveyard. {1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+Sigil of Distinction	soa	219	A	X	0	Artifact - Equipment			R	Sigil of Distinction enters the battlefield with X charge counters on it. Equipped creature gets +1/+1 for each charge counter on Sigil of Distinction. Equip-Remove a charge counter from Sigil of Distinction.
+Arcane Sanctum	soa	220	L		0	Land			U	Arcane Sanctum enters the battlefield tapped. {T}: Add {W}, {U}, or {B} to your mana pool.
+Bant Panorama	soa	221	L		0	Land			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped. Then shuffle your library.
+Crumbling Necropolis	soa	222	L		0	Land			U	Crumbling Necropolis enters the battlefield tapped. {T}: Add {U}, {B}, or {R} to your mana pool.
+Esper Panorama	soa	223	L		0	Land			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped. Then shuffle your library.
+Grixis Panorama	soa	224	L		0	Land			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+Jund Panorama	soa	225	L		0	Land			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield tapped. Then shuffle your library.
+Jungle Shrine	soa	226	L		0	Land			U	Jungle Shrine enters the battlefield tapped. {T}: Add {R}, {G}, or {W} to your mana pool.
+Naya Panorama	soa	227	L		0	Land			C	{T}: Add {1} to your mana pool. {1}, {T}, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library.
+Savage Lands	soa	228	L		0	Land			U	Savage Lands enters the battlefield tapped. {T}: Add {B}, {R}, or {G} to your mana pool.
+Seaside Citadel	soa	229	L		0	Land			U	Seaside Citadel enters the battlefield tapped. {T}: Add {G}, {W}, or {U} to your mana pool.
+Plains	soa	230	L		0	Basic Land - Plains			L	W
+Island	soa	234	L		0	Basic Land - Island			L	U
+Swamp	soa	238	L		0	Basic Land - Swamp			L	B
+Mountain	soa	242	L		0	Basic Land - Mountain			L	R
+Forest	soa	246	L		0	Basic Land - Forest			L	G
+Aerie Mystics	cfx	1	W	4W	5	Creature - Bird Wizard	3	3	U	Flying {1}{G}{U}: Creatures you control gain shroud until end of turn.
+Asha's Favor	cfx	2	W	2W	3	Enchantment - Aura			C	Enchant creature Enchanted creature has flying, first strike, and vigilance.
+Aven Squire	cfx	3	W	1W	2	Creature - Bird Soldier	1	1	C	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Aven Trailblazer	cfx	4	W	2W	3	Creature - Bird Soldier	2	*	C	Flying Domain - Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+Celestial Purge	cfx	5	W	1W	2	Instant			U	Exile target black or red permanent.
+Court Homunculus	cfx	6	WA	W	1	Artifact Creature - Homunculus	1	1	C	Court Homunculus gets +1/+1 as long as you control another artifact.
+Darklit Gargoyle	cfx	7	WA	1W	2	Artifact Creature - Gargoyle	1	2	C	Flying {B}: Darklit Gargoyle gets +2/-1 until end of turn.
+Gleam of Resistance	cfx	8	W	4W	5	Instant			C	Creatures you control get +1/+2 until end of turn. Untap those creatures. Basic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Lapse of Certainty	cfx	9	W	2W	3	Instant			C	Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+Mark of Asylum	cfx	10	W	1W	2	Enchantment			R	Prevent all noncombat damage that would be dealt to creatures you control.
+Martial Coup	cfx	11	W	XWW	2	Sorcery			R	Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.
+Mirror-Sigil Sergeant	cfx	12	W	5W	6	Creature - Rhino Soldier	4	4	M	Trample At the beginning of your upkeep, if you control a blue permanent, you may put a token that's a copy of Mirror-Sigil Sergeant onto the battlefield.
+Nacatl Hunt-Pride	cfx	13	W	5W	6	Creature - Cat Warrior	5	4	U	Vigilance {R}, {T}: Target creature can't block this turn. {G}, {T}: Target creature blocks this turn if able.
+Paragon of the Amesha	cfx	14	W	2W	3	Creature - Human Knight	2	2	U	First strike {W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+Path to Exile	cfx	15	W	W	1	Instant			U	Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+Rhox Meditant	cfx	16	W	3W	4	Creature - Rhino Monk	2	4	C	When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.
+Scepter of Dominance	cfx	17	WA	1WW	3	Artifact			R	{W}, {T}: Tap target permanent.
+Sigil of the Empty Throne	cfx	18	W	3WW	5	Enchantment			R	Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+Valiant Guard	cfx	19	W	W	1	Creature - Human Soldier	0	3	C	
+Wall of Reverence	cfx	20	W	3W	4	Creature - Spirit Wall	1	6	R	Defender, flying At the beginning of your end step, you may gain life equal to the power of target creature you control.
+Brackwater Elemental	cfx	21	U	2U	3	Creature - Elemental	4	4	C	When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step. Unearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Constricting Tendrils	cfx	22	U	U	1	Instant			C	Target creature gets -3/-0 until end of turn. Cycling {2} ({2}, Discard this card: Draw a card.)
+Controlled Instincts	cfx	23	U	U	1	Enchantment - Aura			U	Enchant red or green creature Enchanted creature doesn't untap during its controller's untap step.
+Cumber Stone	cfx	24	UA	3U	4	Artifact			U	Creatures your opponents control get -1/-0.
+Esperzoa	cfx	25	UA	2U	3	Artifact Creature - Jellyfish	4	3	U	Flying At the beginning of your upkeep, return an artifact you control to its owner's hand.
+Ethersworn Adjudicator	cfx	26	UA	4U	5	Artifact Creature - Vedalken Knight	4	4	M	Flying {1}{W}{B}, {T}: Destroy target creature or enchantment. {2}{U}: Untap Ethersworn Adjudicator.
+Faerie Mechanist	cfx	27	UA	3U	4	Artifact Creature - Faerie Artificer	2	2	C	Flying When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Frontline Sage	cfx	28	U	2U	3	Creature - Human Wizard	0	1	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {U}, {T}: Draw a card, then discard a card.
+Grixis Illusionist	cfx	29	U	U	1	Creature - Human Wizard	1	1	C	{T}: Target land you control becomes the basic land type of your choice until end of turn.
+Inkwell Leviathan	cfx	30	UA	7UU	9	Artifact Creature - Leviathan	7	11	R	Islandwalk, trample, shroud
+Master Transmuter	cfx	31	UA	3U	4	Artifact Creature - Human Artificer	1	2	R	{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+Parasitic Strix	cfx	32	UA	2U	3	Artifact Creature - Bird	2	2	C	Flying When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.
+Scepter of Insight	cfx	33	UA	1UU	3	Artifact			R	{3}{U}, {T}: Draw a card.
+Scornful Aether-Lich	cfx	34	UA	3U	4	Artifact Creature - Zombie Wizard	2	4	U	{W}{B}: Scornful Aether-Lich gains fear and vigilance until end of turn. (Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)
+Telemin Performance	cfx	35	U	3UU	5	Sorcery			R	Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card onto the battlefield under your control.
+Traumatic Visions	cfx	36	U	3UU	5	Instant			C	Counter target spell. Basic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Unsummon	cfx	37	U	U	1	Instant			C	Return target creature to its owner's hand.
+View from Above	cfx	38	U	1U	2	Instant			U	Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.
+Worldly Counsel	cfx	39	U	1U	2	Instant			C	Domain - Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+Absorb Vis	cfx	40	B	6B	7	Sorcery			C	Target player loses 4 life and you gain 4 life. Basic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Corrupted Roots	cfx	41	B	B	1	Enchantment - Aura			U	Enchant Forest or Plains Whenever enchanted land becomes tapped, its controller loses 2 life.
+Drag Down	cfx	42	B	2B	3	Instant			C	Domain - Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+Dreadwing	cfx	43	B	B	1	Creature - Zombie	1	1	U	{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.
+Extractor Demon	cfx	44	B	4BB	6	Creature - Demon	5	5	R	Flying Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard. Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Fleshformer	cfx	45	B	2B	3	Creature - Human Wizard	2	2	U	{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.)
+Grixis Slavedriver	cfx	46	B	5B	6	Creature - Zombie Giant	4	4	U	When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield. Unearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Infectious Horror	cfx	47	B	3B	4	Creature - Zombie Horror	2	2	C	Whenever Infectious Horror attacks, each opponent loses 2 life.
+Kederekt Parasite	cfx	48	B	B	1	Creature - Horror	1	1	R	Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+Nyxathid	cfx	49	B	1BB	3	Creature - Elemental	7	7	R	As Nyxathid enters the battlefield, choose an opponent. Nyxathid gets -1/-1 for each card in the chosen player's hand.
+Pestilent Kathari	cfx	50	B	2B	3	Creature - Bird Warrior	1	1	C	Flying Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.) {2}{R}: Pestilent Kathari gains first strike until end of turn.
+Rotting Rats	cfx	51	B	1B	2	Creature - Zombie Rat	1	1	C	When Rotting Rats enters the battlefield, each player discards a card. Unearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Salvage Slasher	cfx	52	BA	1B	2	Artifact Creature - Human Rogue	1	1	C	Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+Scepter of Fugue	cfx	53	BA	BB	2	Artifact			R	{1}{B}, {T}: Target player discards a card. Activate this ability only during your turn.
+Sedraxis Alchemist	cfx	54	B	2B	3	Creature - Zombie Wizard	2	2	C	When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.
+Voices from the Void	cfx	55	B	4B	5	Sorcery			U	Domain - Target player discards a card for each basic land type among lands you control.
+Wretched Banquet	cfx	56	B	B	1	Sorcery			C	Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.
+Yoke of the Damned	cfx	57	B	1B	2	Enchantment - Aura			C	Enchant creature When a creature is put into a graveyard from the battlefield, destroy enchanted creature.
+Banefire	cfx	58	R	XR	1	Sorcery			R	Banefire deals X damage to target creature or player. If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+Bloodhall Ooze	cfx	59	R	R	1	Creature - Ooze	1	1	R	At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze. At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.
+Canyon Minotaur	cfx	60	R	3R	4	Creature - Minotaur Warrior	3	3	C	
+Dark Temper	cfx	61	R	2R	3	Instant			C	Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.
+Dragonsoul Knight	cfx	62	R	2R	3	Creature - Human Knight	2	2	U	First strike {W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.
+Fiery Fall	cfx	63	R	5R	6	Instant			C	Fiery Fall deals 5 damage to target creature. Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Goblin Razerunners	cfx	64	R	2RR	4	Creature - Goblin Warrior	3	4	R	{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners. At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.
+Hellspark Elemental	cfx	65	R	1R	2	Creature - Elemental	3	1	U	Trample, haste At the beginning of the end step, sacrifice Hellspark Elemental. Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Ignite Disorder	cfx	66	R	1R	2	Instant			U	Ignite Disorder deals 3 damage divided as you choose among any number of target white and/or blue creatures.
+Kranioceros	cfx	67	R	4R	5	Creature - Beast	5	2	C	{1}{W}: Kranioceros gets +0/+3 until end of turn.
+Maniacal Rage	cfx	68	R	1R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+2 and can't block.
+Molten Frame	cfx	69	R	1R	2	Instant			C	Destroy target artifact creature. Cycling {2} ({2}, Discard this card: Draw a card.)
+Quenchable Fire	cfx	70	R	3R	4	Sorcery			C	Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.
+Rakka Mar	cfx	71	R	2RR	4	Legendary Creature - Human Shaman	2	2	R	Haste {R}, {T}: Put a 3/1 red Elemental creature token with haste onto the battlefield.
+Toxic Iguanar	cfx	72	R	R	1	Creature - Lizard	1	1	C	Toxic Iguanar has deathtouch as long as you control a green permanent. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)
+Viashino Slaughtermaster	cfx	73	R	1R	2	Creature - Viashino Warrior	1	1	U	Double strike {B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+Volcanic Fallout	cfx	74	R	1RR	3	Instant			U	Volcanic Fallout can't be countered. Volcanic Fallout deals 2 damage to each creature and each player.
+Voracious Dragon	cfx	75	R	3RR	5	Creature - Dragon	4	4	R	Flying Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.) When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+Wandering Goblins	cfx	76	R	2R	3	Creature - Goblin Warrior	0	3	C	Domain - {3}: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.
+Worldheart Phoenix	cfx	77	R	3R	4	Creature - Phoenix	2	2	R	Flying You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.
+Beacon Behemoth	cfx	78	G	3GG	5	Creature - Beast	5	3	C	{1}: Target creature with power 5 or greater gains vigilance until end of turn.
+Cliffrunner Behemoth	cfx	79	G	3G	4	Creature - Rhino Beast	5	3	R	Cliffrunner Behemoth has haste as long as you control a red permanent. Cliffrunner Behemoth has lifelink as long as you control a white permanent.
+Cylian Sunsinger	cfx	80	G	1G	2	Creature - Elf Shaman	2	2	R	{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.
+Ember Weaver	cfx	81	G	2G	3	Creature - Spider	2	3	C	Reach (This can block creatures with flying.) As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.
+Filigree Fracture	cfx	82	G	2G	3	Instant			U	Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.
+Gluttonous Slime	cfx	83	G	2G	3	Creature - Ooze	2	2	U	Flash Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+Matca Rioters	cfx	84	G	2G	3	Creature - Human Warrior	*	*	C	Domain - Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.
+Might of Alara	cfx	85	G	G	1	Instant			C	Domain - Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+Nacatl Savage	cfx	86	G	1G	2	Creature - Cat Warrior	2	1	C	Protection from artifacts
+Noble Hierarch	cfx	87	G	G	1	Creature - Human Druid	0	1	R	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {T}: Add {G}, {W}, or {U} to your mana pool.
+Paleoloth	cfx	88	G	4GG	6	Creature - Beast	5	5	R	Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.
+Sacellum Archers	cfx	89	G	2G	3	Creature - Elf Archer	2	3	U	{R}{W}, {T}: Sacellum Archers deals 2 damage to target attacking or blocking creature.
+Scattershot Archer	cfx	90	G	G	1	Creature - Elf Archer	1	2	C	{T}: Scattershot Archer deals 1 damage to each creature with flying.
+Shard Convergence	cfx	91	G	3G	4	Sorcery			U	Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.
+Soul's Majesty	cfx	92	G	4G	5	Sorcery			R	Draw cards equal to the power of target creature you control.
+Spore Burst	cfx	93	G	3G	4	Sorcery			U	Domain - Put a 1/1 green Saproling creature token onto the battlefield for each basic land type among lands you control.
+Sylvan Bounty	cfx	94	G	5G	6	Instant			C	Target player gains 8 life. Basic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)
+Thornling	cfx	95	G	3GG	5	Creature - Elemental Shapeshifter	4	4	M	{G}: Thornling gains haste until end of turn. {G}: Thornling gains trample until end of turn. {G}: Thornling is indestructible this turn. {1}: Thornling gets +1/-1 until end of turn. {1}: Thornling gets -1/+1 until end of turn.
+Tukatongue Thallid	cfx	96	G	G	1	Creature - Fungus	1	1	C	When Tukatongue Thallid is put into a graveyard from the battlefield, put a 1/1 green Saproling creature token onto the battlefield.
+Wild Leotau	cfx	97	G	2GG	4	Creature - Cat	5	4	C	At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.
+Apocalypse Hydra	cfx	98	RG	XRG	2	Creature - Hydra	0	0	M	Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it. {1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.
+Blood Tyrant	cfx	99	UBR	4UBR	7	Creature - Vampire	5	5	R	Flying, trample At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way. Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.
+Charnelhoard Wurm	cfx	100	BRG	4BRG	7	Creature - Wurm	6	6	R	Trample Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.
+Child of Alara	cfx	101	WUBRG	WUBRG	5	Legendary Creature - Avatar	6	6	M	Trample When Child of Alara is put into a graveyard from the battlefield, destroy all nonland permanents. They can't be regenerated.
+Conflux	cfx	102	WUBRG	3WUBRG	8	Sorcery			M	Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.
+Countersquall	cfx	103	UB	UB	2	Instant			U	Counter target noncreature spell. Its controller loses 2 life.
+Elder Mastery	cfx	104	UBR	3UBR	6	Enchantment - Aura			U	Enchant creature Enchanted creature gets +3/+3 and has flying. Whenever enchanted creature deals damage to a player, that player discards two cards.
+Esper Cormorants	cfx	105	WUA	2WU	4	Artifact Creature - Bird	3	3	C	Flying
+Exploding Borders	cfx	106	RG	2RG	4	Sorcery			C	Domain - Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.
+Fusion Elemental	cfx	107	WUBRG	WUBRG	5	Creature - Elemental	8	8	U	
+Giltspire Avenger	cfx	108	GWU	GWU	3	Creature - Human Soldier	2	2	R	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {T}: Destroy target creature that dealt damage to you this turn.
+Goblin Outlander	cfx	109	BR	BR	2	Creature - Goblin Scout	2	2	C	Protection from white
+Gwafa Hazid, Profiteer	cfx	110	WU	1WU	3	Legendary Creature - Human Rogue	2	2	R	{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card. Creatures with bribery counters on them can't attack or block.
+Hellkite Hatchling	cfx	111	RG	2RG	4	Creature - Dragon	2	2	U	Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.) Hellkite Hatchling has flying and trample if it devoured a creature.
+Jhessian Balmgiver	cfx	112	WU	1WU	3	Creature - Human Cleric	1	1	U	{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. {T}: Target creature is unblockable this turn.
+Knight of the Reliquary	cfx	113	GW	1GW	3	Creature - Human Knight	2	2	R	Knight of the Reliquary gets +1/+1 for each land card in your graveyard. {T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+Knotvine Mystic	cfx	114	RGW	RGW	3	Creature - Elf Druid	2	2	U	{1}, {T}: Add {R}{G}{W} to your mana pool.
+Maelstrom Archangel	cfx	115	WUBRG	WUBRG	5	Creature - Angel	5	5	M	Flying Whenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.
+Magister Sphinx	cfx	116	WUBA	4WUB	7	Artifact Creature - Sphinx	5	5	R	Flying When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+Malfegor	cfx	117	BR	2BBRR	6	Legendary Creature - Demon Dragon	6	6	M	Flying When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+Meglonoth	cfx	118	RGW	3RGW	6	Creature - Beast	6	6	R	Vigilance, trample Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.
+Nacatl Outlander	cfx	119	RG	RG	2	Creature - Cat Scout	2	2	C	Protection from blue
+Nicol Bolas, Planeswalker	cfx	120	UBR	4UBBR	8	Planeswalker - Bolas	5		M	+3: Destroy target noncreature permanent. -2: Gain control of target creature. -9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+Progenitus	cfx	121	WUBRG	WWUUBBRRGG	10	Legendary Creature - Hydra Avatar	10	10	M	Protection from everything If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+Rhox Bodyguard	cfx	122	GW	3GW	5	Creature - Rhino Monk Soldier	2	3	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) When Rhox Bodyguard enters the battlefield, you gain 3 life.
+Scarland Thrinax	cfx	123	BRG	BRG	3	Creature - Lizard	2	2	U	Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.
+Shambling Remains	cfx	124	BR	1BR	3	Creature - Zombie Horror	4	3	U	Shambling Remains can't block. Unearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Skyward Eye Prophets	cfx	125	GWU	3GWU	6	Creature - Human Wizard	3	3	U	Vigilance {T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+Sludge Strider	cfx	126	WUBA	1WUB	4	Artifact Creature - Insect	3	3	U	Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.
+Sphinx Summoner	cfx	127	UBA	3UB	5	Artifact Creature - Sphinx	3	3	R	Flying When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+Suicidal Charge	cfx	128	BR	3BR	5	Enchantment			C	Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.
+Vagrant Plowbeasts	cfx	129	GW	5GW	7	Creature - Beast	6	6	U	{1}: Regenerate target creature with power 5 or greater.
+Valeron Outlander	cfx	130	GW	GW	2	Creature - Human Scout	2	2	C	Protection from black
+Vectis Agents	cfx	131	UBA	3UB	5	Artifact Creature - Human Rogue	4	3	C	{U}{B}: Vectis Agents gets -2/-0 until end of turn and is unblockable this turn.
+Vedalken Outlander	cfx	132	WUA	WU	2	Artifact Creature - Vedalken Scout	2	2	C	Protection from red
+Zombie Outlander	cfx	133	UB	UB	2	Creature - Zombie Scout	2	2	C	Protection from green
+Armillary Sphere	cfx	134	A	2	2	Artifact			C	{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+Bone Saw	cfx	135	A	0	0	Artifact - Equipment			C	Equipped creature gets +1/+0. Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Font of Mythos	cfx	136	A	4	4	Artifact			R	At the beginning of each player's draw step, that player draws two additional cards.
+Kaleidostone	cfx	137	A	2	2	Artifact			C	When Kaleidostone enters the battlefield, draw a card. {5}, {T}, Sacrifice Kaleidostone: Add {W}{U}{B}{R}{G} to your mana pool.
+Mana Cylix	cfx	138	A	1	1	Artifact			C	{1}, {T}: Add one mana of any color to your mana pool.
+Manaforce Mace	cfx	139	A	4	4	Artifact - Equipment			U	Domain - Equipped creature gets +1/+1 for each basic land type among lands you control. Equip {3}
+Obelisk of Alara	cfx	140	A	6	6	Artifact			R	{1}{W}, {T}: You gain 5 life. {1}{U}, {T}: Draw a card, then discard a card. {1}{B}, {T}: Target creature gets -2/-2 until end of turn. {1}{R}, {T}: Obelisk of Alara deals 3 damage to target player. {1}{G}, {T}: Target creature gets +4/+4 until end of turn.
+Ancient Ziggurat	cfx	141	L		0	Land			U	{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.
+Exotic Orchard	cfx	142	L		0	Land			R	{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+Reliquary Tower	cfx	143	L		0	Land			U	You have no maximum hand size. {T}: Add {1} to your mana pool.
+Rupture Spire	cfx	144	L		0	Land			C	Rupture Spire enters the battlefield tapped. When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}. {T}: Add one mana of any color to your mana pool.
+Unstable Frontier	cfx	145	L		0	Land			U	{T}: Add {1} to your mana pool. {T}: Target land you control becomes the basic land type of your choice until end of turn.
+Ardent Plea	arb	1	WU	1WU	3	Enchantment			U	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Aven Mimeomancer	arb	2	WU	1WU	3	Creature - Bird Wizard	3	1	R	Flying At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.
+Ethercaste Knight	arb	3	WUA	WU	2	Artifact Creature - Human Knight	1	3	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Ethersworn Shieldmage	arb	4	WUA	1WU	3	Artifact Creature - Vedalken Wizard	2	2	C	Flash When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+Fieldmist Borderpost	arb	5	WUA	1WU	3	Artifact			C	You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost. Fieldmist Borderpost enters the battlefield tapped. {T}: Add {W} or {U} to your mana pool.
+Filigree Angel	arb	6	WUA	5WWU	8	Artifact Creature - Angel	4	4	R	Flying When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+Glassdust Hulk	arb	7	WUA	3WU	5	Artifact Creature - Golem	3	4	C	Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and is unblockable this turn. Cycling {(w/u)} ({(w/u)}, Discard this card: Draw a card.)
+Meddling Mage	arb	8	WU	WU	2	Creature - Human Wizard	2	2	R	As Meddling Mage enters the battlefield, name a nonland card. The named card can't be cast.
+Offering to Asha	arb	9	WU	2WU	4	Instant			C	Counter target spell unless its controller pays {4}. You gain 4 life.
+Sanctum Plowbeast	arb	10	WUA	4WU	6	Artifact Creature - Beast	3	6	C	Defender Plainscycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)
+Shield of the Righteous	arb	11	WUA	WU	2	Artifact - Equipment			U	Equipped creature gets +0/+2 and has vigilance. Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step. Equip {2}
+Sovereigns of Lost Alara	arb	12	WU	4WU	6	Creature - Spirit	4	5	R	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+Stormcaller's Boon	arb	13	WU	2WU	4	Enchantment			C	Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn. Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Talon Trooper	arb	14	WU	1WU	3	Creature - Bird Scout	2	3	C	Flying
+Unbender Tine	arb	15	WUA	2WU	4	Artifact			U	{T}: Untap another target permanent.
+Wall of Denial	arb	16	WU	1WU	3	Creature - Wall	0	8	U	Defender, flying, shroud
+Architects of Will	arb	17	UBA	2UB	4	Artifact Creature - Human Wizard	3	3	C	When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order. Cycling {(u/b)} ({(u/b)}, Discard this card: Draw a card.)
+Brainbite	arb	18	UB	2UB	4	Sorcery			C	Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Draw a card.
+Deny Reality	arb	19	UB	3UB	5	Sorcery			C	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.) Return target permanent to its owner's hand.
+Etherium Abomination	arb	20	UBA	3UB	5	Artifact Creature - Horror	4	3	C	Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Illusory Demon	arb	21	UB	1UB	3	Creature - Demon Illusion	4	3	U	Flying When you cast a spell, sacrifice Illusory Demon.
+Jhessian Zombies	arb	22	UB	4UB	6	Creature - Zombie	2	4	C	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Islandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)
+Kathari Remnant	arb	23	UB	2UB	4	Creature - Bird Skeleton	0	1	U	Flying {B}: Regenerate Kathari Remnant. Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Lich Lord of Unx	arb	24	UB	1UB	3	Creature - Zombie Wizard	2	2	R	{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield. {U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.
+Mask of Riddles	arb	25	UBA	UB	2	Artifact - Equipment			U	Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.) Whenever equipped creature deals combat damage to a player, you may draw a card. Equip {2}
+Mind Funeral	arb	26	UB	1UB	3	Sorcery			U	Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+Mistvein Borderpost	arb	27	UBA	1UB	3	Artifact			C	You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost. Mistvein Borderpost enters the battlefield tapped. {T}: Add {U} or {B} to your mana pool.
+Nemesis of Reason	arb	28	UB	3UB	5	Creature - Leviathan Horror	3	7	R	Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.
+Soul Manipulation	arb	29	UB	1UB	3	Instant			C	Choose one or both - Counter target creature spell; and/or return target creature card from your graveyard to your hand.
+Soulquake	arb	30	UB	3UUBB	7	Sorcery			R	Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+Time Sieve	arb	31	UBA	UB	2	Artifact			R	{T}, Sacrifice five artifacts: Take an extra turn after this one.
+Vedalken Ghoul	arb	32	UB	UB	2	Creature - Vedalken Zombie	1	1	C	Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+Anathemancer	arb	33	BR	1BR	3	Creature - Zombie Wizard	2	2	U	When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls. Unearth {5}{B}{R} ({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Bituminous Blast	arb	34	BR	3BR	5	Instant			U	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.) Bituminous Blast deals 4 damage to target creature.
+Breath of Malfegor	arb	35	BR	3BR	5	Instant			C	Breath of Malfegor deals 5 damage to each opponent.
+Deathbringer Thoctar	arb	36	BR	4BR	6	Creature - Zombie Beast	3	3	R	Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Deathbringer Thoctar. Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.
+Defiler of Souls	arb	37	BR	3BBR	6	Creature - Demon	5	5	M	Flying At the beginning of each player's upkeep, that player sacrifices a monocolored creature.
+Demonic Dread	arb	38	BR	1BR	3	Sorcery			C	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.) Target creature can't block this turn.
+Demonspine Whip	arb	39	BRA	BR	2	Artifact - Equipment			U	{X}: Equipped creature gets +X/+0 until end of turn. Equip {1}
+Igneous Pouncer	arb	40	BR	4BR	6	Creature - Elemental	5	1	C	Haste Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)
+Kathari Bomber	arb	41	BR	1BR	3	Creature - Bird Shaman	2	2	C	Flying When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber. Unearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+Lightning Reaver	arb	42	BR	3BR	5	Creature - Zombie Beast	3	3	R	Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.) Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it. At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.
+Monstrous Carabid	arb	43	BR	3BR	5	Creature - Insect	4	4	C	Monstrous Carabid attacks each turn if able. Cycling {(b/r)} ({(b/r)}, Discard this card: Draw a card.)
+Sanity Gnawers	arb	44	BR	1BR	3	Creature - Rat	1	1	U	When Sanity Gnawers enters the battlefield, target player discards a card at random.
+Singe-Mind Ogre	arb	45	BR	2BR	4	Creature - Ogre Mutant	3	2	C	When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+Terminate	arb	46	BR	BR	2	Instant			C	Destroy target creature. It can't be regenerated.
+Thought Hemorrhage	arb	47	BR	2BR	4	Sorcery			R	Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+Veinfire Borderpost	arb	48	BRA	1BR	3	Artifact			C	You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost. Veinfire Borderpost enters the battlefield tapped. {T}: Add {B} or {R} to your mana pool.
+Blitz Hellion	arb	49	RG	3RG	5	Creature - Hellion	7	7	R	Trample, haste At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.
+Bloodbraid Elf	arb	50	RG	2RG	4	Creature - Elf Berserker	3	2	U	Haste Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Colossal Might	arb	51	RG	RG	2	Instant			C	Target creature gets +4/+2 and gains trample until end of turn.
+Deadshot Minotaur	arb	52	RG	3RG	5	Creature - Minotaur	3	4	C	When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying. Cycling {(r/g)} ({(r/g)}, Discard this card: Draw a card.)
+Dragon Broodmother	arb	53	RG	2RRRG	6	Creature - Dragon	4	4	M	Flying At the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)
+Firewild Borderpost	arb	54	RGA	1RG	3	Artifact			C	You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost. Firewild Borderpost enters the battlefield tapped. {T}: Add {R} or {G} to your mana pool.
+Godtracker of Jund	arb	55	RG	1RG	3	Creature - Elf Shaman	2	2	C	Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+Gorger Wurm	arb	56	RG	3RG	5	Creature - Wurm	5	5	C	Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+Mage Slayer	arb	57	RGA	1RG	3	Artifact - Equipment			U	Whenever equipped creature attacks, it deals damage equal to its power to defending player. Equip {3}
+Predatory Advantage	arb	58	RG	3RG	5	Enchantment			R	At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.
+Rhox Brute	arb	59	RG	2RG	4	Creature - Rhino Warrior	4	4	C	
+Spellbreaker Behemoth	arb	60	RG	1RGG	4	Creature - Beast	5	5	R	Spellbreaker Behemoth can't be countered. Creature spells you control with power 5 or greater can't be countered.
+Valley Rannet	arb	61	RG	4RG	6	Creature - Beast	6	3	C	Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)
+Vengeful Rebirth	arb	62	RG	4RG	6	Sorcery			U	Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player. Exile Vengeful Rebirth.
+Violent Outburst	arb	63	RG	1RG	3	Instant			C	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.) Creatures you control get +1/+0 until end of turn.
+Vithian Renegades	arb	64	RG	1RG	3	Creature - Human Shaman	3	2	U	When Vithian Renegades enters the battlefield, destroy target artifact.
+Behemoth Sledge	arb	65	GWA	1GW	3	Artifact - Equipment			U	Equipped creature gets +2/+2 and has lifelink and trample. Equip {3}
+Captured Sunlight	arb	66	GW	2GW	4	Sorcery			C	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.) You gain 4 life.
+Dauntless Escort	arb	67	GW	1GW	3	Creature - Rhino Soldier	3	3	R	Sacrifice Dauntless Escort: Creatures you control are indestructible this turn.
+Enlisted Wurm	arb	68	GW	4GW	6	Creature - Wurm	5	5	U	Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Grizzled Leotau	arb	69	GW	GW	2	Creature - Cat	1	5	C	
+Knight of New Alara	arb	70	GW	2GW	4	Creature - Human Knight	2	2	R	Each other multicolored creature you control gets +1/+1 for each of its colors.
+Knotvine Paladin	arb	71	GW	GW	2	Creature - Human Knight	2	2	R	Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+Leonin Armorguard	arb	72	GW	2GW	4	Creature - Cat Soldier	3	3	C	When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.
+Mycoid Shepherd	arb	73	GW	1GGW	4	Creature - Fungus	5	4	R	Whenever Mycoid Shepherd or another creature you control with power 5 or greater is put into a graveyard from the battlefield, you may gain 5 life.
+Pale Recluse	arb	74	GW	4GW	6	Creature - Spider	4	5	C	Reach (This can block creatures with flying.) Forestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+Qasali Pridemage	arb	75	GW	GW	2	Creature - Cat Wizard	2	2	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) {1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+Reborn Hope	arb	76	GW	GW	2	Sorcery			U	Return target multicolored card from your graveyard to your hand.
+Sigil Captain	arb	77	GW	1GWW	4	Creature - Rhino Soldier	3	3	U	Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.
+Sigil of the Nayan Gods	arb	78	GW	1GW	3	Enchantment - Aura			C	Enchant creature Enchanted creature gets +1/+1 for each creature you control. Cycling {(g/w)} ({(g/w)}, Discard this card: Draw a card.)
+Sigiled Behemoth	arb	79	GW	4GW	6	Creature - Beast	5	4	C	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Wildfield Borderpost	arb	80	GWA	1GW	3	Artifact			C	You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost. Wildfield Borderpost enters the battlefield tapped. {T}: Add {G} or {W} to your mana pool.
+Identity Crisis	arb	81	WB	2WWBB	6	Sorcery			R	Exile all cards from target player's hand and graveyard.
+Necromancer's Covenant	arb	82	WB	3WBB	6	Enchantment			R	When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way. Zombies you control have lifelink.
+Tainted Sigil	arb	83	WBA	1WB	3	Artifact			U	{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)
+Vectis Dominator	arb	84	WBA	1WB	3	Artifact Creature - Human Wizard	0	2	C	{T}: Tap target creature unless its controller pays 2 life.
+Zealous Persecution	arb	85	WB	WB	2	Instant			U	Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+Cloven Casting	arb	86	UR	5UR	7	Enchantment			R	Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.
+Double Negative	arb	87	UR	UUR	3	Instant			U	Counter up to two target spells.
+Magefire Wings	arb	88	UR	UR	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +2/+0 and has flying.
+Skyclaw Thrash	arb	89	URA	3UR	5	Artifact Creature - Viashino Warrior	4	4	U	Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.
+Spellbound Dragon	arb	90	UR	3UR	5	Creature - Dragon	3	5	R	Flying Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+Lord of Extinction	arb	91	BG	3BG	5	Creature - Elemental	*	*	M	Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.
+Maelstrom Pulse	arb	92	BG	1BG	3	Sorcery			R	Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Marrow Chomper	arb	93	BG	3BG	5	Creature - Zombie Lizard	3	3	U	Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.) When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.
+Morbid Bloom	arb	94	BG	4BG	6	Sorcery			U	Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
+Putrid Leech	arb	95	BG	BG	2	Creature - Zombie Leech	2	2	C	Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+Cerodon Yearling	arb	96	RW	RW	2	Creature - Beast	2	2	C	Vigilance, haste
+Fight to the Death	arb	97	RW	RW	2	Instant			R	Destroy all blocking creatures and all blocked creatures.
+Glory of Warfare	arb	98	RW	2RW	4	Enchantment			R	As long as it's your turn, creatures you control get +2/+0. As long as it's not your turn, creatures you control get +0/+2.
+Intimidation Bolt	arb	99	RW	1RW	3	Instant			U	Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+Stun Sniper	arb	100	RW	RW	2	Creature - Human Archer	1	1	U	{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+Lorescale Coatl	arb	101	GU	1GU	3	Creature - Snake	2	2	U	Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+Nulltread Gargantuan	arb	102	GU	1GU	3	Creature - Beast	5	6	U	When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
+Sages of the Anima	arb	103	GU	3GU	5	Creature - Elf Wizard	3	4	R	If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+Vedalken Heretic	arb	104	GU	GU	2	Creature - Vedalken Rogue	1	1	R	Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.
+Winged Coatl	arb	105	GU	1GU	3	Creature - Snake	1	1	C	Flash Flying Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Enigma Sphinx	arb	106	WUBA	4WUB	7	Artifact Creature - Sphinx	5	4	R	Flying When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top. Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Esper Sojourners	arb	107	WUBA	WUB	3	Artifact Creature - Vedalken Wizard	2	3	C	When you cycle Esper Sojourners or it's put into a graveyard from the battlefield, you may tap or untap target permanent. Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+Etherwrought Page	arb	108	WUBA	1WUB	4	Artifact			U	At the beginning of your upkeep, choose one - You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.
+Sen Triplets	arb	109	WUBA	2WUB	5	Legendary Artifact Creature - Human Wizard	3	3	M	At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.
+Sphinx of the Steel Wind	arb	110	WUBA	5WUB	8	Artifact Creature - Sphinx	6	6	M	Flying, first strike, vigilance, lifelink, protection from red and from green
+Drastic Revelation	arb	111	UBR	2UBR	5	Sorcery			U	Discard your hand. Draw seven cards, then discard three cards at random.
+Grixis Sojourners	arb	112	UBR	1UBR	4	Creature - Zombie Ogre	4	3	C	When you cycle Grixis Sojourners or it's put into a graveyard from the battlefield, you may exile target card from a graveyard. Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+Thraximundar	arb	113	UBR	4UBR	7	Legendary Creature - Zombie Assassin	6	6	M	Haste Whenever Thraximundar attacks, defending player sacrifices a creature. Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.
+Unscythe, Killer of Kings	arb	114	UBRA	UBBR	4	Legendary Artifact - Equipment			R	Equipped creature gets +3/+3 and has first strike. Whenever a creature dealt damage by equipped creature this turn is put into a graveyard, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield. Equip {2}
+Dragon Appeasement	arb	115	BRG	3BRG	6	Enchantment			U	Skip your draw step. Whenever you sacrifice a creature, you may draw a card.
+Jund Sojourners	arb	116	BRG	BRG	3	Creature - Viashino Shaman	3	2	C	When you cycle Jund Sojourners or it's put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player. Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+Karrthus, Tyrant of Jund	arb	117	BRG	4BRG	7	Legendary Creature - Dragon	7	7	M	Flying, haste When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons. Other Dragon creatures you control have haste.
+Lavalanche	arb	118	BRG	XBRG	3	Sorcery			R	Lavalanche deals X damage to target player and each creature he or she controls.
+Madrush Cyclops	arb	119	BRG	1BRG	4	Creature - Cyclops Warrior	3	4	R	Creatures you control have haste.
+Gloryscale Viashino	arb	120	RGW	1RGW	4	Creature - Viashino Soldier	3	3	U	Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.
+Mayael's Aria	arb	121	RGW	RGW	3	Enchantment			R	At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.
+Naya Sojourners	arb	122	RGW	2RGW	5	Creature - Elf Shaman	5	3	C	When you cycle Naya Sojourners or it's put into a graveyard from the battlefield, you may put a +1/+1 counter on target creature. Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+Retaliator Griffin	arb	123	RGW	1RGW	4	Creature - Griffin	2	2	R	Flying Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.
+Uril, the Miststalker	arb	124	RGW	2RGW	5	Legendary Creature - Beast	5	5	M	Uril, the Miststalker can't be the target of spells or abilities your opponents control. Uril gets +2/+2 for each Aura attached to it.
+Bant Sojourners	arb	125	GWU	1GWU	4	Creature - Human Soldier	2	4	C	When you cycle Bant Sojourners or it's put into a graveyard from the battlefield, you may put a 1/1 white Soldier creature token onto the battlefield. Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+Finest Hour	arb	126	GWU	2GWU	5	Enchantment			R	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.
+Flurry of Wings	arb	127	GWU	GWU	3	Instant			U	Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.
+Jenara, Asura of War	arb	128	GWU	GWU	3	Legendary Creature - Angel	3	3	M	Flying {1}{W}: Put a +1/+1 counter on Jenara, Asura of War.
+Wargate	arb	129	GWU	XGWU	3	Sorcery			R	Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+Maelstrom Nexus	arb	130	WUBRG	WUBRG	5	Enchantment			M	The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Arsenal Thresher	arb	131	WBUA	2(W/B)U	4	Artifact Creature - Construct	2	2	C	As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.
+Esper Stormblade	arb	132	WBUA	(W/B)U	2	Artifact Creature - Vedalken Wizard	2	1	C	As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+Thopter Foundry	arb	133	WBUA	(W/B)U	2	Artifact			U	{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.
+Grixis Grimblade	arb	134	URB	(U/R)B	2	Creature - Zombie Warrior	2	1	C	As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)
+Sewn-Eye Drake	arb	135	URB	2(U/R)B	4	Creature - Zombie Drake	3	1	C	Flying, haste
+Slave of Bolas	arb	136	URB	3(U/R)B	5	Sorcery			U	Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+Giant Ambush Beetle	arb	137	BGR	3(B/G)R	5	Creature - Insect	4	3	U	Haste When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.
+Jund Hackblade	arb	138	BGR	(B/G)R	2	Creature - Goblin Berserker	2	1	C	As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+Sangrite Backlash	arb	139	BGR	(B/G)R	2	Enchantment - Aura			C	Enchant creature Enchanted creature gets +3/-3.
+Marisi's Twinclaws	arb	140	RWG	2(R/W)G	4	Creature - Cat Warrior	2	4	U	Double strike
+Naya Hushblade	arb	141	RWG	(R/W)G	2	Creature - Elf Rogue	2	1	C	As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)
+Trace of Abundance	arb	142	RWG	(R/W)G	2	Enchantment - Aura			C	Enchant land Enchanted land has shroud. (It can't be the target of spells or abilities.) Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).
+Bant Sureblade	arb	143	GUW	(G/U)W	2	Creature - Human Soldier	2	1	C	As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.
+Crystallization	arb	144	GUW	(G/U)W	2	Enchantment - Aura			C	Enchant creature Enchanted creature can't attack or block. When enchanted creature becomes the target of a spell or ability, exile that creature.
+Messenger Falcons	arb	145	GUW	2(G/U)W	4	Creature - Bird	2	2	U	Flying When Messenger Falcons enters the battlefield, draw a card.

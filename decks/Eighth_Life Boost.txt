@@ -1,0 +1,17 @@
+17	plains
+2	suntail hawk
+2	tundra wolves
+2	angelic page
+2	crossbow infantry
+3	venerable monk
+1	diving griffin
+1	seasoned marshal
+2	angel of mercy
+1	staunch defenders
+1	healing salve
+1	spirit link
+1	blessed reversal
+1	pacifism
+1	glorious anthem
+1	chastise
+1	ivory cup

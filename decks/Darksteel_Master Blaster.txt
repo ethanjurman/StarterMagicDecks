@@ -1,0 +1,25 @@
+18	mountain
+3	darksteel citadel
+3	great furnace
+1	krark-clan grunt
+3	krark-clan stoker
+2	vulshok war boar
+1	rustmouth ogre
+2	steel wall
+2	iron myr
+1	goblin replica
+2	duskworker
+2	hematite golem
+1	gemini engine
+3	oxidda golem
+2	electrostatic bolt
+2	barbed lightning
+1	molten rain
+1	pulse of the forge
+1	grab the reins
+1	detonate
+1	fireball
+2	pyrite spellbomb
+2	darksteel brute
+1	granite shard
+2	talon of pain

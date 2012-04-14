@@ -1,0 +1,17 @@
+17	plains
+1	ghost warden
+2	youthful knight
+2	benalish knight
+1	venerable monk
+2	wild griffin
+1	cho-manno, revolutionary
+2	skyhunter patrol
+2	angel of mercy
+2	loxodon mystic
+1	ancestor's chosen
+1	condemn
+2	pacifism
+1	pariah
+1	serra's embrace
+1	angel's feather
+1	icy manipulator

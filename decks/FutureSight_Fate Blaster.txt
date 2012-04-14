@@ -1,0 +1,23 @@
+14	island
+11	mountain
+2	sage of epityr
+2	vedalken aethermage
+1	dandan
+3	blind phantasm
+2	aven augur
+3	cryptic annelid
+1	magus of the future
+2	emberwilde augur
+2	stingscourger
+1	uthden troll
+2	barbed shocker
+1	boldwyr intimidator
+2	mystic speculation
+2	venser's diffusion
+1	foresee
+1	frozen aether
+1	shapeshifter's marrow
+2	spin into myth
+1	fatal attraction
+2	riddle of lightning
+1	shivan meteor

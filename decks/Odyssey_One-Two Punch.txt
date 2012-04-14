@@ -1,0 +1,24 @@
+15	forest
+10	mountain
+2	druid lyrist
+1	gorilla titan
+1	krosan archer
+2	leaf dancer
+1	nantuko mentor
+1	rabid elephant
+2	beast attack
+3	chatter of the squirrel
+2	deep reconnaissance
+1	earth rift
+3	elephant ambush
+2	engulfing flames
+1	firebolt
+1	howling gale
+1	moment's peace
+2	reckless charge
+1	refresh
+2	roar of the wurm
+2	scorching missile
+1	seize the day
+2	sylvan might
+1	volcanic spray
